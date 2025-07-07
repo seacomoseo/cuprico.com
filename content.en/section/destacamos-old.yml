@@ -1,0 +1,12 @@
+name: Destacamos
+id: destacamos
+box:
+  cols: 3
+  line: true
+params:
+- page: features.title
+  box: title
+- page: features.subtitle
+  box: subtitle
+- page: features.boxes_old
+  box: boxes

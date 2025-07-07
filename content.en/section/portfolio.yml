@@ -1,0 +1,54 @@
+name: Portfolio
+id: portfolio
+ph: true
+size: fluid
+color: white
+
+params:
+- page: portfolio.title
+  box: title
+- page: portfolio.subtitle
+  box: subtitle
+
+gallery:
+  type: boxes
+box:
+  cols: 7
+  cols_vs: 2
+  ratio: 1
+  gap_vs: 0
+  hide_radius: true
+images:
+- portfolio/trabajando/2023-10-11-00-27-32.jpg
+- portfolio/trabajando/2024-06-12-09-19-51.jpg
+- portfolio/trabajando/2023-10-10-22-17-56.jpg
+
+- portfolio/cuadros/2018-06-14-17-55-12.jpg
+- portfolio/cuadros/2019-07-03-21-14-21.jpg
+- portfolio/cuadros/2021-03-02-11-46-55.jpg
+# - portfolio/cuadros/2022-03-15-09-53-41.jpg
+# - portfolio/cuadros/2024-08-23-20-17-35.jpg
+# - portfolio/cuadros/2024-01-17-09-45-32.jpg
+# - portfolio/cuadros/2024-03-12-12-52-20.jpg
+
+- portfolio/otros/2024-07-31-20-06-48.jpg
+- portfolio/otros/2023-11-18-12-56-03.jpg
+- portfolio/alarmas-incendios/2023-11-14-12-45-39.jpg
+- portfolio/alarmas-incendios/2023-12-05-10-28-18.jpg
+- portfolio/cargadores-vehiculos/2024-08-23-20-17-36.jpg
+- portfolio/cargadores-vehiculos/2024-04-12-10-24-29.jpg
+- portfolio/placas-solares/2024-12-15-13-55-49.jpg
+- portfolio/placas-solares/2024-12-18-13-15-48.jpg
+
+- portfolio/acabados/2018-06-29-23-21-31.jpg
+- portfolio/acabados/2021-04-24-21-27-23.jpg
+- portfolio/acabados/2021-05-27-20-34-10.jpg
+- portfolio/acabados/2022-10-13-08-48-24.jpg
+- portfolio/acabados/2022-10-13-08-48-54.jpg
+# - portfolio/acabados/2024-07-08-12-04-22.jpg
+# - portfolio/acabados/2024-07-08-12-04-30.jpg
+- portfolio/acabados/2023-10-09-20-38-13.jpg
+# - portfolio/acabados/2023-10-09-20-38-19.jpg
+# - portfolio/acabados/2023-10-09-20-38-15.jpg
+# - portfolio/acabados/2023-10-09-20-38-16.jpg
+- portfolio/acabados/2023-10-09-20-38-14.jpg

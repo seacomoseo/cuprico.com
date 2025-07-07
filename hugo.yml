@@ -1,11 +1,11 @@
-baseURL: https://sansoul.pages.dev
+baseURL: https://cuprico.com
 buildFuture: true
 theme: [sansoul]
 params:
-  domain: sansoul.es
-  name: sansoul
-  netlify_id: c68e19de-b566-40c3-96ac-0e5884121e3f
-  netlify_hook: NjMwMmJjOWExZjZiNGI2Zjk2YmJjMDVh
-  cloudflare_id: YmY5ZTdjNDM1NzMxYjI2YTg3ZGYyZWI1YjEwYWNmNmM=
-  drive_link: https://drive.google.com/file/d/1trq28fMfEVwoZOk4ue0tJzAJDZtj64BK
-  drive_mails: sansoul@seacomoseo.com
+  domain: cuprico.com
+  name: cuprico
+  netlify_id: ''
+  netlify_hook: ''
+  cloudflare_id: YmY5ZTdjNDM1NzMxYjI2YTg3ZGYyZWI1YjEwYWNmNmMK
+  drive_link: https://drive.google.com/file/d/1FiINzKua2k2x-Ozus7_GE79iTQwDopEL
+  drive_mails: cupricotornero@gmail.com; cupricolorente@gmail.com

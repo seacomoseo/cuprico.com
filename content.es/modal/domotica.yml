@@ -1,0 +1,9 @@
+name: Domotica
+id: domotica
+title: Domótica
+image: servicios/domotica.jpg
+icon: house-signal
+md: |
+  Controle iluminación, clima y seguridad desde su móvil.
+
+  Integración KNX, Wi-Fi y Zigbee sin obras.

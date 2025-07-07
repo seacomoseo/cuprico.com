@@ -1,0 +1,11 @@
+name: Alarmas Incendios
+id: fire-alarms
+hanchor: Fire Alarms in {{% param location %}}
+title: Fire Alarms
+subtitle: Certified early detection
+image: servicios/alarmas-incendios.jpg
+icon: light-emergency-on
+md: |
+  Interconnected systems and annual maintenance.
+
+  Protect your home or business from today.

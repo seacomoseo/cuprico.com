@@ -1,0 +1,13 @@
+name: Cargadores EV
+id: cargadores-ev
+hanchor: Cargadores EV en {{ param location }}
+title: Cargadores EV
+subtitle: Vehículos Eléctricos
+image: servicios/cargadores-ev.jpg
+icon: car-bolt
+md: |
+  Montaje y legalización de Wall Connector en < 24 h.
+
+  Tramitamos MOVES III y balanceo de carga.
+
+  [[:plus: Más información]](/cargadores-ev/ "Venta e Instalación de Cargadores para Vehículos Eléctricos")

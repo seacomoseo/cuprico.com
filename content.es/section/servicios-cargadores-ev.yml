@@ -1,0 +1,14 @@
+name: Servicios ➡️ Cargadores
+id: servicios
+size: sm
+color: white
+md_align: left
+params:
+- page: services.chargers_ev.hanchor
+  box: hanchor
+- page: services.chargers_ev.title
+  box: title
+- page: services.chargers_ev.subtitle
+  box: subtitle
+- page: services.chargers_ev.md
+  box: md

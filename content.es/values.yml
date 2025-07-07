@@ -1,4 +1,549 @@
+partners:
+  title: Colaboradores
+  subtitle: Confían en nosotros
+
+
+features:
+  title: Destacamos
+  subtitle: ¿Qué nos caracteriza?
+
+  boxes_old:
+  - icon: clock
+    title: Puntualidad real
+    subtitle: Compromiso sin igual
+    md: Confirmamos cita y nos comprometemos a cumplir con nuestra palabra; sin esperas
+
+  - icon: shield
+    title: Seguridad certificada
+    subtitle: Instalaciones 100 % reglamentarias
+    md: Técnicos habilitados y protecciones REBT para que su hogar quede protegido
+
+  - icon: star
+    title: Calidad garantizada
+    subtitle: 2-4 años de respaldo
+    md: Solo materiales de primera y mano de obra especializada; garantía escrita de dos años
+
+  boxes:
+  # - icon: stopwatch
+  #   title: '< 2 horas'
+  #   subtitle: de llegada
+  - icon: star
+    title: '\> 100'
+    subtitle: reseñas de 5 ★
+  - icon: badge-percent
+    title: '99 %'
+    subtitle: de entregas en 1ª visita
+  - icon: certificate
+    title: 2-4 años
+    subtitle: de garantía
+
+
+services:
+  title: Servicios
+  subtitle: ¿Qué hacemos?
+  boxes:
+  - title: Instalaciones Eléctricas
+    md: Residenciales y Comerciales
+    icon: plug
+    link: '#instalaciones-electricas'
+  - title: Cargadores EV
+    md: Vehículos Eléctricos
+    icon: car-bolt
+    link: '#cargadores-ev'
+  - title: Boletín Eléctrico
+    md: y Certificaciones
+    icon: file-check
+    link: '#boletin-electrico-certificaciones'
+  - title: Instalación de Placas Solares
+    md: Fotovoltaicas
+    icon: solar-panel
+    link: '#instalacion-placas-solares'
+  - title: Alarmas contra Incendios
+    icon: light-emergency-on
+    link: '#alarmas-incendios'
+  - title: Reparaciones Eléctricas
+    icon: plug-circle-check
+    link: '#reparaciones-electricas'
+  - title: Domótica
+    icon: house-signal
+    link: '#domotica'
+  - title: Telecomunica&shy;ciones
+    icon: tower-broadcast
+    link: '#telecomunicaciones'
+
+  modals:
+
+  - id: instalaciones-electricas
+    hanchor: Instalaciones Eléctricas en {{% param location %}}
+    title: Instalaciones Eléctricas
+    subtitle: Residenciales y Comerciales
+    image: servicios/instalaciones-electricas.jpg
+    icon: plug
+    md: |
+      Diseñamos y ejecutamos cuadros, circuitos y alumbrado conforme al REBT.
+
+      Coste cerrado, obra limpia y entrega de CIE al finalizar.
+
+      ¡Solicite presupuesto sin coste!
+
+  - id: cargadores-ev
+    hanchor: Cargadores EV en {{ param location }}
+    title: Cargadores EV
+    subtitle: Vehículos Eléctricos
+    image: servicios/cargadores-ev.jpg
+    icon: car-bolt
+    md: |
+      Montaje y legalización de Wall Connector en < 24 h.
+
+      Tramitamos MOVES III y balanceo de carga.
+
+      [[:plus: Más información]](/cargadores-ev/ "Venta e Instalación de Cargadores para Vehículos Eléctricos")
+
+  - id: boletin-electrico-certificaciones
+    hanchor: Boletín Eléctrico en {{% param location %}}
+    title: Boletín Eléctrico
+    subtitle: y Certificaciones
+    image: servicios/boletin-electrico-certificaciones.jpg
+    icon: file-check
+    md: |
+      Emitimos su CIE en {{% param location %}} desde **150 €**.
+
+      Entrega en 24 h - 14 d (según inspección).
+
+      [[:plus: Más información]](/boletin-electrico/ "Boletín Eléctrico y Certificados de Instalación Eléctrica (CIE)")
+
+  - id: instalacion-placas-solares
+    hanchor: Instalación de Placas Solares en {{% param location %}}
+    title: Instalación de Placas Solares
+    subtitle: Fotovoltaicas
+    image: servicios/instalacion-placas-solares.jpg
+    icon: solar-panel
+    md: |
+      Estudio gratuito, ingeniería, instalación y subvenciones.
+
+      Paneles premium y monitorización online.
+
+      [[:plus: Más información]](/instaladores-placas-solares/ "Instaladores de Placas Solares Fotovoltaicas en San Pedro del Pinatar")
+
+  - id: alarmas-incendios
+    hanchor: Alarmas contra Incendios en {{% param location %}}
+    title: Alarmas contra Incendios
+    subtitle: Detección temprana certificada
+    image: servicios/alarmas-incendios.jpg
+    icon: light-emergency-on
+    md: |
+      Sistemas interconectados y mantenimiento anual.
+
+      Proteja su vivienda o negocio desde hoy mismo.
+
+  - id: reparaciones-electricas
+    hanchor: Reparaciones Eléctricas en {{% param location %}}
+    title: Reparaciones Eléctricas
+    image: servicios/reparaciones-electricas.jpg
+    icon: plug-circle-check
+    md: |
+      - Averías 24 h
+      - Técnico puntual y repuesto a bordo
+      - Luz restablecida en una sola visita
+
+  - id: domotica
+    title: Domótica
+    image: servicios/domotica.jpg
+    icon: house-signal
+    md: |
+      Controle iluminación, clima y seguridad desde su móvil.
+
+      Integración KNX, Wi-Fi y Zigbee sin obras.
+
+  - id: telecomunicaciones
+    title: Telecomunicaciones
+    image: servicios/telecomunicaciones.jpg
+    icon: tower-broadcast
+    md: |
+      - Antenas Terrestres (TDT)
+      - Antenas Parabólicas
+      - Cableado de Red
+      - Puntos de Acceso
+      - Fibra Óptica
+      - En {{% param location %}}
+
+  solar_plates:
+    title: Servicios
+    subtitle: Paneles Solares
+    md: |
+      Pásese al **autoconsumo solar en {{% param location %}}** con nuestros instaladores de placas solares fotovoltaicas certificados.
+
+      - Estudio de producción, orientación y sombras con software PV-Sol.
+      - Gestión de subvenciones y compensación de excedentes (RD 244/2019).
+      - Paneles premium Tier-1, inversores híbridos y monitorización en la nube.
+
+      Reduzca hasta un **70 % su factura eléctrica** y gane independencia energética.
+
+      Más de 100 clientes ya disfrutan de nuestra garantía de 12 años en componentes y 4 años en mano de obra.
+
+      [[Contáctanos]](#contacto)
+
+  chargers_ev:
+    hanchor: Instalación de Cargadores para Coches Eléctricos
+    title: Servicios
+    subtitle: Venta e Instalación
+    md: |
+      Especialistas en **instalación de puntos de recarga para vehículos eléctricos** en viviendas unifamiliares, garajes comunitarios y negocios de {{% param location %}}.
+
+      - Wallbox, Circutor, V2C y Tesla Wall Connector certificados IRVE.
+      - Balanceo de carga dinámico y protecciones contra sobretensión.
+      - Tramitación integral de la subvención **MOVES III** y alta en Distribuidora.
+
+      Reciba un presupuesto cerrado en 24 h y cargue su coche con total seguridad y al mejor precio.
+
+      [[Contáctanos]](#contacto)
+
+  bulletin:
+    title: Servicios
+    subtitle: Boletines y Certificados de Instalaciones Eléctricas
+    md: |
+      ¿Necesita un **boletín eléctrico en Murcia** para alta nueva, aumento de potencia o reforma?
+
+      Somos **empresa instaladora autorizada** y emitimos el **Certificado de Instalación Eléctrica (CIE)** conforme al REBT en 24 h - 14 d, incluidos trámites ante la OCA.
+
+      **¿Cuándo lo exige la ley?**
+
+      - Obra nueva o vivienda con más de 20 años.
+      - Cambio de actividad en local comercial.
+      - Modificación > 50 % de la potencia contratada.
+
+      Precio fijo desde **150 € + IVA**, sin sorpresas. Solicite hoy su boletín y legalice su instalación con total garantía.
+
+      [[Contáctanos]](#contacto)
+
+
+process:
+  title: Proceso
+  subtitle: de trabajo
+  md: Rápido, transparente y con garantía
+  steps:
+  - title: Contacto inmediato
+    md: Diagnóstico telefónico en menos de 15 min y cita confirmada
+  - title: Presupuesto cerrado
+    md: Coste final por escrito antes de iniciar los trabajos
+  - title: Ejecución experta
+    md: Técnico certificado, obra limpia y sin interrupciones
+  - title: Entrega y garantía
+    md: Certificados oficiales y 24 meses de respaldo
+
+
+faq:
+  title: FAQ
+  subtitle: Preguntas Frecuentes
+  accordions:
+  # - title: ¿En cuánto tiempo acude Technimur a una avería urgente?
+  #   md: Habitualmente en menos de 2 horas dentro de San Pedro del Pinatar y municipios limítrofes. En zonas periurbanas, el plazo máximo es de 4 horas.
+  - title: ¿Qué certificaciones poseen sus técnicos?
+    md: Todos nuestros instaladores están habilitados en Baja Tensión (categoría especialista) y emiten el Certificado de Instalación Eléctrica (CIE) conforme al REBT vigente.
+  - title: ¿Puedo financiar la instalación de un cargador para vehículo eléctrico?
+    md: Sí. Gestionamos la subvención MOVES III y ofrecemos financiación a 12 o 24 meses sin comisión de apertura.
+  - title: ¿Realizan trabajos fuera del horario laboral?
+    md: Disponemos de servicio de guardia 24 h para emergencias. Para intervenciones programadas en comercios, podemos trabajar de 21 h a 7 h sin sobrecoste.
+  - title: ¿Cuánto dura la garantía de los trabajos?
+    md: Garantía mínima de 24 meses en mano de obra y componentes. Algunos equipos fotovoltaicos incluyen hasta 12 años de fabricante.
+  - title: ¿Qué documentación recibiré tras la obra?
+    md: Presupuesto firmado, parte de trabajo detallado, CIE o boletín si procede y factura electrónica compatible con TicketBAI.
+  - title: ¿Ofrecen mantenimiento preventivo?
+    md: Sí. Plan anual con revisión termográfica, apriete de cuadros y verificación de protecciones diferenciales. Incluye un 10 % de descuento en reparaciones.
+  - title: ¿Pueden integrar domótica con sistemas existentes?
+    md: Trabajamos con KNX, Wi-Fi y Zigbee. Evaluamos la instalación actual y proponemos la pasarela adecuada para conservar dispositivos previos.
+  - title: ¿Qué marcas utilizan para cuadros y protecciones?
+    md: Principalmente Schneider Electric, ABB y Hager, todas con certificación IEC 60898-1.
+  - title: ¿Cómo solicitar un presupuesto?
+    md: Complete el formulario o envíe un mensaje de WhatsApp. Recibirá una llamada en menos de 15 min para concretar fecha de visita técnica.
+
+  solar_plates:
+  - title: ¿Cuánta potencia fotovoltaica necesito para mi vivienda en Murcia-Alicante?
+    md: Realizamos un estudio gratuito de consumo histórico y orientación de cubierta para dimensionar el campo solar exacto, evitando sobredimensionar la instalación y optimizando la amortización.
+  - title: ¿Las placas solares generan energía en días nublados o en invierno?
+    md: Sí. Los paneles de alta eficiencia producen electricidad con radiación difusa; la generación baja en invierno pero sigue cubriendo parte de la demanda, reduciendo su factura todo el año.
+  - title: ¿En cuánto tiempo se completa la instalación y alta de autoconsumo?
+    md: Entre 3 y 7 días laborables para la obra; el alta en autoconsumo con compensación de excedentes se valida en un máximo de 30 días tras la entrega de la documentación.
+  - title: ¿Qué garantías ofrecen los paneles y el inversor?
+    md: Paneles Tier-1 con 12 años de garantía de producto y 25 años de rendimiento; inversores con 10 años ampliables. Nuestra mano de obra está cubierta durante 24 meses.
+  - title: ¿Puedo solicitar subvenciones o deducciones fiscales?
+    md: Gestionamos las ayudas Next Generation y bonificaciones del IBI/ICIO municipales; además, la inversión es deducible en el IRPF hasta un 40 % en rehabilitación energética.
+  - title: ¿Cuál es el periodo medio de amortización en Murcia-Alicante?
+    md: Con consumo residencial tipo, la inversión se recupera en 4 - 6 años gracias al ahorro en la factura y la compensación de excedentes.
+
+  chargers_ev:
+  - title: ¿Qué cargador es compatible con mi coche eléctrico?
+    md: Instalamos equipos Tipo 2 (estándar europeo) monofásicos o trifásicos hasta 22 kW, compatibles con todas las marcas - Tesla, Renault, Hyundai, BMW, etc.
+  - title: ¿Necesito aumentar la potencia contratada?
+    md: No siempre. Estudiamos su curva de carga y, si procede, instalamos balanceo dinámico para evitar sobrepasar la potencia actual y eliminar costes fijos innecesarios.
+  - title: ¿Cuánto tarda la instalación y la legalización IRVE?
+    md: La instalación física se completa en 3-5 horas; la legalización ante la distribuidora y la comunidad autónoma de Murcia se entrega en 24-72 horas.
+  - title: ¿Puedo compartir línea con otros consumos domésticos?
+    md: Sí. Añadimos protecciones exclusivas y un contador MID que prioriza los consumos críticos y adapta la corriente de carga automáticamente.
+  - title: ¿Qué ayudas existen para instalar un cargador en {{% param location %}}?
+    md: Tramitamos gratis la subvención MOVES III (hasta 80 % del coste) y bonificaciones municipales de hasta un 50 % en el IBI.
+  - title: ¿Ofrecen mantenimiento o soporte remoto?
+    md: Incluimos monitorización vía app y asistencia telefónica 24 h durante el primer año; contratos de mantenimiento opcionales a partir de 3 €/mes.
+
+  bulletin:
+  - title: ¿Cuándo es obligatorio un boletín eléctrico en Murcia?
+    md: En obra nueva, viviendas con más de 20 años, aumento de potencia > 50 %, cambio de titular o de actividad comercial y al reactivar un suministro dado de baja.
+  - title: ¿Qué documentación debo aportar?
+    md: Copia del DNI, última factura de luz (si existe), referencia catastral y, en locales, licencia de apertura o proyecto de actividad.
+  - title: ¿Qué incluye el precio fijo de 150 €?
+    md: Visita de técnico autorizado, mediciones, plano unifilar, emisión del CIE, registro telemático en Industria y tasas oficiales. IVA no incluido.
+  - title: ¿Cuánto tardan en emitir el boletín?
+    md: De 1 día (sin inspección) a 14 días si la OCA debe verificar la instalación. Urgencias disponibles bajo petición.
+  - title: ¿Qué ocurre si la instalación no cumple el REBT?
+    md: Entregamos un informe de correcciones; si realiza la reforma con nosotros, descontamos la mitad del coste de la segunda inspección.
+  - title: ¿El boletín caduca?
+    md: No tiene fecha de caducidad, pero puede requerirse uno nuevo tras reformas que alteren la potencia o tras 20 años de antigüedad de la instalación.
+
+
+reviews:
+  title: Reseñas
+  subtitle: \+ de 100 valoraciones de 5 ★
+  more: Más en Google
+  reviews:
+
+  - title: JuanaN.
+    md: |
+      Cuando uno busca un profesional, quiere que sea eficaz.
+
+      A mí me ha atendido José María , y se nota cuándo uno sabe de su trabajo, como ha sido el caso de José María.
+
+      Ha atendido y respondido cada una de las dudas que  le he planteado y ha ido más allá del encargo realizado.
+
+      Rapidez desde el contacto a través del formulario hasta la visita.
+
+      Eficacia y rapidez en la reparación.
+
+      Precio acorde al trabajo realizado, pero es de esas veces que además estás contento con todo en general.
+
+      Lo guardo como referencia, para quien me pregunte.
+    rating: 5
+    # image: https://lh3.googleusercontent.com/a/ACg8ocLJwzoCWfoz4xZgVLUp2WWwdFw29nhFJNlNFFWw1kJivAMpPw=s136
+
+  - title: Roman L.
+    md: |
+      José y Juan Manuel hicieron un trabajo estupendo.
+
+      Instalaron un Tesla Wall Connector con el kit de balanceo, que quedó top 👌 Les elegí tras compararlos con otros electricistas por inspirar confianza y alto profesionalismo desde el primer momento, y superaron todas mis expectativas hasta el final.
+
+      Tanto la instalación misma como la comunicación de principio a fin (hasta el presupuesto es muy detallado) y la eficacia, siempre disponibles y reactivos, tomando iniciativas sensatas priorizando mi interés en cada momento.
+
+      Por ejemplo aconsejando exhaustivamente sobre el kit de balanceo adecuado, y currándose la discreción de los tubos en zonas comunes.
+
+      Demostraron una atención a los detalles extraordinaria en estos días, con humildad en momento de dudas e informándose activamente.
+
+      Cumplieron sus palabras sin el más mínimo fallo, la verdad que no podría estar más satisfecho.
+
+      Da gusto tratar con personas así, les deseo el brillante futuro que merecen y se están ganando con vivacidad 💪
+    rating: 5
+    # image: https://lh3.googleusercontent.com/a/ACg8ocKVBmNppFoVl0OjPfrPa3qelxl2h2OKqvmUQYq5B7ValzZwZQ=s136
+
+  - title: Macu C.
+    md: |
+      Profesional, atento y a buen precio .
+
+      Quien da más?
+      Sabe lo que hace, resuelve rápido los contratiempos, es puntual y comprometido.
+
+      Para mi ha sido un gran descubrimiento y ya tengo electricista para todo lo que necesite, sin duda es un gran profesional! Lo te recomiendo 200%
+    rating: 5
+    # image: https://lh3.googleusercontent.com/a/ACg8ocJer1HgR6grT2ers_qor0jBD9gVHHZ5VgkAd_DFG-5K-zjWJA=s136
+
+  - title: A V.
+    md: |
+      Me han realizado la instalación de cable por toda la casa y me han instalado y configurado sistema WiFi por toda la vivienda.
+
+      Muy satisfechos con el trato y el servicio prestados.
+
+      José Maria trabaja con una gran profesionalidad.
+
+      Resuelven de forma magistral las incidencias que puedan surgir.
+
+      Relación calidad precio totalmente equilibrada.
+
+      Muy contento.
+
+      Volveré a llamarlos con toda seguridad.
+    rating: 5
+    # image: https://lh3.googleusercontent.com/a/ACg8ocKaAwD9LZBoMqhdq-VXt_xS_5EsICpGRPZUR8e9ipSYkvqyGA=s136
+
+  - title: Jaime M.
+    md: |
+      200% recomendable! Le llamé por un problema eléctrico y en el día hizo hueco para venir, ir a por las piezas y arreglar el problema, y tramitar los papeles.
+
+      Además muy amable profesional y eficaz.
+
+      Gracias
+    rating: 5
+    # image: https://lh3.googleusercontent.com/a/ACg8ocIbw8pKU7c6B5JP8oDJw89z4GrpM5O_vPgUa37R5ihdsMuxFq0=s136
+
+  - title: Gonzalo R.
+    md: |
+      Excelente servicio.
+
+      Los he llamado y en muy poco tiempo han venido.
+
+      La reparación que tuvieron que realizar fue de un excelente nivel, super rápidos y el precio fue optimo.
+
+      Altamente recomendables!!!
+    rating: 5
+    # image: https://lh3.googleusercontent.com/a-/ALV-UjUzAT1v5_CI5ujnQanzZjj9zCtp_DvoABvXCE71nHxgHSZcZRqUBQ=s136
+
+  - title: Jackie B.
+    md: |
+      Estoy muy feliz de haber llamado a esta empresa.  Salió a los 20 minutos del contacto, ya que era una emergencia.
+
+      Profesional eficiente y cortés, resolvió el problema y me devolvió el suministro eléctrico.
+
+      Recomendaría ampliamente esta empresa.
+
+      Precio muy justo
+    rating: 5
+    # image: https://lh3.googleusercontent.com/a/ACg8ocLEdobH49dTs3c-NqLGKcbwUdXLyYkfksp5PSmpuU6SqEqUaA=s136
+
+  - title: Joachim H.
+    md: |
+      Estaba y todavía estoy emocionado con la realización de technimur, mientras renovaba toda la instalación eléctrica de mi casa recién comprada en San Pedro del Pinatar.
+
+      Son personas muy cualificadas, muy orientadas al cliente, amigables y con buenos conocimientos de inglés.
+
+      Me dieron un presupuesto en tiempo y dinero antes de realizar el pedido y cumplieron con los plazos y costes al 100%.
+
+      Realmente muy impresionante.
+
+      Estaré feliz de contratarlos nuevamente.
+    rating: 5
+    # image: https://lh3.googleusercontent.com/a/ACg8ocIxcBcz3ic9fZThzcSeGKni-YF4zPb0jTXTUNoEcL0Zq--0NQ=s136
+
+  - title: Nataliya S.
+    md: |
+      Encontré esta empresa por casualidad, en particular a José María.
+
+      No he conocido a españoles así en 13 años de vivir en España.
+
+      Es una persona de nueva formación, tal servicio, atención, profesionalismo, solución inmediata al problema.
+
+      ¡¡¡Ojalá todos en España fueran tan profesionales!!! Mi sorpresa no tiene límites.
+
+      Recomendaré esta empresa a todos, en particular a José María, entre mis amigos y extraños.
+
+      Me gustaría desearle mucha suerte y prosperidad a esta empresa.
+
+      ¡¡¡Estoy seguro de que esto sucederá en un futuro próximo!!!
+    rating: 5
+    # image: https://lh3.googleusercontent.com/a-/ALV-UjVS07iKKDRXiSQs5_MqCMwNQeGyv9e4LU_LYONsqwXg1sDOsM8w9w=s136
+
+  - title: Roger H.
+    md: |
+      ¡Hola! Nuestro sistema eléctrico en nuestro departamento en Hacienda Riquelme se cortó ayer domingo.
+
+      Hubo un problema importante en el sótano, así que no pudimos hacer nada.
+
+      Llamamos a José de Electricistas Technimur y él vino aunque era domingo y solucionó el problema.
+
+      ¡Estamos muy agradecidos y hizo un muy buen trabajo! ¡Muchas gracias!
+    rating: 5
+    # image: https://lh3.googleusercontent.com/a/ACg8ocKdZVGJhtt98tLRxAIl8zMNZNH7xhSohrmR4WaRPfROLyPUfA=s136
+
+  - title: Neil S.
+    md: |
+      ¡Muy recomendable!
+
+      Servicio muy eficiente, amable y profesional para retirar y reinstalar una unidad de carga para vehículos eléctricos tras una mudanza.
+    rating: 5
+    # image: https://lh3.googleusercontent.com/a/ACg8ocIc0FqWl3LHPdRcSWAeT-dJbMEMEmCbc9JFOddIten52F2K8w=s136
+
+  - title: Jose J.
+    md: |
+      Profesionalidad única y exquisita.
+
+      Se nota que les gusta su trabajo, además te ofrecen:
+      Opciones a soluciones a los problemas que puedan surgir.
+
+      Más profesionales así hacen falta.
+
+      Gracias y sin dudarlo os volveré a avisar.
+
+      PD: Gracias Jose María y a Pedro.
+    rating: 5
+    # image: https://lh3.googleusercontent.com/a/ACg8ocLbhUB-wjm8GX3s7tWDErKjKTuzf9jVMXXkhbtv-jItEGdTtw=s136
+
+
+portfolio:
+  title: Portfolio
+  subtitle: Casos reales en su zona
+
+
+us:
+  title: Nosotros
+  subtitle: Electricistas autorizados a su servicio
+  md: |
+    - :location-dot: Trabajamos exclusivamente en San Pedro del Pinatar y alrededores para llegar rápidos y resolver a la primera.
+    - :star: Más de 100 reseñas top avalan nuestra seriedad con particulares, comunidades y empresas.
+    - :certificate: Técnicos certificados, precios cerrados y 24 meses de garantía: su tranquilidad está cubierta.
+
+
+team:
+  title: Equipo
+  subtitle: Técnicos que responden
+
+
+contact:
+  title: Contacto
+  subtitle: Respondemos rápidamente
+  days: Lunes - Viernes
+  name: Nombre
+  phone: Teléfono
+  message: Mensaje
+
+
 footer:
-  # color: dark
-  div: curve-side
-  dots: []
+  md: |
+    <br>
+
+    - :copyright:        {{< internal-link index >}}
+    - :scale-balanced:   {{< internal-link legal >}}
+    - :shield-keyhole:   {{< internal-link privacy >}}
+    - :cookie-bite:      {{< internal-link cookies >}}
+    {.list-inline}
+    <!--
+    - :seacomoseo:       {{< i18n web_design >}} [seacomoseo.com](https://seacomoseo.com/)
+    -->
+
+    <br>
+
+    Electricistas
+    {.h6}
+
+    - [San Pedro del Pinatar](/                                     "Electricistas en San Pedro del Pinatar")
+    - [Torrevieja](/electricistas/torrevieja/                       "Electricistas en Torrevieja")
+    - [Pilar de la Horadada](/electricistas/pilar-de-la-horadada/   "Electricistas en Pilar de la Horadada")
+    - [Los Alcázares](/electricistas/los-alcazares/                 "Electricistas en Los Alcázares")
+    - [San Javier](/electricistas/san-javier/                       "Electricistas en San Javier")
+    - [La Zenia](/electricistas/la-zenia/                           "Electricistas en La Zenia")
+    - [Lo Pagan](/electricistas/lo-pagan/                           "Electricistas en Lo Pagan")
+    - [Cabo Roig](/electricistas/cabo-roig/                         "Electricistas en Cabo Roig")
+    - [Campoamor](/electricistas/campoamor/                         "Electricistas en Campoamor")
+    - [Torre de la Horadada](/electricistas/torre-de-la-horadada/   "Electricistas en Torre de la Horadada")
+
+    - [Cargadores Vehículos Eléctricos](/cargadores-ev/ "Venta e Instalación de Cargadores para Vehículos Eléctricos")
+    - [Boletín Eléctrico](/boletin-electrico/                             "Boletín Eléctrico y Certificados de Instalación Eléctrica (CIE)")
+    {.list-inline}
+
+    Instaladores de Placas Solares
+    {.h6}
+
+    - [San Pedro del Pinatar](/instaladores-placas-solares/                    "Mejores Instaladores de Placas Solares Fotovoltaicas en San Pedro del Pinatar")
+    - [Pinar de Campoverde](/instaladores-placas-solares-pinar-de-campo-verde/ "Mejores Instaladores de Placas Solares Fotovoltaicas en Pinar de Campoverde")
+    - [La Zenia](/instaladores-placas-solares-la-zenia/                        "Mejores Instaladores de Placas Solares Fotovoltaicas en La Zenia")
+    {.list-inline}
+
+
+others:
+  subtitle: Potencia y precisión en cada instalación
+  request_quote: Solicite presupuesto gratis
+  see_more: Ver más

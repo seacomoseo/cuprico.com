@@ -1,11 +1,9 @@
-// Header 
-@mixin show-from($delay) {
-  animation: show-from .5s (.5 + .25s * $delay) both;
-}
-#body-home #header {
-  .image       { @include show-from(0); --show-from: scale(3); }
-  .box__title  { @include show-from(1); }
-  .subtitle    { @include show-from(2); }
-  .md p        { @include show-from(3); }
-  .md .buttons { @include show-from(4); }
+// Header
+body:not(.type-page, .type-system) #header {
+  @mixin show-from($delay) {
+    animation: show-from .5s (.5 + .125s * $delay) both;
+  }
+  .md p:nth-child(1) { @include show-from(1); }
+  .md p:nth-child(2) { @include show-from(2); }
+  .md p:nth-child(3) { @include show-from(3); }
 }

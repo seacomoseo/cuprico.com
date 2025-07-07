@@ -1,0 +1,14 @@
+name: Servicios ➡️ Placas Solares
+id: servicios
+size: sm
+color: white
+md_align: left
+params:
+- page: services.placas_solares.hanchor
+  box: hanchor
+- page: services.placas_solares.title
+  box: title
+- page: services.placas_solares.subtitle
+  box: subtitle
+- page: services.placas_solares.md
+  box: md

@@ -1,0 +1,12 @@
+name: Telecomunicaciones
+id: telecomunicaciones
+title: Telecomunicaciones
+image: servicios/telecomunicaciones.jpg
+icon: tower-broadcast
+md: |
+  - Antenas Terrestres (TDT)
+  - Antenas Parabólicas
+  - Cableado de Red
+  - Puntos de Acceso
+  - Fibra Óptica
+  - En {{% param location %}}

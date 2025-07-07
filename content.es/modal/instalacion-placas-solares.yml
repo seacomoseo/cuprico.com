@@ -1,0 +1,13 @@
+name: Instalacion Placas Solares
+id: instalacion-placas-solares
+hanchor: Instalación de Placas Solares en {{% param location %}}
+title: Instalación de Placas Solares
+subtitle: Fotovoltaicas
+image: servicios/instalacion-placas-solares.jpg
+icon: solar-panel
+md: |
+  Estudio gratuito, ingeniería, instalación y subvenciones.
+
+  Paneles premium y monitorización online.
+
+  [[:plus: Más información]](/instaladores-placas-solares/ "Instaladores de Placas Solares Fotovoltaicas en San Pedro del Pinatar")

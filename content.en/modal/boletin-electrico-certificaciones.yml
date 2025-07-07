@@ -1,0 +1,13 @@
+name: Boletin Electrico Certificaciones
+id: certificates-electrical-installation
+hanchor: Electrical Certificate in {{% param location %}}
+title: Electrical Certificate
+subtitle: and Certifications
+image: servicios/boletin-electrico-certificaciones.jpg
+icon: file-check
+md: |
+  We issue your CIE in {{% param location %}} from **150 €**.
+
+  Delivery in 24 h - 14 d (depending on inspection).
+
+  [[:plus: More info]](/en/certificates-electrical-installation/ "Electrical Installation Certificates in Murcia, Spain")

@@ -1,0 +1,12 @@
+name: Telecomunicaciones
+id: telecommunications
+title: Telecommunications
+image: servicios/telecomunicaciones.jpg
+icon: tower-broadcast
+md: |
+  - Terrestrial Antennas (DTT)
+  - Satellite Antennas
+  - Network Cabling
+  - Access Points
+  - Optical Fiber
+  - In {{% param location %}}

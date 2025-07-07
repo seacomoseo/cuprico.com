@@ -1,0 +1,12 @@
+name: FAQ
+size: md
+accordion:
+  headers: true
+  hs: 6
+params:
+- page: faq.title
+  box: title
+- page: faq.subtitle
+  box: subtitle
+- page: faq.bulletin
+  box: accordions

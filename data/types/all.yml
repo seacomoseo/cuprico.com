@@ -1,20 +1,95 @@
 title: Todas
 tpl:
   bg:
-    color: light
+    color: white
   menu:
     logo: true
-    logo_align: center
+    logo_align: left
+    sticky: auto
+    color: white
     transparent: true
     size: sm
+    hide_icons: true
     es:
-      image: base/logo.svg
-      title: SanSoul
-      subtitle: Hugo Theme
-  callnow: {}
+      image: base/logo-h.svg
+      items:
+      - link: /
+        label: Inicio
+        icon: house
+        anchor: Electricistas en San Pedro del Pinatar
+      # - link: /#colaboradores
+      #   label: Colaboradores
+      #   icon: handshake-simple
+      # - link: /#destacamos
+      #   label: Destacamos
+      #   icon: certificate
+      - link: /#servicios
+        label: Servicios
+        icon: bolt
+      - link: /#proceso
+        label: Proceso
+        icon: shoe-prints
+      - link: /#faq
+        label: FAQ
+        icon: circle-question
+      - link: /#resenas
+        label: Reseñas
+        icon: comment
+      - link: /#portfolio
+        label: Portfolio
+        icon: rectangle-history
+      - link: /#nosotros
+        label: Nosotros
+        icon: circle-info
+      # - link: /#equipo
+      #   label: Equipo
+      #   icon: user-group
+      - link: /#contacto
+        label: Contacto
+        icon: paper-plane
+        button: cta
+    en:
+      image: base/logo-h.svg
+      items:
+      - link: /en/
+        label: Home
+        icon: house
+        anchor: Electricians in San Pedro del Pinatar
+      # - link: /#colaboradores
+      #   label: Partners
+      #   icon: handshake-simple
+      # - link: /#destacamos
+      #   label: Features
+      #   icon: certificate
+      - link: /#servicios
+        label: Services
+        icon: bolt
+      - link: /#proceso
+        label: Process
+        icon: shoe-prints
+      - link: /#faq
+        label: FAQ
+        icon: circle-question
+      - link: /#resenas
+        label: Reviews
+        icon: comment
+      - link: /#portfolio
+        label: Portfolio
+        icon: rectangle-history
+      - link: /#nosotros
+        label: About Us
+        icon: circle-info
+      # - link: /#equipo
+      #   label: Team
+      #   icon: user-group
+      - link: /#contacto
+        label: Contact
+        icon: paper-plane
+        button: cta
+  callnow:
+    show: auto
   section:
   - size: sm
-  modal: {}
   sections:
   - file: base/_header
   - file: base/toc
@@ -26,17 +101,36 @@ tpl:
   - file: base/children
   - file: base/share
   - file: base/related
-  list:
-    cols: 3
+  modal:
     color: white
-    icon: hide
-    shade: true
     ratio: 16/9
     inset: true
-    align: left
+    caps: true
+    line: true
+    size: xs
+  list:
+    cols: 3
+    color: similar
+    shade: true
+    inset: true
+    ratio: 4/3
+    icon: hide
+    md: hide
     button: hide
     tags:
     - type: date
-    - type: address
   related:
     slider: true
+
+params:
+- name: location
+  label: Ubicación
+  hint: Nombre de la Ubicación
+- name: header
+  label: Cabecera
+  widget: object
+  params:
+  - var: BOX_BG_IMAGE
+  - var: BOX_HANCHOR
+  - var: BOX_SUBTITLE
+  - var: BOX_MD

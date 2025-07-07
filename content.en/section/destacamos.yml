@@ -1,0 +1,12 @@
+name: Destacamos
+id: destacamos
+box:
+  cols: 3
+  icon_size: 3
+  icon_type: side
+  hs: 0
+params:
+- page: features.title
+  box: hanchor
+- page: features.boxes
+  box: boxes

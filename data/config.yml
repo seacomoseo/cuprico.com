@@ -1,13 +1,172 @@
 langs:
 - lang: es
-  title: Tema SanSoul de Hugo EJEMPLO
-  description: SanSoul es el alma del tema Hugo de lorensansol con el que generar sitios web estáticos, puedes copiarlo y usarlo como quieras
-  google_analytics: G-NBZD18K812
+  title: Cúprico Servicios Eléctricos
+  description: Ofrecemos los mejores servicios de electricista a precios competitivos. Cúprico ofrece soluciones a los problemas relacionados con la electricidad.
+  google_analytics: G-WBMQPX553G
+  google_file_verification: google7467d923cbb3eb4c.html
 - lang: en
-  title: SanSoul Hugo Theme EXAMPLE
-  description: SanSoul is the soul of lorensansol's Hugo theme with which to generate static websites, you can copy it and use it however you want
-  disabled: true
-cms:
-  logo: base/logo.svg
+  title: Cúprico Electrical Services
+  description: We offer the best electrician services at competitive prices. Cúprico offers solutions to problems related to electricity.
+
+params:
+
+- name: partners
+  label: Colaboradores
+  widget: object
+  params:
+  - var: BOX_TITLE
+  - var: BOX_SUBTITLE
+
+- name: features
+  label: Destacamos
+  widget: object
+  params:
+  - var: BOX_TITLE
+  - var: BOX_SUBTITLE
+  - name: boxes
+    label: Destacado
+    widget: list
+    params:
+    - var: BOX_ICON_ID
+    - var: BOX_TITLE
+    - var: BOX_SUBTITLE
+    - var: BOX_MD
+
+- name: services
+  label: Servicios
+  widget: object
+  params:
+  - var: BOX_TITLE
+  - var: BOX_SUBTITLE
+  - name: boxes
+    label: Puntos
+    widget: list
+    params:
+    - var: BOX_TITLE
+    - var: BOX_SUBTITLE
+    - var: BOX_ICON_ID
+    - var: BOX_BUTTON_LINK
+  - name: modals
+    label: Popups
+    widget: list
+    params:
+    - var: BOX_ID
+    - var: BOX_HANCHOR
+    - var: BOX_TITLE
+    - var: BOX_SUBTITLE
+    - var: BOX_ICON_ID
+    - var: BOX_MD
+  - name: solar_plates
+    label: Placas Solares
+    widget: object
+    params:
+    - var: BOX_HANCHOR
+    - var: BOX_TITLE
+    - var: BOX_SUBTITLE
+    - var: BOX_MD
+  - name: chargers_ev
+    label: Cargadores EV
+    widget: object
+    params:
+    - var: BOX_HANCHOR
+    - var: BOX_TITLE
+    - var: BOX_SUBTITLE
+    - var: BOX_MD
+  - name: bulletin
+    label: Boletín
+    widget: object
+    params:
+    - var: BOX_HANCHOR
+    - var: BOX_TITLE
+    - var: BOX_SUBTITLE
+    - var: BOX_MD
+
+- name: process
+  label: Proceso
+  widget: object
+  params:
+  - var: BOX_TITLE
+  - var: BOX_SUBTITLE
+  - var: BOX_MD
+  - var: BOX_STEPS
+
+- name: faq
+  label: FAQ
+  widget: object
+  params:
+  - var: BOX_TITLE
+  - var: BOX_SUBTITLE
+  - var: BOX_ACCORDION
+  - var: BOX_ACCORDION
+    name: solar_plates
+    label: Placas Solares
+  - var: BOX_ACCORDION
+    name: chargers_ev
+    label: Cargadores EV
+  - var: BOX_ACCORDION
+    name: bulletin
+    label: Boletín
+
+- name: reviews
+  label: Reseñas
+  widget: object
+  params:
+  - var: BOX_TITLE
+  - var: BOX_SUBTITLE
+  - name: more
+    label: Botón "Más Reseñas"
+  - var: BOX_REVIEWS
+
+- name: portfolio
+  label: Portfolio
+  widget: object
+  params:
+  - var: BOX_TITLE
+  - var: BOX_SUBTITLE
+
+- name: us
+  label: Nosotros
+  widget: object
+  params:
+  - var: BOX_TITLE
+  - var: BOX_SUBTITLE
+  - var: BOX_MD
+
+- name: team
+  label: Equipo
+  widget: object
+  params:
+  - var: BOX_TITLE
+  - var: BOX_SUBTITLE
+
+- name: contact
+  label: Contacto
+  widget: object
+  params:
+  - var: BOX_TITLE
+  - var: BOX_SUBTITLE
+  - name: days
+    label: Días
+  - name: name
+    label: Nombre
+  - name: phone
+    label: Teléfono
+  - name: message
+    label: Mensaje
+
+- name: footer
+  label: Footer
+  widget: object
+  params:
+  - var: BOX_MD
+
+- name: others
+  label: Otros
+  widget: object
+  params:
+  - name: see_more
+    label: Ver más
+
 others:
   show: true
+
