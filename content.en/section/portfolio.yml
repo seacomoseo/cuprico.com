@@ -11,13 +11,16 @@ params:
   box: subtitle
 
 gallery:
-  type: boxes
-box:
-  cols: 7
-  cols_vs: 2
+  cols: 6
   ratio: 1
-  gap_vs: 0
-  hide_radius: true
+  gap: 0
+#   type: boxes
+# box:
+#   cols: 7
+#   cols_vs: 2
+#   ratio: 1
+#   gap_vs: 0
+#   hide_radius: true
 images:
 - portfolio/trabajando/2023-10-11-00-27-32.jpg
 - portfolio/trabajando/2024-06-12-09-19-51.jpg
@@ -44,11 +47,11 @@ images:
 - portfolio/acabados/2021-04-24-21-27-23.jpg
 - portfolio/acabados/2021-05-27-20-34-10.jpg
 - portfolio/acabados/2022-10-13-08-48-24.jpg
-- portfolio/acabados/2022-10-13-08-48-54.jpg
+# - portfolio/acabados/2022-10-13-08-48-54.jpg
 # - portfolio/acabados/2024-07-08-12-04-22.jpg
 # - portfolio/acabados/2024-07-08-12-04-30.jpg
-- portfolio/acabados/2023-10-09-20-38-13.jpg
+# - portfolio/acabados/2023-10-09-20-38-13.jpg
 # - portfolio/acabados/2023-10-09-20-38-19.jpg
 # - portfolio/acabados/2023-10-09-20-38-15.jpg
 # - portfolio/acabados/2023-10-09-20-38-16.jpg
-- portfolio/acabados/2023-10-09-20-38-14.jpg
+# - portfolio/acabados/2023-10-09-20-38-14.jpg
