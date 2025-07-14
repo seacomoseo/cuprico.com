@@ -3,6 +3,8 @@ id: proceso
 title: Proceso
 subtitle: de trabajo
 md: Rápido, transparente y con garantía
+md_align: center
+size: sm
 step:
   line: true
   icon_size: 2

@@ -95,7 +95,7 @@ services:
     md: |
       Assembly and legalization of Wall Connector in < 24 h.
 
-      We process MOVES III and load balancing.
+      We carry out the processing of subsidies, if any.
 
       [[:plus: More information]](/en/ev-chargers/ "Sales and Installation of Electric Vehicle Chargers")
 
@@ -106,7 +106,7 @@ services:
     image: servicios/boletin-electrico-certificaciones.jpg
     icon: file-check
     md: |
-      We issue your CIE in {{% param location %}} from **150 €**.
+      We issue your CIE in {{% param location %}}.
 
       Delivery in 24 h - 14 d (depending on inspection).
 
@@ -142,7 +142,6 @@ services:
     image: servicios/reparaciones-electricas.jpg
     icon: plug-circle-check
     md: |
-      - 24 h breakdowns
       - Technician on time and spare parts on board
       - Power restored in a single visit
 
@@ -153,7 +152,7 @@ services:
     md: |
       Control lighting, climate and security from your mobile.
 
-      KNX, Wi-Fi and Zigbee integration without construction work.
+      Wi-Fi and Zigbee integration without construction work.
 
   - id: telecommunications
     title: Telecommunications
@@ -212,7 +211,7 @@ services:
       - Change of activity in commercial premises.
       - Modification > 50% of contracted power.
 
-      Fixed price from **150 € + VAT**, no surprises. Request your certificate today and legalize your installation with full guarantee.
+      We visit your home or business and perform the regulatory tests on the installation for the subsequent issuance of the certificate approved by the industry of the autonomous community.
 
       [[Contact us]](#contacto)
 
@@ -222,14 +221,14 @@ process:
   subtitle: of work
   md: Fast, transparent and with warranty
   steps:
-  - title: Immediate contact
-    md: Telephone diagnosis in less than 15 min and confirmed appointment
-  - title: Closed quote
-    md: Final cost in writing before starting work
+  - title: Contact
+    md: Telephone or e-mail diagnosis of your needs
+  - title: Quote
+    md: According to your needs and personalized attention for each client
   - title: Expert execution
     md: Certified technician, clean work and no interruptions
-  - title: Delivery and warranty
-    md: Official certificates and 24 months support
+  - title: Delivery
+    md: Warranty from 2 to 4 years
 
 
 faq:
@@ -240,18 +239,18 @@ faq:
   #   md: Usually in less than 2 hours within San Pedro del Pinatar and neighboring municipalities. In peri-urban areas, the maximum period is 4 hours.
   - title: What certifications do your technicians have?
     md: All our installers are qualified in Low Voltage (specialist category) and issue the Electrical Installation Certificate (CIE) according to the current REBT.
-  - title: Can I finance the installation of a charger for electric vehicles?
-    md: Yes. We manage the MOVES III subsidy and offer financing at 12 or 24 months without opening commission.
+  # - title: Can I finance the installation of a charger for electric vehicles?
+  #   md: Yes. We manage the MOVES III subsidy and offer financing at 12 or 24 months without opening commission.
   - title: Do you work outside business hours?
-    md: We have a 24-hour guard service for emergencies. For scheduled interventions in shops, we can work from 9 pm to 7 am without surcharge.
+    md: The hours are from 8:00 to 18:00 from Monday to Friday, with exceptions for certain clients with businesses that need to be attended on a Saturday or Sunday due to a real emergency.
   - title: How long does the work warranty last?
-    md: Minimum warranty of 24 months on labor and components. Some photovoltaic equipment includes up to 12 years from the manufacturer.
+    md: For labor between 2 and 4 years. For materials according to manufacturers.
   - title: What documentation will I receive after the work?
     md: Signed quote, detailed work report, CIE or certificate if applicable and electronic invoice compatible with TicketBAI.
   - title: Do you offer preventive maintenance?
-    md: Yes. Annual plan with thermographic inspection, panel tightening and differential protection verification. Includes 10% discount on repairs.
-  - title: Can you integrate home automation with existing systems?
-    md: We work with KNX, Wi-Fi and Zigbee. We evaluate the current installation and propose the appropriate gateway to preserve previous devices.
+    md: Yes, we provide certificates of recognition and annual maintenance contracts to any company that needs them. Also in photovoltaic installations.
+  # - title: Can you integrate home automation with existing systems?
+  #   md: We work with Wi-Fi and Zigbee. We evaluate the current installation and propose the appropriate gateway to preserve previous devices.
   - title: What brands do you use for panels and protections?
     md: Mainly Schneider Electric, ABB and Hager, all with IEC 60898-1 certification.
   - title: How to request a quote?
@@ -280,8 +279,8 @@ faq:
     md: Physical installation is completed in 3-5 hours; legalization before the distributor and the autonomous community of Murcia is delivered in 24-72 hours.
   - title: Can I share line with other domestic consumptions?
     md: Yes. We add exclusive protections and a MID meter that prioritizes critical consumptions and automatically adapts the charging current.
-  - title: What aids exist to install a charger in {{% param location %}}?
-    md: We process the MOVES III subsidy for free (up to 80% of the cost) and municipal bonuses of up to 50% in the IBI.
+  # - title: What aids exist to install a charger in {{% param location %}}?
+  #   md: We process the MOVES III subsidy for free (up to 80% of the cost) and municipal bonuses of up to 50% in the IBI.
   - title: Do you offer maintenance or remote support?
     md: We include app monitoring and 24-hour telephone assistance during the first year; optional maintenance contracts from 3 €/month.
 
@@ -290,8 +289,8 @@ faq:
     md: In new construction, homes over 20 years old, power increase > 50%, change of holder or commercial activity and when reactivating a disconnected supply.
   - title: What documentation should I provide?
     md: Copy of ID, last electricity bill (if exists), cadastral reference and, in premises, opening license or activity project.
-  - title: What does the fixed price of 150 € include?
-    md: Authorized technician visit, measurements, single-line diagram, CIE issuance, telematic registration in Industry and official fees. VAT not included.
+  # - title: What does the fixed price of 150 € include?
+  #   md: Authorized technician visit, measurements, single-line diagram, CIE issuance, telematic registration in Industry and official fees. VAT not included.
   - title: How long do they take to issue the certificate?
     md: From 1 day (without inspection) to 14 days if the OCA must verify the installation. Urgent requests available upon request.
   - title: What happens if the installation does not comply with REBT?
@@ -484,7 +483,7 @@ us:
   md: |
     - :location-dot: We work exclusively in San Pedro del Pinatar and surroundings to arrive quickly and solve the first time.
     - :star: More than 100 top reviews endorse our seriousness with individuals, communities and companies.
-    - :certificate: Certified technicians, closed prices and 24 months warranty: your peace of mind is covered.
+    - :certificate: Certified technicians, closed prices and 2-4 years warranty: your peace of mind is covered.
 
 
 team:

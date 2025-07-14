@@ -6,7 +6,7 @@ subtitle: y Certificaciones
 image: servicios/boletin-electrico-certificaciones.jpg
 icon: file-check
 md: |
-  Emitimos su CIE en {{% param location %}} desde **150 €**.
+  Emitimos su CIE en {{% param location %}}.
 
   Entrega en 24 h - 14 d (según inspección).
 

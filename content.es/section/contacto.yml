@@ -11,23 +11,36 @@ params:
   box: subtitle
 
 contact:
+
 - type: schedule
   days: '{{ param contact.days }}'
-  hours: 8:00 - 20:30
+  hours: 8:00 - 18:00
+
 - type: br
+
 - type: phone
   label: 641 47 94 90
+- type: phone
+  label: 603 60 66 15
+
+- type: br
+
 - type: whatsapp
   label: 641 47 94 90
   icon: whatsapp-o
   button: invert
+- type: whatsapp
+  label: 603 60 66 15
+  icon: whatsapp-o
+  button: invert
+
 - type: mail
-  label: j.tornero@cuprico.com
+  label: administracion@cuprico.com
   button: similar
   full: true
 
 form:
-  email: j.tornero@cuprico.com, sansoul@seacomoseo.com
+  email: administracion@cuprico.com, sansoul@seacomoseo.com
 inputs:
 - type: text
   name: Nombre

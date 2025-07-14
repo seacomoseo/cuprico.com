@@ -95,7 +95,7 @@ services:
     md: |
       Montaje y legalización de Wall Connector en < 24 h.
 
-      Tramitamos MOVES III y balanceo de carga.
+      Realizamos tramitación de subvenciones si las hay.
 
       [[:plus: Más información]](/cargadores-ev/ "Venta e Instalación de Cargadores para Vehículos Eléctricos")
 
@@ -106,7 +106,7 @@ services:
     image: servicios/boletin-electrico-certificaciones.jpg
     icon: file-check
     md: |
-      Emitimos su CIE en {{% param location %}} desde **150 €**.
+      Emitimos su CIE en {{% param location %}}.
 
       Entrega en 24 h - 14 d (según inspección).
 
@@ -142,7 +142,6 @@ services:
     image: servicios/reparaciones-electricas.jpg
     icon: plug-circle-check
     md: |
-      - Averías 24 h
       - Técnico puntual y repuesto a bordo
       - Luz restablecida en una sola visita
 
@@ -153,7 +152,7 @@ services:
     md: |
       Controle iluminación, clima y seguridad desde su móvil.
 
-      Integración KNX, Wi-Fi y Zigbee sin obras.
+      Integración Wi-Fi y Zigbee sin obras.
 
   - id: telecomunicaciones
     title: Telecomunicaciones
@@ -212,7 +211,7 @@ services:
       - Cambio de actividad en local comercial.
       - Modificación > 50 % de la potencia contratada.
 
-      Precio fijo desde **150 € + IVA**, sin sorpresas. Solicite hoy su boletín y legalice su instalación con total garantía.
+      Visitamos tu vivienda o negocio y realizamos las pruebas reglamentarias en la instalación para la posterior emisión del certificado seyado por industria de la comunidad autónoma.
 
       [[Contáctanos]](#contacto)
 
@@ -222,14 +221,14 @@ process:
   subtitle: de trabajo
   md: Rápido, transparente y con garantía
   steps:
-  - title: Contacto inmediato
-    md: Diagnóstico telefónico en menos de 15 min y cita confirmada
-  - title: Presupuesto cerrado
-    md: Coste final por escrito antes de iniciar los trabajos
+  - title: Contacto
+    md: Diagnóstico telefónico o mediante correo electrónico de tus necesidades
+  - title: Presupuesto
+    md: Según necesidades y atencion personalizada para cada cliente
   - title: Ejecución experta
     md: Técnico certificado, obra limpia y sin interrupciones
-  - title: Entrega y garantía
-    md: Certificados oficiales y 24 meses de respaldo
+  - title: Entrega
+    md: Garantía de 2 a 4 años
 
 
 faq:
@@ -240,18 +239,18 @@ faq:
   #   md: Habitualmente en menos de 2 horas dentro de San Pedro del Pinatar y municipios limítrofes. En zonas periurbanas, el plazo máximo es de 4 horas.
   - title: ¿Qué certificaciones poseen sus técnicos?
     md: Todos nuestros instaladores están habilitados en Baja Tensión (categoría especialista) y emiten el Certificado de Instalación Eléctrica (CIE) conforme al REBT vigente.
-  - title: ¿Puedo financiar la instalación de un cargador para vehículo eléctrico?
-    md: Sí. Gestionamos la subvención MOVES III y ofrecemos financiación a 12 o 24 meses sin comisión de apertura.
+  # - title: ¿Puedo financiar la instalación de un cargador para vehículo eléctrico?
+  #   md: Sí. Gestionamos la subvención MOVES III y ofrecemos financiación a 12 o 24 meses sin comisión de apertura.
   - title: ¿Realizan trabajos fuera del horario laboral?
-    md: Disponemos de servicio de guardia 24 h para emergencias. Para intervenciones programadas en comercios, podemos trabajar de 21 h a 7 h sin sobrecoste.
+    md: El horario es de 8:00 a 18:00 de lunes a viernes, con excepciones a ciertos clientes con negocios que en un momento dado hay que atenderlos un sabado o domingo por una urgencia real.
   - title: ¿Cuánto dura la garantía de los trabajos?
-    md: Garantía mínima de 24 meses en mano de obra y componentes. Algunos equipos fotovoltaicos incluyen hasta 12 años de fabricante.
+    md: Para mano de obra entre 2 y 4 años. Para materiales según fabricantes.
   - title: ¿Qué documentación recibiré tras la obra?
     md: Presupuesto firmado, parte de trabajo detallado, CIE o boletín si procede y factura electrónica compatible con TicketBAI.
   - title: ¿Ofrecen mantenimiento preventivo?
-    md: Sí. Plan anual con revisión termográfica, apriete de cuadros y verificación de protecciones diferenciales. Incluye un 10 % de descuento en reparaciones.
-  - title: ¿Pueden integrar domótica con sistemas existentes?
-    md: Trabajamos con KNX, Wi-Fi y Zigbee. Evaluamos la instalación actual y proponemos la pasarela adecuada para conservar dispositivos previos.
+    md: Sí. Realizamos certificados de reconocimiento y contratos de mantenimiento anuales a cualquier empresa que así lo necesite. También en instalaciones fotovoltaicas.
+  # - title: ¿Pueden integrar domótica con sistemas existentes?
+  #   md: Trabajamos con Wi-Fi y Zigbee. Evaluamos la instalación actual y proponemos la pasarela adecuada para conservar dispositivos previos.
   - title: ¿Qué marcas utilizan para cuadros y protecciones?
     md: Principalmente Schneider Electric, ABB y Hager, todas con certificación IEC 60898-1.
   - title: ¿Cómo solicitar un presupuesto?
@@ -280,8 +279,8 @@ faq:
     md: La instalación física se completa en 3-5 horas; la legalización ante la distribuidora y la comunidad autónoma de Murcia se entrega en 24-72 horas.
   - title: ¿Puedo compartir línea con otros consumos domésticos?
     md: Sí. Añadimos protecciones exclusivas y un contador MID que prioriza los consumos críticos y adapta la corriente de carga automáticamente.
-  - title: ¿Qué ayudas existen para instalar un cargador en {{% param location %}}?
-    md: Tramitamos gratis la subvención MOVES III (hasta 80 % del coste) y bonificaciones municipales de hasta un 50 % en el IBI.
+  # - title: ¿Qué ayudas existen para instalar un cargador en {{% param location %}}?
+  #   md: Tramitamos gratis la subvención MOVES III (hasta 80 % del coste) y bonificaciones municipales de hasta un 50 % en el IBI.
   - title: ¿Ofrecen mantenimiento o soporte remoto?
     md: Incluimos monitorización vía app y asistencia telefónica 24 h durante el primer año; contratos de mantenimiento opcionales a partir de 3 €/mes.
 
@@ -290,8 +289,8 @@ faq:
     md: En obra nueva, viviendas con más de 20 años, aumento de potencia > 50 %, cambio de titular o de actividad comercial y al reactivar un suministro dado de baja.
   - title: ¿Qué documentación debo aportar?
     md: Copia del DNI, última factura de luz (si existe), referencia catastral y, en locales, licencia de apertura o proyecto de actividad.
-  - title: ¿Qué incluye el precio fijo de 150 €?
-    md: Visita de técnico autorizado, mediciones, plano unifilar, emisión del CIE, registro telemático en Industria y tasas oficiales. IVA no incluido.
+  # - title: ¿Qué incluye el precio fijo de 150 €?
+  #   md: Visita de técnico autorizado, mediciones, plano unifilar, emisión del CIE, registro telemático en Industria y tasas oficiales. IVA no incluido.
   - title: ¿Cuánto tardan en emitir el boletín?
     md: De 1 día (sin inspección) a 14 días si la OCA debe verificar la instalación. Urgencias disponibles bajo petición.
   - title: ¿Qué ocurre si la instalación no cumple el REBT?
@@ -484,7 +483,7 @@ us:
   md: |
     - :location-dot: Trabajamos exclusivamente en San Pedro del Pinatar y alrededores para llegar rápidos y resolver a la primera.
     - :star: Más de 100 reseñas top avalan nuestra seriedad con particulares, comunidades y empresas.
-    - :certificate: Técnicos certificados, precios cerrados y 24 meses de garantía: su tranquilidad está cubierta.
+    - :certificate: Técnicos certificados, precios cerrados y 2-4 años de garantía: su tranquilidad está cubierta.
 
 
 team:
