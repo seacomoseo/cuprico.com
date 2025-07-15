@@ -265,8 +265,8 @@ faq:
     md: Entre 3 y 7 días laborables para la obra; el alta en autoconsumo con compensación de excedentes se valida en un máximo de 30 días tras la entrega de la documentación.
   - title: ¿Qué garantías ofrecen los paneles y el inversor?
     md: Paneles Tier-1 con 12 años de garantía de producto y 25 años de rendimiento; inversores con 10 años ampliables. Nuestra mano de obra está cubierta durante 24 meses.
-  - title: ¿Puedo solicitar subvenciones o deducciones fiscales?
-    md: Gestionamos las ayudas Next Generation y bonificaciones del IBI/ICIO municipales; además, la inversión es deducible en el IRPF hasta un 40 % en rehabilitación energética.
+  # - title: ¿Puedo solicitar subvenciones o deducciones fiscales?
+  #   md: Gestionamos las ayudas Next Generation y bonificaciones del IBI/ICIO municipales; además, la inversión es deducible en el IRPF hasta un 40 % en rehabilitación energética.
   - title: ¿Cuál es el periodo medio de amortización en Murcia-Alicante?
     md: Con consumo residencial tipo, la inversión se recupera en 4 - 6 años gracias al ahorro en la factura y la compensación de excedentes.
 

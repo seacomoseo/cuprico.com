@@ -265,8 +265,8 @@ faq:
     md: Between 3 and 7 working days for the work; the self-consumption registration with surplus compensation is validated within a maximum of 30 days after delivery of documentation.
   - title: What warranties do you offer on panels and inverter?
     md: Tier-1 panels with 12 years product warranty and 25 years performance; inverters with 10 years extendable. Our labor is covered for 24 months.
-  - title: Can I apply for subsidies or tax deductions?
-    md: We manage Next Generation aids and municipal IBI/ICIO bonuses; additionally, the investment is deductible in IRPF up to 40% in energy rehabilitation.
+  # - title: Can I apply for subsidies or tax deductions?
+  #   md: We manage Next Generation aids and municipal IBI/ICIO bonuses; additionally, the investment is deductible in IRPF up to 40% in energy rehabilitation.
   - title: What is the average amortization period in Murcia-Alicante?
     md: With typical residential consumption, the investment is recovered in 4 - 6 years thanks to bill savings and surplus compensation.
 
