@@ -19,7 +19,6 @@ header:
 draft: false
 noindex: false
 translationKey: solar-panel-installers-la-zenia
-location: La Zeina
 tpl:
   sections:
   - file: _header

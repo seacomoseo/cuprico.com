@@ -19,7 +19,6 @@ header:
 draft: false
 noindex: false
 translationKey: solar-panel-installers-pinar-de-campo-verde
-location: Pinar de Campoverde
 tpl:
   sections:
   - file: _header

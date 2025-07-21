@@ -19,7 +19,6 @@ header:
 draft: false
 noindex: false
 translationKey: solar-panel-installers
-location: San Pedro del Pinatar
 tpl:
   sections:
   - file: _header
