@@ -101,13 +101,6 @@ tpl:
   - file: base/children
   - file: base/share
   - file: base/related
-  modal:
-    color: white
-    ratio: 16/9
-    inset: true
-    caps: true
-    line: true
-    size: xs
   list:
     cols: 3
     color: similar

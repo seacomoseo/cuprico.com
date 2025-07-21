@@ -6,6 +6,8 @@ tpl:
     logo: false
     sticky: auto
     size: ''
+    show_sections: true
+    show_modals: true
   callnow:
     show: auto
   section:

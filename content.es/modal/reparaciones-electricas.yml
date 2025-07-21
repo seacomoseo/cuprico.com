@@ -1,9 +1,0 @@
-name: Reparaciones Electricas
-id: reparaciones-electricas
-hanchor: Reparaciones Eléctricas en {{% param location %}}
-title: Reparaciones Eléctricas
-image: servicios/reparaciones-electricas.jpg
-icon: plug-circle-check
-md: |
-  - Técnico puntual y repuesto a bordo
-  - Luz restablecida en una sola visita
