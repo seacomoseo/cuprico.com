@@ -17,5 +17,4 @@ title_seo: ᐅ Electricistas en Torre de la Horadada ⚡️ Cúprico
 description: llll➤ Electricistas experimentados en Torre de la Horadada para todas tus necesidades eléctricas. Servicio rápido, eficaz y de confianza ✅ ¡Contáctanos!
 draft: false
 noindex: false
-translationKey: torre-de-la-horadada
 ---

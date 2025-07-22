@@ -17,5 +17,4 @@ title_seo: ᐅ Electricistas en Cabo Roig ⚡️ Cúprico
 description: llll➤ Electricistas experimentados en Cabo Roig para todas tus necesidades eléctricas. Servicio rápido, eficaz y de confianza ✅ ¡Contáctanos!
 draft: false
 noindex: false
-translationKey: cabo-roig
 ---

@@ -17,5 +17,4 @@ title_seo: ᐅ Electricistas en Torrevieja ⚡️ Cúprico
 description: llll➤ Electricistas experimentados en Torrevieja para todas tus necesidades eléctricas. Servicio rápido, eficaz y de confianza ✅ ¡Contáctanos!
 draft: false
 noindex: false
-translationKey: torrevieja
 ---

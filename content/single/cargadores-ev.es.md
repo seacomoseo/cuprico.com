@@ -26,7 +26,6 @@ header:
 
 draft: false
 noindex: false
-translationKey: ev-chargers
 tpl:
   sections:
   - file: _header

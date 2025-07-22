@@ -13,7 +13,6 @@ header:
 
 draft: false
 noindex: false
-translationKey: home
 tpl:
   sections:
   - file: _header

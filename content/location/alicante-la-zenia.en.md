@@ -17,5 +17,4 @@ title_seo: ᐅ Electricians in La Zenia ⚡️ Cúprico
 description: llll➤ Experienced electricians in La Zenia for all your electrical needs. Fast, efficient and reliable service ✅ Contact us!
 draft: false
 noindex: false
-translationKey: la-zenia
 ---

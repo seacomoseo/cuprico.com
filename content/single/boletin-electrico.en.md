@@ -27,7 +27,6 @@ header:
 
 draft: false
 noindex: false
-translationKey: certificates-electrical-installation
 tpl:
   sections:
   - file: _header

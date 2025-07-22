@@ -18,7 +18,6 @@ header:
 
 draft: false
 noindex: false
-translationKey: solar-panel-installers-la-zenia
 tpl:
   sections:
   - file: _header

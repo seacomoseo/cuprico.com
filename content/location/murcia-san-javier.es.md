@@ -17,5 +17,4 @@ title_seo: ᐅ Electricistas en San Javier ⚡️ Cúprico
 description: llll➤ Electricistas experimentados en San Javier para todas tus necesidades eléctricas. Servicio rápido, eficaz y de confianza ✅ ¡Contáctanos!
 draft: false
 noindex: false
-translationKey: san-javier
 ---
