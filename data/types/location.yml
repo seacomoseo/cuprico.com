@@ -1,6 +1,6 @@
 title: Ubicaciones
 base: service
-order: 1
+weight: 1
 icon: location-dot
 emoji: 📍
 
@@ -35,8 +35,10 @@ tpl:
 es:
   permalinks: electricistas
   slug: electricistas
+  title: Ubicaciones
   singular: Ubicación
 en:
   permalinks: electricians
   slug: electricians
+  title: Locations
   singular: Location

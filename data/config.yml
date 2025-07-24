@@ -14,96 +14,96 @@ params:
   label: Colaboradores
   widget: object
   params:
-  - var: BOX_TITLE
-  - var: BOX_SUBTITLE
+  - var: box_title
+  - var: box_subtitle
 
 - name: features
   label: Destacamos
   widget: object
   params:
-  - var: BOX_TITLE
-  - var: BOX_SUBTITLE
+  - var: box_title
+  - var: box_subtitle
   - name: boxes
     label: Destacado
     widget: list
     params:
-    - var: BOX_ICON_ID
-    - var: BOX_TITLE
-    - var: BOX_SUBTITLE
-    - var: BOX_MD
+    - var: box_icon_id
+    - var: box_title
+    - var: box_subtitle
+    - var: box_md
 
 - name: services
   label: Servicios
   widget: object
   params:
-  - var: BOX_TITLE
-  - var: BOX_SUBTITLE
+  - var: box_title
+  - var: box_subtitle
   - name: boxes
     label: Puntos
     widget: list
     params:
-    - var: BOX_TITLE
-    - var: BOX_SUBTITLE
-    - var: BOX_ICON_ID
-    - var: BOX_BUTTON_LINK
+    - var: box_title
+    - var: box_subtitle
+    - var: box_icon_id
+    - var: box_button_link
   - name: modals
     label: Popups
     widget: list
     params:
-    - var: BOX_ID
-    - var: BOX_HANCHOR
-    - var: BOX_TITLE
-    - var: BOX_SUBTITLE
-    - var: BOX_ICON_ID
-    - var: BOX_MD
+    - var: box_id
+    - var: box_hanchor
+    - var: box_title
+    - var: box_subtitle
+    - var: box_icon_id
+    - var: box_md
   - name: solar_plates
     label: Placas Solares
     widget: object
     params:
-    - var: BOX_HANCHOR
-    - var: BOX_TITLE
-    - var: BOX_SUBTITLE
-    - var: BOX_MD
+    - var: box_hanchor
+    - var: box_title
+    - var: box_subtitle
+    - var: box_md
   - name: chargers_ev
     label: Cargadores EV
     widget: object
     params:
-    - var: BOX_HANCHOR
-    - var: BOX_TITLE
-    - var: BOX_SUBTITLE
-    - var: BOX_MD
+    - var: box_hanchor
+    - var: box_title
+    - var: box_subtitle
+    - var: box_md
   - name: bulletin
     label: Boletín
     widget: object
     params:
-    - var: BOX_HANCHOR
-    - var: BOX_TITLE
-    - var: BOX_SUBTITLE
-    - var: BOX_MD
+    - var: box_hanchor
+    - var: box_title
+    - var: box_subtitle
+    - var: box_md
 
 - name: process
   label: Proceso
   widget: object
   params:
-  - var: BOX_TITLE
-  - var: BOX_SUBTITLE
-  - var: BOX_MD
-  - var: BOX_STEPS
+  - var: box_title
+  - var: box_subtitle
+  - var: box_md
+  - var: box_steps
 
 - name: faq
   label: FAQ
   widget: object
   params:
-  - var: BOX_TITLE
-  - var: BOX_SUBTITLE
-  - var: BOX_ACCORDION
-  - var: BOX_ACCORDION
+  - var: box_title
+  - var: box_subtitle
+  - var: box_accordion
+  - var: box_accordion
     name: solar_plates
     label: Placas Solares
-  - var: BOX_ACCORDION
+  - var: box_accordion
     name: chargers_ev
     label: Cargadores EV
-  - var: BOX_ACCORDION
+  - var: box_accordion
     name: bulletin
     label: Boletín
 
@@ -111,40 +111,40 @@ params:
   label: Reseñas
   widget: object
   params:
-  - var: BOX_TITLE
-  - var: BOX_SUBTITLE
+  - var: box_title
+  - var: box_subtitle
   - name: more
     label: Botón "Más Reseñas"
-  - var: BOX_REVIEWS
+  - var: box_reviews
 
 - name: portfolio
   label: Portfolio
   widget: object
   params:
-  - var: BOX_TITLE
-  - var: BOX_SUBTITLE
+  - var: box_title
+  - var: box_subtitle
 
 - name: us
   label: Nosotros
   widget: object
   params:
-  - var: BOX_TITLE
-  - var: BOX_SUBTITLE
-  - var: BOX_MD
+  - var: box_title
+  - var: box_subtitle
+  - var: box_md
 
 - name: team
   label: Equipo
   widget: object
   params:
-  - var: BOX_TITLE
-  - var: BOX_SUBTITLE
+  - var: box_title
+  - var: box_subtitle
 
 - name: contact
   label: Contacto
   widget: object
   params:
-  - var: BOX_TITLE
-  - var: BOX_SUBTITLE
+  - var: box_title
+  - var: box_subtitle
   - name: days
     label: Días
   - name: name
@@ -158,7 +158,7 @@ params:
   label: Footer
   widget: object
   params:
-  - var: BOX_MD
+  - var: box_md
 
 - name: others
   label: Otros
