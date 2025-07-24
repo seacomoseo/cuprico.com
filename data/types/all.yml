@@ -55,34 +55,34 @@ tpl:
         label: Home
         icon: house
         anchor: Electricians in San Pedro del Pinatar
-      # - link: /#colaboradores
+      # - link: /en/#colaboradores
       #   label: Partners
       #   icon: handshake-simple
-      # - link: /#destacamos
+      # - link: /en/#destacamos
       #   label: Features
       #   icon: certificate
-      - link: /#servicios
+      - link: /en/#servicios
         label: Services
         icon: bolt
-      - link: /#proceso
+      - link: /en/#proceso
         label: Process
         icon: shoe-prints
-      - link: /#faq
+      - link: /en/#faq
         label: FAQ
         icon: circle-question
-      - link: /#resenas
+      - link: /en/#resenas
         label: Reviews
         icon: comment
-      - link: /#portfolio
+      - link: /en/#portfolio
         label: Portfolio
         icon: rectangle-history
-      - link: /#nosotros
+      - link: /en/#nosotros
         label: About Us
         icon: circle-info
-      # - link: /#equipo
+      # - link: /en/#equipo
       #   label: Team
       #   icon: user-group
-      - link: /#contacto
+      - link: /en/#contacto
         label: Contact
         icon: paper-plane
         button: cta
