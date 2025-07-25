@@ -10,84 +10,9 @@ tpl:
     transparent: true
     size: sm
     hide_icons: true
-    es:
-      image: base/logo-h.svg
-      items:
-      - link: /
-        label: Inicio
-        icon: house
-        anchor: Electricistas en San Pedro del Pinatar
-      # - link: /#colaboradores
-      #   label: Colaboradores
-      #   icon: handshake-simple
-      # - link: /#destacamos
-      #   label: Destacamos
-      #   icon: certificate
-      - link: /#servicios
-        label: Servicios
-        icon: bolt
-      - link: /#proceso
-        label: Proceso
-        icon: shoe-prints
-      - link: /#faq
-        label: FAQ
-        icon: circle-question
-      - link: /#resenas
-        label: Reseñas
-        icon: comment
-      - link: /#portfolio
-        label: Portfolio
-        icon: rectangle-history
-      - link: /#nosotros
-        label: Nosotros
-        icon: circle-info
-      # - link: /#equipo
-      #   label: Equipo
-      #   icon: user-group
-      - link: /#contacto
-        label: Contacto
-        icon: paper-plane
-        button: cta
-    en:
-      image: base/logo-h.svg
-      items:
-      - link: /en/
-        label: Home
-        icon: house
-        anchor: Electricians in San Pedro del Pinatar
-      # - link: /en/#colaboradores
-      #   label: Partners
-      #   icon: handshake-simple
-      # - link: /en/#destacamos
-      #   label: Features
-      #   icon: certificate
-      - link: /en/#servicios
-        label: Services
-        icon: bolt
-      - link: /en/#proceso
-        label: Process
-        icon: shoe-prints
-      - link: /en/#faq
-        label: FAQ
-        icon: circle-question
-      - link: /en/#resenas
-        label: Reviews
-        icon: comment
-      - link: /en/#portfolio
-        label: Portfolio
-        icon: rectangle-history
-      - link: /en/#nosotros
-        label: About Us
-        icon: circle-info
-      # - link: /en/#equipo
-      #   label: Team
-      #   icon: user-group
-      - link: /en/#contacto
-        label: Contact
-        icon: paper-plane
-        button: cta
-  callnow:
-    show: auto
+    hide_custom: true
+    auto: home
+  callnow: auto
   section:
   - size: sm
   sections:
@@ -114,7 +39,6 @@ tpl:
     - type: date
   related:
     slider: true
-
 params:
 - name: location
   label: Ubicación

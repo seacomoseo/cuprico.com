@@ -3,14 +3,13 @@ base: service
 weight: 1
 icon: location-dot
 emoji: 📍
-
 tpl:
   menu:
     logo: false
     sticky: auto
     size: ''
-  callnow:
-    show: auto
+    auto: same
+  callnow: auto
   section:
   - size: lg
     color: dark
@@ -31,7 +30,6 @@ tpl:
   - file: portfolio
   - file: resenas
   - file: contacto
-
 es:
   permalinks: electricistas
   slug: electricistas

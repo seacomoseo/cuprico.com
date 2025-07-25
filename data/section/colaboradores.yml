@@ -1,6 +1,6 @@
 name: Colaboradores
 id: colaboradores
-
+menu_button: hide
 params:
 - page: partners.title
   box: title

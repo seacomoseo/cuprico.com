@@ -1,3 +1,45 @@
+title: Valores Globales
+
+menu:
+  image: base/logo-h.svg
+  items:
+  - link: /
+    label: Inicio
+    icon: house
+    anchor: Electricistas en San Pedro del Pinatar
+  # - link: /#colaboradores
+  #   label: Colaboradores
+  #   icon: handshake-simple
+  # - link: /#destacamos
+  #   label: Destacamos
+  #   icon: certificate
+  - link: /#servicios
+    label: Servicios
+    icon: bolt
+  - link: /#proceso
+    label: Proceso
+    icon: shoe-prints
+  - link: /#faq
+    label: FAQ
+    icon: circle-question
+  - link: /#resenas
+    label: Reseñas
+    icon: comment
+  - link: /#portfolio
+    label: Portfolio
+    icon: rectangle-history
+  - link: /#nosotros
+    label: Nosotros
+    icon: circle-info
+  # - link: /#equipo
+  #   label: Equipo
+  #   icon: user-group
+  - link: /#contacto
+    label: Contacto
+    icon: paper-plane
+    button: cta
+
+
 partners:
   title: Colaboradores
   subtitle: Confían en nosotros

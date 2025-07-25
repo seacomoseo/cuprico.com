@@ -1,43 +1,62 @@
+title: Global Values
+menu:
+  image: base/logo-h.svg
+  items:
+  - link: /en/
+    label: Home
+    icon: house
+    anchor: Electricians in San Pedro del Pinatar
+  - link: /en/#servicios
+    label: Services
+    icon: bolt
+  - link: /en/#proceso
+    label: Process
+    icon: shoe-prints
+  - link: /en/#faq
+    label: FAQ
+    icon: circle-question
+  - link: /en/#resenas
+    label: Reviews
+    icon: comment
+  - link: /en/#portfolio
+    label: Portfolio
+    icon: rectangle-history
+  - link: /en/#nosotros
+    label: About Us
+    icon: circle-info
+  - link: /en/#contacto
+    label: Contact
+    icon: paper-plane
+    button: cta
 partners:
   title: Partners
   subtitle: They trust us
-
-
 features:
   title: Features
   subtitle: What characterizes us?
-
   boxes_old:
   - icon: clock
     title: Real Punctuality
     subtitle: Unmatched commitment
     md: We confirm appointments and commit to keep our word; no waiting time
-
   - icon: shield
     title: Certified Security
     subtitle: 100% regulatory installations
     md: Qualified technicians and REBT protections so your home is protected
-
   - icon: star
     title: Guaranteed Quality
     subtitle: 2-4 years of support
     md: Only first-class materials and specialized labor; written guarantee of two years
-
   boxes:
-  # - icon: stopwatch
-  #   title: '< 2 hours'
-  #   subtitle: arrival time
   - icon: star
-    title: '\> 100'
+    title: \> 100
     subtitle: 5 ★ reviews
   - icon: badge-percent
-    title: '99 %'
+    title: 99 %
     subtitle: deliveries on 1st visit
   - icon: certificate
     title: 2-4 years
     subtitle: warranty
-
-
 services:
   title: Services
   subtitle: What do we do?
@@ -70,9 +89,7 @@ services:
   - title: Telecommunications
     icon: tower-broadcast
     link: '#telecommunications'
-
   modals:
-
   - id: electrical-installations
     hanchor: Electrical Installations in {{% param location %}}
     title: Electrical Installations
@@ -85,7 +102,6 @@ services:
       Closed cost, clean work and CIE delivery upon completion.
 
       Request a free quote!
-
   - id: ev-chargers
     hanchor: EV Chargers in {{ param location }}
     title: EV Chargers
@@ -98,7 +114,6 @@ services:
       We carry out the processing of subsidies, if any.
 
       [[:plus: More information]](/en/ev-chargers/ "Sales and Installation of Electric Vehicle Chargers")
-
   - id: certificates-electrical-installation
     hanchor: Electrical Certificate in {{% param location %}}
     title: Electrical Certificate
@@ -111,7 +126,6 @@ services:
       Delivery in 24 h - 14 d (depending on inspection).
 
       [[:plus: More info]](/en/certificates-electrical-installation/ "Electrical Installation Certificates in Murcia, Spain")
-
   - id: solar-panel-installation
     hanchor: Solar Panel Installation in {{% param location %}}
     title: Solar Panel Installation
@@ -124,7 +138,6 @@ services:
       Premium panels and online monitoring.
 
       [[:plus: More info]](/en/solar-panel-installers/ "Installers of Photovoltaic Solar Panels in San Pedro del Pinatar")
-
   - id: fire-alarms
     hanchor: Fire Alarms in {{% param location %}}
     title: Fire Alarms
@@ -135,7 +148,6 @@ services:
       Interconnected systems and annual maintenance.
 
       Protect your home or business from today.
-
   - id: electrical-repairs
     hanchor: Electrical Repairs in {{% param location %}}
     title: Electrical Repairs
@@ -144,7 +156,6 @@ services:
     md: |
       - Technician on time and spare parts on board
       - Power restored in a single visit
-
   - id: home-automation
     title: Home Automation
     image: servicios/domotica.jpg
@@ -153,7 +164,6 @@ services:
       Control lighting, climate and security from your mobile.
 
       Wi-Fi and Zigbee integration without construction work.
-
   - id: telecommunications
     title: Telecommunications
     image: servicios/telecomunicaciones.jpg
@@ -165,7 +175,6 @@ services:
       - Access Points
       - Optical Fiber
       - In {{% param location %}}
-
   solar_plates:
     title: Services
     subtitle: Solar Panels
@@ -181,7 +190,6 @@ services:
       More than 100 customers already enjoy our 12-year warranty on components and 4 years on labor.
 
       [[Contact us]](#contacto)
-
   chargers_ev:
     hanchor: Installation of Chargers for Electric Cars
     title: Services
@@ -196,7 +204,6 @@ services:
       Receive a closed quote in 24 h and charge your car with total safety and at the best price.
 
       [[Contact us]](#contacto)
-
   bulletin:
     title: Services
     subtitle: Electrical Installation Certificates and Bulletins
@@ -214,8 +221,6 @@ services:
       We visit your home or business and perform the regulatory tests on the installation for the subsequent issuance of the certificate approved by the industry of the autonomous community.
 
       [[Contact us]](#contacto)
-
-
 process:
   title: Process
   subtitle: of work
@@ -229,18 +234,12 @@ process:
     md: Certified technician, clean work and no interruptions
   - title: Delivery
     md: Warranty from 2 to 4 years
-
-
 faq:
   title: FAQ
   subtitle: Frequently Asked Questions
   accordions:
-  # - title: How long does it take Technimur to respond to an urgent breakdown?
-  #   md: Usually in less than 2 hours within San Pedro del Pinatar and neighboring municipalities. In peri-urban areas, the maximum period is 4 hours.
   - title: What certifications do your technicians have?
     md: All our installers are qualified in Low Voltage (specialist category) and issue the Electrical Installation Certificate (CIE) according to the current REBT.
-  # - title: Can I finance the installation of a charger for electric vehicles?
-  #   md: Yes. We manage the MOVES III subsidy and offer financing at 12 or 24 months without opening commission.
   - title: Do you work outside business hours?
     md: The hours are from 8:00 to 18:00 from Monday to Friday, with exceptions for certain clients with businesses that need to be attended on a Saturday or Sunday due to a real emergency.
   - title: How long does the work warranty last?
@@ -249,13 +248,10 @@ faq:
     md: Signed quote, detailed work report, CIE or certificate if applicable and electronic invoice compatible with TicketBAI.
   - title: Do you offer preventive maintenance?
     md: Yes, we provide certificates of recognition and annual maintenance contracts to any company that needs them. Also in photovoltaic installations.
-  # - title: Can you integrate home automation with existing systems?
-  #   md: We work with Wi-Fi and Zigbee. We evaluate the current installation and propose the appropriate gateway to preserve previous devices.
   - title: What brands do you use for panels and protections?
     md: Mainly Schneider Electric, ABB and Hager, all with IEC 60898-1 certification.
   - title: How to request a quote?
     md: Complete the form or send a WhatsApp message. You will receive a call in less than 15 min to arrange technical visit date.
-
   solar_plates:
   - title: How much photovoltaic power do I need for my home in Murcia-Alicante?
     md: We perform a free study of historical consumption and roof orientation to dimension the exact solar field, avoiding oversizing the installation and optimizing amortization.
@@ -265,11 +261,8 @@ faq:
     md: Between 3 and 7 working days for the work; the self-consumption registration with surplus compensation is validated within a maximum of 30 days after delivery of documentation.
   - title: What warranties do you offer on panels and inverter?
     md: Tier-1 panels with 12 years product warranty and 25 years performance; inverters with 10 years extendable. Our labor is covered for 24 months.
-  # - title: Can I apply for subsidies or tax deductions?
-  #   md: We manage Next Generation aids and municipal IBI/ICIO bonuses; additionally, the investment is deductible in IRPF up to 40% in energy rehabilitation.
   - title: What is the average amortization period in Murcia-Alicante?
     md: With typical residential consumption, the investment is recovered in 4 - 6 years thanks to bill savings and surplus compensation.
-
   chargers_ev:
   - title: What charger is compatible with my electric car?
     md: We install Type 2 (European standard) single-phase or three-phase equipment up to 22 kW, compatible with all brands - Tesla, Renault, Hyundai, BMW, etc.
@@ -279,32 +272,24 @@ faq:
     md: Physical installation is completed in 3-5 hours; legalization before the distributor and the autonomous community of Murcia is delivered in 24-72 hours.
   - title: Can I share line with other domestic consumptions?
     md: Yes. We add exclusive protections and a MID meter that prioritizes critical consumptions and automatically adapts the charging current.
-  # - title: What aids exist to install a charger in {{% param location %}}?
-  #   md: We process the MOVES III subsidy for free (up to 80% of the cost) and municipal bonuses of up to 50% in the IBI.
   - title: Do you offer maintenance or remote support?
     md: We include app monitoring and 24-hour telephone assistance during the first year; optional maintenance contracts from 3 €/month.
-
   bulletin:
   - title: When is an electrical certificate mandatory in Murcia?
     md: In new construction, homes over 20 years old, power increase > 50%, change of holder or commercial activity and when reactivating a disconnected supply.
   - title: What documentation should I provide?
     md: Copy of ID, last electricity bill (if exists), cadastral reference and, in premises, opening license or activity project.
-  # - title: What does the fixed price of 150 € include?
-  #   md: Authorized technician visit, measurements, single-line diagram, CIE issuance, telematic registration in Industry and official fees. VAT not included.
   - title: How long do they take to issue the certificate?
     md: From 1 day (without inspection) to 14 days if the OCA must verify the installation. Urgent requests available upon request.
   - title: What happens if the installation does not comply with REBT?
     md: We deliver a correction report; if you perform the renovation with us, we discount half the cost of the second inspection.
   - title: Does the certificate expire?
     md: It has no expiration date, but a new one may be required after renovations that alter the power or after 20 years of installation age.
-
-
 reviews:
   title: Reviews
   subtitle: \+ 100 ratings of 5 ★
   more: More on Google
   reviews:
-
   - title: JuanaN.
     md: |
       When one looks for a professional, they want them to be effective.
@@ -321,8 +306,6 @@ reviews:
 
       I keep it as a reference, for whoever asks me.
     rating: 5
-    # image: https://lh3.googleusercontent.com/a/ACg8ocLJwzoCWfoz4xZgVLUp2WWwdFw29nhFJNlNFFWw1kJivAMpPw=s136
-
   - title: Roman L.
     md: |
       José and Juan Manuel did a wonderful job.
@@ -339,8 +322,6 @@ reviews:
 
       It's a pleasure to deal with people like this, I wish them the brilliant future they deserve and are earning with vivacity 💪
     rating: 5
-    # image: https://lh3.googleusercontent.com/a/ACg8ocKVBmNppFoVl0OjPfrPa3qelxl2h2OKqvmUQYq5B7ValzZwZQ=s136
-
   - title: Macu C.
     md: |
       Professional, attentive and at a good price.
@@ -350,8 +331,6 @@ reviews:
 
       For me it has been a great discovery and I already have an electrician for everything I need, without a doubt he is a great professional! I recommend him 200%
     rating: 5
-    # image: https://lh3.googleusercontent.com/a/ACg8ocJer1HgR6grT2ers_qor0jBD9gVHHZ5VgkAd_DFG-5K-zjWJA=s136
-
   - title: A V.
     md: |
       They have carried out the cable installation throughout the house and have installed and configured WiFi system throughout the home.
@@ -368,8 +347,6 @@ reviews:
 
       I will call them again for sure.
     rating: 5
-    # image: https://lh3.googleusercontent.com/a/ACg8ocKaAwD9LZBoMqhdq-VXt_xS_5EsICpGRPZUR8e9ipSYkvqyGA=s136
-
   - title: Jaime M.
     md: |
       200% recommendable! I called him for an electrical problem and the same day he made room to come, go get the parts and fix the problem, and process the papers.
@@ -378,8 +355,6 @@ reviews:
 
       Thank you
     rating: 5
-    # image: https://lh3.googleusercontent.com/a/ACg8ocIbw8pKU7c6B5JP8oDJw89z4GrpM5O_vPgUa37R5ihdsMuxFq0=s136
-
   - title: Gonzalo R.
     md: |
       Excellent service.
@@ -390,8 +365,6 @@ reviews:
 
       Highly recommendable!!!
     rating: 5
-    # image: https://lh3.googleusercontent.com/a-/ALV-UjUzAT1v5_CI5ujnQanzZjj9zCtp_DvoABvXCE71nHxgHSZcZRqUBQ=s136
-
   - title: Jackie B.
     md: |
       I am very happy to have called this company. He came out 20 minutes after contact, as it was an emergency.
@@ -402,8 +375,6 @@ reviews:
 
       Very fair price
     rating: 5
-    # image: https://lh3.googleusercontent.com/a/ACg8ocLEdobH49dTs3c-NqLGKcbwUdXLyYkfksp5PSmpuU6SqEqUaA=s136
-
   - title: Joachim H.
     md: |
       I was and still am excited about technimur's performance, while renovating the entire electrical installation of my newly bought house in San Pedro del Pinatar.
@@ -416,8 +387,6 @@ reviews:
 
       I will be happy to hire them again.
     rating: 5
-    # image: https://lh3.googleusercontent.com/a/ACg8ocIxcBcz3ic9fZThzcSeGKni-YF4zPb0jTXTUNoEcL0Zq--0NQ=s136
-
   - title: Nataliya S.
     md: |
       I found this company by chance, particularly José María.
@@ -434,8 +403,6 @@ reviews:
 
       I am sure this will happen in the near future!!!
     rating: 5
-    # image: https://lh3.googleusercontent.com/a-/ALV-UjVS07iKKDRXiSQs5_MqCMwNQeGyv9e4LU_LYONsqwXg1sDOsM8w9w=s136
-
   - title: Roger H.
     md: |
       Hello! Our electrical system in our apartment at Hacienda Riquelme went out yesterday Sunday.
@@ -446,16 +413,12 @@ reviews:
 
       We are very grateful and he did a very good job! Thank you very much!
     rating: 5
-    # image: https://lh3.googleusercontent.com/a/ACg8ocKdZVGJhtt98tLRxAIl8zMNZNH7xhSohrmR4WaRPfROLyPUfA=s136
-
   - title: Neil S.
     md: |
       Highly recommended!
 
       Very efficient, friendly and professional service to remove and reinstall an electric vehicle charging unit after a move.
     rating: 5
-    # image: https://lh3.googleusercontent.com/a/ACg8ocIc0FqWl3LHPdRcSWAeT-dJbMEMEmCbc9JFOddIten52F2K8w=s136
-
   - title: Jose J.
     md: |
       Unique and exquisite professionalism.
@@ -469,14 +432,9 @@ reviews:
 
       PS: Thanks José María and Pedro.
     rating: 5
-    # image: https://lh3.googleusercontent.com/a/ACg8ocLbhUB-wjm8GX3s7tWDErKjKTuzf9jVMXXkhbtv-jItEGdTtw=s136
-
-
 portfolio:
   title: Portfolio
   subtitle: Real cases in your area
-
-
 us:
   title: About Us
   subtitle: Authorized electricians at your service
@@ -484,13 +442,9 @@ us:
     - :location-dot: We work exclusively in San Pedro del Pinatar and surroundings to arrive quickly and solve the first time.
     - :star: More than 100 top reviews endorse our seriousness with individuals, communities and companies.
     - :certificate: Certified technicians, closed prices and 2-4 years warranty: your peace of mind is covered.
-
-
 team:
   title: Team
   subtitle: Technicians who respond
-
-
 contact:
   title: Contact
   subtitle: We respond quickly
@@ -498,8 +452,6 @@ contact:
   name: Name
   phone: Phone
   message: Message
-
-
 footer:
   md: |
     <br>
@@ -540,8 +492,6 @@ footer:
     - [Pinar de Campoverde](/en/solar-panel-installers-pinar-de-campo-verde/ "Installers of Photovoltaic Solar Panels in Pinar de Campoverde")
     - [La Zenia](/en/solar-panel-installers-la-zenia/                        "Installers of Photovoltaic Solar Panels in La Zenia")
     {.list-inline}
-
-
 others:
   subtitle: Power and precision in every installation
   request_quote: Request free quote

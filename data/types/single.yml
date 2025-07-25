@@ -6,8 +6,8 @@ tpl:
     logo: false
     sticky: auto
     size: ''
-  callnow:
-    show: auto
+    auto: same
+  callnow: auto
   section:
   - size: lg
     color: dark
