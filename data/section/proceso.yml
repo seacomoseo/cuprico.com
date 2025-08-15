@@ -9,11 +9,11 @@ step:
   line: true
   icon_size: 2
 params:
-- page: process.title
-  box: title
-- page: process.subtitle
-  box: subtitle
-- page: process.md
-  box: md
-- page: process.steps
-  box: steps
+- from: process.title
+  to: title
+- from: process.subtitle
+  to: subtitle
+- from: process.md
+  to: md
+- from: process.steps
+  to: steps

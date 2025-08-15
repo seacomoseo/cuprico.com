@@ -2,16 +2,15 @@ name: Nosotros
 id: nosotros
 
 params:
-- page: us.title
-  box: title
-- page: us.subtitle
-  box: subtitle
+- from: us.title
+  to: title
+- from: us.subtitle
+  to: subtitle
 
 box:
   node: div
   gap_vs: 2
 boxes:
-
 - box:
     cols: 2
     gap: 3
@@ -25,14 +24,14 @@ boxes:
   boxes:
   - image: base/logo-h.svg
   - params:
-    - page: us.md
-      box: md
+    - from: us.md
+      to: md
 
 # - params:
-#   - page: team.title
-#     box: title
-#   - page: team.subtitle
-#     box: subtitle
+#   - from: team.title
+#     to: title
+#   - from: team.subtitle
+#     to: subtitle
 #   caps: true
 #   line: true
 #   box:

@@ -4,9 +4,9 @@ box:
   cols: 3
   line: true
 params:
-- page: features.title
-  box: title
-- page: features.subtitle
-  box: subtitle
-- page: features.boxes_old
-  box: boxes
+- from: features.title
+  to: title
+- from: features.subtitle
+  to: subtitle
+- from: features.boxes_old
+  to: boxes

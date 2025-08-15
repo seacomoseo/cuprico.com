@@ -60,37 +60,9 @@ features:
 services:
   title: Services
   subtitle: What do we do?
-  boxes:
-  - title: Electrical Installations
-    md: Residential and Commercial
-    icon: plug
-    link: '#electrical-installations'
-  - title: EV Chargers
-    md: Electric Vehicles
-    icon: car-bolt
-    link: '#ev-chargers'
-  - title: Certificates
-    md: of Electrical Installation
-    icon: file-check
-    link: '#certificates-electrical-installation'
-  - title: Solar Panel Installation
-    md: Photovoltaic
-    icon: solar-panel
-    link: '#solar-panel-installation'
-  - title: Fire Alarms
-    icon: light-emergency-on
-    link: '#fire-alarms'
-  - title: Electrical Repairs
-    icon: plug-circle-check
-    link: '#electrical-repairs'
-  - title: Home Automation
-    icon: house-signal
-    link: '#home-automation'
-  - title: Telecommunications
-    icon: tower-broadcast
-    link: '#telecommunications'
   modals:
   - id: electrical-installations
+    link: '#electrical-installations'
     hanchor: Electrical Installations in {{% param location %}}
     title: Electrical Installations
     subtitle: Residential and Commercial
@@ -103,6 +75,7 @@ services:
 
       Request a free quote!
   - id: ev-chargers
+    link: '#ev-chargers'
     hanchor: EV Chargers in {{ param location }}
     title: EV Chargers
     subtitle: Electric Vehicles
@@ -115,6 +88,7 @@ services:
 
       [[:plus: More information]](/en/ev-chargers/ "Sales and Installation of Electric Vehicle Chargers")
   - id: certificates-electrical-installation
+    link: '#certificates-electrical-installation'
     hanchor: Electrical Certificate in {{% param location %}}
     title: Electrical Certificate
     subtitle: and Certifications
@@ -127,6 +101,7 @@ services:
 
       [[:plus: More info]](/en/certificates-electrical-installation/ "Electrical Installation Certificates in Murcia, Spain")
   - id: solar-panel-installation
+    link: '#solar-panel-installation'
     hanchor: Solar Panel Installation in {{% param location %}}
     title: Solar Panel Installation
     subtitle: Photovoltaic
@@ -139,6 +114,7 @@ services:
 
       [[:plus: More info]](/en/solar-panel-installers/ "Installers of Photovoltaic Solar Panels in San Pedro del Pinatar")
   - id: fire-alarms
+    link: '#fire-alarms'
     hanchor: Fire Alarms in {{% param location %}}
     title: Fire Alarms
     subtitle: Certified early detection
@@ -149,6 +125,7 @@ services:
 
       Protect your home or business from today.
   - id: electrical-repairs
+    link: '#electrical-repairs'
     hanchor: Electrical Repairs in {{% param location %}}
     title: Electrical Repairs
     image: servicios/reparaciones-electricas.jpg
@@ -157,6 +134,7 @@ services:
       - Technician on time and spare parts on board
       - Power restored in a single visit
   - id: home-automation
+    link: '#home-automation'
     title: Home Automation
     image: servicios/domotica.jpg
     icon: house-signal
@@ -165,6 +143,7 @@ services:
 
       Wi-Fi and Zigbee integration without construction work.
   - id: telecommunications
+    link: '#telecommunications'
     title: Telecommunications
     image: servicios/telecomunicaciones.jpg
     icon: tower-broadcast

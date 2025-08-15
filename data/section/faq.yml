@@ -4,9 +4,9 @@ accordion:
   headers: true
   hs: 6
 params:
-- page: faq.title
-  box: title
-- page: faq.subtitle
-  box: subtitle
-- page: faq.accordions
-  box: accordions
+- from: faq.title
+  to: title
+- from: faq.subtitle
+  to: subtitle
+- from: faq.accordions
+  to: accordions

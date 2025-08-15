@@ -4,11 +4,11 @@ size: sm
 color: white
 md_align: left
 params:
-- page: services.solar_plates.hanchor
-  box: hanchor
-- page: services.solar_plates.title
-  box: title
-- page: services.solar_plates.subtitle
-  box: subtitle
-- page: services.solar_plates.md
-  box: md
+- from: services.solar_plates.hanchor
+  to: hanchor
+- from: services.solar_plates.title
+  to: title
+- from: services.solar_plates.subtitle
+  to: subtitle
+- from: services.solar_plates.md
+  to: md

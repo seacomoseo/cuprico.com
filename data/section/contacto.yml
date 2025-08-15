@@ -5,12 +5,12 @@ size: sm
 menu_button: cta
 
 params:
-- page: contact.title
-  box: title
-- page: contact.subtitle
-  box: subtitle
-- page: contact.consent
-  box: form.consent
+- from: contact.title
+  to: title
+- from: contact.subtitle
+  to: subtitle
+- from: contact.consent
+  to: form.consent
 
 contact:
 

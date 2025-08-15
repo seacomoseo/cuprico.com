@@ -1,10 +1,11 @@
 name: Servicios
 id: servicios
 box:
-  cols: 4
+  cols: 0
+  cols_vs: 2
   gap_vs: 2
   gap_ny: 3
-  hs: 4
+  hs: 5
   label: '{{ param others.see_more }}'
 modal:
   color: white
@@ -14,11 +15,18 @@ modal:
   line: true
   size: xs
 params:
-- page: services.title
-  box: title
-- page: services.subtitle
-  box: subtitle
-- page: services.boxes
-  box: boxes
-- page: services.modals
-  box: modals
+- from: services.title
+  to: title
+- from: services.subtitle
+  to: subtitle
+- from: services.modals
+  to: boxes
+- from: services.modals
+  to: modals
+remap:
+- from: boxes.*.id
+- from: boxes.*.hanchor
+- from: boxes.*.subtitle
+- from: boxes.*.image
+- from: boxes.*.md
+- from: modals.*.link

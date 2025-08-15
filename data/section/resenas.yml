@@ -2,10 +2,10 @@ name: Resenas
 id: resenas
 
 params:
-- page: reviews.title
-  box: title
-- page: reviews.subtitle
-  box: subtitle
+- from: reviews.title
+  to: title
+- from: reviews.subtitle
+  to: subtitle
 
 boxes:
 - review:
@@ -13,8 +13,8 @@ boxes:
     slider: true
     cols: 3
   params:
-  - page: reviews.reviews
-    box: reviews
+  - from: reviews.reviews
+    to: reviews
 - boxes:
   - md: |
       [[:star: {{% param reviews.more %}}]](https://g.page/r/Ceu-g_MFBM04EAI/review "[nofollow]")

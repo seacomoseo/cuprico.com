@@ -5,10 +5,10 @@ size: fluid
 color: white
 
 params:
-- page: portfolio.title
-  box: title
-- page: portfolio.subtitle
-  box: subtitle
+- from: portfolio.title
+  to: title
+- from: portfolio.subtitle
+  to: subtitle
 
 gallery:
   cols: 6

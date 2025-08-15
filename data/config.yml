@@ -38,19 +38,12 @@ params:
   params:
   - var: box_title
   - var: box_subtitle
-  - name: boxes
-    label: Puntos
-    widget: list
-    params:
-    - var: box_title
-    - var: box_subtitle
-    - var: box_icon_id
-    - var: box_button_link
   - name: modals
-    label: Popups
+    label: Elementos
     widget: list
     params:
     - var: box_id
+    - var: box_button_link
     - var: box_hanchor
     - var: box_title
     - var: box_subtitle

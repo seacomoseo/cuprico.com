@@ -6,7 +6,7 @@ box:
   icon_type: side
   hs: 0
 params:
-- page: features.title
-  box: hanchor
-- page: features.boxes
-  box: boxes
+- from: features.title
+  to: hanchor
+- from: features.boxes
+  to: boxes

@@ -2,10 +2,10 @@ name: Colaboradores
 id: colaboradores
 menu_button: hide
 params:
-- page: partners.title
-  box: title
-- page: partners.subtitle
-  box: subtitle
+- from: partners.title
+  to: title
+- from: partners.subtitle
+  to: subtitle
 
 box:
   cols: 5

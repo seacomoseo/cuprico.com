@@ -4,11 +4,11 @@ size: sm
 color: white
 md_align: left
 params:
-- page: services.chargers_ev.hanchor
-  box: hanchor
-- page: services.chargers_ev.title
-  box: title
-- page: services.chargers_ev.subtitle
-  box: subtitle
-- page: services.chargers_ev.md
-  box: md
+- from: services.chargers_ev.hanchor
+  to: hanchor
+- from: services.chargers_ev.title
+  to: title
+- from: services.chargers_ev.subtitle
+  to: subtitle
+- from: services.chargers_ev.md
+  to: md

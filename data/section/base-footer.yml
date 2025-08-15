@@ -9,8 +9,8 @@ boxes:
   - link: https://g.page/r/Ceu-g_MFBM04EAI
   - link: https://www.instagram.com/cupricoelectricalservices/
 - params:
-  - page: footer.md
-    box: md
+  - from: footer.md
+    to: md
   md: |
     - :copyright:      {{< internal-link index >}}
     - :scale-balanced: {{< internal-link legal >}}

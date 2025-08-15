@@ -4,12 +4,12 @@ size: sm
 color: white
 md_align: left
 params:
-- page: services.bulletin.hanchor
-  box: hanchor
-- page: services.bulletin.title
-  box: title
-- page: services.bulletin.subtitle
-  box: subtitle
-- page: services.bulletin.md
-  box: md
+- from: services.bulletin.hanchor
+  to: hanchor
+- from: services.bulletin.title
+  to: title
+- from: services.bulletin.subtitle
+  to: subtitle
+- from: services.bulletin.md
+  to: md
 

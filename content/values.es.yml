@@ -83,39 +83,11 @@ features:
 services:
   title: Servicios
   subtitle: ¿Qué hacemos?
-  boxes:
-  - title: Instalaciones Eléctricas
-    md: Residenciales y Comerciales
-    icon: plug
-    link: '#instalaciones-electricas'
-  - title: Cargadores EV
-    md: Vehículos Eléctricos
-    icon: car-bolt
-    link: '#cargadores-ev'
-  - title: Boletín Eléctrico
-    md: y Certificaciones
-    icon: file-check
-    link: '#boletin-electrico-certificaciones'
-  - title: Instalación de Placas Solares
-    md: Fotovoltaicas
-    icon: solar-panel
-    link: '#instalacion-placas-solares'
-  - title: Alarmas contra Incendios
-    icon: light-emergency-on
-    link: '#alarmas-incendios'
-  - title: Reparaciones Eléctricas
-    icon: plug-circle-check
-    link: '#reparaciones-electricas'
-  - title: Domótica
-    icon: house-signal
-    link: '#domotica'
-  - title: Telecomunica&shy;ciones
-    icon: tower-broadcast
-    link: '#telecomunicaciones'
 
   modals:
 
   - id: instalaciones-electricas
+    link: '#instalaciones-electricas'
     hanchor: Instalaciones Eléctricas en {{% param location %}}
     title: Instalaciones Eléctricas
     subtitle: Residenciales y Comerciales
@@ -129,6 +101,7 @@ services:
       ¡Solicite presupuesto sin coste!
 
   - id: cargadores-ev
+    link: '#cargadores-ev'
     hanchor: Cargadores EV en {{ param location }}
     title: Cargadores EV
     subtitle: Vehículos Eléctricos
@@ -142,6 +115,7 @@ services:
       [[:plus: Más información]](/cargadores-ev/ "Venta e Instalación de Cargadores para Vehículos Eléctricos")
 
   - id: boletin-electrico-certificaciones
+    link: '#boletin-electrico-certificaciones'
     hanchor: Boletín Eléctrico en {{% param location %}}
     title: Boletín Eléctrico
     subtitle: y Certificaciones
@@ -155,6 +129,7 @@ services:
       [[:plus: Más información]](/boletin-electrico/ "Boletín Eléctrico y Certificados de Instalación Eléctrica (CIE)")
 
   - id: instalacion-placas-solares
+    link: '#instalacion-placas-solares'
     hanchor: Instalación de Placas Solares en {{% param location %}}
     title: Instalación de Placas Solares
     subtitle: Fotovoltaicas
@@ -168,6 +143,7 @@ services:
       [[:plus: Más información]](/instaladores-placas-solares/ "Instaladores de Placas Solares Fotovoltaicas en San Pedro del Pinatar")
 
   - id: alarmas-incendios
+    link: '#alarmas-incendios'
     hanchor: Alarmas contra Incendios en {{% param location %}}
     title: Alarmas contra Incendios
     subtitle: Detección temprana certificada
@@ -179,6 +155,7 @@ services:
       Proteja su vivienda o negocio desde hoy mismo.
 
   - id: reparaciones-electricas
+    link: '#reparaciones-electricas'
     hanchor: Reparaciones Eléctricas en {{% param location %}}
     title: Reparaciones Eléctricas
     image: servicios/reparaciones-electricas.jpg
@@ -188,6 +165,7 @@ services:
       - Luz restablecida en una sola visita
 
   - id: domotica
+    link: '#domotica'
     title: Domótica
     image: servicios/domotica.jpg
     icon: house-signal
@@ -197,6 +175,7 @@ services:
       Integración Wi-Fi y Zigbee sin obras.
 
   - id: telecomunicaciones
+    link: '#telecomunicaciones'
     title: Telecomunicaciones
     image: servicios/telecomunicaciones.jpg
     icon: tower-broadcast
