@@ -37,9 +37,9 @@ org:
   - Electricians Cúprico
   - Cúprico Electricians
   description: We offer the best electrician services at competitive prices. Cúprico offers solutions to electrical related problems.
-  legal: INSTALACIONES ELÉCTRICAS TORNERO Y LORENTE
+  legal: INSTALACIONES ELÉCTRICAS TORNERO Y LORENTE S.L.
   nif: B21972351
-  email: j.tornero@cuprico.com
+  email: administracion@cuprico.com
   logo: base/icon.svg
   images:
   - portfolio/trabajando/2023-10-11-00-27-32.jpg

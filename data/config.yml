@@ -153,6 +153,9 @@ params:
     label: Teléfono
   - name: message
     label: Mensaje
+  - name: consent
+    widget: markdown
+    label: Texto de Consentimiento
 
 - name: footer
   label: Footer
@@ -169,4 +172,5 @@ params:
 
 others:
   show: true
-
+  cookies_advanced: true
+  cookies_legal: true

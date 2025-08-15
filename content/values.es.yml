@@ -540,6 +540,17 @@ contact:
   name: Nombre
   phone: Teléfono
   message: Mensaje
+  consent: |
+    Consiento el uso de mis datos para los fines indicados en la [política de privacidad](/privacidad/ "[nofollow blank]") y para recibir publicidad de su entidad.
+
+    - **Responsable del tratamiento:** INSTALACIONES ELÉCTRICAS TORNERO Y LORENTE S.L.
+    - **Dirección del responsable:** C/Jara Carrillo, 11, 30740 - San Pedro del Pinatar (Murcia)
+    - **Finalidad:** Sus datos serán usados para poder atender sus solicitudes y prestarle nuestros servicios.
+    - **Información de interés:** Únicamente le enviaremos comunicaciones de su interés con su autorización previa, que podrá facilitarnos mediante la casilla correspondiente establecida al efecto.
+    - **Legitimación:** Únicamente trataremos sus datos con su consentimiento previo, que podrá facilitarnos mediante la casilla correspondiente establecida al efecto.
+    - **Destinatarios:** Con carácter general, sólo el personal de nuestra entidad que esté debidamente autorizado podrá tener conocimiento de la información que le pedimos.
+    - **Derechos:** Tiene derecho a saber qué información tenemos sobre usted, corregirla y eliminarla, tal y como se explica en la información adicional disponible en nuestra página web.
+    - **Información adicional:** Más información en nuestra [política de privacidad](/privacidad/ "[nofollow blank]").
 
 
 footer:
@@ -550,10 +561,9 @@ footer:
     - :scale-balanced:   {{< internal-link legal >}}
     - :shield-keyhole:   {{< internal-link privacy >}}
     - :cookie-bite:      {{< internal-link cookies >}}
-    {.list-inline}
-    <!--
+    - :handshake:        {{< internal-link commitment >}}
     - :seacomoseo:       {{< i18n web_design >}} [seacomoseo.com](https://seacomoseo.com/)
-    -->
+    {.list-inline}
 
     <br>
 

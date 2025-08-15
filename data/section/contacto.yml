@@ -9,6 +9,8 @@ params:
   box: title
 - page: contact.subtitle
   box: subtitle
+- page: contact.consent
+  box: form.consent
 
 contact:
 
