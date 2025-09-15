@@ -31,9 +31,6 @@ menu:
   - link: /#nosotros
     label: Nosotros
     icon: circle-info
-  # - link: /#equipo
-  #   label: Equipo
-  #   icon: user-group
   - link: /#contacto
     label: Contacto
     icon: paper-plane
@@ -546,30 +543,59 @@ footer:
 
     <br>
 
-    Electricistas
+    :plug: Electricistas en...
     {.h6}
 
-    - [San Pedro del Pinatar](/                                     "Electricistas en San Pedro del Pinatar")
-    - [Torrevieja](/electricistas/torrevieja/                       "Electricistas en Torrevieja")
-    - [Pilar de la Horadada](/electricistas/pilar-de-la-horadada/   "Electricistas en Pilar de la Horadada")
-    - [Los Alcázares](/electricistas/los-alcazares/                 "Electricistas en Los Alcázares")
-    - [San Javier](/electricistas/san-javier/                       "Electricistas en San Javier")
-    - [La Zenia](/electricistas/la-zenia/                           "Electricistas en La Zenia")
-    - [Lo Pagan](/electricistas/lo-pagan/                           "Electricistas en Lo Pagan")
-    - [Cabo Roig](/electricistas/cabo-roig/                         "Electricistas en Cabo Roig")
-    - [Campoamor](/electricistas/campoamor/                         "Electricistas en Campoamor")
-    - [Torre de la Horadada](/electricistas/torre-de-la-horadada/   "Electricistas en Torre de la Horadada")
+    - [San Pedro del Pinatar](/                                                           "Electricistas en San Pedro del Pinatar")
+    - [Lo Pagan](/electricistas/lo-pagan/                                                 "Electricistas en Lo Pagan")
+    - [Los Alcázares](/electricistas/los-alcazares/                                       "Electricistas en Los Alcázares")
+    - [Los Narejos](/electricistas/los-narejos/                                           "Electricistas en Los Narejos")
+    - [San Javier](/electricistas/san-javier/                                             "Electricistas en San Javier")
+    - [Santiago de la Ribera](/electricistas/santiago-de-la-ribera/                       "Electricistas en Santiago de la Ribera")
+    - [Cabo Roig](/electricistas/cabo-roig/                                               "Electricistas en Cabo Roig")
+    - [Campoamor](/electricistas/campoamor/                                               "Electricistas en Campoamor")
+    - [El Mojón](/electricistas/el-mojon/                                                 "Electricistas en El Mojón")
+    - [La Regia](/electricistas/la-regia/                                                 "Electricistas en La Regia")
+    - [La Torre Golf](/electricistas/la-torre-golf/                                       "Electricistas en La Torre Golf")
+    - [La Zenia](/electricistas/la-zenia/                                                 "Electricistas en La Zenia")
+    - [Las Colinas Golf & Country Club](/electricistas/las-colinas-golf-and-country-club/ "Electricistas en Las Colinas Golf & Country Club")
+    - [Las Ramblas Golf](/electricistas/las-ramblas-golf/                                 "Electricistas en Las Ramblas Golf")
+    - [Lo Romero Golf](/electricistas/lo-romero-golf/                                     "Electricistas en Lo Romero Golf")
+    - [Mil Palmeras](/electricistas/mil-palmeras/                                         "Electricistas en Mil Palmeras")
+    - [Pilar de la Horadada](/electricistas/pilar-de-la-horadada/                         "Electricistas en Pilar de la Horadada")
+    - [Torre de la Horadada](/electricistas/torre-de-la-horadada/                         "Electricistas en Torre de la Horadada")
+    - [Torrevieja](/electricistas/torrevieja/                                             "Electricistas en Torrevieja")
+    {.list-inline}
+
+    :solar-panel: Instaladores de Placas Solares en...
+    {.h6}
+
+    - [San Pedro del Pinatar](/instaladores-placas-solares/                                             "Instaladores de Placas Solares en San Pedro del Pinatar")
+    - [Lo Pagan](/instaladores-placas-solares/lo-pagan/                                                 "Instaladores de Placas Solares en Lo Pagan")
+    - [Los Alcázares](/instaladores-placas-solares/los-alcazares/                                       "Instaladores de Placas Solares en Los Alcázares")
+    - [Los Narejos](/instaladores-placas-solares/los-narejos/                                           "Instaladores de Placas Solares en Los Narejos")
+    - [San Javier](/instaladores-placas-solares/san-javier/                                             "Instaladores de Placas Solares en San Javier")
+    - [Santiago de la Ribera](/instaladores-placas-solares/santiago-de-la-ribera/                       "Instaladores de Placas Solares en Santiago de la Ribera")
+    - [Cabo Roig](/instaladores-placas-solares/cabo-roig/                                               "Instaladores de Placas Solares en Cabo Roig")
+    - [Campoamor](/instaladores-placas-solares/campoamor/                                               "Instaladores de Placas Solares en Campoamor")
+    - [El Mojón](/instaladores-placas-solares/el-mojon/                                                 "Instaladores de Placas Solares en El Mojón")
+    - [La Regia](/instaladores-placas-solares/la-regia/                                                 "Instaladores de Placas Solares en La Regia")
+    - [La Torre Golf](/instaladores-placas-solares/la-torre-golf/                                       "Instaladores de Placas Solares en La Torre Golf")
+    - [La Zenia](/instaladores-placas-solares/la-zenia/                                                 "Instaladores de Placas Solares en La Zenia")
+    - [Las Colinas Golf & Country Club](/instaladores-placas-solares/las-colinas-golf-and-country-club/ "Instaladores de Placas Solares en Las Colinas Golf & Country Club")
+    - [Las Ramblas Golf](/instaladores-placas-solares/las-ramblas-golf/                                 "Instaladores de Placas Solares en Las Ramblas Golf")
+    - [Lo Romero Golf](/instaladores-placas-solares/lo-romero-golf/                                     "Instaladores de Placas Solares en Lo Romero Golf")
+    - [Mil Palmeras](/instaladores-placas-solares/mil-palmeras/                                         "Instaladores de Placas Solares en Mil Palmeras")
+    - [Pilar de la Horadada](/instaladores-placas-solares/pilar-de-la-horadada/                         "Instaladores de Placas Solares en Pilar de la Horadada")
+    - [Torre de la Horadada](/instaladores-placas-solares/torre-de-la-horadada/                         "Instaladores de Placas Solares en Torre de la Horadada")
+    - [Torrevieja](/instaladores-placas-solares/torrevieja/                                             "Instaladores de Placas Solares en Torrevieja")
+    {.list-inline}
+
+    :file-check: Otros Servicios
+    {.h6}
 
     - [Cargadores Vehículos Eléctricos](/cargadores-ev/ "Venta e Instalación de Cargadores para Vehículos Eléctricos")
     - [Boletín Eléctrico](/boletin-electrico/                             "Boletín Eléctrico y Certificados de Instalación Eléctrica (CIE)")
-    {.list-inline}
-
-    Instaladores de Placas Solares
-    {.h6}
-
-    - [San Pedro del Pinatar](/instaladores-placas-solares/                    "Mejores Instaladores de Placas Solares Fotovoltaicas en San Pedro del Pinatar")
-    - [Pinar de Campoverde](/instaladores-placas-solares-pinar-de-campo-verde/ "Mejores Instaladores de Placas Solares Fotovoltaicas en Pinar de Campoverde")
-    - [La Zenia](/instaladores-placas-solares-la-zenia/                        "Mejores Instaladores de Placas Solares Fotovoltaicas en La Zenia")
     {.list-inline}
 
 

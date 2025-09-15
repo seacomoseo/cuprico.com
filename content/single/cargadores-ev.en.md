@@ -1,7 +1,7 @@
 ---
+slug: ev-chargers
 title: Electric Vehicle Chargers
 seo: ᐅ Electric Vehicle Chargers - Installation and Sales
-slug: ev-chargers
 description: llll➤ With the best brands and installations in homes and community garages. ✅ Contact us for personalized advice and budgets.
 image: servicios/cargadores-ev.jpg
 
@@ -24,8 +24,6 @@ header:
   hanchor: Sales and Installation of Electric Vehicle Chargers
   md: Sales and Installation of Electric Vehicle Chargers
 
-draft: false
-noindex: false
 tpl:
   sections:
   - file: _header

@@ -1,0 +1,47 @@
+title: Ubicaciones
+base: service
+weight: 1
+icon: plug
+emoji: 🔌
+tpl:
+  menu:
+    logo: false
+    sticky: auto
+    size: lg
+    auto: same
+  callnow: auto
+  section:
+  - size: lg
+    color: dark
+    alpha: 0.9
+    parallax: fix
+    caps: true
+    line: true
+    div: tilt
+    div_x: true
+  - color: white
+    div_x: false
+  sections:
+  - file: _header
+  - file: colaboradores
+  - file: destacamos
+  - file: servicios
+  - file: nosotros
+  - file: portfolio
+  - file: resenas
+  - file: contacto
+  list:
+    color: none
+    align: left
+    image: hide
+    shade: false
+es:
+  permalinks: electricistas
+  slug: electricistas
+  title: Electricistas
+  singular: Electricistas
+en:
+  permalinks: electricians
+  slug: electricians
+  title: Electricians
+  singular: Electricians

@@ -8,41 +8,17 @@ params:
   to: subtitle
 
 box:
-  node: div
-  gap_vs: 2
+  cols: 2
+  gap: 3
+  gap_vs: 1
+  gap_ny: 1
+  align: left
+  align_vl: left
+  align_y: center
+  caps: true
+  line: true
 boxes:
-- box:
-    cols: 2
-    gap: 3
-    gap_vs: 1
-    duo: 2
-    align: left
-    align_vl: left
-    align_y: center
-    caps: true
-    line: true
-  boxes:
-  - image: base/logo-h.svg
-  - params:
-    - from: us.md
-      to: md
-
-# - params:
-#   - from: team.title
-#     to: title
-#   - from: team.subtitle
-#     to: subtitle
-#   caps: true
-#   line: true
-#   box:
-#     cols: 3
-#     gap_vs: 2
-#     ratio: 3/4
-#     border: main
-#     line: true
-#     caps: false
-#   boxes:
-#   - title: José Tornero
-#     image: equipo/jose-tornero.jpg
-#   - title: Juan Ribes
-#     image: equipo/jose-tornero.jpg
+- image: base/logo-h.svg
+- params:
+  - from: us.md
+    to: md

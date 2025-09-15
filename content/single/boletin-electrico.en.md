@@ -1,7 +1,7 @@
 ---
+slug: certificates-electrical-installation
 title: Certificates
 seo: ᐅ Certificates of Electrical Installation in Murcia, Spain
-slug: certificates-electrical-installation
 description: llll➤ Get your electrical installation certificates in Murcia. Affordable prices, fast and reliable service ✅ Contact us!
 image: servicios/boletin-electrico-certificaciones.jpg
 
@@ -25,8 +25,6 @@ header:
   hanchor: Certificates of Electrical Installation in Murcia, Spain
   md: Certificates of Electrical Installation
 
-draft: false
-noindex: false
 tpl:
   sections:
   - file: _header

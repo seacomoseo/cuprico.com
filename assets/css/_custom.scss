@@ -6,4 +6,7 @@ body:not(.type-page, .type-system) #header {
   .md p:nth-child(1) { @include show-from(1); }
   .md p:nth-child(2) { @include show-from(2); }
   .md p:nth-child(3) { @include show-from(3); }
+  .box--2 .image     { @include show-from(4);
+    @include fluid-size(margin-bottom, 1em, -8.5, -10);
+  }
 }

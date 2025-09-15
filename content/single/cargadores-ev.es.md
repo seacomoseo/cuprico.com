@@ -1,7 +1,7 @@
 ---
+slug: cargadores-ev
 title: Cargadores EV
 seo: ᐅ Cargadores de Vehículos Eléctricos - Instalación y Venta
-slug: cargadores-ev
 description: llll➤ Con las mejores marcas e instalaciones en viviendas y garajes comunitarios. ✅ Contáctanos para asesoramiento personalizado y presupuestos.
 image: servicios/cargadores-ev.jpg
 
@@ -24,8 +24,6 @@ header:
   hanchor: Venta e Instalación de Cargadores para Vehículos Eléctricos
   md: Venta e Instalación de Cargadores para Vehículos Eléctricos
 
-draft: false
-noindex: false
 tpl:
   sections:
   - file: _header

@@ -11,7 +11,7 @@ params:
   to: subtitle
 
 gallery:
-  cols: 6
+  cols: 4
   ratio: 1
   gap: 0
 #   type: boxes
@@ -37,23 +37,23 @@ images:
 # - portfolio/acabados/2023-10-09-20-38-14.jpg
 
 - portfolio/placas-solares/2024-12-18-13-15-48.jpg
-- portfolio/placas-solares/2024-12-15-13-55-49.jpg
+# - portfolio/placas-solares/2024-12-15-13-55-49.jpg
 
 - portfolio/trabajando/2023-10-11-00-27-32.jpg
 - portfolio/trabajando/2024-06-12-09-19-51.jpg
 - portfolio/trabajando/2023-10-10-22-17-56.jpg
 
-- portfolio/cuadros/2018-06-14-17-55-12.jpg
+# - portfolio/cuadros/2018-06-14-17-55-12.jpg
 - portfolio/cuadros/2019-07-03-21-14-21.jpg
-- portfolio/cuadros/2021-03-02-11-46-55.jpg
+# - portfolio/cuadros/2021-03-02-11-46-55.jpg
 # - portfolio/cuadros/2022-03-15-09-53-41.jpg
 # - portfolio/cuadros/2024-08-23-20-17-35.jpg
 # - portfolio/cuadros/2024-01-17-09-45-32.jpg
 # - portfolio/cuadros/2024-03-12-12-52-20.jpg
 
 - portfolio/otros/2024-07-31-20-06-48.jpg
-- portfolio/otros/2023-11-18-12-56-03.jpg
+# - portfolio/otros/2023-11-18-12-56-03.jpg
 - portfolio/alarmas-incendios/2023-11-14-12-45-39.jpg
-- portfolio/alarmas-incendios/2023-12-05-10-28-18.jpg
-- portfolio/cargadores-vehiculos/2024-08-23-20-17-36.jpg
+# - portfolio/alarmas-incendios/2023-12-05-10-28-18.jpg
+# - portfolio/cargadores-vehiculos/2024-08-23-20-17-36.jpg
 - portfolio/cargadores-vehiculos/2024-04-12-10-24-29.jpg

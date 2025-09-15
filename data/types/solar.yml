@@ -1,0 +1,49 @@
+title: Placas Solares
+base: service
+weight: 2
+icon: solar-panel
+emoji: ☀️
+tpl:
+  menu:
+    logo: false
+    sticky: auto
+    size: lg
+    auto: same
+  callnow: auto
+  section:
+  - size: lg
+    color: dark
+    alpha: 0.9
+    parallax: fix
+    caps: true
+    line: true
+    div: tilt
+    div_x: true
+  - color: white
+    div_x: false
+  sections:
+  - file: _header
+  - file: colaboradores
+  - file: destacamos
+  - file: servicios-placas-solares
+  - file: proceso
+  - file: faq-placas-solares
+  - file: resenas
+  - file: portfolio-placas-solares
+  - file: nosotros
+  - file: contacto
+  list:
+    color: none
+    align: left
+    image: hide
+    shade: false
+es:
+  permalinks: instaladores-placas-solares
+  slug: instaladores-placas-solares/vega-baja-mar-menor
+  title: Instaladores de Placas Solares
+  singular: Instaladores de Placas Solares
+en:
+  permalinks: solar-panel-installers
+  slug: solar-panel-installers/vega-baja-mar-menor
+  title: Installers Solar Panels
+  singular: Installers Solar Panels

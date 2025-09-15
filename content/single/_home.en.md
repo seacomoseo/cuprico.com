@@ -2,17 +2,15 @@
 slug: home
 title: Home
 seo: ᐅ Cúprico ⚡️ Electricians in San Pedro del Pinatar
-description: llll➤ Find licensed and professional electricians in San Pedro del Pinatar. Near you for breakdowns, installations and more ✅ Contact now!
+description: llll➤ Experienced electricians in San Pedro del Pinatar for all your electrical needs. Fast, efficient and reliable service ✅ Contact us!
 image: base/poster.svg
 
 location: San Pedro del Pinatar
 header:
   bi: servicios/reparaciones-electricas.jpg
-  hanchor: Electricians in San Pedro del Pinatar - Instaladores Autorizados
+  hanchor: Electricians in San Pedro del Pinatar
   md: Authorized Professional Electricians in San Pedro del Pinatar
 
-draft: false
-noindex: false
 tpl:
   sections:
   - file: _header
@@ -93,11 +91,11 @@ org:
   - Torre de la Horadada
   schedule:
   - days:
-    - monday
-    - tuesday
-    - wednesday
-    - thursday
-    - friday
+      mon: true
+      tue: true
+      wed: true
+      thu: true
+      fri: true
     hours:
     - open: 8:00
       close: 20:30

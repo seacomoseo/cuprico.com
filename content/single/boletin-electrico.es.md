@@ -1,7 +1,7 @@
 ---
+slug: boletin-electrico
 title: Boletín Eléctrico
 seo: ᐅ Boletín Eléctrico y Certificados CIE en Murcia
-slug: boletin-electrico
 description: llll➤ Obtén tu boletín eléctrico y certificados de instalación eléctrica en Murcia. Precios accesibles, servicio rápido y confiable ✅ ¡Consúltanos!
 image: servicios/boletin-electrico-certificaciones.jpg
 
@@ -25,8 +25,6 @@ header:
   hanchor: Boletín Eléctrico y Certificados de Instalación Eléctrica (CIE) en Murcia
   md: Boletín Eléctrico y Certificados de Instalación Eléctrica (CIE)
 
-draft: false
-noindex: false
 tpl:
   sections:
   - file: _header
