@@ -1,11 +1,11 @@
 title: Ubicaciones
 base: service
 weight: 1
-icon: plug
+icon: power
 emoji: 🔌
 tpl:
   menu:
-    logo: false
+    logo: n
     sticky: auto
     size: lg
     auto: same
@@ -15,12 +15,12 @@ tpl:
     color: dark
     alpha: 0.9
     parallax: fix
-    caps: true
-    line: true
+    caps: y
+    line: y
     div: tilt
-    div_x: true
+    div_x: y
   - color: white
-    div_x: false
+    div_x: n
   sections:
   - file: _header
   - file: colaboradores
@@ -34,14 +34,4 @@ tpl:
     color: none
     align: left
     image: hide
-    shade: false
-es:
-  permalinks: electricistas
-  slug: electricistas
-  title: Electricistas
-  singular: Electricistas
-en:
-  permalinks: electricians
-  slug: electricians
-  title: Electricians
-  singular: Electricians
+    shade: n

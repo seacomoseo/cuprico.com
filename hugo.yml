@@ -1,5 +1,5 @@
 baseURL: https://cuprico.com
-buildFuture: true
+buildFuture: y
 theme: [sansoul]
 params:
   domain: cuprico.com
@@ -8,4 +8,4 @@ params:
   netlify_hook: ''
   cloudflare_id: YmY5ZTdjNDM1NzMxYjI2YTg3ZGYyZWI1YjEwYWNmNmMK
   drive_link: https://drive.google.com/file/d/1FiINzKua2k2x-Ozus7_GE79iTQwDopEL
-  drive_mails: cupricotornero@gmail.com; cupricolorente@gmail.com
+  drive_mails: cupricotornero@gmail.com, cupricolorente@gmail.com

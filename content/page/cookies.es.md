@@ -1,8 +1,8 @@
 ---
 title: Política de Cookies
 slug: cookies
-icon: cookie-bite
-noindex: true
+icon: cookie
+noindex: y
 type: system
 weight: 3
 ---
@@ -108,18 +108,18 @@ Por último, indicarte que, si activas **cookies de terceros** (empresas externa
 
 Para que te sea mucho más fácil, a continuación te relacionamos una serie de enlaces a las pautas de desactivación de cookies de los navegadores de uso común:
 
-- :link: [Google Chrome](https://support.google.com/accounts/answer/61416?co=GENIE.Platform%3DDesktop&hl=es "[nofollow]")
-- :link: [Mozilla Firefox](https://support.mozilla.org/es/kb/Borrar%20cookies "[nofollow]")
-- :link: [Internet Explorer](https://support.microsoft.com/es-es/help/278835/how-to-delete-cookie-files-in-internet-explorer "[nofollow]")
-- :link: [Safari](https://support.apple.com/es-es/guide/safari/sfri11471/mac "[nofollow]")
-- :link: [Safari para iOS (iPhone y iPad)](https://support.apple.com/es-es/HT201265 "[nofollow]")
-- :link: [Google Chrome para Android](https://support.google.com/accounts/answer/61416?co=GENIE.Platform%3DAndroid&hl=es&oco=1 "[nofollow]")
-- :link: [Google Chrome para iPhone y iPad](https://support.google.com/accounts/answer/61416?co=GENIE.Platform%3DiOS&hl=es&oco=1 "[nofollow]")
+- ::link:: [Google Chrome](https://support.google.com/accounts/answer/61416?co=GENIE.Platform%3DDesktop&hl=es "[nofollow]")
+- ::link:: [Mozilla Firefox](https://support.mozilla.org/es/kb/Borrar%20cookies "[nofollow]")
+- ::link:: [Internet Explorer](https://support.microsoft.com/es-es/help/278835/how-to-delete-cookie-files-in-internet-explorer "[nofollow]")
+- ::link:: [Safari](https://support.apple.com/es-es/guide/safari/sfri11471/mac "[nofollow]")
+- ::link:: [Safari para iOS (iPhone y iPad)](https://support.apple.com/es-es/HT201265 "[nofollow]")
+- ::link:: [Google Chrome para Android](https://support.google.com/accounts/answer/61416?co=GENIE.Platform%3DAndroid&hl=es&oco=1 "[nofollow]")
+- ::link:: [Google Chrome para iPhone y iPad](https://support.google.com/accounts/answer/61416?co=GENIE.Platform%3DiOS&hl=es&oco=1 "[nofollow]")
 
 Así mismo, te relacionamos los enlaces a los sistemas propios habilitados por cada uno de los referidos proveedores externos para la desactivación de sus cookies:
 
-- :link: [Uso de las cookies de Google Analytics en los sitios web](https://developers.google.com/analytics/devguides/collection/analyticsjs/cookie-usage?hl=es "[nofollow]")
-- :link: [Condiciones de privacidad de Google Analytics](https://www.google.com/policies/privacy/ "[nofollow]")
-- :link: [Condiciones de las cookies de Google](http://www.google.com/policies/technologies/types/ "[nofollow]")
+- ::link:: [Uso de las cookies de Google Analytics en los sitios web](https://developers.google.com/analytics/devguides/collection/analyticsjs/cookie-usage?hl=es "[nofollow]")
+- ::link:: [Condiciones de privacidad de Google Analytics](https://www.google.com/policies/privacy/ "[nofollow]")
+- ::link:: [Condiciones de las cookies de Google](http://www.google.com/policies/technologies/types/ "[nofollow]")
 
 **Muchas gracias por tu colaboración**

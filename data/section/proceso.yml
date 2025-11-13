@@ -6,7 +6,7 @@ md: Rápido, transparente y con garantía
 md_align: center
 size: sm
 step:
-  line: true
+  line: y
   icon_size: 2
 params:
 - from: process.title

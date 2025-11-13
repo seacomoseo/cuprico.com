@@ -10,9 +10,9 @@ box:
 modal:
   color: white
   ratio: 16/9
-  inset: true
-  caps: true
-  line: true
+  inset: y
+  caps: y
+  line: y
   size: xs
 params:
 - from: services.title

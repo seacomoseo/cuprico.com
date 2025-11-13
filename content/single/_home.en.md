@@ -70,7 +70,7 @@ org:
   - +34 641 47 94 90
   - 603 60 66 15
   address:
-    name: Cúprico Electrical Services ⚡
+  - name: Cúprico Electrical Services ⚡
     street: C. Agustín Escribano, 49
     pc: '30740'
     locality: San Pedro del Pinatar
@@ -91,11 +91,11 @@ org:
   - Torre de la Horadada
   schedule:
   - days:
-      mon: true
-      tue: true
-      wed: true
-      thu: true
-      fri: true
+      mon: y
+      tue: y
+      wed: y
+      thu: y
+      fri: y
     hours:
     - open: 8:00
       close: 20:30

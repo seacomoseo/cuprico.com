@@ -10,11 +10,11 @@ params:
 boxes:
 - review:
     color: white
-    slider: true
+    slider: y
     cols: 3
   params:
   - from: reviews.reviews
     to: reviews
 - boxes:
   - md: |
-      [[:star: {{% param reviews.more %}}]](https://g.page/r/Ceu-g_MFBM04EAI/review "[nofollow]")
+      [[::star:: {{% param reviews.more %}}]](https://g.page/r/Ceu-g_MFBM04EAI/review "[nofollow]")

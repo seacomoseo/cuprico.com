@@ -12,9 +12,9 @@ box:
   cols_vs: 2
   gap: 2
   ratio: 2.5
-  hide_shadow: true
+  hide_shadow: y
   button: hide
-  lock: true
+  lock: y
   align_y: center
 boxes:
 

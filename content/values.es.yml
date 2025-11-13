@@ -5,35 +5,35 @@ menu:
   items:
   - link: /
     label: Inicio
-    icon: house
+    icon: home
     anchor: Electricistas en San Pedro del Pinatar
   # - link: /#colaboradores
   #   label: Colaboradores
-  #   icon: handshake-simple
+  #   icon: handshake
   # - link: /#destacamos
   #   label: Destacamos
-  #   icon: certificate
+  #   icon: verified
   - link: /#servicios
     label: Servicios
     icon: bolt
   - link: /#proceso
     label: Proceso
-    icon: shoe-prints
+    icon: footprint
   - link: /#faq
     label: FAQ
-    icon: circle-question
+    icon: help_outline
   - link: /#resenas
     label: Reseñas
-    icon: comment
+    icon: reviews
   - link: /#portfolio
     label: Portfolio
-    icon: rectangle-history
+    icon: cards_star
   - link: /#nosotros
     label: Nosotros
-    icon: circle-info
+    icon: info
   - link: /#contacto
     label: Contacto
-    icon: paper-plane
+    icon: send
     button: cta
 
 
@@ -47,7 +47,7 @@ features:
   subtitle: ¿Qué nos caracteriza?
 
   boxes_old:
-  - icon: clock
+  - icon: schedule
     title: Puntualidad real
     subtitle: Compromiso sin igual
     md: Confirmamos cita y nos comprometemos a cumplir con nuestra palabra; sin esperas
@@ -63,16 +63,16 @@ features:
     md: Solo materiales de primera y mano de obra especializada; garantía escrita de dos años
 
   boxes:
-  # - icon: stopwatch
+  # - icon: timer
   #   title: '< 2 horas'
   #   subtitle: de llegada
   - icon: star
     title: '\> 100'
     subtitle: reseñas de 5 ★
-  - icon: badge-percent
+  - icon: percent_discount
     title: '99 %'
     subtitle: de entregas en 1ª visita
-  - icon: certificate
+  - icon: verified
     title: 2-4 años
     subtitle: de garantía
 
@@ -89,7 +89,7 @@ services:
     title: Instalaciones Eléctricas
     subtitle: Residenciales y Comerciales
     image: servicios/instalaciones-electricas.jpg
-    icon: plug
+    icon: power
     md: |
       Diseñamos y ejecutamos cuadros, circuitos y alumbrado conforme al REBT.
 
@@ -103,13 +103,13 @@ services:
     title: Cargadores EV
     subtitle: Vehículos Eléctricos
     image: servicios/cargadores-ev.jpg
-    icon: car-bolt
+    icon: ev_charger
     md: |
       Montaje y legalización de Wall Connector en < 24 h.
 
       Realizamos tramitación de subvenciones si las hay.
 
-      [[:plus: Más información]](/cargadores-ev/ "Venta e Instalación de Cargadores para Vehículos Eléctricos")
+      [[::add:: Más información]](/cargadores-ev/ "Venta e Instalación de Cargadores para Vehículos Eléctricos")
 
   - id: boletin-electrico-certificaciones
     link: '#boletin-electrico-certificaciones'
@@ -117,13 +117,13 @@ services:
     title: Boletín Eléctrico
     subtitle: y Certificaciones
     image: servicios/boletin-electrico-certificaciones.jpg
-    icon: file-check
+    icon: task
     md: |
       Emitimos su CIE en {{% param location %}}.
 
       Entrega en 24 h - 14 d (según inspección).
 
-      [[:plus: Más información]](/boletin-electrico/ "Boletín Eléctrico y Certificados de Instalación Eléctrica (CIE)")
+      [[::add:: Más información]](/boletin-electrico/ "Boletín Eléctrico y Certificados de Instalación Eléctrica (CIE)")
 
   - id: instalacion-placas-solares
     link: '#instalacion-placas-solares'
@@ -131,13 +131,13 @@ services:
     title: Instalación de Placas Solares
     subtitle: Fotovoltaicas
     image: servicios/instalacion-placas-solares.jpg
-    icon: solar-panel
+    icon: solar_power
     md: |
       Estudio gratuito, ingeniería, instalación y subvenciones.
 
       Paneles premium y monitorización online.
 
-      [[:plus: Más información]](/instaladores-placas-solares/ "Instaladores de Placas Solares Fotovoltaicas en San Pedro del Pinatar")
+      [[::add:: Más información]](/instaladores-placas-solares/ "Instaladores de Placas Solares Fotovoltaicas en San Pedro del Pinatar")
 
   - id: alarmas-incendios
     link: '#alarmas-incendios'
@@ -145,7 +145,7 @@ services:
     title: Alarmas contra Incendios
     subtitle: Detección temprana certificada
     image: servicios/alarmas-incendios.jpg
-    icon: light-emergency-on
+    icon: e911_emergency
     md: |
       Sistemas interconectados y mantenimiento anual.
 
@@ -156,7 +156,7 @@ services:
     hanchor: Reparaciones Eléctricas en {{% param location %}}
     title: Reparaciones Eléctricas
     image: servicios/reparaciones-electricas.jpg
-    icon: plug-circle-check
+    icon: electrical_services
     md: |
       - Técnico puntual y repuesto a bordo
       - Luz restablecida en una sola visita
@@ -165,7 +165,7 @@ services:
     link: '#domotica'
     title: Domótica
     image: servicios/domotica.jpg
-    icon: house-signal
+    icon: settings_remote
     md: |
       Controle iluminación, clima y seguridad desde su móvil.
 
@@ -175,7 +175,7 @@ services:
     link: '#telecomunicaciones'
     title: Telecomunicaciones
     image: servicios/telecomunicaciones.jpg
-    icon: tower-broadcast
+    icon: cell_tower
     md: |
       - Antenas Terrestres (TDT)
       - Antenas Parabólicas
@@ -499,9 +499,9 @@ us:
   title: Nosotros
   subtitle: Electricistas autorizados a su servicio
   md: |
-    - :location-dot: Trabajamos exclusivamente en San Pedro del Pinatar y alrededores para llegar rápidos y resolver a la primera.
-    - :star: Más de 100 reseñas top avalan nuestra seriedad con particulares, comunidades y empresas.
-    - :certificate: Técnicos certificados, precios cerrados y 2-4 años de garantía: su tranquilidad está cubierta.
+    - ::place:: Trabajamos exclusivamente en San Pedro del Pinatar y alrededores para llegar rápidos y resolver a la primera.
+    - ::star:: Más de 100 reseñas top avalan nuestra seriedad con particulares, comunidades y empresas.
+    - ::verified:: Técnicos certificados, precios cerrados y 2-4 años de garantía: su tranquilidad está cubierta.
 
 
 team:
@@ -533,17 +533,17 @@ footer:
   md: |
     <br>
 
-    - :copyright:        {{< internal-link index >}}
-    - :scale-balanced:   {{< internal-link legal >}}
-    - :shield-keyhole:   {{< internal-link privacy >}}
-    - :cookie-bite:      {{< internal-link cookies >}}
-    - :handshake:        {{< internal-link commitment >}}
-    - :seacomoseo:       {{< i18n web_design >}} [seacomoseo.com](https://seacomoseo.com/)
+    - ::copyright::        {{< internal-link index >}}
+    - ::balance::   {{< internal-link legal >}}
+    - ::encrypted::   {{< internal-link privacy >}}
+    - ::cookie::      {{< internal-link cookies >}}
+    - ::handshake::        {{< internal-link commitment >}}
+    - ::brand:seacomoseo::       {{< i18n web_design >}} [seacomoseo.com](https://seacomoseo.com/)
     {.list-inline}
 
     <br>
 
-    :plug: Electricistas en...
+    ::power:: Electricistas en...
     {.h6}
 
     - [San Pedro del Pinatar](/                                                           "Electricistas en San Pedro del Pinatar")
@@ -568,7 +568,7 @@ footer:
     - [Torrevieja](/electricistas/torrevieja/                                             "Electricistas en Torrevieja")
     {.list-inline}
 
-    :solar-panel: Instaladores de Placas Solares en...
+    ::solar_power:: Instaladores de Placas Solares en...
     {.h6}
 
     - [San Pedro del Pinatar](/instaladores-placas-solares/                                             "Instaladores de Placas Solares en San Pedro del Pinatar")
@@ -593,7 +593,7 @@ footer:
     - [Torrevieja](/instaladores-placas-solares/torrevieja/                                             "Instaladores de Placas Solares en Torrevieja")
     {.list-inline}
 
-    :file-check: Otros Servicios
+    ::task:: Otros Servicios
     {.h6}
 
     - [Cargadores Vehículos Eléctricos](/cargadores-ev/ "Venta e Instalación de Cargadores para Vehículos Eléctricos")

@@ -1,8 +1,8 @@
 ---
 title: Política de Privacidad
 slug: privacidad
-icon: shield-keyhole
-noindex: true
+icon: encrypted
+noindex: y
 type: system
 weight: 2
 ---

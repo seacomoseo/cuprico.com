@@ -1,7 +1,7 @@
 name: FAQ ➡️ Cargadores
 size: md
 accordion:
-  headers: true
+  headers: y
   hs: 6
 params:
 - from: faq.title

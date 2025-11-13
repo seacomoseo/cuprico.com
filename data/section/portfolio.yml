@@ -1,6 +1,6 @@
 name: Portfolio
 id: portfolio
-ph: true
+ph: y
 size: fluid
 color: white
 
@@ -20,7 +20,7 @@ gallery:
 #   cols_vs: 2
 #   ratio: 1
 #   gap_vs: 0
-#   hide_radius: true
+#   hide_radius: y
 images:
 
 - portfolio/acabados/2018-06-29-23-21-31.jpg

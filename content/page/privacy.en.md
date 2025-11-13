@@ -1,8 +1,8 @@
 ---
 title: Privacy Policy
 slug: privacy
-icon: shield-keyhole
-noindex: true
+icon: encrypted
+noindex: y
 type: system
 weight: 2
 ---

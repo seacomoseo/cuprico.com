@@ -29,32 +29,32 @@ contact:
 
 - type: whatsapp
   label: 641 47 94 90
-  icon: whatsapp-o
+  icon: brand:whatsapp-o
   button: invert
 - type: whatsapp
   label: 603 60 66 15
-  icon: whatsapp-o
+  icon: brand:whatsapp-o
   button: invert
 
 - type: mail
   label: administracion@cuprico.com
   button: similar
-  full: true
+  full: y
 
 form:
-  email: administracion@cuprico.com, sansoul@seacomoseo.com
+  email: administracion@cuprico.com
 inputs:
 - type: text
   name: Nombre
   label: '{{ param contact.name }}'
-  required: true
+  required: y
 - type: tel
   name: Teléfono
   label: '{{ param contact.phone }}'
 - type: email
   name: Email
-  required: true
+  required: y
 - type: textarea
   name: Mensaje
   label: '{{ param contact.message }}'
-  required: true
+  required: y

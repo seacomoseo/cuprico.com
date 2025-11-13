@@ -1,0 +1,161 @@
+- name: partners
+  label: Colaboradores
+  widget: object
+  sub:
+  - var: box_title
+  - var: box_subtitle
+- name: features
+  label: Destacamos
+  widget: object
+  sub:
+  - var: box_title
+  - var: box_subtitle
+  - name: boxes
+    label: Destacado
+    widget: list
+    sub:
+    - var: box_icon_id
+    - var: box_title
+    - var: box_subtitle
+    - var: box_md
+- name: services
+  label: Servicios
+  widget: object
+  sub:
+  - var: box_title
+  - var: box_subtitle
+  - name: modals
+    label: Elementos
+    widget: list
+    sub:
+    - var: box_id
+    - var: box_button_link
+    - var: box_hanchor
+    - var: box_title
+    - var: box_subtitle
+    - var: box_icon_id
+    - var: box_md
+  - name: solar_plates
+    label: Placas Solares
+    widget: object
+    sub:
+    - var: box_hanchor
+    - var: box_title
+    - var: box_subtitle
+    - var: box_md
+  - name: chargers_ev
+    label: Cargadores EV
+    widget: object
+    sub:
+    - var: box_hanchor
+    - var: box_title
+    - var: box_subtitle
+    - var: box_md
+  - name: bulletin
+    label: Boletín
+    widget: object
+    sub:
+    - var: box_hanchor
+    - var: box_title
+    - var: box_subtitle
+    - var: box_md
+- name: process
+  label: Proceso
+  widget: object
+  sub:
+  - var: box_title
+  - var: box_subtitle
+  - var: box_md
+  - var: box_steps
+- name: faq
+  label: FAQ
+  widget: object
+  sub:
+  - var: box_title
+  - var: box_subtitle
+  - var: box_accordion
+  - var: box_accordion
+    name: solar_plates
+    label: Placas Solares
+  - var: box_accordion
+    name: chargers_ev
+    label: Cargadores EV
+  - var: box_accordion
+    name: bulletin
+    label: Boletín
+- name: reviews
+  label: Reseñas
+  widget: object
+  sub:
+  - var: box_title
+  - var: box_subtitle
+  - name: more
+    label: Botón "Más Reseñas"
+  - var: box_reviews
+- name: portfolio
+  label: Portfolio
+  widget: object
+  sub:
+  - var: box_title
+  - var: box_subtitle
+- name: us
+  label: Nosotros
+  widget: object
+  sub:
+  - var: box_title
+  - var: box_subtitle
+  - var: box_md
+- name: team
+  label: Equipo
+  widget: object
+  sub:
+  - var: box_title
+  - var: box_subtitle
+- name: contact
+  label: Contacto
+  widget: object
+  sub:
+  - var: box_title
+  - var: box_subtitle
+  - name: days
+    label: Días
+  - name: name
+    label: Nombre
+  - name: phone
+    label: Teléfono
+  - name: message
+    label: Mensaje
+  - name: consent
+    widget: markdown
+    label: Texto de Consentimiento
+- name: footer
+  label: Footer
+  widget: object
+  sub:
+  - var: box_md
+- name: others
+  label: Otros
+  widget: object
+  sub:
+  - name: see_more
+    label: Ver más
+
+- types:
+  - electricians
+  - single
+  - solar
+  name: location
+  label: Ubicación
+  hint: Nombre de la Ubicación
+- types:
+  - electricians
+  - single
+  - solar
+  name: header
+  label: Cabecera
+  widget: object
+  sub:
+  - var: box_bg_image
+  - var: box_hanchor
+  - var: box_subtitle
+  - var: box_md

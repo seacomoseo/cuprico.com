@@ -2,7 +2,7 @@ name: Destacamos OLD
 id: destacamos
 box:
   cols: 3
-  line: true
+  line: y
 params:
 - from: features.title
   to: title

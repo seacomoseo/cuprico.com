@@ -3,14 +3,14 @@ tpl:
   bg:
     color: white
   menu:
-    logo: true
+    logo: y
     logo_align: left
     sticky: auto
     color: white
-    transparent: true
+    transparent: y
     size: sm
-    hide_icons: true
-    hide_custom: true
+    hide_icons: y
+    hide_custom: y
     auto: home
   callnow: auto
   section:
@@ -29,8 +29,8 @@ tpl:
   list:
     cols: 3
     color: similar
-    shade: true
-    inset: true
+    shade: y
+    inset: y
     ratio: 4/3
     icon: hide
     md: hide
@@ -38,16 +38,4 @@ tpl:
     tags:
     - type: date
   related:
-    slider: true
-params:
-- name: location
-  label: Ubicación
-  hint: Nombre de la Ubicación
-- name: header
-  label: Cabecera
-  widget: object
-  params:
-  - var: box_bg_image
-  - var: box_hanchor
-  - var: box_subtitle
-  - var: box_md
+    slider: y

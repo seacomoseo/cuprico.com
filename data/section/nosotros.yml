@@ -15,8 +15,8 @@ box:
   align: left
   align_vl: left
   align_y: center
-  caps: true
-  line: true
+  caps: y
+  line: y
 boxes:
 - image: base/logo-h.svg
 - params:

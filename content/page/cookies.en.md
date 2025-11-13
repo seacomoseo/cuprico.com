@@ -1,8 +1,8 @@
 ---
 title: Cookie Policy
 slug: cookies
-icon: cookie-bite
-noindex: true
+icon: cookie
+noindex: y
 type: system
 weight: 3
 ---
@@ -108,18 +108,18 @@ Finally, note that if you enable **third-party cookies** (external companies tha
 
 To make it easier for you, below we list links to cookie deactivation guidelines for commonly used browsers:
 
-- :link: [Google Chrome](https://support.google.com/accounts/answer/61416?co=GENIE.Platform%3DDesktop&hl=en "[nofollow]")
-- :link: [Mozilla Firefox](https://support.mozilla.org/en/kb/delete-cookies "[nofollow]")
-- :link: [Internet Explorer](https://support.microsoft.com/en-us/help/278835/how-to-delete-cookie-files-in-internet-explorer "[nofollow]")
-- :link: [Safari](https://support.apple.com/en/guide/safari/sfri11471/mac "[nofollow]")
-- :link: [Safari for iOS (iPhone and iPad)](https://support.apple.com/en-us/HT201265 "[nofollow]")
-- :link: [Google Chrome for Android](https://support.google.com/accounts/answer/61416?co=GENIE.Platform%3DAndroid&hl=en&oco=1 "[nofollow]")
-- :link: [Google Chrome for iPhone and iPad](https://support.google.com/accounts/answer/61416?co=GENIE.Platform%3DiOS&hl=en&oco=1 "[nofollow]")
+- ::link:: [Google Chrome](https://support.google.com/accounts/answer/61416?co=GENIE.Platform%3DDesktop&hl=en "[nofollow]")
+- ::link:: [Mozilla Firefox](https://support.mozilla.org/en/kb/delete-cookies "[nofollow]")
+- ::link:: [Internet Explorer](https://support.microsoft.com/en-us/help/278835/how-to-delete-cookie-files-in-internet-explorer "[nofollow]")
+- ::link:: [Safari](https://support.apple.com/en/guide/safari/sfri11471/mac "[nofollow]")
+- ::link:: [Safari for iOS (iPhone and iPad)](https://support.apple.com/en-us/HT201265 "[nofollow]")
+- ::link:: [Google Chrome for Android](https://support.google.com/accounts/answer/61416?co=GENIE.Platform%3DAndroid&hl=en&oco=1 "[nofollow]")
+- ::link:: [Google Chrome for iPhone and iPad](https://support.google.com/accounts/answer/61416?co=GENIE.Platform%3DiOS&hl=en&oco=1 "[nofollow]")
 
 We also list links to the systems provided by each of the aforementioned external providers for disabling their cookies:
 
-- :link: [Use of Google Analytics cookies on websites](https://developers.google.com/analytics/devguides/collection/analyticsjs/cookie-usage?hl=en "[nofollow]")
-- :link: [Google Analytics Privacy Terms](https://www.google.com/policies/privacy/ "[nofollow]")
-- :link: [Google Cookie Terms](http://www.google.com/policies/technologies/types/ "[nofollow]")
+- ::link:: [Use of Google Analytics cookies on websites](https://developers.google.com/analytics/devguides/collection/analyticsjs/cookie-usage?hl=en "[nofollow]")
+- ::link:: [Google Analytics Privacy Terms](https://www.google.com/policies/privacy/ "[nofollow]")
+- ::link:: [Google Cookie Terms](http://www.google.com/policies/technologies/types/ "[nofollow]")
 
 **Thank you for your cooperation**

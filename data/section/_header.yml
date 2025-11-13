@@ -16,11 +16,11 @@ boxes:
   - image: base/logo.svg
     fit: .66
     fit_vs: .8
-  - caps: true
+  - caps: y
     md: |
-      :bolt:
+      ::bolt::
       {{% param others.subtitle %}}
-      :bolt:
+      ::bolt::
       {.subtitle}
 
       {{% param header.md %}}

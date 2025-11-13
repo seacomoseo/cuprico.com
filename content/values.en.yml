@@ -4,29 +4,29 @@ menu:
   items:
   - link: /en/
     label: Home
-    icon: house
+    icon: home
     anchor: Electricians in San Pedro del Pinatar
   - link: /en/#servicios
     label: Services
     icon: bolt
   - link: /en/#proceso
     label: Process
-    icon: shoe-prints
+    icon: footprint
   - link: /en/#faq
     label: FAQ
-    icon: circle-question
+    icon: help_outline
   - link: /en/#resenas
     label: Reviews
-    icon: comment
+    icon: reviews
   - link: /en/#portfolio
     label: Portfolio
-    icon: rectangle-history
+    icon: cards_star
   - link: /en/#nosotros
     label: About Us
-    icon: circle-info
+    icon: info
   - link: /en/#contacto
     label: Contact
-    icon: paper-plane
+    icon: send
     button: cta
 partners:
   title: Partners
@@ -35,7 +35,7 @@ features:
   title: Features
   subtitle: What characterizes us?
   boxes_old:
-  - icon: clock
+  - icon: schedule
     title: Real Punctuality
     subtitle: Unmatched commitment
     md: We confirm appointments and commit to keep our word; no waiting time
@@ -51,10 +51,10 @@ features:
   - icon: star
     title: \> 100
     subtitle: 5 ★ reviews
-  - icon: badge-percent
+  - icon: percent_discount
     title: 99 %
     subtitle: deliveries on 1st visit
-  - icon: certificate
+  - icon: verified
     title: 2-4 years
     subtitle: warranty
 services:
@@ -67,7 +67,7 @@ services:
     title: Electrical Installations
     subtitle: Residential and Commercial
     image: servicios/instalaciones-electricas.jpg
-    icon: plug
+    icon: power
     md: |
       We design and execute panels, circuits and lighting according to REBT.
 
@@ -80,46 +80,46 @@ services:
     title: EV Chargers
     subtitle: Electric Vehicles
     image: servicios/cargadores-ev.jpg
-    icon: car-bolt
+    icon: ev_charger
     md: |
       Assembly and legalization of Wall Connector in < 24 h.
 
       We carry out the processing of subsidies, if any.
 
-      [[:plus: More information]](/en/ev-chargers/ "Sales and Installation of Electric Vehicle Chargers")
+      [[::add:: More information]](/en/ev-chargers/ "Sales and Installation of Electric Vehicle Chargers")
   - id: certificates-electrical-installation
     link: '#certificates-electrical-installation'
     hanchor: Electrical Certificate in {{% param location %}}
     title: Electrical Certificate
     subtitle: and Certifications
     image: servicios/boletin-electrico-certificaciones.jpg
-    icon: file-check
+    icon: task
     md: |
       We issue your CIE in {{% param location %}}.
 
       Delivery in 24 h - 14 d (depending on inspection).
 
-      [[:plus: More info]](/en/certificates-electrical-installation/ "Electrical Installation Certificates in Murcia, Spain")
+      [[::add:: More info]](/en/certificates-electrical-installation/ "Electrical Installation Certificates in Murcia, Spain")
   - id: solar-panel-installation
     link: '#solar-panel-installation'
     hanchor: Solar Panel Installation in {{% param location %}}
     title: Solar Panel Installation
     subtitle: Photovoltaic
     image: servicios/instalacion-placas-solares.jpg
-    icon: solar-panel
+    icon: solar_power
     md: |
       Free study, engineering, installation and subsidies.
 
       Premium panels and online monitoring.
 
-      [[:plus: More info]](/en/solar-panel-installers/ "Installers of Photovoltaic Solar Panels in San Pedro del Pinatar")
+      [[::add:: More info]](/en/solar-panel-installers/ "Installers of Photovoltaic Solar Panels in San Pedro del Pinatar")
   - id: fire-alarms
     link: '#fire-alarms'
     hanchor: Fire Alarms in {{% param location %}}
     title: Fire Alarms
     subtitle: Certified early detection
     image: servicios/alarmas-incendios.jpg
-    icon: light-emergency-on
+    icon: e911_emergency
     md: |
       Interconnected systems and annual maintenance.
 
@@ -129,7 +129,7 @@ services:
     hanchor: Electrical Repairs in {{% param location %}}
     title: Electrical Repairs
     image: servicios/reparaciones-electricas.jpg
-    icon: plug-circle-check
+    icon: electrical_services
     md: |
       - Technician on time and spare parts on board
       - Power restored in a single visit
@@ -137,7 +137,7 @@ services:
     link: '#home-automation'
     title: Home Automation
     image: servicios/domotica.jpg
-    icon: house-signal
+    icon: settings_remote
     md: |
       Control lighting, climate and security from your mobile.
 
@@ -146,7 +146,7 @@ services:
     link: '#telecommunications'
     title: Telecommunications
     image: servicios/telecomunicaciones.jpg
-    icon: tower-broadcast
+    icon: cell_tower
     md: |
       - Terrestrial Antennas (DTT)
       - Satellite Antennas
@@ -418,9 +418,9 @@ us:
   title: About Us
   subtitle: Authorized electricians at your service
   md: |
-    - :location-dot: We work exclusively in San Pedro del Pinatar and surroundings to arrive quickly and solve the first time.
-    - :star: More than 100 top reviews endorse our seriousness with individuals, communities and companies.
-    - :certificate: Certified technicians, closed prices and 2-4 years warranty: your peace of mind is covered.
+    - ::place:: We work exclusively in San Pedro del Pinatar and surroundings to arrive quickly and solve the first time.
+    - ::star:: More than 100 top reviews endorse our seriousness with individuals, communities and companies.
+    - ::verified:: Certified technicians, closed prices and 2-4 years warranty: your peace of mind is covered.
 team:
   title: Team
   subtitle: Technicians who respond
@@ -446,17 +446,17 @@ footer:
   md: |
     <br>
 
-    - :copyright:        {{< internal-link index >}}
-    - :scale-balanced:   {{< internal-link legal >}}
-    - :shield-keyhole:   {{< internal-link privacy >}}
-    - :cookie-bite:      {{< internal-link cookies >}}
-    - :handshake:        {{< internal-link commitment >}}
-    - :seacomoseo:       {{< i18n web_design >}} [seacomoseo.com](https://seacomoseo.com/)
+    - ::copyright::        {{< internal-link index >}}
+    - ::balance::   {{< internal-link legal >}}
+    - ::encrypted::   {{< internal-link privacy >}}
+    - ::cookie::      {{< internal-link cookies >}}
+    - ::handshake::        {{< internal-link commitment >}}
+    - ::brand:seacomoseo::       {{< i18n web_design >}} [seacomoseo.com](https://seacomoseo.com/)
     {.list-inline}
 
     <br>
 
-    :plug: Electricians in...
+    ::power:: Electricians in...
     {.h6}
 
     - [San Pedro del Pinatar](/en/                                                          "Electricians in San Pedro del Pinatar")
@@ -481,7 +481,7 @@ footer:
     - [Torrevieja](/en/electricians/torrevieja/                                             "Electricians in Torrevieja")
     {.list-inline}
 
-    :solar-panel: Installers of Solar Panels in...
+    ::solar_power:: Installers of Solar Panels in...
     {.h6}
 
     - [San Pedro del Pinatar](/en/solar-panel-installers/                                             "Solar Panel Installers in San Pedro del Pinatar")
@@ -506,7 +506,7 @@ footer:
     - [Torrevieja](/en/solar-panel-installers/torrevieja/                                             "Solar Panel Installers in Torrevieja")
     {.list-inline}
 
-    :file-check: Other Services
+    ::task:: Other Services
     {.h6}
 
     - [Electric Vehicle Chargers](/en/ev-chargers/             "Sales and Installation of Electric Vehicle Chargers")
