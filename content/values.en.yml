@@ -63,7 +63,7 @@ services:
   modals:
   - id: electrical-installations
     link: '#electrical-installations'
-    hanchor: Electrical Installations in {{% param location %}}
+    hanchor: Electrical Installations in {{ param location }}
     title: Electrical Installations
     subtitle: Residential and Commercial
     image: servicios/instalaciones-electricas.jpg
@@ -89,20 +89,20 @@ services:
       [[::add:: More information]](/en/ev-chargers/ "Sales and Installation of Electric Vehicle Chargers")
   - id: certificates-electrical-installation
     link: '#certificates-electrical-installation'
-    hanchor: Electrical Certificate in {{% param location %}}
+    hanchor: Electrical Certificate in {{ param location }}
     title: Electrical Certificate
     subtitle: and Certifications
     image: servicios/boletin-electrico-certificaciones.jpg
     icon: task
     md: |
-      We issue your CIE in {{% param location %}}.
+      We issue your CIE in {{ param location }}.
 
       Delivery in 24 h - 14 d (depending on inspection).
 
       [[::add:: More info]](/en/certificates-electrical-installation/ "Electrical Installation Certificates in Murcia, Spain")
   - id: solar-panel-installation
     link: '#solar-panel-installation'
-    hanchor: Solar Panel Installation in {{% param location %}}
+    hanchor: Solar Panel Installation in {{ param location }}
     title: Solar Panel Installation
     subtitle: Photovoltaic
     image: servicios/instalacion-placas-solares.jpg
@@ -115,7 +115,7 @@ services:
       [[::add:: More info]](/en/solar-panel-installers/ "Installers of Photovoltaic Solar Panels in San Pedro del Pinatar")
   - id: fire-alarms
     link: '#fire-alarms'
-    hanchor: Fire Alarms in {{% param location %}}
+    hanchor: Fire Alarms in {{ param location }}
     title: Fire Alarms
     subtitle: Certified early detection
     image: servicios/alarmas-incendios.jpg
@@ -126,7 +126,7 @@ services:
       Protect your home or business from today.
   - id: electrical-repairs
     link: '#electrical-repairs'
-    hanchor: Electrical Repairs in {{% param location %}}
+    hanchor: Electrical Repairs in {{ param location }}
     title: Electrical Repairs
     image: servicios/reparaciones-electricas.jpg
     icon: electrical_services
@@ -153,12 +153,12 @@ services:
       - Network Cabling
       - Access Points
       - Optical Fiber
-      - In {{% param location %}}
+      - In {{ param location }}
   solar_plates:
     title: Services
     subtitle: Solar Panels
     md: |
-      Switch to **solar self-consumption in {{% param location %}}** with our certified photovoltaic solar panel installers.
+      Switch to **solar self-consumption in {{ param location }}** with our certified photovoltaic solar panel installers.
 
       - Production, orientation and shadow study with PV-Sol software.
       - Subsidy management and surplus compensation (RD 244/2019).
@@ -174,7 +174,7 @@ services:
     title: Services
     subtitle: Sale and Installation
     md: |
-      Specialists in **installation of charging points for electric vehicles** in single-family homes, community garages and businesses in {{% param location %}}.
+      Specialists in **installation of charging points for electric vehicles** in single-family homes, community garages and businesses in {{ param location }}.
 
       - Wallbox, Circutor, V2C and Tesla Wall Connector certified IRVE.
       - Dynamic load balancing and overvoltage protections.
@@ -432,7 +432,7 @@ contact:
   phone: Phone
   message: Message
   consent: |
-    I consent to the use of my data for the purposes indicated in the [privacy policy](/privacy/ "[nofollow blank]") and to receive advertising from your entity.
+    I consent to the use of my data for the purposes indicated in the [privacy policy](/en/privacy/ "[nofollow blank]") and to receive advertising from your entity.
 
     - **Data controller:** INSTALACIONES ELÉCTRICAS TORNERO Y LORENTE S.L.
     - **Address of the data controller:** C/Jara Carrillo, 11, 30740 - San Pedro del Pinatar (Murcia)
@@ -441,7 +441,7 @@ contact:
     - **Legitimacy:** We will only process your data with your prior consent, which you can provide us by checking the corresponding box provided for this purpose.
     - **Recipients:** In general, only duly authorized personnel of our entity will have access to the information we request from you.
     - **Rights:** You have the right to know what information we have about you, to correct it, and to delete it, as explained in the additional information available on our website.
-    - **Additional information:** More information in our [privacy policy](/privacy/ "[nofollow blank]").
+    - **Additional information:** More information in our [privacy policy](/en/privacy/ "[nofollow blank]").
 footer:
   md: |
     <br>

@@ -9,9 +9,11 @@ params:
 
 boxes:
 - review:
+    cols: 3
     color: white
     slider: y
-    cols: 3
+    icon: keyboard_double_arrow_left
+    icon_right: keyboard_double_arrow_right
   params:
   - from: reviews.reviews
     to: reviews

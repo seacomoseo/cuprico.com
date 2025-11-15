@@ -85,7 +85,7 @@ services:
 
   - id: instalaciones-electricas
     link: '#instalaciones-electricas'
-    hanchor: Instalaciones Eléctricas en {{% param location %}}
+    hanchor: Instalaciones Eléctricas en {{ param location }}
     title: Instalaciones Eléctricas
     subtitle: Residenciales y Comerciales
     image: servicios/instalaciones-electricas.jpg
@@ -113,13 +113,13 @@ services:
 
   - id: boletin-electrico-certificaciones
     link: '#boletin-electrico-certificaciones'
-    hanchor: Boletín Eléctrico en {{% param location %}}
+    hanchor: Boletín Eléctrico en {{ param location }}
     title: Boletín Eléctrico
     subtitle: y Certificaciones
     image: servicios/boletin-electrico-certificaciones.jpg
     icon: task
     md: |
-      Emitimos su CIE en {{% param location %}}.
+      Emitimos su CIE en {{ param location }}.
 
       Entrega en 24 h - 14 d (según inspección).
 
@@ -127,7 +127,7 @@ services:
 
   - id: instalacion-placas-solares
     link: '#instalacion-placas-solares'
-    hanchor: Instalación de Placas Solares en {{% param location %}}
+    hanchor: Instalación de Placas Solares en {{ param location }}
     title: Instalación de Placas Solares
     subtitle: Fotovoltaicas
     image: servicios/instalacion-placas-solares.jpg
@@ -141,7 +141,7 @@ services:
 
   - id: alarmas-incendios
     link: '#alarmas-incendios'
-    hanchor: Alarmas contra Incendios en {{% param location %}}
+    hanchor: Alarmas contra Incendios en {{ param location }}
     title: Alarmas contra Incendios
     subtitle: Detección temprana certificada
     image: servicios/alarmas-incendios.jpg
@@ -153,7 +153,7 @@ services:
 
   - id: reparaciones-electricas
     link: '#reparaciones-electricas'
-    hanchor: Reparaciones Eléctricas en {{% param location %}}
+    hanchor: Reparaciones Eléctricas en {{ param location }}
     title: Reparaciones Eléctricas
     image: servicios/reparaciones-electricas.jpg
     icon: electrical_services
@@ -182,13 +182,13 @@ services:
       - Cableado de Red
       - Puntos de Acceso
       - Fibra Óptica
-      - En {{% param location %}}
+      - En {{ param location }}
 
   solar_plates:
     title: Servicios
     subtitle: Paneles Solares
     md: |
-      Pásese al **autoconsumo solar en {{% param location %}}** con nuestros instaladores de placas solares fotovoltaicas certificados.
+      Pásese al **autoconsumo solar en {{ param location }}** con nuestros instaladores de placas solares fotovoltaicas certificados.
 
       - Estudio de producción, orientación y sombras con software PV-Sol.
       - Gestión de subvenciones y compensación de excedentes (RD 244/2019).
@@ -205,7 +205,7 @@ services:
     title: Servicios
     subtitle: Venta e Instalación
     md: |
-      Especialistas en **instalación de puntos de recarga para vehículos eléctricos** en viviendas unifamiliares, garajes comunitarios y negocios de {{% param location %}}.
+      Especialistas en **instalación de puntos de recarga para vehículos eléctricos** en viviendas unifamiliares, garajes comunitarios y negocios de {{ param location }}.
 
       - Wallbox, Circutor, V2C y Tesla Wall Connector certificados IRVE.
       - Balanceo de carga dinámico y protecciones contra sobretensión.
@@ -297,7 +297,7 @@ faq:
     md: La instalación física se completa en 3-5 horas; la legalización ante la distribuidora y la comunidad autónoma de Murcia se entrega en 24-72 horas.
   - title: ¿Puedo compartir línea con otros consumos domésticos?
     md: Sí. Añadimos protecciones exclusivas y un contador MID que prioriza los consumos críticos y adapta la corriente de carga automáticamente.
-  # - title: ¿Qué ayudas existen para instalar un cargador en {{% param location %}}?
+  # - title: ¿Qué ayudas existen para instalar un cargador en {{ param location }}?
   #   md: Tramitamos gratis la subvención MOVES III (hasta 80 % del coste) y bonificaciones municipales de hasta un 50 % en el IBI.
   - title: ¿Ofrecen mantenimiento o soporte remoto?
     md: Incluimos monitorización vía app y asistencia telefónica 24 h durante el primer año; contratos de mantenimiento opcionales a partir de 3 €/mes.
