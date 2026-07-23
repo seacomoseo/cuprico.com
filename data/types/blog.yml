@@ -1,0 +1,16 @@
+title: Blog
+base: article
+weight: 4
+rel: y
+tpl:
+  list:
+    cols: 3
+    align: left
+    img: ''
+    icon: hide
+    md: ''
+    btn: hide
+    tags:
+    - type: date
+    - type: author
+    - type: tax

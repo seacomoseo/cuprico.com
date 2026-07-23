@@ -1,13 +1,14 @@
 ---
-slug: inicio
+slug: /
 title: Inicio
-seo: ᐅ Cúprico ⚡️ Electricistas en San Pedro del Pinatar
-description: llll➤ Electricistas experimentados en San Pedro del Pinatar para todas tus necesidades eléctricas. Servicio rápido, eficaz y de confianza ✅ ¡Contáctanos!
-image: base/poster.svg
+seo:
+  title: ᐅ Cúprico ⚡️ Electricistas en San Pedro del Pinatar
+  desc: llll➤ Electricistas experimentados en San Pedro del Pinatar para todas tus necesidades eléctricas. Servicio rápido, eficaz y de confianza ✅ ¡Contáctanos!
+img: /u/base/poster.svg
 
 location: San Pedro del Pinatar
 header:
-  bi: servicios/reparaciones-electricas.jpg
+  bi: /u/servicios/reparaciones-electricas.jpg
   hanchor: Electricistas en San Pedro del Pinatar
   md: Electricistas Profesionales Autorizados en San Pedro del Pinatar
 
@@ -34,38 +35,39 @@ org:
   - Cúprico Electrical Services ⚡
   - Electricistas Cúprico
   - Cúprico Electricistas
-  description: Ofrecemos los mejores servicios de electricista a precios competitivos. Cúprico ofrece soluciones a los problemas relacionados con la electricidad.
+  desc: Ofrecemos los mejores servicios de electricista a precios competitivos. Cúprico ofrece soluciones a los problemas relacionados con la electricidad.
   legal: INSTALACIONES ELÉCTRICAS TORNERO Y LORENTE S.L.
   nif: B21972351
-  email: administracion@cuprico.com
-  logo: base/icon.svg
-  images:
-  - portfolio/trabajando/2023-10-11-00-27-32.jpg
-  - portfolio/trabajando/2024-06-12-09-19-51.jpg
-  - portfolio/trabajando/2023-10-10-22-17-56.jpg
-  - portfolio/cuadros/2018-06-14-17-55-12.jpg
-  - portfolio/cuadros/2019-07-03-21-14-21.jpg
-  - portfolio/cuadros/2021-03-02-11-46-55.jpg
-  - portfolio/otros/2024-07-31-20-06-48.jpg
-  - portfolio/otros/2023-11-18-12-56-03.jpg
-  - portfolio/alarmas-incendios/2023-11-14-12-45-39.jpg
-  - portfolio/alarmas-incendios/2023-12-05-10-28-18.jpg
-  - portfolio/cargadores-vehiculos/2024-08-23-20-17-36.jpg
-  - portfolio/cargadores-vehiculos/2024-04-12-10-24-29.jpg
-  - portfolio/placas-solares/2024-12-15-13-55-49.jpg
-  - portfolio/placas-solares/2024-12-18-13-15-48.jpg
-  - portfolio/acabados/2018-06-29-23-21-31.jpg
-  - portfolio/acabados/2021-04-24-21-27-23.jpg
-  - portfolio/acabados/2021-05-27-20-34-10.jpg
-  - portfolio/acabados/2022-10-13-08-48-24.jpg
-  - portfolio/acabados/2022-10-13-08-48-54.jpg
-  - portfolio/acabados/2023-10-09-20-38-13.jpg
-  - portfolio/acabados/2023-10-09-20-38-14.jpg
+  mail: administracion@cuprico.com
+  logo: /u/base/icon.svg
+  imgs:
+  - /u/portfolio/trabajando/2023-10-11-00-27-32.jpg
+  - /u/portfolio/trabajando/2024-06-12-09-19-51.jpg
+  - /u/portfolio/trabajando/2023-10-10-22-17-56.jpg
+  - /u/portfolio/cuadros/2018-06-14-17-55-12.jpg
+  - /u/portfolio/cuadros/2019-07-03-21-14-21.jpg
+  - /u/portfolio/cuadros/2021-03-02-11-46-55.jpg
+  - /u/portfolio/otros/2024-07-31-20-06-48.jpg
+  - /u/portfolio/otros/2023-11-18-12-56-03.jpg
+  - /u/portfolio/alarmas-incendios/2023-11-14-12-45-39.jpg
+  - /u/portfolio/alarmas-incendios/2023-12-05-10-28-18.jpg
+  - /u/portfolio/cargadores-vehiculos/2024-08-23-20-17-36.jpg
+  - /u/portfolio/cargadores-vehiculos/2024-04-12-10-24-29.jpg
+  - /u/portfolio/placas-solares/2024-12-15-13-55-49.jpg
+  - /u/portfolio/placas-solares/2024-12-18-13-15-48.jpg
+  - /u/portfolio/acabados/2018-06-29-23-21-31.jpg
+  - /u/portfolio/acabados/2021-04-24-21-27-23.jpg
+  - /u/portfolio/acabados/2021-05-27-20-34-10.jpg
+  - /u/portfolio/acabados/2022-10-13-08-48-24.jpg
+  - /u/portfolio/acabados/2022-10-13-08-48-54.jpg
+  - /u/portfolio/acabados/2023-10-09-20-38-13.jpg
+  - /u/portfolio/acabados/2023-10-09-20-38-14.jpg
   as:
   - https://g.page/r/Ceu-g_MFBM04EAI
   - https://g.page/r/CcPQveZNbvAnEBE
   - https://g.page/r/CY5DclnvGgplEBM
   - https://www.instagram.com/cupricoelectricalservices/
+  - https://www.domoelectra.com/murcia/
   phones:
   - 641 47 94 90
   - 603 60 66 15
@@ -77,7 +79,7 @@ org:
     region: Murcia
     country: España
     geo: '{"type":"Point","coordinates":[-0.7821083,37.8215487]}'
-    link: https://g.page/r/Ceu-g_MFBM04EAI
+    url: https://g.page/r/Ceu-g_MFBM04EAI
   areas:
   - San Pedro del Pinatar
   - Torrevieja
@@ -89,7 +91,7 @@ org:
   - Cabo Roig
   - Campoamor
   - Torre de la Horadada
-  schedule:
+  when:
   - days:
       mon: y
       tue: y

@@ -2,13 +2,14 @@ name: Servicios ➡️ Placas Solares
 id: servicios
 size: sm
 color: white
-md_align: left
-params:
-- from: services.solar_plates.hanchor
-  to: hanchor
-- from: services.solar_plates.title
-  to: title
-- from: services.solar_plates.subtitle
-  to: subtitle
-- from: services.solar_plates.md
-  to: md
+boxes:
+- md_align: left
+  get:
+  - from: services.solar_plates.hanchor
+    to: hanchor
+  - from: services.solar_plates.title
+    to: title
+  - from: services.solar_plates.sub
+    to: sub
+  - from: services.solar_plates.md
+    to: md

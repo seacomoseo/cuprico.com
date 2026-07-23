@@ -2,13 +2,14 @@ name: Servicios ➡️ Cargadores
 id: servicios
 size: sm
 color: white
-md_align: left
-params:
-- from: services.chargers_ev.hanchor
-  to: hanchor
-- from: services.chargers_ev.title
-  to: title
-- from: services.chargers_ev.subtitle
-  to: subtitle
-- from: services.chargers_ev.md
-  to: md
+boxes:
+- md_align: left
+  get:
+  - from: services.chargers_ev.hanchor
+    to: hanchor
+  - from: services.chargers_ev.title
+    to: title
+  - from: services.chargers_ev.sub
+    to: sub
+  - from: services.chargers_ev.md
+    to: md

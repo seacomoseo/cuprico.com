@@ -1,9 +1,10 @@
 ---
 slug: certificates-electrical-installation
 title: Certificates
-seo: ᐅ Certificates of Electrical Installation in Murcia, Spain
-description: llll➤ Get your electrical installation certificates in Murcia. Affordable prices, fast and reliable service ✅ Contact us!
-image: servicios/boletin-electrico-certificaciones.jpg
+seo:
+  title: ᐅ Certificates of Electrical Installation in Murcia, Spain
+  desc: llll➤ Get your electrical installation certificates in Murcia. Affordable prices, fast and reliable service ✅ Contact us!
+img: /u/servicios/boletin-electrico-certificaciones.jpg
 
 base: service
 service_types:
@@ -21,7 +22,7 @@ service_areas:
 - Campoamor
 - Torre de la Horadada
 header:
-  bi: servicios/reparaciones-electricas.jpg
+  bi: /u/servicios/reparaciones-electricas.jpg
   hanchor: Certificates of Electrical Installation in Murcia, Spain
   md: Certificates of Electrical Installation
 

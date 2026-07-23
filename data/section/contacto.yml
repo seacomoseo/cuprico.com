@@ -1,60 +1,50 @@
 name: Contacto
 id: contacto
 size: sm
-
-menu_button: cta
-
-params:
-- from: contact.title
-  to: title
-- from: contact.subtitle
-  to: subtitle
-- from: contact.consent
-  to: form.consent
-
-contact:
-
-- type: schedule
-  days: '{{ param contact.days }}'
-  hours: 8:00 - 18:00
-
-- type: br
-
-- type: phone
-  label: 641 47 94 90
-- type: phone
-  label: 603 60 66 15
-
-- type: br
-
-- type: whatsapp
-  label: 641 47 94 90
-  icon: brand:whatsapp-o
-  button: invert
-- type: whatsapp
-  label: 603 60 66 15
-  icon: brand:whatsapp-o
-  button: invert
-
-- type: mail
-  label: administracion@cuprico.com
-  button: similar
-  full: y
-
-form:
-  email: administracion@cuprico.com
-inputs:
-- type: text
-  name: Nombre
-  label: '{{ param contact.name }}'
-  required: y
-- type: tel
-  name: Teléfono
-  label: '{{ param contact.phone }}'
-- type: email
-  name: Email
-  required: y
-- type: textarea
-  name: Mensaje
-  label: '{{ param contact.message }}'
-  required: y
+menu_btn: cta
+boxes:
+- when:
+  - days: '{{ get contact.days }}'
+    hours: 8:00 - 18:00
+  links:
+  - type: phone
+    label: 641 47 94 90
+  - type: phone
+    label: 603 60 66 15
+  - type: br
+  - type: whatsapp
+    label: 641 47 94 90
+    icon: brand:whatsapp-o
+    btn: turn
+  - type: whatsapp
+    label: 603 60 66 15
+    icon: brand:whatsapp-o
+    btn: turn
+  - type: mail
+    label: administracion@cuprico.com
+    btn: such
+    full: y
+  form:
+    mail: administracion@cuprico.com
+  inputs:
+  - type: text
+    name: Nombre
+    label: '{{ get contact.name }}'
+    req: y
+  - type: phone
+    name: Teléfono
+    label: '{{ get contact.phone }}'
+  - type: mail
+    name: Email
+    req: y
+  - type: area
+    name: Mensaje
+    label: '{{ get contact.message }}'
+    req: y
+  get:
+  - from: contact.title
+    to: title
+  - from: contact.sub
+    to: sub
+  - from: contact.consent
+    to: form.consent

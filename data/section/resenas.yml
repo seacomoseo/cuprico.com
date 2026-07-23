@@ -1,22 +1,20 @@
 name: Resenas
 id: resenas
-
-params:
-- from: reviews.title
-  to: title
-- from: reviews.subtitle
-  to: subtitle
-
 boxes:
+- get:
+  - from: reviews.title
+    to: title
+  - from: reviews.sub
+    to: sub
 - review:
     cols: 3
     color: white
     slider: y
     icon: keyboard_double_arrow_left
     icon_right: keyboard_double_arrow_right
-  params:
+  get:
   - from: reviews.reviews
     to: reviews
 - boxes:
   - md: |
-      [[::star:: {{% param reviews.more %}}]](https://g.page/r/Ceu-g_MFBM04EAI/review "[nofollow]")
+      [[::star:: {{% get reviews.more %}}]](https://g.page/r/Ceu-g_MFBM04EAI/review "[nofollow]")

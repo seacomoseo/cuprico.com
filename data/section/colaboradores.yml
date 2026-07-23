@@ -1,35 +1,30 @@
 name: Colaboradores
 id: colaboradores
-menu_button: hide
-params:
-- from: partners.title
-  to: title
-- from: partners.subtitle
-  to: subtitle
-
-box:
-  cols: 5
-  cols_vs: 2
-  gap: 2
-  ratio: 2.5
-  hide_shadow: y
-  button: hide
-  lock: y
-  align_y: center
+menu_btn: hide
 boxes:
-
-- image: colaboradores/domoelectra.svg
-  link: https://www.domoelectra.com/
-
-- image: colaboradores/extintorestarvi.svg
-  link: https://extintorestarvi.es/
-
-- image: colaboradores/clubnauticovillasanpedro.svg
-  link: https://clubnauticovillasanpedro.com/
-  ratio: 1.75
-
-- image: colaboradores/thecornermusic.svg
-  link: https://thecornermusic.es/
-
-- image: colaboradores/cogarpro.svg
-  link: http://www.cogarpro.com/
+- box:
+    cols: 5
+    cols_vs: 2
+    gap: 2
+    ratio: 2.5
+    hide_shadow: y
+    btn: hide
+    lock: y
+    align_y: center
+  get:
+  - from: partners.title
+    to: title
+  - from: partners.sub
+    to: sub
+  boxes:
+  - img: /u/colaboradores/domoelectra.svg
+    url: https://www.domoelectra.com/
+  - img: /u/colaboradores/extintorestarvi.svg
+    url: https://extintorestarvi.es/
+  - img: /u/colaboradores/clubnauticovillasanpedro.svg
+    url: https://clubnauticovillasanpedro.com/
+    ratio: 1.75
+  - img: /u/colaboradores/thecornermusic.svg
+    url: https://thecornermusic.es/
+  - img: /u/colaboradores/cogarpro.svg
+    url: http://www.cogarpro.com/

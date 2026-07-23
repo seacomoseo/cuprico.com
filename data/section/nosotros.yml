@@ -1,24 +1,22 @@
 name: Nosotros
 id: nosotros
-
-params:
-- from: us.title
-  to: title
-- from: us.subtitle
-  to: subtitle
-
-box:
-  cols: 2
-  gap: 3
-  gap_vs: 1
-  gap_ny: 1
-  align: left
-  align_vl: left
-  align_y: center
-  caps: y
-  line: y
 boxes:
-- image: base/logo-h.svg
-- params:
-  - from: us.md
-    to: md
+- box:
+    cols: 2
+    gap: 3
+    gap_vs: 1
+    align: left
+    align_vl: left
+    align_y: center
+    caps: y
+    line: y
+  get:
+  - from: us.title
+    to: title
+  - from: us.sub
+    to: sub
+  boxes:
+  - img: /u/base/logo-h.svg
+  - get:
+    - from: us.md
+      to: md

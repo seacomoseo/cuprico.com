@@ -1,9 +1,10 @@
 ---
 slug: boletin-electrico
 title: Boletín Eléctrico
-seo: ᐅ Boletín Eléctrico y Certificados CIE en Murcia
-description: llll➤ Obtén tu boletín eléctrico y certificados de instalación eléctrica en Murcia. Precios accesibles, servicio rápido y confiable ✅ ¡Consúltanos!
-image: servicios/boletin-electrico-certificaciones.jpg
+seo:
+  title: ᐅ Boletín Eléctrico y Certificados CIE en Murcia
+  desc: llll➤ Obtén tu boletín eléctrico y certificados de instalación eléctrica en Murcia. Precios accesibles, servicio rápido y confiable ✅ ¡Consúltanos!
+img: /u/servicios/boletin-electrico-certificaciones.jpg
 
 base: service
 service_types:
@@ -21,7 +22,7 @@ service_areas:
 - Campoamor
 - Torre de la Horadada
 header:
-  bi: servicios/reparaciones-electricas.jpg
+  bi: /u/servicios/reparaciones-electricas.jpg
   hanchor: Boletín Eléctrico y Certificados de Instalación Eléctrica (CIE) en Murcia
   md: Boletín Eléctrico y Certificados de Instalación Eléctrica (CIE)
 

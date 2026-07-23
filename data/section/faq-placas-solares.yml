@@ -1,12 +1,13 @@
 name: FAQ ➡️ Placas Solares
 size: md
-accordion:
-  headers: y
-  hs: 6
-params:
-- from: faq.title
-  to: title
-- from: faq.subtitle
-  to: subtitle
-- from: faq.solar_plates
-  to: accordions
+boxes:
+- faq:
+    headers: y
+    hs: 6
+  get:
+  - from: faq.title
+    to: title
+  - from: faq.sub
+    to: sub
+  - from: faq.solar_plates
+    to: faqs

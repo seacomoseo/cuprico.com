@@ -2,7 +2,8 @@
 title: Compromiso con la Protección de Datos Personales
 slug: compromiso
 icon: handshake
-noindex: y
+seo:
+  noindex: y
 type: system
 weight: 7
 ---

@@ -1,14 +1,13 @@
 name: Base ➡️ Footer
 color: dark
-space: 1
-align: center
 div: tilt
-
 boxes:
+- space: 1
+  align: center
 - dots:
-  - link: https://g.page/r/Ceu-g_MFBM04EAI
-  - link: https://www.instagram.com/cupricoelectricalservices/
-- params:
+  - url: https://g.page/r/Ceu-g_MFBM04EAI
+  - url: https://www.instagram.com/cupricoelectricalservices/
+- get:
   - from: footer.md
     to: md
   md: |

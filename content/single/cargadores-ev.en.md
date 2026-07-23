@@ -1,9 +1,10 @@
 ---
 slug: ev-chargers
 title: Electric Vehicle Chargers
-seo: ᐅ Electric Vehicle Chargers - Installation and Sales
-description: llll➤ With the best brands and installations in homes and community garages. ✅ Contact us for personalized advice and budgets.
-image: servicios/cargadores-ev.jpg
+seo:
+  title: ᐅ Electric Vehicle Chargers - Installation and Sales
+  desc: llll➤ With the best brands and installations in homes and community garages. ✅ Contact us for personalized advice and budgets.
+img: /u/servicios/cargadores-ev.jpg
 
 base: service
 service_types:
@@ -20,7 +21,7 @@ service_areas:
 - Campoamor
 - Torre de la Horadada
 header:
-  bi: servicios/cargadores-ev.jpg
+  bi: /u/servicios/cargadores-ev.jpg
   hanchor: Sales and Installation of Electric Vehicle Chargers
   md: Sales and Installation of Electric Vehicle Chargers
 

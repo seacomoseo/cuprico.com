@@ -1,12 +1,31 @@
 name: Servicios
 id: servicios
-box:
-  cols: 0
-  cols_vs: 2
-  gap_vs: 2
-  gap_ny: 3
-  hs: 5
-  label: '{{ param others.see_more }}'
+get:
+- from: services.modals
+  to: modals
+remap:
+- from: modals.*.url
+boxes:
+- get:
+  - from: services.title
+    to: title
+  - from: services.sub
+    to: sub
+  - from: services.modals
+    to: boxes
+  remap:
+  - from: boxes.*.id
+  - from: boxes.*.hanchor
+  - from: boxes.*.sub
+  - from: boxes.*.img
+  - from: boxes.*.md
+  box:
+    cols: 0
+    cols_vs: 2
+    gap_vs: 2
+    gap_ny: 3
+    hs: 5
+    label: '{{ get others.see_more }}'
 modal:
   color: white
   ratio: 16/9
@@ -14,19 +33,3 @@ modal:
   caps: y
   line: y
   size: xs
-params:
-- from: services.title
-  to: title
-- from: services.subtitle
-  to: subtitle
-- from: services.modals
-  to: boxes
-- from: services.modals
-  to: modals
-remap:
-- from: boxes.*.id
-- from: boxes.*.hanchor
-- from: boxes.*.subtitle
-- from: boxes.*.image
-- from: boxes.*.md
-- from: modals.*.link

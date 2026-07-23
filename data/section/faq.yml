@@ -1,12 +1,13 @@
 name: FAQ
 size: md
-accordion:
-  headers: y
-  hs: 6
-params:
-- from: faq.title
-  to: title
-- from: faq.subtitle
-  to: subtitle
-- from: faq.accordions
-  to: accordions
+boxes:
+- faq:
+    headers: y
+    hs: 6
+  get:
+  - from: faq.title
+    to: title
+  - from: faq.sub
+    to: sub
+  - from: faq.faqs
+    to: faqs

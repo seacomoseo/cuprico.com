@@ -1,122 +1,122 @@
 - name: partners
   label: Colaboradores
-  widget: object
+  widget: dict
   sub:
-  - var: box_title
-  - var: box_subtitle
+  - var: title
+  - var: sub
 - name: features
   label: Destacamos
-  widget: object
+  widget: dict
   sub:
-  - var: box_title
-  - var: box_subtitle
+  - var: title
+  - var: sub
   - name: boxes
     label: Destacado
-    widget: list
+    widget: slice
     sub:
-    - var: box_icon_id
-    - var: box_title
-    - var: box_subtitle
-    - var: box_md
+    - var: icon
+    - var: title
+    - var: sub
+    - var: md
 - name: services
   label: Servicios
-  widget: object
+  widget: dict
   sub:
-  - var: box_title
-  - var: box_subtitle
+  - var: title
+  - var: sub
   - name: modals
     label: Elementos
-    widget: list
+    widget: slice
     sub:
-    - var: box_id
-    - var: box_button_link
-    - var: box_hanchor
-    - var: box_title
-    - var: box_subtitle
-    - var: box_icon_id
-    - var: box_md
+    - var: id
+    - var: url
+    - var: hanchor
+    - var: title
+    - var: sub
+    - var: icon
+    - var: md
   - name: solar_plates
     label: Placas Solares
-    widget: object
+    widget: dict
     sub:
-    - var: box_hanchor
-    - var: box_title
-    - var: box_subtitle
-    - var: box_md
+    - var: hanchor
+    - var: title
+    - var: sub
+    - var: md
   - name: chargers_ev
     label: Cargadores EV
-    widget: object
+    widget: dict
     sub:
-    - var: box_hanchor
-    - var: box_title
-    - var: box_subtitle
-    - var: box_md
+    - var: hanchor
+    - var: title
+    - var: sub
+    - var: md
   - name: bulletin
     label: Boletín
-    widget: object
+    widget: dict
     sub:
-    - var: box_hanchor
-    - var: box_title
-    - var: box_subtitle
-    - var: box_md
+    - var: hanchor
+    - var: title
+    - var: sub
+    - var: md
 - name: process
   label: Proceso
-  widget: object
+  widget: dict
   sub:
-  - var: box_title
-  - var: box_subtitle
-  - var: box_md
-  - var: box_steps
+  - var: title
+  - var: sub
+  - var: md
+  - var: steps
 - name: faq
   label: FAQ
-  widget: object
+  widget: dict
   sub:
-  - var: box_title
-  - var: box_subtitle
-  - var: box_accordion
-  - var: box_accordion
+  - var: title
+  - var: sub
+  - var: faq
+  - var: faq
     name: solar_plates
     label: Placas Solares
-  - var: box_accordion
+  - var: faq
     name: chargers_ev
     label: Cargadores EV
-  - var: box_accordion
+  - var: faq
     name: bulletin
     label: Boletín
 - name: reviews
   label: Reseñas
-  widget: object
+  widget: dict
   sub:
-  - var: box_title
-  - var: box_subtitle
+  - var: title
+  - var: sub
   - name: more
     label: Botón "Más Reseñas"
-  - var: box_reviews
+  - var: reviews
 - name: portfolio
   label: Portfolio
-  widget: object
+  widget: dict
   sub:
-  - var: box_title
-  - var: box_subtitle
+  - var: title
+  - var: sub
 - name: us
   label: Nosotros
-  widget: object
+  widget: dict
   sub:
-  - var: box_title
-  - var: box_subtitle
-  - var: box_md
+  - var: title
+  - var: sub
+  - var: md
 - name: team
   label: Equipo
-  widget: object
+  widget: dict
   sub:
-  - var: box_title
-  - var: box_subtitle
+  - var: title
+  - var: sub
 - name: contact
   label: Contacto
-  widget: object
+  widget: dict
   sub:
-  - var: box_title
-  - var: box_subtitle
+  - var: title
+  - var: sub
   - name: days
     label: Días
   - name: name
@@ -126,16 +126,16 @@
   - name: message
     label: Mensaje
   - name: consent
-    widget: markdown
+    widget: md
     label: Texto de Consentimiento
 - name: footer
   label: Footer
-  widget: object
+  widget: dict
   sub:
-  - var: box_md
+  - var: md
 - name: others
   label: Otros
-  widget: object
+  widget: dict
   sub:
   - name: see_more
     label: Ver más
@@ -153,9 +153,9 @@
   - solar
   name: header
   label: Cabecera
-  widget: object
+  widget: dict
   sub:
-  - var: box_bg_image
-  - var: box_hanchor
-  - var: box_subtitle
-  - var: box_md
+  - var: bi
+  - var: hanchor
+  - var: sub
+  - var: md

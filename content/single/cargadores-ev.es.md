@@ -1,9 +1,10 @@
 ---
 slug: cargadores-ev
 title: Cargadores EV
-seo: ᐅ Cargadores de Vehículos Eléctricos - Instalación y Venta
-description: llll➤ Con las mejores marcas e instalaciones en viviendas y garajes comunitarios. ✅ Contáctanos para asesoramiento personalizado y presupuestos.
-image: servicios/cargadores-ev.jpg
+seo:
+  title: ᐅ Cargadores de Vehículos Eléctricos - Instalación y Venta
+  desc: llll➤ Con las mejores marcas e instalaciones en viviendas y garajes comunitarios. ✅ Contáctanos para asesoramiento personalizado y presupuestos.
+img: /u/servicios/cargadores-ev.jpg
 
 base: service
 service_types:
@@ -20,7 +21,7 @@ service_areas:
 - Campoamor
 - Torre de la Horadada
 header:
-  bi: servicios/cargadores-ev.jpg
+  bi: /u/servicios/cargadores-ev.jpg
   hanchor: Venta e Instalación de Cargadores para Vehículos Eléctricos
   md: Venta e Instalación de Cargadores para Vehículos Eléctricos
 

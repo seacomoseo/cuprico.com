@@ -1,94 +1,95 @@
-title: Valores Globales
-
 menu:
-  image: base/logo-h.svg
+  img: /u/base/logo-h.svg
   items:
-  - link: /
+  - url: /
     label: Inicio
     icon: home
     anchor: Electricistas en San Pedro del Pinatar
-  # - link: /#colaboradores
+  # - url: /#colaboradores
   #   label: Colaboradores
   #   icon: handshake
-  # - link: /#destacamos
+  # - url: /#destacamos
   #   label: Destacamos
   #   icon: verified
-  - link: /#servicios
+  - url: /#servicios
     label: Servicios
     icon: bolt
-  - link: /#proceso
+  - url: /#proceso
     label: Proceso
     icon: footprint
-  - link: /#faq
+  - url: /#faq
     label: FAQ
     icon: help_outline
-  - link: /#resenas
+  - url: /#resenas
     label: Reseñas
     icon: reviews
-  - link: /#portfolio
+  - url: /#portfolio
     label: Portfolio
     icon: cards_star
-  - link: /#nosotros
+  - url: /#nosotros
     label: Nosotros
     icon: info
-  - link: /#contacto
+  - url: /#contacto
     label: Contacto
     icon: send
-    button: cta
+    btn: cta
+  - url: /blog/
+    label: Blog
+    icon: rss
 
 
 partners:
   title: Colaboradores
-  subtitle: Confían en nosotros
+  sub: Confían en nosotros
 
 
 features:
   title: Destacamos
-  subtitle: ¿Qué nos caracteriza?
+  sub: ¿Qué nos caracteriza?
 
   boxes_old:
   - icon: schedule
     title: Puntualidad real
-    subtitle: Compromiso sin igual
+    sub: Compromiso sin igual
     md: Confirmamos cita y nos comprometemos a cumplir con nuestra palabra; sin esperas
 
   - icon: shield
     title: Seguridad certificada
-    subtitle: Instalaciones 100 % reglamentarias
+    sub: Instalaciones 100 % reglamentarias
     md: Técnicos habilitados y protecciones REBT para que su hogar quede protegido
 
   - icon: star
     title: Calidad garantizada
-    subtitle: 2-4 años de respaldo
+    sub: 2-4 años de respaldo
     md: Solo materiales de primera y mano de obra especializada; garantía escrita de dos años
 
   boxes:
   # - icon: timer
   #   title: '< 2 horas'
-  #   subtitle: de llegada
+  #   sub: de llegada
   - icon: star
     title: '\> 100'
-    subtitle: reseñas de 5 ★
+    sub: reseñas de 5 ★
   - icon: percent_discount
     title: '99 %'
-    subtitle: de entregas en 1ª visita
+    sub: de entregas en 1ª visita
   - icon: verified
     title: 2-4 años
-    subtitle: de garantía
+    sub: de garantía
 
 
 services:
   title: Servicios
-  subtitle: ¿Qué hacemos?
+  sub: ¿Qué hacemos?
 
   modals:
 
   - id: instalaciones-electricas
-    link: '#instalaciones-electricas'
-    hanchor: Instalaciones Eléctricas en {{ param location }}
+    url: '#instalaciones-electricas'
+    hanchor: Instalaciones Eléctricas en {{ get location }}
     title: Instalaciones Eléctricas
-    subtitle: Residenciales y Comerciales
-    image: servicios/instalaciones-electricas.jpg
+    sub: Residenciales y Comerciales
+    img: /u/servicios/instalaciones-electricas.jpg
     icon: power
     md: |
       Diseñamos y ejecutamos cuadros, circuitos y alumbrado conforme al REBT.
@@ -98,11 +99,11 @@ services:
       ¡Solicite presupuesto sin coste!
 
   - id: cargadores-ev
-    link: '#cargadores-ev'
-    hanchor: Cargadores EV en {{ param location }}
+    url: '#cargadores-ev'
+    hanchor: Cargadores EV en {{ get location }}
     title: Cargadores EV
-    subtitle: Vehículos Eléctricos
-    image: servicios/cargadores-ev.jpg
+    sub: Vehículos Eléctricos
+    img: /u/servicios/cargadores-ev.jpg
     icon: ev_charger
     md: |
       Montaje y legalización de Wall Connector en < 24 h.
@@ -112,25 +113,25 @@ services:
       [[::add:: Más información]](/cargadores-ev/ "Venta e Instalación de Cargadores para Vehículos Eléctricos")
 
   - id: boletin-electrico-certificaciones
-    link: '#boletin-electrico-certificaciones'
-    hanchor: Boletín Eléctrico en {{ param location }}
+    url: '#boletin-electrico-certificaciones'
+    hanchor: Boletín Eléctrico en {{ get location }}
     title: Boletín Eléctrico
-    subtitle: y Certificaciones
-    image: servicios/boletin-electrico-certificaciones.jpg
+    sub: y Certificaciones
+    img: /u/servicios/boletin-electrico-certificaciones.jpg
     icon: task
     md: |
-      Emitimos su CIE en {{ param location }}.
+      Emitimos su CIE en {{ get location }}.
 
       Entrega en 24 h - 14 d (según inspección).
 
       [[::add:: Más información]](/boletin-electrico/ "Boletín Eléctrico y Certificados de Instalación Eléctrica (CIE)")
 
   - id: instalacion-placas-solares
-    link: '#instalacion-placas-solares'
-    hanchor: Instalación de Placas Solares en {{ param location }}
+    url: '#instalacion-placas-solares'
+    hanchor: Instalación de Placas Solares en {{ get location }}
     title: Instalación de Placas Solares
-    subtitle: Fotovoltaicas
-    image: servicios/instalacion-placas-solares.jpg
+    sub: Fotovoltaicas
+    img: /u/servicios/instalacion-placas-solares.jpg
     icon: solar_power
     md: |
       Estudio gratuito, ingeniería, instalación y subvenciones.
@@ -140,11 +141,11 @@ services:
       [[::add:: Más información]](/instaladores-placas-solares/ "Instaladores de Placas Solares Fotovoltaicas en San Pedro del Pinatar")
 
   - id: alarmas-incendios
-    link: '#alarmas-incendios'
-    hanchor: Alarmas contra Incendios en {{ param location }}
+    url: '#alarmas-incendios'
+    hanchor: Alarmas contra Incendios en {{ get location }}
     title: Alarmas contra Incendios
-    subtitle: Detección temprana certificada
-    image: servicios/alarmas-incendios.jpg
+    sub: Detección temprana certificada
+    img: /u/servicios/alarmas-incendios.jpg
     icon: e911_emergency
     md: |
       Sistemas interconectados y mantenimiento anual.
@@ -152,19 +153,19 @@ services:
       Proteja su vivienda o negocio desde hoy mismo.
 
   - id: reparaciones-electricas
-    link: '#reparaciones-electricas'
-    hanchor: Reparaciones Eléctricas en {{ param location }}
+    url: '#reparaciones-electricas'
+    hanchor: Reparaciones Eléctricas en {{ get location }}
     title: Reparaciones Eléctricas
-    image: servicios/reparaciones-electricas.jpg
+    img: /u/servicios/reparaciones-electricas.jpg
     icon: electrical_services
     md: |
       - Técnico puntual y repuesto a bordo
       - Luz restablecida en una sola visita
 
   - id: domotica
-    link: '#domotica'
+    url: '#domotica'
     title: Domótica
-    image: servicios/domotica.jpg
+    img: /u/servicios/domotica.jpg
     icon: settings_remote
     md: |
       Controle iluminación, clima y seguridad desde su móvil.
@@ -172,9 +173,9 @@ services:
       Integración Wi-Fi y Zigbee sin obras.
 
   - id: telecomunicaciones
-    link: '#telecomunicaciones'
+    url: '#telecomunicaciones'
     title: Telecomunicaciones
-    image: servicios/telecomunicaciones.jpg
+    img: /u/servicios/telecomunicaciones.jpg
     icon: cell_tower
     md: |
       - Antenas Terrestres (TDT)
@@ -182,13 +183,13 @@ services:
       - Cableado de Red
       - Puntos de Acceso
       - Fibra Óptica
-      - En {{ param location }}
+      - En {{ get location }}
 
   solar_plates:
     title: Servicios
-    subtitle: Paneles Solares
+    sub: Paneles Solares
     md: |
-      Pásese al **autoconsumo solar en {{ param location }}** con nuestros instaladores de placas solares fotovoltaicas certificados.
+      Pásese al **autoconsumo solar en {{ get location }}** con nuestros instaladores de placas solares fotovoltaicas certificados.
 
       - Estudio de producción, orientación y sombras con software PV-Sol.
       - Gestión de subvenciones y compensación de excedentes (RD 244/2019).
@@ -203,9 +204,9 @@ services:
   chargers_ev:
     hanchor: Instalación de Cargadores para Coches Eléctricos
     title: Servicios
-    subtitle: Venta e Instalación
+    sub: Venta e Instalación
     md: |
-      Especialistas en **instalación de puntos de recarga para vehículos eléctricos** en viviendas unifamiliares, garajes comunitarios y negocios de {{ param location }}.
+      Especialistas en **instalación de puntos de recarga para vehículos eléctricos** en viviendas unifamiliares, garajes comunitarios y negocios de {{ get location }}.
 
       - Wallbox, Circutor, V2C y Tesla Wall Connector certificados IRVE.
       - Balanceo de carga dinámico y protecciones contra sobretensión.
@@ -217,7 +218,7 @@ services:
 
   bulletin:
     title: Servicios
-    subtitle: Boletines y Certificados de Instalaciones Eléctricas
+    sub: Boletines y Certificados de Instalaciones Eléctricas
     md: |
       ¿Necesita un **boletín eléctrico en Murcia** para alta nueva, aumento de potencia o reforma?
 
@@ -236,7 +237,7 @@ services:
 
 process:
   title: Proceso
-  subtitle: de trabajo
+  sub: de trabajo
   md: Rápido, transparente y con garantía
   steps:
   - title: Contacto
@@ -251,8 +252,8 @@ process:
 
 faq:
   title: FAQ
-  subtitle: Preguntas Frecuentes
-  accordions:
+  sub: Preguntas Frecuentes
+  faqs:
   # - title: ¿En cuánto tiempo acude Technimur a una avería urgente?
   #   md: Habitualmente en menos de 2 horas dentro de San Pedro del Pinatar y municipios limítrofes. En zonas periurbanas, el plazo máximo es de 4 horas.
   - title: ¿Qué certificaciones poseen sus técnicos?
@@ -297,7 +298,7 @@ faq:
     md: La instalación física se completa en 3-5 horas; la legalización ante la distribuidora y la comunidad autónoma de Murcia se entrega en 24-72 horas.
   - title: ¿Puedo compartir línea con otros consumos domésticos?
     md: Sí. Añadimos protecciones exclusivas y un contador MID que prioriza los consumos críticos y adapta la corriente de carga automáticamente.
-  # - title: ¿Qué ayudas existen para instalar un cargador en {{ param location }}?
+  # - title: ¿Qué ayudas existen para instalar un cargador en {{ get location }}?
   #   md: Tramitamos gratis la subvención MOVES III (hasta 80 % del coste) y bonificaciones municipales de hasta un 50 % en el IBI.
   - title: ¿Ofrecen mantenimiento o soporte remoto?
     md: Incluimos monitorización vía app y asistencia telefónica 24 h durante el primer año; contratos de mantenimiento opcionales a partir de 3 €/mes.
@@ -319,7 +320,7 @@ faq:
 
 reviews:
   title: Reseñas
-  subtitle: \+ de 100 valoraciones de 5 ★
+  sub: \+ de 100 valoraciones de 5 ★
   more: Más en Google
   reviews:
 
@@ -339,7 +340,7 @@ reviews:
 
       Lo guardo como referencia, para quien me pregunte.
     rating: 5
-    # image: https://lh3.googleusercontent.com/a/ACg8ocLJwzoCWfoz4xZgVLUp2WWwdFw29nhFJNlNFFWw1kJivAMpPw=s136
+    # img: https://lh3.googleusercontent.com/a/ACg8ocLJwzoCWfoz4xZgVLUp2WWwdFw29nhFJNlNFFWw1kJivAMpPw=s136
 
   - title: Roman L.
     md: |
@@ -357,7 +358,7 @@ reviews:
 
       Da gusto tratar con personas así, les deseo el brillante futuro que merecen y se están ganando con vivacidad 💪
     rating: 5
-    # image: https://lh3.googleusercontent.com/a/ACg8ocKVBmNppFoVl0OjPfrPa3qelxl2h2OKqvmUQYq5B7ValzZwZQ=s136
+    # img: https://lh3.googleusercontent.com/a/ACg8ocKVBmNppFoVl0OjPfrPa3qelxl2h2OKqvmUQYq5B7ValzZwZQ=s136
 
   - title: Macu C.
     md: |
@@ -368,7 +369,7 @@ reviews:
 
       Para mi ha sido un gran descubrimiento y ya tengo electricista para todo lo que necesite, sin duda es un gran profesional! Lo te recomiendo 200%
     rating: 5
-    # image: https://lh3.googleusercontent.com/a/ACg8ocJer1HgR6grT2ers_qor0jBD9gVHHZ5VgkAd_DFG-5K-zjWJA=s136
+    # img: https://lh3.googleusercontent.com/a/ACg8ocJer1HgR6grT2ers_qor0jBD9gVHHZ5VgkAd_DFG-5K-zjWJA=s136
 
   - title: A V.
     md: |
@@ -386,7 +387,7 @@ reviews:
 
       Volveré a llamarlos con toda seguridad.
     rating: 5
-    # image: https://lh3.googleusercontent.com/a/ACg8ocKaAwD9LZBoMqhdq-VXt_xS_5EsICpGRPZUR8e9ipSYkvqyGA=s136
+    # img: https://lh3.googleusercontent.com/a/ACg8ocKaAwD9LZBoMqhdq-VXt_xS_5EsICpGRPZUR8e9ipSYkvqyGA=s136
 
   - title: Jaime M.
     md: |
@@ -396,7 +397,7 @@ reviews:
 
       Gracias
     rating: 5
-    # image: https://lh3.googleusercontent.com/a/ACg8ocIbw8pKU7c6B5JP8oDJw89z4GrpM5O_vPgUa37R5ihdsMuxFq0=s136
+    # img: https://lh3.googleusercontent.com/a/ACg8ocIbw8pKU7c6B5JP8oDJw89z4GrpM5O_vPgUa37R5ihdsMuxFq0=s136
 
   - title: Gonzalo R.
     md: |
@@ -408,7 +409,7 @@ reviews:
 
       Altamente recomendables!!!
     rating: 5
-    # image: https://lh3.googleusercontent.com/a-/ALV-UjUzAT1v5_CI5ujnQanzZjj9zCtp_DvoABvXCE71nHxgHSZcZRqUBQ=s136
+    # img: https://lh3.googleusercontent.com/a-/ALV-UjUzAT1v5_CI5ujnQanzZjj9zCtp_DvoABvXCE71nHxgHSZcZRqUBQ=s136
 
   - title: Jackie B.
     md: |
@@ -420,7 +421,7 @@ reviews:
 
       Precio muy justo
     rating: 5
-    # image: https://lh3.googleusercontent.com/a/ACg8ocLEdobH49dTs3c-NqLGKcbwUdXLyYkfksp5PSmpuU6SqEqUaA=s136
+    # img: https://lh3.googleusercontent.com/a/ACg8ocLEdobH49dTs3c-NqLGKcbwUdXLyYkfksp5PSmpuU6SqEqUaA=s136
 
   - title: Joachim H.
     md: |
@@ -434,7 +435,7 @@ reviews:
 
       Estaré feliz de contratarlos nuevamente.
     rating: 5
-    # image: https://lh3.googleusercontent.com/a/ACg8ocIxcBcz3ic9fZThzcSeGKni-YF4zPb0jTXTUNoEcL0Zq--0NQ=s136
+    # img: https://lh3.googleusercontent.com/a/ACg8ocIxcBcz3ic9fZThzcSeGKni-YF4zPb0jTXTUNoEcL0Zq--0NQ=s136
 
   - title: Nataliya S.
     md: |
@@ -452,7 +453,7 @@ reviews:
 
       ¡¡¡Estoy seguro de que esto sucederá en un futuro próximo!!!
     rating: 5
-    # image: https://lh3.googleusercontent.com/a-/ALV-UjVS07iKKDRXiSQs5_MqCMwNQeGyv9e4LU_LYONsqwXg1sDOsM8w9w=s136
+    # img: https://lh3.googleusercontent.com/a-/ALV-UjVS07iKKDRXiSQs5_MqCMwNQeGyv9e4LU_LYONsqwXg1sDOsM8w9w=s136
 
   - title: Roger H.
     md: |
@@ -464,7 +465,7 @@ reviews:
 
       ¡Estamos muy agradecidos y hizo un muy buen trabajo! ¡Muchas gracias!
     rating: 5
-    # image: https://lh3.googleusercontent.com/a/ACg8ocKdZVGJhtt98tLRxAIl8zMNZNH7xhSohrmR4WaRPfROLyPUfA=s136
+    # img: https://lh3.googleusercontent.com/a/ACg8ocKdZVGJhtt98tLRxAIl8zMNZNH7xhSohrmR4WaRPfROLyPUfA=s136
 
   - title: Neil S.
     md: |
@@ -472,7 +473,7 @@ reviews:
 
       Servicio muy eficiente, amable y profesional para retirar y reinstalar una unidad de carga para vehículos eléctricos tras una mudanza.
     rating: 5
-    # image: https://lh3.googleusercontent.com/a/ACg8ocIc0FqWl3LHPdRcSWAeT-dJbMEMEmCbc9JFOddIten52F2K8w=s136
+    # img: https://lh3.googleusercontent.com/a/ACg8ocIc0FqWl3LHPdRcSWAeT-dJbMEMEmCbc9JFOddIten52F2K8w=s136
 
   - title: Jose J.
     md: |
@@ -487,17 +488,17 @@ reviews:
 
       PD: Gracias Jose María y a Pedro.
     rating: 5
-    # image: https://lh3.googleusercontent.com/a/ACg8ocLbhUB-wjm8GX3s7tWDErKjKTuzf9jVMXXkhbtv-jItEGdTtw=s136
+    # img: https://lh3.googleusercontent.com/a/ACg8ocLbhUB-wjm8GX3s7tWDErKjKTuzf9jVMXXkhbtv-jItEGdTtw=s136
 
 
 portfolio:
   title: Portfolio
-  subtitle: Casos reales en su zona
+  sub: Casos reales en su zona
 
 
 us:
   title: Nosotros
-  subtitle: Electricistas autorizados a su servicio
+  sub: Electricistas autorizados a su servicio
   md: |
     - ::place:: Trabajamos exclusivamente en San Pedro del Pinatar y alrededores para llegar rápidos y resolver a la primera.
     - ::star:: Más de 100 reseñas top avalan nuestra seriedad con particulares, comunidades y empresas.
@@ -506,12 +507,12 @@ us:
 
 team:
   title: Equipo
-  subtitle: Técnicos que responden
+  sub: Técnicos que responden
 
 
 contact:
   title: Contacto
-  subtitle: Respondemos rápidamente
+  sub: Respondemos rápidamente
   days: Lunes - Viernes
   name: Nombre
   phone: Teléfono
@@ -602,6 +603,6 @@ footer:
 
 
 others:
-  subtitle: Potencia y precisión en cada instalación
+  sub: Potencia y precisión en cada instalación
   request_quote: Solicite presupuesto gratis
   see_more: Ver más

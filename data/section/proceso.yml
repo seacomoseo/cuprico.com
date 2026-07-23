@@ -1,19 +1,21 @@
 name: Proceso
 id: proceso
-title: Proceso
-subtitle: de trabajo
-md: Rápido, transparente y con garantía
-md_align: center
 size: sm
-step:
-  line: y
-  icon_size: 2
-params:
-- from: process.title
-  to: title
-- from: process.subtitle
-  to: subtitle
-- from: process.md
-  to: md
-- from: process.steps
-  to: steps
+boxes:
+- title: Proceso
+  sub: de trabajo
+  md: Rápido, transparente y con garantía
+  md_align: center
+  step:
+    line: y
+    icon_size: 2
+    hs: 4
+  get:
+  - from: process.title
+    to: title
+  - from: process.sub
+    to: sub
+  - from: process.md
+    to: md
+  - from: process.steps
+    to: steps

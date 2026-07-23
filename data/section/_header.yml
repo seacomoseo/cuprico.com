@@ -1,29 +1,31 @@
 name: Cabecera
-bi: servicios/reparaciones-electricas.jpg
-space: 2
-params:
+bi: /u/servicios/reparaciones-electricas.jpg
+get:
 - from: header.bi
   to: bi
-- from: header.hanchor
-  to: hanchor
-box:
-  cols: 2
-  gap_vs: 2
 boxes:
-- box:
-    node: div
+- space: 2
+  box:
+    cols: 2
+    gap_vs: 2
+  get:
+  - from: header.hanchor
+    to: hanchor
   boxes:
-  - image: base/logo.svg
-    fit: .66
-    fit_vs: .8
-  - caps: y
-    md: |
-      ::bolt::
-      {{% param others.subtitle %}}
-      ::bolt::
-      {.subtitle}
+  - box:
+      node: div
+    boxes:
+    - img: /u/base/logo.svg
+      fit: 0.66
+      fit_vs: 0.8
+    - caps: y
+      md: |
+        ::bolt::
+        {{% get others.sub %}}
+        ::bolt::
+        {.sub}
 
-      {{% param header.md %}}
+        {{% get header.md %}}
 
-      [[{{% param others.request_quote %}}]](#contacto)
-- image: equipo.png
+        [[{{% get others.request_quote %}}]](#contacto)
+  - img: /u/equipo.png

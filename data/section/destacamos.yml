@@ -1,12 +1,13 @@
 name: Destacamos
 id: destacamos
-box:
-  cols: 3
-  icon_size: 3
-  icon_type: side
-  hs: 0
-params:
-- from: features.title
-  to: hanchor
-- from: features.boxes
-  to: boxes
+boxes:
+- get:
+  - from: features.title
+    to: hanchor
+  - from: features.boxes
+    to: boxes
+  box:
+    cols: 3
+    icon_size: 3
+    icon_pos: side
+    hs: 0.2

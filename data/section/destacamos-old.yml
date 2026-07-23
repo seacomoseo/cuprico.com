@@ -1,12 +1,13 @@
 name: Destacamos OLD
 id: destacamos
-box:
-  cols: 3
-  line: y
-params:
-- from: features.title
-  to: title
-- from: features.subtitle
-  to: subtitle
-- from: features.boxes_old
-  to: boxes
+boxes:
+- get:
+  - from: features.title
+    to: title
+  - from: features.sub
+    to: sub
+  - from: features.boxes_old
+    to: boxes
+  box:
+    cols: 3
+    line: y

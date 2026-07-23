@@ -6,19 +6,17 @@ emoji: ☀️
 tpl:
   menu:
     logo: n
-    sticky: auto
-    size: lg
-    auto: same
   callnow: auto
   section:
   - size: lg
     color: dark
     alpha: 0.9
-    parallax: fix
-    caps: y
-    line: y
+    scroll: fix
     div: tilt
     div_x: y
+    box:
+      caps: y
+      line: y
   - color: white
     div_x: n
   sections:
@@ -35,5 +33,5 @@ tpl:
   list:
     color: none
     align: left
-    image: hide
+    img: hide
     shade: n

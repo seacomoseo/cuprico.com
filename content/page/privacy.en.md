@@ -2,7 +2,8 @@
 title: Privacy Policy
 slug: privacy
 icon: encrypted
-noindex: y
+seo:
+  noindex: y
 type: system
 weight: 2
 ---

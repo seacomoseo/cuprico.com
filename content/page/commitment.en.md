@@ -2,7 +2,8 @@
 title: Commitment to the Protection of Personal Data
 slug: commitment
 icon: handshake
-noindex: y
+seo:
+  noindex: y
 type: system
 weight: 7
 ---

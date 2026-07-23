@@ -2,14 +2,14 @@ name: Servicios ➡️ Boiletín
 id: servicios
 size: sm
 color: white
-md_align: left
-params:
-- from: services.bulletin.hanchor
-  to: hanchor
-- from: services.bulletin.title
-  to: title
-- from: services.bulletin.subtitle
-  to: subtitle
-- from: services.bulletin.md
-  to: md
-
+boxes:
+- md_align: left
+  get:
+  - from: services.bulletin.hanchor
+    to: hanchor
+  - from: services.bulletin.title
+    to: title
+  - from: services.bulletin.sub
+    to: sub
+  - from: services.bulletin.md
+    to: md

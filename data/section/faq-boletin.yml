@@ -1,12 +1,13 @@
 name: FAQ ➡️ Boiletín
 size: md
-accordion:
-  headers: y
-  hs: 6
-params:
-- from: faq.title
-  to: title
-- from: faq.subtitle
-  to: subtitle
-- from: faq.bulletin
-  to: accordions
+boxes:
+- faq:
+    headers: y
+    hs: 6
+  get:
+  - from: faq.title
+    to: title
+  - from: faq.sub
+    to: sub
+  - from: faq.bulletin
+    to: faqs
