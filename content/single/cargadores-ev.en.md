@@ -27,7 +27,7 @@ header:
 
 tpl:
   sections:
-  - file: _header
+  - file: _hero
   - file: colaboradores
   - file: destacamos
   - file: servicios-cargadores-ev

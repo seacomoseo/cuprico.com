@@ -8,8 +8,8 @@ boxes:
     align: left
     align_vl: left
     align_y: center
-    caps: y
-    line: y
+    caps: true
+    line: true
   get:
   - from: us.title
     to: title

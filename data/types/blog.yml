@@ -1,7 +1,7 @@
 title: Blog
 base: article
 weight: 4
-rel: y
+rel: true
 tpl:
   list:
     cols: 3

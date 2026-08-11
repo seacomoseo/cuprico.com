@@ -3,7 +3,7 @@ title: Privacy Policy
 slug: privacy
 icon: encrypted
 seo:
-  noindex: y
+  noindex: true
 type: system
 weight: 2
 ---

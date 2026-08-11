@@ -5,7 +5,7 @@ icon: solar_power
 emoji: ☀️
 tpl:
   menu:
-    logo: n
+    logo: false
   callnow: auto
   section:
   - size: lg
@@ -13,14 +13,14 @@ tpl:
     alpha: 0.9
     scroll: fix
     div: tilt
-    div_x: y
+    div_x: true
     box:
-      caps: y
-      line: y
+      caps: true
+      line: true
   - color: white
-    div_x: n
+    div_x: false
   sections:
-  - file: _header
+  - file: _hero
   - file: colaboradores
   - file: destacamos
   - file: servicios-placas-solares
@@ -34,4 +34,4 @@ tpl:
     color: none
     align: left
     img: hide
-    shade: n
+    shade: false

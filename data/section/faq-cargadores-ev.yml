@@ -2,7 +2,7 @@ name: FAQ ➡️ Cargadores
 size: md
 boxes:
 - faq:
-    headers: y
+    headers: true
     hs: 6
   get:
   - from: faq.title

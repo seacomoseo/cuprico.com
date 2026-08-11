@@ -14,7 +14,7 @@ header:
 
 tpl:
   sections:
-  - file: _header
+  - file: _hero
   - file: colaboradores
   - file: destacamos
   - file: servicios
@@ -93,11 +93,11 @@ org:
   - Torre de la Horadada
   when:
   - days:
-      mon: y
-      tue: y
-      wed: y
-      thu: y
-      fri: y
+      mon: true
+      tue: true
+      wed: true
+      thu: true
+      fri: true
     hours:
     - open: 8:00
       close: 20:30

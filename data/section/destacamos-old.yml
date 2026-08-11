@@ -10,4 +10,4 @@ boxes:
     to: boxes
   box:
     cols: 3
-    line: y
+    line: true

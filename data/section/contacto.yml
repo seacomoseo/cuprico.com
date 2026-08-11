@@ -23,24 +23,24 @@ boxes:
   - type: mail
     label: administracion@cuprico.com
     btn: such
-    full: y
+    full: true
   form:
     mail: administracion@cuprico.com
   inputs:
   - type: text
     name: Nombre
     label: '{{ get contact.name }}'
-    req: y
+    req: true
   - type: phone
     name: Teléfono
     label: '{{ get contact.phone }}'
   - type: mail
     name: Email
-    req: y
+    req: true
   - type: area
     name: Mensaje
     label: '{{ get contact.message }}'
-    req: y
+    req: true
   get:
   - from: contact.title
     to: title

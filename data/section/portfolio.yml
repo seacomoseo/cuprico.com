@@ -1,6 +1,6 @@
 name: Portfolio
 id: portfolio
-ph: y
+ph: true
 size: fluid
 color: white
 boxes:

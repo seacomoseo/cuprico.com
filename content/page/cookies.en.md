@@ -3,7 +3,7 @@ title: Cookie Policy
 slug: cookies
 icon: cookie
 seo:
-  noindex: y
+  noindex: true
 type: system
 weight: 3
 ---

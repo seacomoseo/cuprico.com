@@ -3,20 +3,20 @@ tpl:
   bg:
     color: white
   menu:
-    logo: y
+    logo: true
     logo_align: center
     sticky: auto
     color: white
-    clear: y
+    clear: true
     size: lg
-    hide_icons: y
-    hide_custom: n
+    hide_icons: true
+    hide_custom: false
     auto: none
   callnow: auto
   section:
   - size: sm
   sections:
-  - file: base-_header
+  - file: base-_hero
   - file: base-toc
   - file: base-content
   - file: base-address
@@ -29,8 +29,8 @@ tpl:
   list:
     cols: 3
     color: such
-    shade: y
-    inset: y
+    shade: true
+    inset: true
     ratio: 4/3
     icon: hide
     md: hide
@@ -38,4 +38,4 @@ tpl:
     tags:
     - type: date
   rel:
-    slider: y
+    slider: true

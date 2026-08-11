@@ -3,7 +3,7 @@ weight: 0
 base: single
 tpl:
   menu:
-    logo: n
+    logo: false
   callnow: auto
   section:
   - size: lg
@@ -11,9 +11,9 @@ tpl:
     alpha: 0.9
     scroll: fix
     div: tilt
-    div_x: y
+    div_x: true
     box:
-      caps: y
-      line: y
+      caps: true
+      line: true
   - color: white
-    div_x: n
+    div_x: false

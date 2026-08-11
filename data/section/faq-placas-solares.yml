@@ -2,7 +2,7 @@ name: FAQ ➡️ Placas Solares
 size: md
 boxes:
 - faq:
-    headers: y
+    headers: true
     hs: 6
   get:
   - from: faq.title

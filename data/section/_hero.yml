@@ -1,4 +1,4 @@
-name: Cabecera
+name: Hero
 bi: /u/servicios/reparaciones-electricas.jpg
 get:
 - from: header.bi
@@ -18,7 +18,7 @@ boxes:
     - img: /u/base/logo.svg
       fit: 0.66
       fit_vs: 0.8
-    - caps: y
+    - caps: true
       md: |
         ::bolt::
         {{% get others.sub %}}

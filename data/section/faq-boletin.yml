@@ -2,7 +2,7 @@ name: FAQ ➡️ Boiletín
 size: md
 boxes:
 - faq:
-    headers: y
+    headers: true
     hs: 6
   get:
   - from: faq.title

@@ -29,7 +29,7 @@ boxes:
 modal:
   color: white
   ratio: 16/9
-  inset: y
-  caps: y
-  line: y
+  inset: true
+  caps: true
+  line: true
   size: xs

@@ -9,7 +9,7 @@ boxes:
 - review:
     cols: 3
     color: white
-    slider: y
+    slider: true
     icon: keyboard_double_arrow_left
     icon_right: keyboard_double_arrow_right
   get:
