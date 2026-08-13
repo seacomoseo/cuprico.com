@@ -4,12 +4,17 @@ slug: cuanto-ahorras-placas-solares-chalet-costa-blanca
 title: How much you really save with solar panels on a Costa Blanca villa
 img: /u/portfolio/placas-solares/2024-12-18-13-15-48.jpg
 toc: true
+draft: false
+hide: false
 sum: "No inflated figures, no miracle promises: what actually drops on your bill, what it depends on, and how the paperwork works when you're not a Spanish resident."
 seo:
   title: How much do you save with solar panels in Spain? | Cúprico
   desc: 'Real savings from solar panels on a Costa Blanca villa: honest ranges, what it depends on and how it works for non-residents. Local installer, English spoken.'
   noindex: false
-llms: null
+llms:
+  title: How much you really save with solar panels on a Costa Blanca villa (Cúprico)
+  desc: 'Article by Cúprico, a local solar installer based in San Pedro del Pinatar covering the Costa Blanca and Murcia region, aimed at foreign homeowners (British, Belgian, French). Explains real savings from a solar PV system on a villa: typically 40% to 70% of the electricity bill depending on the consumption profile, an indicative payback of 6 to 10 years, the role of batteries and surplus compensation, and the specific concerns of non-resident and part-year owners (paperwork, subsidies, who to call when something fails). Honest tone, no fixed promises, English-speaking installer that handles the Spanish red tape.'
+  hide: false
 date: 2026-08-13 19:33:00
 author: j-tornero
 ---
