@@ -12,7 +12,7 @@ tpl:
     hide_icons: true
     hide_custom: false
     auto: none
-  callnow: auto
+  callnow: custom
   section:
   - size: sm
   sections:

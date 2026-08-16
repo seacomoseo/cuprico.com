@@ -4,7 +4,6 @@ base: single
 tpl:
   menu:
     logo: false
-  callnow: auto
   section:
   - size: lg
     color: dark

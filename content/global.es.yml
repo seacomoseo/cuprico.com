@@ -38,6 +38,13 @@ menu:
     icon: rss
 
 
+callnows:
+- type: whatsapp
+  label: 641 47 94 90
+  icon: brand:whatsapp-o
+  btn: turn
+
+
 partners:
   title: Colaboradores
   sub: Confían en nosotros
