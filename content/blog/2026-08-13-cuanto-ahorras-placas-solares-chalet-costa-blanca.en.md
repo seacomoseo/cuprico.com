@@ -1,5 +1,4 @@
 ---
-weight: 1
 slug: cuanto-ahorras-placas-solares-chalet-costa-blanca
 title: How much you really save with solar panels on a Costa Blanca villa
 img: /u/portfolio/placas-solares/2024-12-18-13-15-48.jpg
@@ -17,6 +16,7 @@ llms:
   hide: false
 date: 2026-08-13 19:33:00
 author: j-tornero
+weight: 1
 ---
 
 If you own a villa on the Costa Blanca, run several air-conditioning units, maybe a pool or a heat pump, and your summer electricity bill makes you wince, this one is for you.

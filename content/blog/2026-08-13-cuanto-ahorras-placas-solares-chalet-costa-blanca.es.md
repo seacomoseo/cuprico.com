@@ -1,5 +1,4 @@
 ---
-weight: 1
 slug: cuanto-ahorras-placas-solares-chalet-costa-blanca
 title: Cuánto ahorras de verdad con placas solares en un chalet de la Costa Blanca
 img: /u/portfolio/placas-solares/2024-12-18-13-15-48.jpg
@@ -17,6 +16,7 @@ llms:
   hide: false
 date: 2026-08-13 19:33:00
 author: j-tornero
+weight: 1
 ---
 
 Si tienes un chalet en la Costa Blanca, varios aires acondicionados, quizá piscina o bomba de calor, y una factura de la luz que en verano te hace levantar la ceja, esto te interesa.
@@ -58,7 +58,7 @@ Buena pregunta. Lo que generas y no consumes en el momento no se pierde: se vier
 
 Depende, y te lo decimos claro. La batería guarda la energía que te sobra de día para usarla de noche, cuando enciendes las luces, la tele o el aire para dormir. Eso sube mucho tu autoconsumo y, de paso, te da **respaldo si se va la luz** (algo que en algunas urbanizaciones se agradece).
 
-¿Para quién tiene sentido? Sobre todo para quien hace bastante vida en casa por la tarde-noche, para quien quiere depender lo mínimo de la compañía y para quien va a estar aquí gran parte del año. ¿Para quién quizá no compensa aún? Para quien apenas usa la casa o consume casi todo de día. En tu estudio te decimos con números si en tu caso suma o si es mejor empezar sin ella y añadirla más adelante. De hecho, ampliar con batería una instalación que ya tienes es de lo que más nos piden. Si ya tienes placas, mira lo que te contamos sobre ampliar tu instalación con batería.
+¿Para quién tiene sentido? Sobre todo para quien hace bastante vida en casa por la tarde-noche, para quien quiere depender lo mínimo de la compañía y para quien va a estar aquí gran parte del año. ¿Para quién quizá no compensa aún? Para quien apenas usa la casa o consume casi todo de día. En tu estudio te decimos con números si en tu caso suma o si es mejor empezar sin ella y añadirla más adelante. De hecho, ampliar con batería una instalación que ya tienes es de lo que más nos piden. Si ya tienes placas, mira lo que te contamos sobre [ampliar tu instalación con batería.](https://cuprico.com/instaladores-placas-solares/ "ampliar tu instalación con batería.")
 
 ## ¿En cuánto se paga sola?
 
@@ -104,7 +104,7 @@ Hasta aquí los rangos y las ideas generales. Tu ahorro real solo se sabe mirand
 
 Somos **Cúprico electrical & solar services**, instaladores de energía solar en San Pedro del Pinatar y toda la zona (Región de Murcia y Vega Baja). Pídenos tu estudio gratuito:
 
-[Pídenos tu estudio gratis]
+[[Pídenos tu estudio gratis]](https://cuprico.com/#contacto "[Pídenos tu estudio gratis]")
 
 - **Teléfono / WhatsApp:** 641 47 94 90 · 603 60 66 15
 - **Email:** administracion@cuprico.com
