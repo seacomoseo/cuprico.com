@@ -44,7 +44,6 @@ No partíamos de cero: ya había una instalación fotovoltaica funcionando, así
 <!-- gallery-simple -->
 ![](/u/img_1487.heic "Ampliación de placas solares en un chalet de Pinar de Campoverde")
 
-
 <!-- gallery-simple -->
 ![](/u/img_1491.heic "Batería instalada en una ampliación de autoconsumo solar en Pinar de Campoverde")
 
