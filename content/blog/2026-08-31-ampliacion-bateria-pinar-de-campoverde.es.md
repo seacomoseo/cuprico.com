@@ -3,8 +3,8 @@ slug: ampliacion-bateria-pinar-de-campoverde
 title: ¿Cada vez pasas más tiempo en tu chalet de Pinar de Campoverde? Así le sacamos partido a sus placas con una batería
 img: /u/chatgpt-image-31-ago-2026-21_10_38.webp
 toc: true
-draft: false
-hide: false
+draft: true
+hide: true
 sum: 'Caso real (anonimizado): un propietario que pasó de venir unas semanas al año a vivir casi todo el año en Pinar de Campoverde amplió su instalación con más paneles y batería. Te contamos qué le hizo dar el paso y qué cambió.'
 seo:
   title: Batería para placas solares en Pinar de Campoverde | Cúprico

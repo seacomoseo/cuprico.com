@@ -3,8 +3,8 @@ slug: ampliacion-bateria-pinar-de-campoverde
 title: Spending more of the year at your Pinar de Campoverde villa? Here's how we added a battery to make the most of the panels already there
 img: /u/chatgpt-image-31-ago-2026-21_10_38.webp
 toc: true
-draft: false
-hide: false
+draft: true
+hide: true
 sum: 'A real, anonymised case: a foreign homeowner who used to visit for a few weeks a year now spends most of it at their Pinar de Campoverde villa. We added panels and a battery to an existing system, and handled the Spanish paperwork end to end.'
 seo:
   title: Adding a solar battery in Pinar de Campoverde | Cúprico
