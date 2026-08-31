@@ -45,11 +45,13 @@ Y en un chalet de la costa esto encaja perfecto con el patrón de consumo de ver
 
 ## Si ya tienes placas: qué mirar ahora
 
-Si ya te instalamos placas, este es un buen momento para revisar dos cosas con nosotros: cómo está funcionando tu compensación de excedentes (el precio al que te pagan lo que viertes a la red también se mueve con el mercado) y si te compensa ya ampliar con batería para blindarte también en las horas de noche. Ya explicamos con más detalle los rangos de ahorro reales según el consumo en cuánto ahorras de verdad con placas solares en un chalet de la Costa Blanca.
+Si ya te instalamos placas, este es un buen momento para revisar dos cosas con nosotros: cómo está funcionando tu compensación de excedentes (el precio al que te pagan lo que viertes a la red también se mueve con el mercado) y si te compensa ya ampliar con batería para blindarte también en las horas de noche. Ya explicamos con más detalle los rangos de ahorro reales según el consumo en [cuánto ahorras de verdad con placas solares en un chalet de la Costa Blanca](https://cuprico.com/blog/cuanto-ahorras-placas-solares-chalet-costa-blanca/ "cuánto ahorras de verdad con placas solares en un chalet de la Costa Blanca")
 
 ## Y si no tienes placas todavía
 
-Con el mercado en estos niveles, cada mes que pasa sin autoconsumo es un mes pagando el precio completo de un mercado especialmente caro. Eso no significa que cualquier instalación "se pague sola en dos días": significa que, ahora mismo, el cálculo de cuándo se amortiza tu instalación juega a tu favor. Lo vemos con chalets en San Javier, Los Alcázares y toda la zona: quien tiene placas este agosto ha notado mucho menos la subida que quien no las tiene.
+Con el mercado en estos niveles, cada mes que pasa sin autoconsumo es un mes pagando el precio completo de un mercado especialmente caro. Eso no significa que cualquier instalación "se pague sola en dos días": significa que, ahora mismo, el cálculo de cuándo se amortiza tu instalación juega a tu favor. Lo vemos con chalets en [San Javier](https://cuprico.com/instaladores-placas-solares/san-javier/ "San Javier"), [Los Alcázares](https://cuprico.com/electricistas/los-alcazares/ "Los Alcázares")
+
+ y toda la zona: quien tiene placas este agosto ha notado mucho menos la subida que quien no las tiene.
 
 ## Preguntas frecuentes
 
@@ -67,7 +69,7 @@ Los datos generales están bien, pero lo que realmente importa es tu factura, tu
 
 Somos **Cúprico electrical & solar services**, instaladores de energía solar en San Pedro del Pinatar y toda la zona (Región de Murcia y Vega Baja alicantina).
 
-[[Pídenos tu estudio gratis]](https://cuprico.com/#contacto "[Pídenos tu estudio gratis]")
+[[Pídenos tu estudio gratis]](https://cuprico.com/#contacto)
 
 - **Teléfono / WhatsApp:** 641 47 94 90 · 603 60 66 15
 - **Email:** administracion@cuprico.com

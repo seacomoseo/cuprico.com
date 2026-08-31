@@ -46,11 +46,13 @@ For a coastal villa this lines up neatly with your summer usage pattern: air con
 
 ## Already have panels? Worth checking now
 
-If we've already installed your system, this is a good moment to check two things with us: how your surplus compensation is behaving right now (the rate you're paid for what you export also moves with the market), and whether adding a battery now makes sense to shield the evening hours too. We covered realistic savings ranges by consumption profile in more detail in how much you really save with solar panels on a Costa Blanca villa.
+If we've already installed your system, this is a good moment to check two things with us: how your surplus compensation is behaving right now (the rate you're paid for what you export also moves with the market), and whether adding a battery now makes sense to shield the evening hours too. We covered realistic savings ranges by consumption profile in more detail in [how much you really save with solar panels on a Costa Blanca villa.](https://cuprico.com/en/blog/cuanto-ahorras-placas-solares-chalet-costa-blanca/ "how much you really save with solar panels on a Costa Blanca villa.")
 
 ## Don't have solar yet? None of this depends on residency
 
-You don't need to be a Spanish resident, or live here year-round, to install solar and start benefiting from it — that part of the process is exactly the same whether you're here every day or a few months a year, and we handle the Spanish paperwork either way. We see the difference locally in villas around San Javier and Los Alcázares: owners with panels have barely felt this August's spike compared with those without. With the market at these levels, every month without self-consumption is a month paying the full rate of an unusually expensive market. That's not a promise that any system "pays for itself in weeks" — it means that, right now, the maths behind when your system pays back is working in your favour.
+You don't need to be a Spanish resident, or live here year-round, to install solar and start benefiting from it — that part of the process is exactly the same whether you're here every day or a few months a year, and we handle the Spanish paperwork either way. We see the difference locally in villas around [San Javier](https://cuprico.com/en/solar-panel-installers/san-javier/ "San Javier") and [Los Alcázares](https://cuprico.com/en/solar-panel-installers/los-alcazares/ "Los Alcázares")
+
+: owners with panels have barely felt this August's spike compared with those without. With the market at these levels, every month without self-consumption is a month paying the full rate of an unusually expensive market. That's not a promise that any system "pays for itself in weeks" — it means that, right now, the maths behind when your system pays back is working in your favour.
 
 ## FAQ
 
@@ -68,7 +70,7 @@ General figures only tell you so much — what matters is your bill, your roof a
 
 We're **Cúprico electrical & solar services**, solar installers based in San Pedro del Pinatar, covering the Murcia region and the Vega Baja. The easiest way to reach us is a written **WhatsApp message** — handy if your Spanish isn't fluent yet:
 
-[[Message us on WhatsApp]](https://cuprico.com/en/#contacto "[Message us on WhatsApp]")
+[[Message us on WhatsApp]](https://wa.me/34641479490)
 
 - **WhatsApp / phone:** 641 47 94 90 · 603 60 66 15
 - **Email:** administracion@cuprico.com
