@@ -1,18 +1,18 @@
 ---
 slug: ampliacion-bateria-pinar-de-campoverde
-title: "Spending more of the year at your Pinar de Campoverde villa? Here's how we added a battery to make the most of the panels already there"
-img: /u/portfolio/placas-solares/2024-12-18-13-15-48.jpg
+title: Spending more of the year at your Pinar de Campoverde villa? Here's how we added a battery to make the most of the panels already there
+img: /u/chatgpt-image-31-ago-2026-21_10_38.webp
 toc: true
 draft: false
 hide: false
-sum: "A real, anonymised case: a foreign homeowner who used to visit for a few weeks a year now spends most of it at their Pinar de Campoverde villa. We added panels and a battery to an existing system, and handled the Spanish paperwork end to end."
+sum: 'A real, anonymised case: a foreign homeowner who used to visit for a few weeks a year now spends most of it at their Pinar de Campoverde villa. We added panels and a battery to an existing system, and handled the Spanish paperwork end to end.'
 seo:
-  title: "Adding a solar battery in Pinar de Campoverde | Cúprico"
+  title: Adding a solar battery in Pinar de Campoverde | Cúprico
   desc: "Real case: we added panels and a battery to an existing solar system in Pinar de Campoverde. When it's worth expanding, and how we handled the paperwork."
   noindex: false
 llms:
-  title: "Real case: expanding a solar system with a battery in Pinar de Campoverde (Cúprico)"
-  desc: "Article by Cúprico, a local solar and electrical installer based in San Pedro del Pinatar covering the Costa Blanca and Murcia region, aimed at foreign homeowners (British, Belgian, French). Tells a real, anonymised case: a non-resident owner of a villa in Pinar de Campoverde who used to visit only a few weeks a year and now spends most of the year there added extra panels and a battery to an existing solar system. Explains why spending more time at the property changes whether a battery is worth it, how the paperwork works for expanding an installation that is already up and running as a non-resident, and who this typically suits (mainly second-home owners shifting towards living in Spain most of the year). Honest tone, no fixed savings or cost figures, English-speaking installer that handles the red tape."
+  title: 'Real case: expanding a solar system with a battery in Pinar de Campoverde (Cúprico)'
+  desc: 'Article by Cúprico, a local solar and electrical installer based in San Pedro del Pinatar covering the Costa Blanca and Murcia region, aimed at foreign homeowners (British, Belgian, French). Tells a real, anonymised case: a non-resident owner of a villa in Pinar de Campoverde who used to visit only a few weeks a year and now spends most of the year there added extra panels and a battery to an existing solar system. Explains why spending more time at the property changes whether a battery is worth it, how the paperwork works for expanding an installation that is already up and running as a non-resident, and who this typically suits (mainly second-home owners shifting towards living in Spain most of the year). Honest tone, no fixed savings or cost figures, English-speaking installer that handles the red tape.'
   hide: false
 date: 2026-08-31 18:15:00
 mod: 2026-08-31 18:15:00

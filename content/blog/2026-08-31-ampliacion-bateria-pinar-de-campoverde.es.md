@@ -1,18 +1,18 @@
 ---
 slug: ampliacion-bateria-pinar-de-campoverde
-title: "¿Cada vez pasas más tiempo en tu chalet de Pinar de Campoverde? Así le sacamos partido a sus placas con una batería"
-img: /u/portfolio/placas-solares/2024-12-18-13-15-48.jpg
+title: ¿Cada vez pasas más tiempo en tu chalet de Pinar de Campoverde? Así le sacamos partido a sus placas con una batería
+img: /u/chatgpt-image-31-ago-2026-21_10_38.webp
 toc: true
 draft: false
 hide: false
-sum: "Caso real (anonimizado): un propietario que pasó de venir unas semanas al año a vivir casi todo el año en Pinar de Campoverde amplió su instalación con más paneles y batería. Te contamos qué le hizo dar el paso y qué cambió."
+sum: 'Caso real (anonimizado): un propietario que pasó de venir unas semanas al año a vivir casi todo el año en Pinar de Campoverde amplió su instalación con más paneles y batería. Te contamos qué le hizo dar el paso y qué cambió.'
 seo:
-  title: "Batería para placas solares en Pinar de Campoverde | Cúprico"
-  desc: "Caso real: ampliamos con batería una instalación de placas solares en un chalet de Pinar de Campoverde. Cuándo tiene sentido ampliar y cómo lo hicimos."
+  title: Batería para placas solares en Pinar de Campoverde | Cúprico
+  desc: 'Caso real: ampliamos con batería una instalación de placas solares en un chalet de Pinar de Campoverde. Cuándo tiene sentido ampliar y cómo lo hicimos.'
   noindex: false
 llms:
-  title: "Caso real de ampliación con batería en Pinar de Campoverde (Cúprico)"
-  desc: "Artículo de Cúprico (instaladores de placas solares en San Pedro del Pinatar, Región de Murcia y Vega Baja alicantina) que narra un caso real anonimizado: un propietario de un chalet en Pinar de Campoverde que empezó a vivir en España la mayor parte del año amplió su instalación fotovoltaica existente con paneles adicionales y una batería. Explica por qué el aumento de tiempo de estancia cambia la rentabilidad de la batería, cómo es el proceso de legalizar una ampliación sobre una instalación ya en marcha, y para qué perfil de propietario (sobre todo segunda residencia que pasa a usarse casi todo el año) tiene sentido dar este paso. Enfoque prudente, sin cifras cerradas de ahorro ni coste."
+  title: Caso real de ampliación con batería en Pinar de Campoverde (Cúprico)
+  desc: 'Artículo de Cúprico (instaladores de placas solares en San Pedro del Pinatar, Región de Murcia y Vega Baja alicantina) que narra un caso real anonimizado: un propietario de un chalet en Pinar de Campoverde que empezó a vivir en España la mayor parte del año amplió su instalación fotovoltaica existente con paneles adicionales y una batería. Explica por qué el aumento de tiempo de estancia cambia la rentabilidad de la batería, cómo es el proceso de legalizar una ampliación sobre una instalación ya en marcha, y para qué perfil de propietario (sobre todo segunda residencia que pasa a usarse casi todo el año) tiene sentido dar este paso. Enfoque prudente, sin cifras cerradas de ahorro ni coste.'
   hide: false
 date: 2026-08-31 18:15:00
 mod: 2026-08-31 18:15:00
@@ -41,9 +41,12 @@ Es un patrón muy habitual en la Vega Baja y la zona de golf: el propietario que
 
 No partíamos de cero: ya había una instalación fotovoltaica funcionando, así que el trabajo fue una **ampliación**, no una instalación nueva. En este caso concreto añadimos dieciséis paneles más para elevar la producción total y una batería para almacenar el excedente del día y poder usarlo por la noche, en vez de venderlo a la red por menos de lo que cuesta comprarlo después.
 
-[IMAGEN: paneles nuevos añadidos sobre el tejado o pérgola del chalet, junto a los paneles ya existentes, para mostrar visualmente la ampliación — alt recomendado: "Ampliación de placas solares en un chalet de Pinar de Campoverde"]
+<!-- gallery-simple -->
+![](/u/img_1487.heic "Ampliación de placas solares en un chalet de Pinar de Campoverde")
 
-[IMAGEN: batería e inversor instalados junto al cuadro eléctrico, con el cableado ya rematado — alt recomendado: "Batería instalada en una ampliación de autoconsumo solar en Pinar de Campoverde"]
+
+<!-- gallery-simple -->
+![](/u/img_1491.heic "Batería instalada en una ampliación de autoconsumo solar en Pinar de Campoverde")
 
 También revisamos el cuadro eléctrico y el punto de conexión, porque una ampliación de potencia y la incorporación de un elemento nuevo como la batería obligan a comprobar que todo el conjunto (paneles, inversor, batería y protecciones) es coherente y sigue cumpliendo la normativa, no solo a "enchufar" el equipo nuevo.
 
@@ -88,7 +91,7 @@ Si ya tienes placas y notas que tu forma de vivir en la casa ha cambiado, o si t
 
 Somos **Cúprico electrical & solar services**, instaladores eléctricos y de energía solar en San Pedro del Pinatar (Región de Murcia y Vega Baja alicantina).
 
-[[Pídenos tu estudio gratis]](https://cuprico.com/#contacto "[Pídenos tu estudio gratis]")
+[[Pídenos tu estudio gratis]](https://cuprico.com/#contacto)
 
 - **Teléfono / WhatsApp:** 641 47 94 90 · 603 60 66 15
 - **Email:** administracion@cuprico.com
