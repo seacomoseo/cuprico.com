@@ -3,8 +3,8 @@ slug: ampliacion-bateria-pinar-de-campoverde
 title: Spending more of the year at your Pinar de Campoverde villa? Here's how we added a battery to make the most of the panels already there
 img: /u/chatgpt-image-31-ago-2026-21_10_38.webp
 toc: true
-draft: true
-hide: true
+draft: false
+hide: false
 sum: 'A real, anonymised case: a foreign homeowner who used to visit for a few weeks a year now spends most of it at their Pinar de Campoverde villa. We added panels and a battery to an existing system, and handled the Spanish paperwork end to end.'
 seo:
   title: Adding a solar battery in Pinar de Campoverde | Cúprico
@@ -14,8 +14,8 @@ llms:
   title: 'Real case: expanding a solar system with a battery in Pinar de Campoverde (Cúprico)'
   desc: 'Article by Cúprico, a local solar and electrical installer based in San Pedro del Pinatar covering the Costa Blanca and Murcia region, aimed at foreign homeowners (British, Belgian, French). Tells a real, anonymised case: a non-resident owner of a villa in Pinar de Campoverde who used to visit only a few weeks a year and now spends most of the year there added extra panels and a battery to an existing solar system. Explains why spending more time at the property changes whether a battery is worth it, how the paperwork works for expanding an installation that is already up and running as a non-resident, and who this typically suits (mainly second-home owners shifting towards living in Spain most of the year). Honest tone, no fixed savings or cost figures, English-speaking installer that handles the red tape.'
   hide: false
-date: 2026-08-31 18:15:00
-mod: 2026-08-31 18:15:00
+date: 2026-09-01 15:36:00
+mod: 2026-09-01 15:36:00
 author: j-tornero
 ---
 
@@ -41,9 +41,11 @@ It's a very common pattern in the Vega Baja and the golf-resort areas: the owner
 
 We weren't starting from scratch: there was already a working solar system, so this was an **expansion**, not a new installation. In this particular case we added sixteen more panels to raise total output, plus a battery to store the day's surplus so it could be used at night, instead of selling it back to the grid for less than it costs to buy it back later.
 
-[IMAGE: the newly added panels on the roof or pergola, shown alongside the existing ones so the expansion is visually clear — suggested alt text: "Solar panel expansion on a villa in Pinar de Campoverde"]
+<!-- gallery-simple -->
+![](/u/img_1487.webp "Solar Panel Expansion at a Chalet in Pinar de Campoverde")
 
-[IMAGE: the battery and inverter installed next to the consumer unit, with the wiring neatly finished — suggested alt text: "Battery installed as part of a solar self-consumption upgrade in Pinar de Campoverde"]
+<!-- gallery-simple -->
+![](/u/img_1491.webp "Battery installed as part of a solar self-consumption upgrade in Pinar de Campoverde")
 
 We also checked the consumer unit and the grid connection point, because increasing the system's capacity and adding a new element like a battery both require confirming that the whole set-up — panels, inverter, battery and protection devices — is consistent and still meets current regulations. It's not just a matter of "plugging in" the new equipment.
 
