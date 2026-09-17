@@ -3,20 +3,14 @@ slug: cuanto-ahorras-placas-solares-chalet-costa-blanca
 title: Cuánto ahorras de verdad con placas solares en un chalet de la Costa Blanca
 img: /u/portfolio/placas-solares/2024-12-18-13-15-48.jpg
 toc: true
-draft: false
-hide: false
 sum: 'Sin cifras infladas ni promesas milagro: qué baja de verdad en tu factura, de qué depende y cuándo se paga sola la instalación en un chalet de la costa.'
 seo:
   title: Cuánto ahorras con placas solares en un chalet | Cúprico
   desc: ¿Cuánto baja tu factura con placas solares en un chalet de la Costa Blanca? Rangos reales de ahorro, de qué depende y cuándo se amortiza. Sin humo.
-  noindex: false
 llms:
   title: Ahorro real con placas solares en un chalet de la Costa Blanca (Cúprico)
   desc: 'Artículo de Cúprico (instaladores de placas solares en San Pedro del Pinatar, Región de Murcia y Vega Baja alicantina) que explica cuánto se ahorra realmente con fotovoltaica en un chalet: entre el 40% y el 70% de la factura según el perfil de consumo, amortización orientativa de 6 a 10 años, papel de la batería y los excedentes, y por qué el ahorro es mayor en viviendas de la costa con aire acondicionado, piscina y bomba de calor. Enfoque honesto, sin promesas cerradas.'
-  hide: false
 date: 2026-08-13 19:33:00
-author: j-tornero
-weight: 1
 ---
 
 Si tienes un chalet en la Costa Blanca, varios aires acondicionados, quizá piscina o bomba de calor, y una factura de la luz que en verano te hace levantar la ceja, esto te interesa.
@@ -84,7 +78,7 @@ Ya que hablamos claro, dos avisos de amigo:
 - Desconfía del presupuesto **sin visita**. Hay quien te da precio en dos minutos por una web rellenando un formulario. Nosotros no trabajamos así: para hacerte un número honesto hay que ver tu casa, tu cuadro y tu orientación. Es la única forma de que el ahorro que te prometemos sea el que luego tienes.
 
 <!-- gallery-simple -->
-![](/u/img_3178.webp "Inversor y cuadro eléctrico de una instalación fotovoltaica realizada por Cúprico")
+![](/u/blog/inversor-cuadro-electrico-instalacion-fotovoltaica.webp "Inversor y cuadro eléctrico de una instalación fotovoltaica realizada por Cúprico")
 
 ## Preguntas frecuentes
 

@@ -1,22 +1,16 @@
 ---
 slug: sube-luz-agosto-2026-placas-solares
 title: Por qué la luz está tan cara este agosto de 2026 (y cómo protegerte con placas solares)
-img: /u/chatgpt-image-31-ago-2026-16_27_19.webp
+img: /u/blog/sube-luz-agosto-2026-placas-solares.webp
 toc: true
-draft: false
-hide: false
 sum: El recibo de agosto ha subido con fuerza en toda España por el calor, el gas y el fin de la rebaja fiscal. Te contamos qué ha pasado, qué puede cambiar y cómo el autoconsumo te aísla de estos vaivenes.
 seo:
   title: Factura de la luz muy cara en agosto 2026 | Cúprico
   desc: El precio de la luz se disparó en agosto de 2026. Te explicamos por qué y cómo protegerte con placas solares en tu chalet de Murcia o la Vega Baja.
-  noindex: false
 llms:
   title: Por qué sube la luz en agosto de 2026 y cómo te protege el autoconsumo (Cúprico)
   desc: 'Artículo de actualidad de Cúprico (instaladores de placas solares en San Pedro del Pinatar, Región de Murcia y Vega Baja alicantina) que explica la subida del precio de la luz en agosto de 2026: el mercado mayorista ha superado los 118-124 €/MWh por el calor y el precio del gas, y el IVA volvió al 21% el 1 de junio de 2026 tras acabar la rebaja temporal al 10%. Explica que el Gobierno estudia una nueva rebaja pero no la ha activado, y cómo el autoconsumo fotovoltaico y la batería reducen la exposición de un chalet con aire acondicionado y piscina a estas subidas. Enfoque informativo y prudente, sin cifras cerradas.'
-  hide: false
 date: 2026-08-31 16:03:00
-mod: 2026-08-31 16:03:00
-author: j-tornero
 ---
 
 Si te ha llegado la factura de la luz de agosto y se te ha escapado un taco al abrirla, no eres tú: el recibo medio ha subido con fuerza en toda España este mes, y si tienes un chalet con aire acondicionado, piscina o bomba de calor en la Región de Murcia o la Vega Baja, esto te interesa, porque con placas solares esa subida se nota mucho menos.

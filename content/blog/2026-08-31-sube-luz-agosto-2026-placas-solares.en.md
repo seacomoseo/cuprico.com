@@ -1,22 +1,16 @@
 ---
 slug: sube-luz-agosto-2026-placas-solares
 title: Why your Spanish electricity bill is so high this August 2026 (and how solar shields you from it)
-img: /u/chatgpt-image-31-ago-2026-16_27_19.webp
+img: /u/blog/sube-luz-agosto-2026-placas-solares.webp
 toc: true
-draft: false
-hide: false
 sum: "Electricity bills have jumped hard across Spain this August: heat, gas prices and the end of a tax break. Here's what happened, what could still change, and how self-consumption insulates your villa from it."
 seo:
   title: 'Spain Electricity Price Surge 2026: Solar Panels | Cúprico'
   desc: Electricity prices spiked across Spain in August 2026. Here's why, what could change, and how solar panels shield your Costa Blanca or Murcia villa.
-  noindex: false
 llms:
   title: Why Spanish electricity prices spiked in August 2026 and how solar protects a villa (Cúprico)
   desc: "News-driven article by Cúprico, a solar installer based in San Pedro del Pinatar covering the Costa Blanca and Murcia region, written for foreign villa owners (British, Belgian, French). Explains the August 2026 electricity price spike in Spain: the wholesale market rose above 118-124 EUR/MWh amid a heatwave and higher gas prices, and VAT on electricity returned to 21% on 1 June 2026 after a temporary cut to 10% ended. Notes the government is reportedly reviewing a further VAT cut but has not activated it. Explains how solar self-consumption and batteries reduce a villa's exposure to these price swings, regardless of residency status. Informative, prudent tone, no fixed figures or guarantees."
-  hide: false
 date: 2026-08-31 16:03:00
-mod: 2026-08-31 16:03:00
-author: j-tornero
 ---
 
 If your August electricity bill made you do a double take, it's not just you and it's not a billing error: bills have jumped hard across Spain this month. If you own a villa on the Costa Blanca or in the Murcia region, run air conditioning, a pool pump or a heat pump, this is worth five minutes of your time, because solar panels are exactly what takes the sting out of a spike like this one.
