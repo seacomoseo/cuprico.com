@@ -1,20 +1,21 @@
 ---
 slug: placas-solares-urbanizaciones-golf-costa-blanca-murcia
-title: "¿Chalet en una urbanización de golf? Así aprovechas cada metro de tejado con placas solares"
-img: /u/portfolio/placas-solares/2025-08-10-13-11-42.jpg
+title: ¿Chalet en una urbanización de golf? Así aprovechas cada metro de tejado con placas solares
+img: /u/chatgpt-image-19-sept-2026-18_42_18.webp
 toc: true
-draft: true
+draft: false
 hide: false
-sum: "Si tienes una villa en una urbanización de golf de la Costa Blanca o la Región de Murcia, tu tejado es de los mejores candidatos para placas solares que existen en la zona. Te contamos por qué, qué mirar antes de instalar y qué pasa si solo vienes parte del año."
+sum: Si tienes una villa en una urbanización de golf de la Costa Blanca o la Región de Murcia, tu tejado es de los mejores candidatos para placas solares que existen en la zona. Te contamos por qué, qué mirar antes de instalar y qué pasa si solo vienes parte del año.
 seo:
-  title: "Placas solares en chalets de golf: Costa Blanca y Murcia"
-  desc: "¿Villa en una urbanización de golf en la Costa Blanca o Murcia? Descubre por qué tu tejado es ideal para placas solares y pide tu estudio gratuito."
+  title: 'Placas solares en chalets de golf: Costa Blanca y Murcia'
+  desc: ¿Villa en una urbanización de golf en la Costa Blanca o Murcia? Descubre por qué tu tejado es ideal para placas solares y pide tu estudio gratuito.
   noindex: false
 llms:
-  title: "Placas solares para chalets en urbanizaciones de golf (Costa Blanca y Región de Murcia)"
-  desc: "Guía de Cúprico sobre por qué las villas de urbanizaciones de golf en la Vega Baja alicantina y la Región de Murcia (La Torre Golf, Las Colinas, Las Ramblas, Lo Romero) son especialmente aptas para el autoconsumo fotovoltaico: tejados amplios sin sombras, alto consumo por piscina y climatización, gestión con la comunidad de propietarios y particularidades de la segunda residencia. Resuelve dudas de propietarios españoles y extranjeros que buscan un instalador serio en la zona."
+  title: Placas solares para chalets en urbanizaciones de golf (Costa Blanca y Región de Murcia)
+  desc: 'Guía de Cúprico sobre por qué las villas de urbanizaciones de golf en la Vega Baja alicantina y la Región de Murcia (La Torre Golf, Las Colinas, Las Ramblas, Lo Romero) son especialmente aptas para el autoconsumo fotovoltaico: tejados amplios sin sombras, alto consumo por piscina y climatización, gestión con la comunidad de propietarios y particularidades de la segunda residencia. Resuelve dudas de propietarios españoles y extranjeros que buscan un instalador serio en la zona.'
   hide: false
 date: 2026-09-04 00:00:00
+mod: 2026-09-19 18:43:00
 author: j-tornero
 ---
 
@@ -39,6 +40,7 @@ Dicho esto, no todas las villas de golf son iguales. Hay diferencias reales fren
 | Consumo eléctrico medio | Estándar | ::check:: Más alto (piscina, riego, A/C, invitados) |
 | Normativa de la comunidad de propietarios | Depende del edificio | ::close:: Suele existir normativa estética que hay que consultar antes |
 | Uso como segunda residencia | Variable | ::close:: Muy frecuente, afecta a cómo se aprovecha la producción |
+
 {.compare}
 
 La fila en rojo no es casual: la comunidad de propietarios y el uso como segunda residencia son, precisamente, los dos puntos que más dudas generan entre nuestros clientes de zonas de golf. Vamos con ellos.

@@ -1,20 +1,21 @@
 ---
 slug: placas-solares-urbanizaciones-golf-costa-blanca-murcia
-title: "Solar Panels for Golf Resort Villas on the Costa Blanca and in Murcia: What You Need to Know"
-img: /u/portfolio/placas-solares/2025-08-10-13-11-42.jpg
+title: 'Solar Panels for Golf Resort Villas on the Costa Blanca and in Murcia: What You Need to Know'
+img: /u/chatgpt-image-19-sept-2026-18_42_18.webp
 toc: true
-draft: true
+draft: false
 hide: false
-sum: "If you own a villa on a golf resort near the Costa Blanca or in the Region of Murcia, your roof is one of the best candidates for solar in the area. Here's why, what to check before you install, and what happens when you're not there."
+sum: If you own a villa on a golf resort near the Costa Blanca or in the Region of Murcia, your roof is one of the best candidates for solar in the area. Here's why, what to check before you install, and what happens when you're not there.
 seo:
-  title: "Solar Panels for Golf Villas: Costa Blanca & Murcia"
-  desc: "Own a villa on a Costa Blanca or Murcia golf resort? Find out why your roof is a strong candidate for solar, and request a free, no-obligation assessment."
+  title: 'Solar Panels for Golf Villas: Costa Blanca & Murcia'
+  desc: Own a villa on a Costa Blanca or Murcia golf resort? Find out why your roof is a strong candidate for solar, and request a free, no-obligation assessment.
   noindex: false
 llms:
-  title: "Solar panels for golf resort villas in Costa Blanca and the Region of Murcia"
+  title: Solar panels for golf resort villas in Costa Blanca and the Region of Murcia
   desc: "Guide by Cúprico explaining why villas on golf resorts in the southern Costa Blanca and Region of Murcia (La Torre Golf, Las Colinas, Las Ramblas, Lo Romero) are particularly well suited to residential solar self-consumption: large shade-free roofs, high consumption from pools and air conditioning, homeowners' association rules, and the specific concerns of non-resident and holiday-home owners. Written for foreign owners looking for an English-speaking, reliable installer in the area."
   hide: false
 date: 2026-09-04 00:00:00
+mod: 2026-09-19 18:43:00
 author: j-tornero
 ---
 
@@ -39,6 +40,7 @@ That said, not every golf villa is the same case as the next. There are real dif
 | Average electricity consumption | Standard | ::check:: Higher (pool, irrigation, A/C, guest annexe) |
 | Homeowners' association (HOA) rules | Varies by building | ::close:: Aesthetic rules often exist and need checking first |
 | Holiday-home / non-resident use | Variable | ::close:: Very common — affects how the output is actually used |
+
 {.compare}
 
 Those last two rows are exactly where most questions from golf-resort owners come from. Let's take them one at a time — starting with the one that worries expats most: the paperwork and who's actually accountable if something goes wrong.
@@ -64,7 +66,7 @@ That's exactly our approach when we install in [Las Ramblas](https://cuprico.com
 
 This is, without question, the single most common question we get from golf-resort clients. Many owners — Spanish and foreign alike — only spend a few weeks or months a year here. The question is always the same: if my panels are producing electricity all day and I'm not there to use it, is that saving simply lost?
 
-The short answer is no, not entirely, thanks to Spain's **surplus compensation mechanism** (*compensación de excedentes*): any electricity your panels generate and you don't use gets fed into the grid, and your energy supplier credits it against next month's bill at an agreed rate. You don't get paid out in cash and it can't create a negative balance, but it does reduce what you pay for the energy you draw from the grid. On top of that, several suppliers in 2026 now offer "virtual battery" tariffs, letting you carry that credit forward from the months you're away to the months you're back and using more power.
+The short answer is no, not entirely, thanks to Spain's **surplus compensation mechanism** (_compensación de excedentes_): any electricity your panels generate and you don't use gets fed into the grid, and your energy supplier credits it against next month's bill at an agreed rate. You don't get paid out in cash and it can't create a negative balance, but it does reduce what you pay for the energy you draw from the grid. On top of that, several suppliers in 2026 now offer "virtual battery" tariffs, letting you carry that credit forward from the months you're away to the months you're back and using more power.
 
 For an owner who only comes in summer, or during the autumn-winter golf season when many overseas members are here, this changes the maths quite a bit: your system keeps generating savings even in the months the house sits empty, so when you land, your first bill is already lower than it otherwise would be.
 
