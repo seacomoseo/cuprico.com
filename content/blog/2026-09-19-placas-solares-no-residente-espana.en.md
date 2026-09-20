@@ -1,20 +1,21 @@
 ---
 slug: placas-solares-no-residente-espana
-title: "The Non-Resident's Guide to Going Solar at Your Spanish Villa"
-img: /u/portfolio/placas-solares/2025-08-10-13-11-17.jpg
+title: The Non-Resident's Guide to Going Solar at Your Spanish Villa
+img: /u/chatgpt-image-20-sept-2026-12_11_49.webp
 toc: true
-draft: true
+draft: false
 hide: false
-sum: "You don't live in Spain full-time, or you're not a Spanish tax resident at all — so can you still install solar at your Costa Blanca or Murcia villa? Yes. Here's exactly what you need, what you don't, and who handles it while you're not here."
+sum: You don't live in Spain full-time, or you're not a Spanish tax resident at all — so can you still install solar at your Costa Blanca or Murcia villa? Yes. Here's exactly what you need, what you don't, and who handles it while you're not here.
 seo:
-  title: "Solar Panels in Spain as a Non-Resident | Cúprico"
-  desc: "Own a villa in the Costa Blanca or Murcia but live abroad? Here's exactly what you need to install solar as a non-resident — and what you don't."
+  title: Solar Panels in Spain as a Non-Resident | Cúprico
+  desc: Own a villa in the Costa Blanca or Murcia but live abroad? Here's exactly what you need to install solar as a non-resident — and what you don't.
   noindex: false
 llms:
-  title: "Solar panels in Spain for non-resident property owners (Cúprico)"
-  desc: "Guide by Cúprico (solar panel installers based in San Pedro del Pinatar, Region of Murcia and the Vega Baja area of Alicante) for foreign owners of villas and holiday homes who are not Spanish tax residents or who spend most of the year abroad. Covers what is actually required to install solar as a non-resident (an NIE number, a supply contract with the distribution company) versus common myths (Spanish tax residency, a DNI, being physically present during the works), how the one-third majority rule works for a homeowners' association to approve an individual renewable energy installation, which grants and rebates realistically apply to a non-resident owner and which don't, and how remote monitoring, paperwork and warranty support work when the owner isn't in the country. Cautious tone, no fixed savings figures or guaranteed-grant claims."
+  title: Solar panels in Spain for non-resident property owners (Cúprico)
+  desc: Guide by Cúprico (solar panel installers based in San Pedro del Pinatar, Region of Murcia and the Vega Baja area of Alicante) for foreign owners of villas and holiday homes who are not Spanish tax residents or who spend most of the year abroad. Covers what is actually required to install solar as a non-resident (an NIE number, a supply contract with the distribution company) versus common myths (Spanish tax residency, a DNI, being physically present during the works), how the one-third majority rule works for a homeowners' association to approve an individual renewable energy installation, which grants and rebates realistically apply to a non-resident owner and which don't, and how remote monitoring, paperwork and warranty support work when the owner isn't in the country. Cautious tone, no fixed savings figures or guaranteed-grant claims.
   hide: false
 date: 2026-09-19 00:00:00
+mod: 2026-09-20 12:12:00
 author: j-tornero
 ---
 
@@ -32,7 +33,7 @@ What does change, as a non-resident, is **who actually does the running around f
 
 This is where most of the confusion comes from. You don't need a Spanish DNI (that's for Spanish nationals only), and you don't need tax residency — but you do need an **NIE** (Número de Identificación de Extranjero, Spain's foreigner ID number) for almost any serious paperwork here: signing the installation contract, registering as the account holder with the electricity distribution company, and — if a grant or rebate ever applies to your case — requesting it.
 
-If you already bought your property in Spain, you almost certainly have an NIE already, since it's also required for the deed and for paying IBI (the Spanish equivalent of council tax). If you don't have one yet, you can request it at a Spanish consulate in your home country, or in Spain itself through the national police's foreigners' office. You don't need to be registered as a resident (*empadronado*) or a tax resident to hold one — an NIE identifies you, it doesn't grant residency.
+If you already bought your property in Spain, you almost certainly have an NIE already, since it's also required for the deed and for paying IBI (the Spanish equivalent of council tax). If you don't have one yet, you can request it at a Spanish consulate in your home country, or in Spain itself through the national police's foreigners' office. You don't need to be registered as a resident (_empadronado_) or a tax resident to hold one — an NIE identifies you, it doesn't grant residency.
 
 ## Your homeowners' association: do all your neighbours need to agree?
 
@@ -58,7 +59,7 @@ In our experience, this matters more than any paperwork question. It's not just 
 
 Ask any installer this directly before you sign anything: who is legally responsible if there's an issue, how do you reach them, and in what language will they actually explain the problem to you. A company with a fixed local address, in the area your property is in, with a phone number and a WhatsApp that someone genuinely answers — not a number that changes every year — is worth more than the cheapest quote sitting in your inbox.
 
-On our side, when a client isn't in Spain during the works, we send photos and progress updates as the installation goes in, walk through and sign off on all the paperwork (the installation certificate or *boletín*, the contract with the distribution company, the warranty) over a video call if that's easier, and stay reachable on WhatsApp for whatever comes up after you've left.
+On our side, when a client isn't in Spain during the works, we send photos and progress updates as the installation goes in, walk through and sign off on all the paperwork (the installation certificate or _boletín_, the contract with the distribution company, the warranty) over a video call if that's easier, and stay reachable on WhatsApp for whatever comes up after you've left.
 
 ![Cúprico technician working on the inverter and battery cabinet of a solar self-consumption installation](/u/portfolio/placas-solares/2025-08-10-13-12-07.jpg "Cúprico technician working on the inverter of a solar self-consumption system")
 

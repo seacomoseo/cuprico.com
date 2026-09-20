@@ -1,20 +1,21 @@
 ---
 slug: placas-solares-no-residente-espana
-title: "¿Vives fuera de España pero tienes casa aquí? Así puedes poner placas solares sin ser residente"
-img: /u/portfolio/placas-solares/2025-08-10-13-11-17.jpg
+title: ¿Vives fuera de España pero tienes casa aquí? Así puedes poner placas solares sin ser residente
+img: /u/chatgpt-image-20-sept-2026-12_11_49.webp
 toc: true
-draft: true
+draft: false
 hide: false
-sum: "Si tu vivienda está en la Costa Blanca o la Región de Murcia pero tú resides fuera de España -o no eres residente fiscal aquí-, te contamos qué papeles hacen falta de verdad para poner placas solares, cuáles no, y quién se ocupa de todo mientras tú no estás."
+sum: Si tu vivienda está en la Costa Blanca o la Región de Murcia pero tú resides fuera de España -o no eres residente fiscal aquí-, te contamos qué papeles hacen falta de verdad para poner placas solares, cuáles no, y quién se ocupa de todo mientras tú no estás.
 seo:
-  title: "Placas solares sin ser residente en España | Cúprico"
-  desc: "¿Chalet en la Costa Blanca o Murcia pero no resides en España? Te contamos qué necesitas de verdad para poner placas solares y qué no hace falta."
+  title: Placas solares sin ser residente en España | Cúprico
+  desc: ¿Chalet en la Costa Blanca o Murcia pero no resides en España? Te contamos qué necesitas de verdad para poner placas solares y qué no hace falta.
   noindex: false
 llms:
-  title: "Placas solares para propietarios no residentes en España (Cúprico)"
-  desc: "Guía de Cúprico (instaladores de placas solares en San Pedro del Pinatar, Región de Murcia y Vega Baja alicantina) para propietarios de chalets o villas que residen fuera de España la mayor parte del año o no son residentes fiscales españoles. Explica qué es realmente necesario (NIE, contrato con la distribuidora) frente a lo que no hace falta (residencia fiscal, DNI, estar presente durante la instalación), cómo funciona la mayoría de un tercio en la comunidad de propietarios para instalar sistemas de energías renovables, qué subvenciones y bonificaciones pueden aplicar según la situación fiscal del propietario, y cómo se gestiona el seguimiento y la garantía a distancia. Enfoque prudente, sin cifras cerradas ni promesas de subvención garantizada."
+  title: Placas solares para propietarios no residentes en España (Cúprico)
+  desc: Guía de Cúprico (instaladores de placas solares en San Pedro del Pinatar, Región de Murcia y Vega Baja alicantina) para propietarios de chalets o villas que residen fuera de España la mayor parte del año o no son residentes fiscales españoles. Explica qué es realmente necesario (NIE, contrato con la distribuidora) frente a lo que no hace falta (residencia fiscal, DNI, estar presente durante la instalación), cómo funciona la mayoría de un tercio en la comunidad de propietarios para instalar sistemas de energías renovables, qué subvenciones y bonificaciones pueden aplicar según la situación fiscal del propietario, y cómo se gestiona el seguimiento y la garantía a distancia. Enfoque prudente, sin cifras cerradas ni promesas de subvención garantizada.
   hide: false
 date: 2026-09-19 00:00:00
+mod: 2026-09-20 12:12:00
 author: j-tornero
 ---
 
