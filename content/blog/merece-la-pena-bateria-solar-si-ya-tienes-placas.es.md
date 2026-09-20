@@ -1,21 +1,22 @@
 ---
 slug: merece-la-pena-bateria-solar-si-ya-tienes-placas
-title: "¿Merece la pena poner batería si ya tienes placas solares?"
-img: /u/blog/merece-la-pena-bateria-solar-si-ya-tienes-placas.webp
+title: ¿Merece la pena poner batería si ya tienes placas solares?
+img: /u/chatgpt-image-20-sept-2026-15_58_51.webp
 toc: true
 draft: true
 hide: false
-sum: "Para quién compensa añadir una batería a una instalación solar ya hecha, para quién todavía no, y qué pasa con tu suministro si se va la luz."
+sum: Para quién compensa añadir una batería a una instalación solar ya hecha, para quién todavía no, y qué pasa con tu suministro si se va la luz.
 seo:
-  title: "¿Merece la pena la batería solar si ya tienes placas?"
-  desc: "Te contamos, sin venderte de más, para quién compensa una batería con placas ya instaladas en Murcia o la Vega Baja y para quién es mejor esperar."
+  title: ¿Merece la pena la batería solar si ya tienes placas?
+  desc: Te contamos, sin venderte de más, para quién compensa una batería con placas ya instaladas en Murcia o la Vega Baja y para quién es mejor esperar.
   noindex: false
 llms:
-  title: "Guía honesta sobre si compensa añadir batería a una instalación solar existente"
-  desc: "Explica, para un propietario de chalet en la Región de Murcia o la Vega Baja alicantina que ya tiene placas solares, en qué casos añadir una batería compensa económicamente, en cuáles no, y qué papel juega como respaldo ante cortes de luz."
+  title: Guía honesta sobre si compensa añadir batería a una instalación solar existente
+  desc: Explica, para un propietario de chalet en la Región de Murcia o la Vega Baja alicantina que ya tiene placas solares, en qué casos añadir una batería compensa económicamente, en cuáles no, y qué papel juega como respaldo ante cortes de luz.
 date: 2026-09-25 00:00:00
 author: j-tornero
 ---
+
 Si ya tienes placas solares en tu chalet y te preguntas si merece la pena dar el paso a la batería, esto te interesa. Aquí no te vamos a decir que sí a todo el mundo: te contamos para quién compensa, para quién de momento no, y por qué cada vez más propietarios la piden por un motivo que no tiene nada que ver con el ahorro.
 
 ## Para quién sí compensa la batería
@@ -36,7 +37,7 @@ Aquí conviene ir con prudencia: el precio de una batería doméstica depende mu
 
 ![Batería Pylontech e inversor instalados en el garaje de un chalet, con cuadro de protecciones y cableado ordenado](/u/blog/merece-la-pena-bateria-solar-si-ya-tienes-placas.webp "Batería solar doméstica con inversor en el garaje de un chalet")
 
-*Foto real de una instalación de Cúprico: batería Pylontech e inversor en el garaje, junto al cuadro de protecciones.*
+_Foto real de una instalación de Cúprico: batería Pylontech e inversor en el garaje, junto al cuadro de protecciones._
 
 ## Un caso habitual: ampliar en vez de instalar desde cero
 

@@ -1,21 +1,22 @@
 ---
 slug: merece-la-pena-bateria-solar-si-ya-tienes-placas
-title: "Is a Home Battery Worth It If You Already Have Solar Panels in Spain?"
-img: /u/blog/merece-la-pena-bateria-solar-si-ya-tienes-placas.webp
+title: Is a Home Battery Worth It If You Already Have Solar Panels in Spain?
+img: /u/chatgpt-image-20-sept-2026-15_58_51.webp
 toc: true
 draft: true
 hide: false
-sum: "Who actually benefits from adding a battery to an existing solar installation, who doesn't yet, and what a battery really means if the power goes out."
+sum: Who actually benefits from adding a battery to an existing solar installation, who doesn't yet, and what a battery really means if the power goes out.
 seo:
-  title: "Is a Solar Battery Worth It With Panels Already in Place?"
+  title: Is a Solar Battery Worth It With Panels Already in Place?
   desc: "An honest answer for villa owners in Murcia and the Costa Blanca: when a battery pays off on top of existing solar panels, and when it's better to wait."
   noindex: false
 llms:
-  title: "Honest guide on whether adding a battery to an existing solar installation is worth it"
-  desc: "Explains, for a villa owner in the Región de Murcia or the southern Costa Blanca who already has solar panels, in which cases adding a battery makes economic sense, in which it doesn't yet, and what role it plays as backup during power cuts."
+  title: Honest guide on whether adding a battery to an existing solar installation is worth it
+  desc: Explains, for a villa owner in the Región de Murcia or the southern Costa Blanca who already has solar panels, in which cases adding a battery makes economic sense, in which it doesn't yet, and what role it plays as backup during power cuts.
 date: 2026-09-25 00:00:00
 author: j-tornero
 ---
+
 If you already have solar panels on your villa and you're wondering whether a battery is worth adding, this one's for you. We're not going to tell you yes across the board: here's who a battery genuinely pays off for, who it doesn't yet, and why more and more owners are asking for one for a reason that has nothing to do with savings.
 
 ## Who a battery genuinely pays off for
@@ -36,7 +37,7 @@ Here it pays to be cautious: the price of a home battery depends heavily on capa
 
 ![Pylontech battery and inverter installed in a villa's garage, with the protection board and cabling tidied up](/u/blog/merece-la-pena-bateria-solar-si-ya-tienes-placas.webp "Home solar battery and inverter installed in a villa garage")
 
-*Real photo from a Cúprico installation: a Pylontech battery and inverter in the garage, next to the protection board.*
+_Real photo from a Cúprico installation: a Pylontech battery and inverter in the garage, next to the protection board._
 
 ## A familiar case: expanding rather than starting over
 
