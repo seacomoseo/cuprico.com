@@ -1,7 +1,7 @@
 ---
 slug: placas-solares-no-residente-espana
 title: ¿Vives fuera de España pero tienes casa aquí? Así puedes poner placas solares sin ser residente
-img: /u/chatgpt-image-20-sept-2026-12_11_49.webp
+img: /u/blog/2026-09-20-12-11-49.webp
 toc: true
 draft: false
 hide: false
@@ -21,7 +21,7 @@ author: j-tornero
 
 Si tienes una vivienda en la Costa Blanca o la Región de Murcia pero pasas la mayor parte del año fuera de España -o directamente no eres residente fiscal aquí-, esto te interesa: te contamos qué papeles hacen falta de verdad para poner placas solares, cuáles no son necesarios (aunque alguien te haya dicho lo contrario) y quién se ocupa de todo si tú no puedes estar presente.
 
-Es una de las dudas que más nos repiten los propietarios de zonas como [Los Alcázares](https://cuprico.com/instaladores-placas-solares/los-alcazares/) o [Pilar de la Horadada](https://cuprico.com/instaladores-placas-solares/pilar-de-la-horadada/): "yo no vivo en España todo el año, ¿puedo poner placas igual que mi vecino que sí es residente?". La respuesta corta es sí. La respuesta larga -con lo que sí hace falta y lo que no- es esta.
+Es una de las dudas que más nos repiten los propietarios de zonas como [Los Alcázares](/instaladores-placas-solares/los-alcazares/) o [Pilar de la Horadada](/instaladores-placas-solares/pilar-de-la-horadada/): "yo no vivo en España todo el año, ¿puedo poner placas igual que mi vecino que sí es residente?". La respuesta corta es sí. La respuesta larga -con lo que sí hace falta y lo que no- es esta.
 
 ## ¿Hace falta ser residente en España para instalar placas solares?
 
@@ -67,7 +67,7 @@ De nuestro lado, cuando el cliente no está en España, mandamos fotos y actuali
 
 Casi todos los inversores actuales incluyen una aplicación de monitorización que muestra cuánto produce tu instalación y cuánto consume la casa, en tiempo real, desde el móvil. No hace falta estar en España para comprobar que todo funciona: puedes verlo desde tu país igual que consultarías el saldo del banco.
 
-Esto conecta con otra duda habitual de quien solo viene parte del año: la energía que tus placas producen mientras la casa está vacía no se pierde del todo, gracias a la **compensación de excedentes**, que descuenta en tu factura lo que viertes a la red. Si además tu casa pasa a usarse más tiempo con el paso de los años, como le ocurrió a un propietario de [Pinar de Campoverde](https://cuprico.com/instaladores-placas-solares/pinar-de-campo-verde/) -puedes leer [el caso real de esa ampliación con batería](https://cuprico.com/blog/ampliacion-bateria-pinar-de-campoverde/) en nuestro blog-, siempre se puede revisar la instalación y ampliarla.
+Esto conecta con otra duda habitual de quien solo viene parte del año: la energía que tus placas producen mientras la casa está vacía no se pierde del todo, gracias a la **compensación de excedentes**, que descuenta en tu factura lo que viertes a la red. Si además tu casa pasa a usarse más tiempo con el paso de los años, como le ocurrió a un propietario de [Pinar de Campoverde](/instaladores-placas-solares/pinar-de-campo-verde/) -puedes leer [el caso real de esa ampliación con batería](/blog/ampliacion-bateria-pinar-de-campoverde/) en nuestro blog-, siempre se puede revisar la instalación y ampliarla.
 
 ## Un efecto secundario que muchos no calculan: el valor de tu vivienda
 
@@ -81,25 +81,30 @@ Resolvimos todo el papeleo con el NIE que ya tenían de la compra de la vivienda
 
 ## Preguntas frecuentes
 
-**¿Necesito ser residente fiscal en España para poner placas solares?**
+### ¿Necesito ser residente fiscal en España para poner placas solares?
+{.h6}
 No. Necesitas ser propietario de la vivienda (o tener su autorización) y, en la práctica, un NIE para firmar los contratos. La residencia fiscal no es un requisito para instalar autoconsumo.
 
-**¿Qué pasa si mi comunidad de propietarios no quiere placas solares?**
+### ¿Qué pasa si mi comunidad de propietarios no quiere placas solares?
+{.h6}
 Para una instalación individual de energías renovables, no hace falta la unanimidad: basta con un tercio de los propietarios que representen un tercio de las cuotas. Aun así, conviene revisar la normativa concreta de tu urbanización antes de instalar.
 
-**¿Puedo acceder a subvenciones siendo no residente?**
+### ¿Puedo acceder a subvenciones siendo no residente?
+{.h6}
 Depende del tipo de ayuda. Las bonificaciones municipales (IBI, ICIO) suelen depender de ser propietario, no de la residencia. Las deducciones en el IRPF sí exigen tributar como residente. Te lo confirmamos según tu caso y tu municipio en el estudio gratuito.
 
-**¿Tengo que estar presente durante la instalación?**
+### ¿Tengo que estar presente durante la instalación?
+{.h6}
 No es imprescindible. Coordinamos la instalación, la documentación y la puesta en marcha por teléfono, WhatsApp o videollamada si no puedes estar aquí, y te dejamos todo firmado y explicado.
 
-**¿Cómo sé que mi instalación funciona bien si no estoy en España?**
+### ¿Cómo sé que mi instalación funciona bien si no estoy en España?
+{.h6}
 A través de la aplicación de monitorización del inversor, que muestra la producción y el consumo en tiempo real desde cualquier país.
 
 ## ¿Hablamos de tu caso?
 
 Cada propietario no residente tiene una situación distinta: NIE, comunidad de propietarios, municipio, tiempo que pasas aquí al año. Antes de darte ninguna cifra, preferimos conocer tu caso concreto. Si tienes una vivienda en la Costa Blanca sur o la Región de Murcia y quieres saber qué te compensa realmente, pide tu **estudio gratuito y sin compromiso**.
 
-[[Pide tu estudio gratuito]](/#contacto)
+[[Pide tu estudio gratuito]](#contacto)
 
-También puedes escribirnos por WhatsApp al 641 47 94 90 o llamarnos al 603 60 66 15 (horario: lunes a viernes, 8:00-18:00). Y si quieres ver qué opinan otros clientes, aquí tienes [nuestras reseñas de Google](https://g.page/r/Ceu-g_MFBM04EBM/review).
+Y si quieres ver qué opinan otros clientes, aquí tienes [nuestras reseñas de Google](/#resenas).

@@ -70,14 +70,13 @@ org:
   - https://www.domoelectra.com/murcia/
   phones:
   - +34 641 47 94 90
-  - 603 60 66 15
   address:
   - name: Cúprico Electrical Services ⚡
     street: C. Agustín Escribano, 49
     pc: '30740'
     locality: San Pedro del Pinatar
     region: Murcia
-    country: Spain
+    country: ES
     geo: '{"type":"Point","coordinates":[-0.7821083,37.8215487]}'
     url: https://g.page/r/Ceu-g_MFBM04EAI
   areas:

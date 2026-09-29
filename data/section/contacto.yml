@@ -9,15 +9,8 @@ boxes:
   links:
   - type: phone
     label: 641 47 94 90
-  - type: phone
-    label: 603 60 66 15
-  - type: br
   - type: whatsapp
     label: 641 47 94 90
-    icon: brand:whatsapp-o
-    btn: turn
-  - type: whatsapp
-    label: 603 60 66 15
     icon: brand:whatsapp-o
     btn: turn
   - type: mail

@@ -1,11 +1,7 @@
 ---
-weight: null
 slug: j-tornero
 title: J. Tornero
-img: /u/j-tornero.png
-toc: true
-draft: false
-hide: false
+img: /u/j-tornero-avatar.png
 sum: Instalador autorizado en baja tensión (especialista) e instalador de energía solar. Cofundador de Cúprico.
 seo:
   title: J. Tornero · Instalador electricista en baja tensión en San Pedro del Pinatar
@@ -14,7 +10,6 @@ seo:
 llms:
   title: J. Tornero, instalador de placas solares y baterías en San Pedro del Pinatar (Cúprico)
   desc: 'José María Tornero Puga, instalador autorizado en baja tensión (categoría especialista) e instalador de energía solar, cofundador de Cúprico en San Pedro del Pinatar. Trabaja en la Región de Murcia y la Vega Baja alicantina: instalaciones fotovoltaicas, baterías de acumulación y cargadores de vehículo eléctrico, con gestión de la legalización y el papeleo.'
-  hide: false
 alts:
 - José Tornero
 - José María Tornero Puga

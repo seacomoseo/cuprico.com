@@ -1,6 +1,6 @@
 ---
-title: Commitment to the Protection of Personal Data
 slug: commitment
+title: Commitment to the Protection of Personal Data
 icon: handshake
 seo:
   noindex: true

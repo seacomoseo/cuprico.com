@@ -1,6 +1,6 @@
 ---
-title: Cookie Policy
 slug: cookies
+title: Cookie Policy
 icon: cookie
 seo:
   noindex: true

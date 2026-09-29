@@ -9,6 +9,6 @@ body:not(.type-page, .type-system, .type-author, .type-blog) #hero {
   .md p:nth-child(2) { @include show-from(2); }
   .md p:nth-child(3) { @include show-from(3); }
   .box--2 .img       { @include show-from(4);
-    @include mixins.fluid-size(margin-bottom, 1em, -8.5, -10);
+    @include mixins.fluid-size(margin-bottom, 1em, -7.5, -10);
   }
 }

@@ -1,7 +1,7 @@
 ---
 slug: placas-solares-no-residente-espana
 title: The Non-Resident's Guide to Going Solar at Your Spanish Villa
-img: /u/chatgpt-image-20-sept-2026-12_11_49.webp
+img: /u/blog/2026-09-20-12-11-49.webp
 toc: true
 draft: false
 hide: false
@@ -21,7 +21,7 @@ author: j-tornero
 
 You don't live in Spain full-time. Maybe you're not a Spanish tax resident at all. So can you still put solar panels on your villa in the Costa Blanca or the Region of Murcia? Yes — and if that question has been sitting at the back of your mind since you bought the place, this is worth reading before you get three different answers from three different installers.
 
-We hear a version of this question from almost every non-resident client we work with, whether their villa is in [Los Alcázares](https://cuprico.com/en/solar-panel-installers/los-alcazares/), [Pilar de la Horadada](https://cuprico.com/en/solar-panel-installers/pilar-de-la-horadada/) or one of the golf resorts further inland: "I'm not here most of the year — can I actually do this, and who deals with it if I can't be?" Here's the honest, unglamorous answer, point by point.
+We hear a version of this question from almost every non-resident client we work with, whether their villa is in [Los Alcázares](/en/solar-panel-installers/los-alcazares/), [Pilar de la Horadada](/en/solar-panel-installers/pilar-de-la-horadada/) or one of the golf resorts further inland: "I'm not here most of the year — can I actually do this, and who deals with it if I can't be?" Here's the honest, unglamorous answer, point by point.
 
 ## Do you need to be a Spanish resident to install solar?
 
@@ -67,7 +67,7 @@ On our side, when a client isn't in Spain during the works, we send photos and p
 
 Almost every modern inverter comes with a monitoring app that shows exactly how much your system is producing and how much the house is using, in real time, from your phone. You don't need to be in Spain to confirm it's working properly — you can check it the same way you'd check a bank balance, from anywhere.
 
-That connects to another question owners who are only here part of the year always ask: electricity your panels generate while the house sits empty isn't simply wasted, thanks to Spain's **surplus compensation scheme**, which credits what you feed into the grid against your next bill. And if your time in Spain grows over the years — as happened to one owner in [Pinar de Campoverde](https://cuprico.com/en/solar-panel-installers/pinar-de-campo-verde/), whose [real battery expansion case](https://cuprico.com/en/blog/ampliacion-bateria-pinar-de-campoverde/) we wrote up on the blog — the original system can always be reviewed and expanded later.
+That connects to another question owners who are only here part of the year always ask: electricity your panels generate while the house sits empty isn't simply wasted, thanks to Spain's **surplus compensation scheme**, which credits what you feed into the grid against your next bill. And if your time in Spain grows over the years — as happened to one owner in [Pinar de Campoverde](/en/solar-panel-installers/pinar-de-campo-verde/), whose [real battery expansion case](/en/blog/ampliacion-bateria-pinar-de-campoverde/) we wrote up on the blog — the original system can always be reviewed and expanded later.
 
 ## A side effect most owners don't factor in: property value
 
@@ -81,30 +81,35 @@ We handled all the paperwork with the NIE they already had from buying the prope
 
 ## Frequently asked questions
 
-**Do I need to be a Spanish tax resident to install solar panels?**
+### Do I need to be a Spanish tax resident to install solar panels?
+{.h6}
 No. You need to be the property owner (or have the owner's authorisation) and, in practice, an NIE to sign the contracts. Tax residency isn't a requirement for installing self-consumption.
 
-**What if my homeowners' association doesn't want solar panels?**
+### What if my homeowners' association doesn't want solar panels?
+{.h6}
 For an individual renewable energy installation, unanimous approval isn't required — a third of the owners, representing a third of the participation shares, is enough. It's still worth checking your specific development's rules before installing.
 
-**Can I access grants as a non-resident?**
+### Can I access grants as a non-resident?
+{.h6}
 It depends on the type of grant. Local council rebates (IBI, ICIO) are usually tied to property ownership, not residency. Income tax deductions do require filing as a resident. We confirm what applies to your specific case and municipality in your free assessment.
 
-**Do I need to be in Spain during the installation?**
+### Do I need to be in Spain during the installation?
+{.h6}
 Not necessarily. We coordinate the installation, paperwork and commissioning by phone, WhatsApp or video call when you can't be here in person, and leave everything signed off and explained clearly.
 
-**How do I know my system is working properly if I'm not in Spain?**
+### How do I know my system is working properly if I'm not in Spain?
+{.h6}
 Through the inverter's monitoring app, which shows production and consumption in real time from any country.
 
-**Will I need to speak Spanish to handle any of this?**
+### Will I need to speak Spanish to handle any of this?
+{.h6}
 No. We handle the certificates, the registration with the distributor, and the paperwork directly, and we're happy to talk you through the whole process in English.
 
 ## Let's talk about your property
 
 Every non-resident owner's situation is a little different: your NIE status, your homeowners' association, your town hall, how much time you actually spend here each year. Before we give you any numbers, we'd rather understand your specific case. If you own a property in the southern Costa Blanca or the Region of Murcia and want a straight answer about what actually applies to you, message us for a **free, no-obligation assessment**.
 
-[[Message us on WhatsApp]](https://wa.me/34641479490)
+[[Request your free assessment]](#contacto)
 
-You can also request a free assessment through our contact form, or call us on 603 60 66 15 (Monday to Friday, 8:00-18:00 Spanish time). To see what other clients think, here are [our Google reviews](https://g.page/r/Ceu-g_MFBM04EBM/review).
+To see what other clients think, here are [our Google reviews](/en/#resenas).
 
-[[Request your free assessment]](/en/#contacto)

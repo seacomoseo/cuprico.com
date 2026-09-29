@@ -17,7 +17,7 @@ Si ya tienes placas solares en tu chalet de la zona y cada vez pasas más semana
 
 ## De casa de vacaciones a vivienda de casi todo el año
 
-El propietario, un matrimonio extranjero con un chalet en [Pinar de Campoverde](https://cuprico.com/instaladores-placas-solares/pinar-de-campo-verde/ "instaladores de placas solares en Pinar de Campoverde"), instaló placas solares hace unos años pensando sobre todo en el verano: era cuando más venían, cuando más gastaban en aire acondicionado y cuando más sentido tenía el autoconsumo. Como en tantos chalets de segunda residencia de la zona, la instalación se dimensionó para ese patrón de uso.
+El propietario, un matrimonio extranjero con un chalet en [Pinar de Campoverde](/instaladores-placas-solares/pinar-de-campo-verde/ "instaladores de placas solares en Pinar de Campoverde"), instaló placas solares hace unos años pensando sobre todo en el verano: era cuando más venían, cuando más gastaban en aire acondicionado y cuando más sentido tenía el autoconsumo. Como en tantos chalets de segunda residencia de la zona, la instalación se dimensionó para ese patrón de uso.
 
 Con el tiempo, su forma de vivir aquí cambió: primero fueron unas semanas más cada año, luego meses, hasta que terminaron pasando la mayor parte del año en la casa. Y ahí es donde una instalación pensada para "unas semanas de verano" se le empezó a quedar corta.
 
@@ -64,7 +64,7 @@ Si te reconoces en alguno de estos puntos, probablemente merezca la pena que est
 - Te preocupan los cortes de suministro, algo habitual en ciertas urbanizaciones en verano.
 - Estás valorando quedarte a vivir todo el año, o ya lo has decidido, y quieres que la instalación acompañe ese cambio.
 
-Y si todavía no tienes placas pero te reconoces en el patrón de "vengo cada vez más", puede que te interese primero ver [cuánto se ahorra de verdad con una instalación de placas solares en un chalet de la zona](https://cuprico.com/blog/cuanto-ahorras-placas-solares-chalet-costa-blanca/ "cuánto se ahorra con placas solares en un chalet") antes de plantearte ya la batería.
+Y si todavía no tienes placas pero te reconoces en el patrón de "vengo cada vez más", puede que te interese primero ver [cuánto se ahorra de verdad con una instalación de placas solares en un chalet de la zona](/blog/cuanto-ahorras-placas-solares-chalet-costa-blanca/ "cuánto se ahorra con placas solares en un chalet") antes de plantearte ya la batería.
 
 ## Preguntas frecuentes
 
@@ -84,10 +84,6 @@ Si ya tienes placas y notas que tu forma de vivir en la casa ha cambiado, o si t
 
 Somos **Cúprico electrical & solar services**, instaladores eléctricos y de energía solar en San Pedro del Pinatar (Región de Murcia y Vega Baja alicantina).
 
-[[Pídenos tu estudio gratis]](https://cuprico.com/#contacto)
-
-- **Teléfono / WhatsApp:** 641 47 94 90 · 603 60 66 15
-- **Email:** administracion@cuprico.com
-- **Horario:** de lunes a viernes, de 8:00 a 18:00
+[[Pídenos tu estudio gratis]](#contacto)
 
 ¿Ya tienes placas y quieres saber si en tu caso compensa añadir batería? Cuéntanos cómo vives la casa y te decimos, con números, si suma.

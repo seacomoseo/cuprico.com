@@ -1,7 +1,7 @@
 ---
 slug: merece-la-pena-bateria-solar-si-ya-tienes-placas
 title: Is a Home Battery Worth It If You Already Have Solar Panels in Spain?
-img: /u/chatgpt-image-20-sept-2026-15_58_51.webp
+img: /u/blog/2026-09-20-15-58-51.webp
 toc: true
 draft: true
 hide: false
@@ -41,34 +41,35 @@ _Real photo from a Cúprico installation: a Pylontech battery and inverter in th
 
 ## A familiar case: expanding rather than starting over
 
-This is the case we see most often: a villa with panels installed a few years ago, no battery, whose owner has since added air conditioning, a pool, or more recently an electric car — and whose evening consumption now weighs far more than it did when the original system was sized. We walked through a case exactly like this, step by step, in our [article on adding a battery in Pinar de Campoverde](https://cuprico.com/en/blog/ampliacion-bateria-pinar-de-campoverde/): there was no need to rebuild the installation, just expand it with extra panels and a battery on top of what was already there. It's just as common in the [golf urbanisations of the Costa Blanca and Murcia](https://cuprico.com/en/blog/placas-solares-urbanizaciones-golf-costa-blanca-murcia/), where many systems were originally sized only for daytime summer use.
+This is the case we see most often: a villa with panels installed a few years ago, no battery, whose owner has since added air conditioning, a pool, or more recently an electric car — and whose evening consumption now weighs far more than it did when the original system was sized. We walked through a case exactly like this, step by step, in our [article on adding a battery in Pinar de Campoverde](/en/blog/ampliacion-bateria-pinar-de-campoverde/): there was no need to rebuild the installation, just expand it with extra panels and a battery on top of what was already there. It's just as common in the [golf urbanisations of the Costa Blanca and Murcia](/en/blog/placas-solares-urbanizaciones-golf-costa-blanca-murcia/), where many systems were originally sized only for daytime summer use.
 
 ## FAQ
 
-**Can I add a battery to a solar system I already have, or does it need to be rebuilt?**
+### Can I add a battery to a solar system I already have, or does it need to be rebuilt?
+{.h6}
 In most cases you can expand on what's already there, as long as we first confirm the inverter is compatible or can be adapted. We'll tell you at the site visit.
 
-**Is a battery worth it if my consumption is mostly during the day?**
+### Is a battery worth it if my consumption is mostly during the day?
+{.h6}
 It delivers less economic savings, but it still gives you backup during power cuts if that's what you're after. In that case, think of it as a peace-of-mind decision rather than a purely financial one.
 
-**How long does a home battery last?**
+### How long does a home battery last?
+{.h6}
 It depends on the technology and how it's used, but current lithium batteries built for self-consumption are typically designed for many years of daily cycles. We'll give you the manufacturer's specific figures with your quote.
 
-**Are there any grants for batteries right now?**
+### Are there any grants for batteries right now?
+{.h6}
 Don't assume there are without checking: these programmes change often, and as of now there's no open regional residential call in the Región de Murcia under the previous scheme. We'll flag it if a new one appears while we're putting your quote together.
 
 ## Want us to look at your specific case?
 
-If you already have solar panels and want an honest answer, based on your real consumption, on whether a battery makes sense for you — message us on WhatsApp for a free, no-obligation study. If you're starting from scratch, browse our [solar panel installers hub](https://cuprico.com/en/solar-panel-installers/) by area.
+If you already have solar panels and want an honest answer, based on your real consumption, on whether a battery makes sense for you — [message us](#contacto) on WhatsApp for a free, no-obligation study. If you're starting from scratch, browse our [solar panel installers hub](/en/solar-panel-installers/) by area.
 
-[[Message us on WhatsApp]](https://wa.me/34641479490)
-
-Prefer a form? [Request your free study here](https://cuprico.com/en/#contacto).
+Prefer a form? [Request your free study here](#contacto).
 
 ::check:: A study based on your real consumption, no upselling
 ::check:: We check whether your current inverter is compatible before quoting
 ::check:: We'll walk you through the backup-power option too
 
-**Cúprico electrical & solar services** · San Pedro del Pinatar (Murcia) · Región de Murcia and the southern Costa Blanca
-Phone/WhatsApp: +34 641 47 94 90 · +34 603 60 66 15 · Hours: Mon–Fri 8:00–18:00 (CET)
-Email: administracion@cuprico.com · [Customer reviews on Google](https://g.page/r/Ceu-g_MFBM04EBM/review)
+[[Contact]](#contacto)
+[[Customer reviews on Google]](/en/#resenas)

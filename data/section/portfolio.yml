@@ -6,7 +6,7 @@ color: white
 boxes:
 - gallery:
     cols: 4
-    ratio: 1
+    ratio: 1/1
     gap: 0
   imgs:
   - /u/portfolio/acabados/2018-06-29-23-21-31.jpg

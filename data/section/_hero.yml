@@ -28,4 +28,6 @@ boxes:
         {{% get header.md %}}
 
         [[{{% get others.request_quote %}}]](#contacto)
-  - img: /u/equipo.png
+  - img: /u/j-tornero.png
+    ratio: 1/1.05
+    contain: true

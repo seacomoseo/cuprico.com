@@ -17,7 +17,7 @@ If you already have solar panels on your villa here and you've noticed you're sp
 
 ## From a holiday home to a home lived in most of the year
 
-The owners, a foreign couple with a villa in [Pinar de Campoverde](https://cuprico.com/en/solar-panel-installers/pinar-de-campo-verde/ "solar panel installers in Pinar de Campoverde"), had solar panels installed a few years ago with summer mainly in mind: that was when they visited most, when the air-conditioning bill was highest, and when self-consumption made the most obvious sense. Like a lot of second homes in the area, the system was sized around that pattern of use.
+The owners, a foreign couple with a villa in [Pinar de Campoverde](/en/solar-panel-installers/pinar-de-campo-verde/ "solar panel installers in Pinar de Campoverde"), had solar panels installed a few years ago with summer mainly in mind: that was when they visited most, when the air-conditioning bill was highest, and when self-consumption made the most obvious sense. Like a lot of second homes in the area, the system was sized around that pattern of use.
 
 Over time, how they lived at the property changed: a few extra weeks each year, then months, until eventually they were spending most of the year there. And that's where a system designed for "a few summer weeks" started to fall short.
 
@@ -64,7 +64,7 @@ If you recognise yourself in any of these, it's probably worth having us look at
 - Power cuts worry you, which is fairly common in certain urbanisations in summer.
 - You're weighing up staying in Spain most of the year — or you've already decided — and want the system to match that change.
 
-And if you don't have panels yet but recognise the "I keep coming over more and more" pattern, it may be worth first reading about [how much you can really save with solar panels on a villa in the area](https://cuprico.com/en/blog/cuanto-ahorras-placas-solares-chalet-costa-blanca/ "how much you save with solar panels on a villa") before you think about the battery.
+And if you don't have panels yet but recognise the "I keep coming over more and more" pattern, it may be worth first reading about [how much you can really save with solar panels on a villa in the area](/en/blog/cuanto-ahorras-placas-solares-chalet-costa-blanca/ "how much you save with solar panels on a villa") before you think about the battery.
 
 ## Frequently asked questions
 
@@ -84,7 +84,6 @@ If you already have panels and how you use the house has changed, or you're thin
 
 We're **Cúprico electrical & solar services**, electrical and solar installers based in San Pedro del Pinatar, covering the Murcia region and the Vega Baja. The easiest way to reach us is a written **WhatsApp message** — handy if your Spanish isn't fluent yet:
 
-- **WhatsApp / phone:** 641 47 94 90 · 603 60 66 15
-- **Email:** administracion@cuprico.com
+[[Message us]](#contacto)
 
-Already have panels and wondering whether a battery would pay off in your case? Tell us how you use the house and we'll tell you, with real numbers, whether it adds up.
+Already have panels and wondering whether a battery would pay off in your case? [Tell us](#contacto) how you use the house and we'll tell you, with real numbers, whether it adds up.

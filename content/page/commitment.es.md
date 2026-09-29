@@ -1,6 +1,6 @@
 ---
-title: Compromiso con la Protección de Datos Personales
 slug: compromiso
+title: Compromiso con la Protección de Datos Personales
 icon: handshake
 seo:
   noindex: true

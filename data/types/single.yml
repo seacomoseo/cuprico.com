@@ -1,14 +1,14 @@
 title: Páginas Únicas
-weight: 0
 base: single
+weight: 0
 tpl:
   menu:
     logo: false
   section:
-  - size: lg
-    color: dark
+  - color: dark
     alpha: 0.9
     scroll: fix
+    size: lg
     div: tilt
     div_x: true
     box:

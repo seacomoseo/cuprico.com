@@ -98,7 +98,6 @@ That's the ranges and the general picture. Your real savings only come from look
 
 We're **Cúprico electrical & solar services**, solar installers in San Pedro del Pinatar and across the area (Murcia region and the Vega Baja). The easiest way to reach us is a written **WhatsApp message** — handy if your Spanish isn't fluent yet:
 
-- **WhatsApp / phone:** 641 47 94 90 · 603 60 66 15
-- **Email:** administracion@cuprico.com
+[[Message us]](#contacto)
 
-Already have panels and want to get more out of them with a battery? Tell us — that's exactly our thing.
+Already have panels and want to get more out of them with a battery? [Tell us](#contacto) — that's exactly our thing.

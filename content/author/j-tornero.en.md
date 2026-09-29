@@ -1,17 +1,12 @@
 ---
-weight: null
 slug: j-tornero
 title: J. Tornero
-img: /u/j-tornero.png
-toc: true
-draft: false
-hide: false
+img: /u/j-tornero-avatar.png
 sum: Authorised low-voltage and solar installer. Co-founder of Cúprico.
 seo:
   title: J. Tornero · Solar panel installer in San Pedro del Pinatar | Cúprico
   desc: Authorised solar, battery and EV-charger installer in San Pedro del Pinatar (Murcia & Costa Blanca). Honest advice, English spoken.
   noindex: false
-llms: null
 alts:
 - José Tornero
 - José María Tornero Puga

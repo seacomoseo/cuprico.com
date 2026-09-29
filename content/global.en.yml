@@ -481,11 +481,11 @@ footer:
     <br>
 
     - ::copyright::        {{< internal-link index >}}
-    - ::balance::   {{< internal-link legal >}}
-    - ::encrypted::   {{< internal-link privacy >}}
-    - ::cookie::      {{< internal-link cookies >}}
+    - ::balance::          {{< internal-link legal >}}
+    - ::encrypted::        {{< internal-link privacy >}}
+    - ::cookie::           {{< internal-link cookies >}}
     - ::handshake::        {{< internal-link commitment >}}
-    - ::brand:seacomoseo::       {{< i18n web_design >}} [seacomoseo.com](https://seacomoseo.com/)
+    - ::brand:seacomoseo:: {{< i18n web_design >}} [seacomoseo.com](https://seacomoseo.com/)
     {.list-inline}
 
     <br>

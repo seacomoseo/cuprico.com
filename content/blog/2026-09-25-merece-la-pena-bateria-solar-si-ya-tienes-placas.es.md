@@ -1,7 +1,7 @@
 ---
 slug: merece-la-pena-bateria-solar-si-ya-tienes-placas
 title: ¿Merece la pena poner batería si ya tienes placas solares?
-img: /u/chatgpt-image-20-sept-2026-15_58_51.webp
+img: /u/blog/2026-09-20-15-58-51.webp
 toc: true
 draft: true
 hide: false
@@ -41,30 +41,33 @@ _Foto real de una instalación de Cúprico: batería Pylontech e inversor en el 
 
 ## Un caso habitual: ampliar en vez de instalar desde cero
 
-Es el caso que más vemos: un chalet con placas de hace unos años, sin batería, cuyo propietario ha ido metiendo aire acondicionado, piscina o, más recientemente, un coche eléctrico, y ahora su consumo nocturno pesa mucho más que cuando se diseñó la instalación original. Ya contamos un caso así, paso a paso, en nuestro [artículo sobre la ampliación con batería en Pinar de Campoverde](https://cuprico.com/blog/ampliacion-bateria-pinar-de-campoverde/): no hizo falta rehacer la instalación, solo ampliarla con paneles y batería sobre lo que ya había. Es habitual también en las [urbanizaciones de golf de la Costa Blanca y Murcia](https://cuprico.com/blog/placas-solares-urbanizaciones-golf-costa-blanca-murcia/), donde muchas instalaciones se hicieron pensando solo en el consumo diurno de verano.
+Es el caso que más vemos: un chalet con placas de hace unos años, sin batería, cuyo propietario ha ido metiendo aire acondicionado, piscina o, más recientemente, un coche eléctrico, y ahora su consumo nocturno pesa mucho más que cuando se diseñó la instalación original. Ya contamos un caso así, paso a paso, en nuestro [artículo sobre la ampliación con batería en Pinar de Campoverde](/blog/ampliacion-bateria-pinar-de-campoverde/): no hizo falta rehacer la instalación, solo ampliarla con paneles y batería sobre lo que ya había. Es habitual también en las [urbanizaciones de golf de la Costa Blanca y Murcia](/blog/placas-solares-urbanizaciones-golf-costa-blanca-murcia/), donde muchas instalaciones se hicieron pensando solo en el consumo diurno de verano.
 
 ## Preguntas frecuentes
 
-**¿Puedo añadir una batería a una instalación solar que ya tengo, o hay que rehacerla?**
+### ¿Puedo añadir una batería a una instalación solar que ya tengo, o hay que rehacerla?
+{.h6}
 En la mayoría de los casos se puede ampliar sobre lo que ya existe, siempre que revisemos antes que el inversor sea compatible o se pueda adaptar. Te lo confirmamos en la visita técnica.
 
-**¿La batería me sirve para algo si mi consumo es sobre todo de día?**
+### ¿La batería me sirve para algo si mi consumo es sobre todo de día?
+{.h6}
 Aporta menos ahorro económico, pero sigue dándote respaldo ante cortes de luz si eso es lo que buscas. En ese caso, valóralo como una decisión de tranquilidad, no solo de ahorro.
 
-**¿Cuánto dura una batería doméstica?**
+### ¿Cuánto dura una batería doméstica?
+{.h6}
 Depende de la tecnología y del uso, pero las baterías de litio actuales para autoconsumo suelen diseñarse para muchos años de ciclos diarios. Te damos los datos concretos del fabricante en tu presupuesto.
 
-**¿Hay ayudas para la batería ahora mismo?**
+### ¿Hay ayudas para la batería ahora mismo?
+{.h6}
 No des nada por sentado sin comprobarlo: las convocatorias cambian con frecuencia y, a día de hoy, no hay una convocatoria autonómica residencial abierta en la Región de Murcia con la referencia anterior. Te avisamos si aparece una nueva mientras preparamos tu presupuesto.
 
 ## ¿Le echamos un vistazo a tu caso?
 
-Si ya tienes placas y quieres saber, con tu consumo real y sin presión comercial, si la batería te compensa a ti, [pide tu estudio gratuito](https://cuprico.com/#contacto). Si aún no tienes placas y quieres partir de cero, echa un vistazo a nuestro [hub de instaladores de placas solares](https://cuprico.com/instaladores-placas-solares/) por zonas.
+Si ya tienes placas y quieres saber, con tu consumo real y sin presión comercial, si la batería te compensa a ti, [pide tu estudio gratuito](#contacto). Si aún no tienes placas y quieres partir de cero, echa un vistazo a nuestro [hub de instaladores de placas solares](/instaladores-placas-solares/) por zonas.
 
 ::check:: Estudio con tu consumo real, sin venderte de más
 ::check:: Revisamos si tu inversor actual es compatible antes de presupuestar
 ::check:: Te explicamos también la opción de respaldo ante cortes de luz
 
-**Cúprico electrical & solar services** · San Pedro del Pinatar (Murcia) · Región de Murcia y Vega Baja
-Teléfono/WhatsApp: 641 47 94 90 · 603 60 66 15 · Horario: L–V 8:00–18:00
-Email: administracion@cuprico.com · [Reseñas de clientes en Google](https://g.page/r/Ceu-g_MFBM04EBM/review)
+[[Contacto]](#contacto)
+[[Reseñas de clientes en Google]](/#resenas)

@@ -1,7 +1,7 @@
 ---
 slug: placas-solares-urbanizaciones-golf-costa-blanca-murcia
 title: 'Solar Panels for Golf Resort Villas on the Costa Blanca and in Murcia: What You Need to Know'
-img: /u/chatgpt-image-19-sept-2026-18_42_18.webp
+img: /u/blog/2026-09-19-18-42-18.webp
 toc: true
 draft: false
 hide: false
@@ -58,7 +58,7 @@ Many golf resorts have some form of aesthetic guidelines for the community — c
 1. **Check whether your community has any specific rule** about solar panels. Most don't prohibit them at all — quite the opposite, they're increasingly common — but some ask for panels that sit flush with the roofline rather than protruding structures.
 2. **Choose a tidy, well-finished installation**, with panels properly integrated into the roof and cabling kept out of sight, rather than the cheapest option regardless of appearance. On this kind of property, finish matters almost as much as the savings — it's your home, and often a significant property investment too.
 
-That's exactly our approach when we install in [Las Ramblas](https://cuprico.com/en/solar-panel-installers/las-ramblas-golf/), [Lo Romero](https://cuprico.com/en/solar-panel-installers/lo-romero-golf/), [La Torre Golf](https://cuprico.com/en/solar-panel-installers/la-torre-golf/) or [Las Colinas Golf & Country Club](https://cuprico.com/en/solar-panel-installers/las-colinas-golf-and-country-club/): a system that performs well and doesn't look out of place on a premium resort.
+That's exactly our approach when we install in [Las Ramblas](/en/solar-panel-installers/las-ramblas-golf/), [Lo Romero](/en/solar-panel-installers/lo-romero-golf/), [La Torre Golf](/en/solar-panel-installers/la-torre-golf/) or [Las Colinas Golf & Country Club](/en/solar-panel-installers/las-colinas-golf-and-country-club/): a system that performs well and doesn't look out of place on a premium resort.
 
 ![Solar panels integrated into a terrace pergola at a villa](/u/portfolio/placas-solares/2025-08-10-13-12-14.jpg "Solar pergola on a villa terrace, installed by Cúprico")
 
@@ -76,7 +76,7 @@ If you also want to check production and consumption from your home country, mos
 
 It's an increasingly common story on golf resorts: owners who started out visiting for a few weeks a year and end up settling here permanently, often after retirement. When that happens, consumption changes completely — there's no longer an empty-house period — and it's often worth reviewing the original installation: adding more panels, or adding a battery to make use overnight of energy that used to go almost entirely toward surplus compensation.
 
-That's exactly what happened to one owner in [Pinar de Campoverde](https://cuprico.com/en/solar-panel-installers/pinar-de-campo-verde/) — you can read [the real case study of that battery expansion](https://cuprico.com/blog/ampliacion-bateria-pinar-de-campoverde/) on our blog. If that sounds like where you're headed in a few years, it's worth designing the initial system with that future expansion already in mind, rather than starting from scratch later.
+That's exactly what happened to one owner in [Pinar de Campoverde](/en/solar-panel-installers/pinar-de-campo-verde/) — you can read [the real case study of that battery expansion](/blog/ampliacion-bateria-pinar-de-campoverde/) on our blog. If that sounds like where you're headed in a few years, it's worth designing the initial system with that future expansion already in mind, rather than starting from scratch later.
 
 ## Battery or no battery, for a golf villa?
 
@@ -100,30 +100,34 @@ As an official reference, always subject to change, you can check the procedures
 
 ## Frequently asked questions
 
-**Do I need permission from the community of owners to install solar on my golf resort villa?**
+### Do I need permission from the community of owners to install solar on my golf resort villa?
+{.h6}
 It depends on the resort. Many require no special permission at all, but it's worth checking whether any aesthetic rule exists before installing. We help you check this and design a system that respects it.
 
-**My consumption is high in summer because of the pool and air conditioning. Is it worth installing solar even if I'm only here a few months a year?**
+### My consumption is high in summer because of the pool and air conditioning. Is it worth installing solar even if I'm only here a few months a year?
+{.h6}
 In many cases, yes — precisely because your consumption is concentrated in daylight hours. Every case is different: in your free assessment we review your actual bill and give you a realistic savings range, not a fixed figure.
 
-**Can I monitor my system from abroad when I'm not in Spain?**
+### Can I monitor my system from abroad when I'm not in Spain?
+{.h6}
 Yes. Most modern inverters include a remote monitoring app that lets you check production and consumption from any country.
 
-**What happens to the electricity I produce when I'm not at the house?**
+### What happens to the electricity I produce when I'm not at the house?
+{.h6}
 It's fed into the grid and credited against your bill through the surplus compensation mechanism, within the limits set by current regulation. You don't get paid in cash, but it does reduce what you pay for the energy you draw from the grid.
 
-**Is a battery worth it for a holiday home?**
+### Is a battery worth it for a holiday home?
+{.h6}
 Not always. If you're only here a few weeks a year, it usually pays off more to stick with panels alone and let surplus compensation do the work. If you live here most of the year, or want more independence from the grid, we'll talk it through in your free assessment.
 
-**Do I need to speak Spanish to deal with the paperwork?**
+### Do I need to speak Spanish to deal with the paperwork?
+{.h6}
 No. We handle the certificates, registration, and compensation contract paperwork directly, and we can talk you through the whole process in English.
 
 ## Let's talk about your villa
 
 Every golf resort has its own rules, its own roof orientation, and its own consumption profile. Before we give you any figures, we'd rather see your actual roof and your actual bill. If you own a villa in Las Ramblas, Lo Romero, La Torre Golf, Las Colinas, or anywhere else on a golf resort in the Vega Baja or the Region of Murcia, message us on WhatsApp for a **free, no-obligation assessment** — we'll look at your specific case and tell you honestly what makes sense and what doesn't.
 
-[[Message us on WhatsApp]](https://wa.me/34641479490)
+[[Request your free assessment]](#contacto)
 
-You can also request a free study through our contact form, or call us on 603 60 66 15 (Monday to Friday, 8:00-18:00 Spanish time). To see what other clients think, here are [our Google reviews](https://g.page/r/Ceu-g_MFBM04EBM/review).
-
-[[Request your free assessment]](/en/#contacto)
+To see what other clients think, here are [our Google reviews](/en/#resenas).
