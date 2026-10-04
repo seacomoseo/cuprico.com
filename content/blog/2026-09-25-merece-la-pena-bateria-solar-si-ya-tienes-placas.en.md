@@ -36,7 +36,7 @@ More and more owners bring up batteries because of the April 2025 Iberian Penins
 
 Here it pays to be cautious: the price of a home battery depends heavily on capacity, brand, and whether your existing inverter is already compatible, so treat any fixed number you see online with a healthy dose of scepticism. What any serious installer can tell you honestly is that prices have dropped considerably over the past few years, and that without grants the payback period is typically measured in years, not months — with a storage subsidy, where one exists, that timeline can shorten considerably. On grants: the Región de Murcia's last dedicated residential self-consumption call, tied to Real Decreto 477/2021, closed at the end of 2023, so don't assume there's an active grant today — always check the current status on the Región de Murcia's official electronic office or IDAE before factoring a specific subsidy into your numbers.
 
-![](/u/blog/merece-la-pena-bateria-solar-si-ya-tienes-placas.webp "Home solar battery and inverter installed in a villa garage")
+![](/u/portfolio/placas-solares/2025-08-10-13-11-31.jpg "Home solar battery and inverter installed in a villa garage")
 
 _Real photo from a Cúprico installation: a Pylontech battery and inverter in the garage, next to the protection board._
 

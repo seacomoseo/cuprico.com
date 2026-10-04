@@ -36,7 +36,7 @@ Cada vez más propietarios nos preguntan por la batería pensando en el apagón 
 
 Aquí conviene ir con prudencia: el precio de una batería doméstica depende mucho de la capacidad, la marca y si ya tienes inversor compatible, así que evita fiarte de cifras cerradas que veas por ahí. Lo que sí puede decirte cualquier instalador con criterio es que los precios han bajado con fuerza en los últimos años y que el plazo de amortización, sin ayudas, suele contarse en años, no en meses; con una subvención al almacenamiento (cuando la hay) ese plazo puede acortarse mucho. Sobre las ayudas: en la Región de Murcia, la última convocatoria específica de autoconsumo residencial venía del RD 477/2021 y cerró a finales de 2023, así que a día de hoy no des por hecho que hay una ayuda activa; verifica siempre la convocatoria vigente en la sede electrónica de la CARM o del IDAE antes de calcular tu ahorro con una subvención concreta.
 
-![](/u/blog/merece-la-pena-bateria-solar-si-ya-tienes-placas.webp "Batería solar doméstica con inversor en el garaje de un chalet")
+![](/u/portfolio/placas-solares/2025-08-10-13-11-31.jpg "Batería solar doméstica con inversor en el garaje de un chalet")
 
 _Foto real de una instalación de Cúprico: batería Pylontech e inversor en el garaje, junto al cuadro de protecciones._
 
