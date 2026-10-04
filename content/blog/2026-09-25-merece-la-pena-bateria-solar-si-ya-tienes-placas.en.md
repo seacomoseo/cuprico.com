@@ -3,7 +3,7 @@ slug: merece-la-pena-bateria-solar-si-ya-tienes-placas
 title: Is a Home Battery Worth It If You Already Have Solar Panels in Spain?
 img: /u/blog/2026-09-20-15-58-51.webp
 toc: true
-draft: true
+draft: false
 hide: false
 sum: Who actually benefits from adding a battery to an existing solar installation, who doesn't yet, and what a battery really means if the power goes out.
 seo:
@@ -14,6 +14,7 @@ llms:
   title: Honest guide on whether adding a battery to an existing solar installation is worth it
   desc: Explains, for a villa owner in the Región de Murcia or the southern Costa Blanca who already has solar panels, in which cases adding a battery makes economic sense, in which it doesn't yet, and what role it plays as backup during power cuts.
 date: 2026-09-25 00:00:00
+mod: 2026-10-04 10:50:00
 author: j-tornero
 ---
 
@@ -35,7 +36,7 @@ More and more owners bring up batteries because of the April 2025 Iberian Penins
 
 Here it pays to be cautious: the price of a home battery depends heavily on capacity, brand, and whether your existing inverter is already compatible, so treat any fixed number you see online with a healthy dose of scepticism. What any serious installer can tell you honestly is that prices have dropped considerably over the past few years, and that without grants the payback period is typically measured in years, not months — with a storage subsidy, where one exists, that timeline can shorten considerably. On grants: the Región de Murcia's last dedicated residential self-consumption call, tied to Real Decreto 477/2021, closed at the end of 2023, so don't assume there's an active grant today — always check the current status on the Región de Murcia's official electronic office or IDAE before factoring a specific subsidy into your numbers.
 
-![Pylontech battery and inverter installed in a villa's garage, with the protection board and cabling tidied up](/u/blog/merece-la-pena-bateria-solar-si-ya-tienes-placas.webp "Home solar battery and inverter installed in a villa garage")
+![](/u/blog/merece-la-pena-bateria-solar-si-ya-tienes-placas.webp "Home solar battery and inverter installed in a villa garage")
 
 _Real photo from a Cúprico installation: a Pylontech battery and inverter in the garage, next to the protection board._
 
@@ -46,18 +47,22 @@ This is the case we see most often: a villa with panels installed a few years ag
 ## FAQ
 
 ### Can I add a battery to a solar system I already have, or does it need to be rebuilt?
+
 {.h6}
 In most cases you can expand on what's already there, as long as we first confirm the inverter is compatible or can be adapted. We'll tell you at the site visit.
 
 ### Is a battery worth it if my consumption is mostly during the day?
+
 {.h6}
 It delivers less economic savings, but it still gives you backup during power cuts if that's what you're after. In that case, think of it as a peace-of-mind decision rather than a purely financial one.
 
 ### How long does a home battery last?
+
 {.h6}
 It depends on the technology and how it's used, but current lithium batteries built for self-consumption are typically designed for many years of daily cycles. We'll give you the manufacturer's specific figures with your quote.
 
 ### Are there any grants for batteries right now?
+
 {.h6}
 Don't assume there are without checking: these programmes change often, and as of now there's no open regional residential call in the Región de Murcia under the previous scheme. We'll flag it if a new one appears while we're putting your quote together.
 
@@ -72,4 +77,5 @@ Prefer a form? [Request your free study here](#contacto).
 ::check:: We'll walk you through the backup-power option too
 
 [[Contact]](#contacto)
+
 [[Customer reviews on Google]](/en/#resenas)

@@ -3,7 +3,7 @@ slug: merece-la-pena-bateria-solar-si-ya-tienes-placas
 title: ¿Merece la pena poner batería si ya tienes placas solares?
 img: /u/blog/2026-09-20-15-58-51.webp
 toc: true
-draft: true
+draft: false
 hide: false
 sum: Para quién compensa añadir una batería a una instalación solar ya hecha, para quién todavía no, y qué pasa con tu suministro si se va la luz.
 seo:
@@ -14,6 +14,7 @@ llms:
   title: Guía honesta sobre si compensa añadir batería a una instalación solar existente
   desc: Explica, para un propietario de chalet en la Región de Murcia o la Vega Baja alicantina que ya tiene placas solares, en qué casos añadir una batería compensa económicamente, en cuáles no, y qué papel juega como respaldo ante cortes de luz.
 date: 2026-09-25 00:00:00
+mod: 2026-10-04 10:50:00
 author: j-tornero
 ---
 
@@ -35,7 +36,7 @@ Cada vez más propietarios nos preguntan por la batería pensando en el apagón 
 
 Aquí conviene ir con prudencia: el precio de una batería doméstica depende mucho de la capacidad, la marca y si ya tienes inversor compatible, así que evita fiarte de cifras cerradas que veas por ahí. Lo que sí puede decirte cualquier instalador con criterio es que los precios han bajado con fuerza en los últimos años y que el plazo de amortización, sin ayudas, suele contarse en años, no en meses; con una subvención al almacenamiento (cuando la hay) ese plazo puede acortarse mucho. Sobre las ayudas: en la Región de Murcia, la última convocatoria específica de autoconsumo residencial venía del RD 477/2021 y cerró a finales de 2023, así que a día de hoy no des por hecho que hay una ayuda activa; verifica siempre la convocatoria vigente en la sede electrónica de la CARM o del IDAE antes de calcular tu ahorro con una subvención concreta.
 
-![Batería Pylontech e inversor instalados en el garaje de un chalet, con cuadro de protecciones y cableado ordenado](/u/blog/merece-la-pena-bateria-solar-si-ya-tienes-placas.webp "Batería solar doméstica con inversor en el garaje de un chalet")
+![](/u/blog/merece-la-pena-bateria-solar-si-ya-tienes-placas.webp "Batería solar doméstica con inversor en el garaje de un chalet")
 
 _Foto real de una instalación de Cúprico: batería Pylontech e inversor en el garaje, junto al cuadro de protecciones._
 
@@ -46,18 +47,22 @@ Es el caso que más vemos: un chalet con placas de hace unos años, sin batería
 ## Preguntas frecuentes
 
 ### ¿Puedo añadir una batería a una instalación solar que ya tengo, o hay que rehacerla?
+
 {.h6}
 En la mayoría de los casos se puede ampliar sobre lo que ya existe, siempre que revisemos antes que el inversor sea compatible o se pueda adaptar. Te lo confirmamos en la visita técnica.
 
 ### ¿La batería me sirve para algo si mi consumo es sobre todo de día?
+
 {.h6}
 Aporta menos ahorro económico, pero sigue dándote respaldo ante cortes de luz si eso es lo que buscas. En ese caso, valóralo como una decisión de tranquilidad, no solo de ahorro.
 
 ### ¿Cuánto dura una batería doméstica?
+
 {.h6}
 Depende de la tecnología y del uso, pero las baterías de litio actuales para autoconsumo suelen diseñarse para muchos años de ciclos diarios. Te damos los datos concretos del fabricante en tu presupuesto.
 
 ### ¿Hay ayudas para la batería ahora mismo?
+
 {.h6}
 No des nada por sentado sin comprobarlo: las convocatorias cambian con frecuencia y, a día de hoy, no hay una convocatoria autonómica residencial abierta en la Región de Murcia con la referencia anterior. Te avisamos si aparece una nueva mientras preparamos tu presupuesto.
 
@@ -70,4 +75,5 @@ Si ya tienes placas y quieres saber, con tu consumo real y sin presión comercia
 ::check:: Te explicamos también la opción de respaldo ante cortes de luz
 
 [[Contacto]](#contacto)
+
 [[Reseñas de clientes en Google]](/#resenas)
