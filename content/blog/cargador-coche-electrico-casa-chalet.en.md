@@ -1,26 +1,26 @@
 ---
 slug: cargador-coche-electrico-casa-chalet
-title: "Home EV charger in Spain: what villa owners on the Costa Blanca and Murcia need to know first"
-img: /u/portfolio/cargadores-ev/cargador-coche-electrico-garaje-chalet.jpg
+title: 'Home EV charger in Spain: what villa owners on the Costa Blanca and Murcia need to know first'
+img: /u/portadas-blog/carga-solar-en-villa-mediterranea.webp
 toc: true
-draft: true
+draft: false
 hide: false
-sum: "Single-phase or three-phase, what power to choose, load balancing and the paperwork behind a home EV charger in Spain, explained for villa owners and non-residents."
+sum: Single-phase or three-phase, what power to choose, load balancing and the paperwork behind a home EV charger in Spain, explained for villa owners and non-residents.
 seo:
   title: "Home EV Charger Installation in Spain: Villa Owner's Guide"
-  desc: "Single or three-phase, power, load balancing and paperwork for installing an EV charger at your villa in Murcia or the Costa Blanca, resident or not."
+  desc: Single or three-phase, power, load balancing and paperwork for installing an EV charger at your villa in Murcia or the Costa Blanca, resident or not.
   noindex: false
 llms:
-  title: "Installing a home EV charger at a villa in Murcia and the Costa Blanca"
-  desc: "Guide for villa and holiday-home owners, including non-residents and expats, in the Region of Murcia and the Vega Baja on installing a home electric vehicle charger in Spain: single-phase vs three-phase, power choice, load balancing, pairing with solar panels, the electrical installation certificate and tax deduction caveats. Written by Cúprico, licensed electrical and solar installers in San Pedro del Pinatar."
+  title: Installing a home EV charger at a villa in Murcia and the Costa Blanca
+  desc: 'Guide for villa and holiday-home owners, including non-residents and expats, in the Region of Murcia and the Vega Baja on installing a home electric vehicle charger in Spain: single-phase vs three-phase, power choice, load balancing, pairing with solar panels, the electrical installation certificate and tax deduction caveats. Written by Cúprico, licensed electrical and solar installers in San Pedro del Pinatar.'
 date: 2026-10-04 00:00:00
+mod: 2026-10-08 19:02:00
 author: j-tornero
 ---
+
 If you own a villa in Murcia or on the Costa Blanca and you drive (or are about to buy) an electric car, this is for you. A home charger is the easiest and usually the cheapest way to charge. But if you are not familiar with how things work in Spain, a few questions come up fast: what does my supply allow, what paperwork is involved, and who is responsible if something goes wrong? Here are the answers, in plain English.
 
-![Electric car charger installed in the garage of a villa on the Costa Blanca](/u/portfolio/cargadores-ev/cargador-coche-electrico-garaje-chalet.jpg "Home EV charger installation in Spain")
-
-[IMAGE: wall-mounted charger in a villa garage with the car plugged in. Suggested alt: "Home EV charger installed in the garage of a villa on the Costa Blanca". File: cargador-coche-electrico-garaje-chalet.jpg]
+![](/u/portfolio/cargadores-vehiculos/2024-04-12-10-24-29.jpg "![Electric car charger installed in the garage of a villa on the Costa Blanca](/u/portfolio/cargadores-ev/cargador-coche-electrico-garaje-chalet.jpg "Home EV charger installation in Spain")")
 
 ## Why a dedicated charger beats a normal socket
 
@@ -30,8 +30,8 @@ You can plug an EV into a standard household socket, but it is slow and not desi
 
 This is the first thing any installer will ask.
 
-| | Single-phase supply | Three-phase supply |
-|---|---|---|
+|  | Single-phase supply | Three-phase supply |
+| --- | --- | --- |
 | Typical home charging power | Up to about 7.4 kW | Up to 11 kW (or more, depending on the installation) |
 | Where you usually find it | Standard villas and homes | Larger villas, with pool, heat pump or high demand |
 | Who it suits | Most drivers who charge overnight | Faster charging or two cars |

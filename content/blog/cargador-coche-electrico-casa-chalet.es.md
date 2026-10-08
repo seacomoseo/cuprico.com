@@ -1,30 +1,30 @@
 ---
 slug: cargador-coche-electrico-casa-chalet
-title: "Cargador de coche eléctrico en tu chalet: qué debes saber antes de instalarlo en Murcia y la Costa Blanca"
-img: /u/portfolio/cargadores-ev/cargador-coche-electrico-garaje-chalet.jpg
+title: 'Cargador de coche eléctrico en tu chalet: qué debes saber antes de instalarlo en Murcia y la Costa Blanca'
+img: /u/portadas-blog/carga-solar-en-villa-mediterranea.webp
 toc: true
-draft: true
+draft: false
 hide: false
-sum: "Monofásico o trifásico, qué potencia elegir, para qué sirve el balanceo de carga y cuánto papeleo hay detrás de un cargador de coche eléctrico en casa, explicado en cristiano."
+sum: Monofásico o trifásico, qué potencia elegir, para qué sirve el balanceo de carga y cuánto papeleo hay detrás de un cargador de coche eléctrico en casa, explicado en cristiano.
 seo:
-  title: "Instalar cargador de coche eléctrico en casa: guía chalet"
-  desc: "Monofásico o trifásico, potencia, balanceo de carga y papeleo para instalar un cargador de coche eléctrico en tu chalet de Murcia o la Costa Blanca."
+  title: 'Instalar cargador de coche eléctrico en casa: guía chalet'
+  desc: Monofásico o trifásico, potencia, balanceo de carga y papeleo para instalar un cargador de coche eléctrico en tu chalet de Murcia o la Costa Blanca.
   noindex: false
 llms:
-  title: "Instalar un cargador de coche eléctrico en un chalet de Murcia y la Costa Blanca"
-  desc: "Guía para propietarios de chalets y villas en la Región de Murcia y la Vega Baja sobre cómo instalar un punto de recarga de coche eléctrico en casa: monofásico frente a trifásico, potencia, balanceo de carga, combinación con placas solares, certificado de instalación y ayudas fiscales. Escrita por instaladores habilitados de Cúprico."
+  title: Instalar un cargador de coche eléctrico en un chalet de Murcia y la Costa Blanca
+  desc: 'Guía para propietarios de chalets y villas en la Región de Murcia y la Vega Baja sobre cómo instalar un punto de recarga de coche eléctrico en casa: monofásico frente a trifásico, potencia, balanceo de carga, combinación con placas solares, certificado de instalación y ayudas fiscales. Escrita por instaladores habilitados de Cúprico.'
 date: 2026-10-04 00:00:00
+mod: 2026-10-08 19:02:00
 author: j-tornero
 ---
+
 Si tienes (o vas a comprar) un coche eléctrico y un garaje o una parcela en tu chalet, esto te interesa. Un cargador en casa es la forma más cómoda y barata de cargar: llegas, enchufas y por la mañana el coche está listo. Pero antes de comprar el primer cargador que veas, hay cuatro decisiones que conviene tener claras. Aquí te las explicamos sin jerga.
 
-![Cargador de coche eléctrico instalado en el garaje de un chalet](/u/portfolio/cargadores-ev/cargador-coche-electrico-garaje-chalet.jpg "Instalar cargador de coche eléctrico en casa")
-
-[IMAGEN: wallbox instalado en la pared del garaje de un chalet, con el coche enchufado. Alt sugerido: "Cargador de coche eléctrico instalado en el garaje de un chalet de la Costa Blanca". Archivo: cargador-coche-electrico-garaje-chalet.jpg]
+![](/u/portfolio/cargadores-vehiculos/2024-04-12-10-24-29.jpg "![Cargador de coche eléctrico instalado en el garaje de un chalet](/u/portfolio/cargadores-ev/cargador-coche-electrico-garaje-chalet.jpg "Instalar cargador de coche eléctrico en casa")")
 
 ## ¿Por qué cargar en casa y no enchufar a un Schuko?
 
-Se puede cargar con un enchufe doméstico, pero es lento y no está pensado para trabajar horas seguidas a plena carga. Un punto de recarga dedicado (el famoso *wallbox*) tiene un circuito propio, protecciones específicas y se comunica con el coche para cargarlo de forma segura. Es, además, lo que exige la normativa para una instalación fija.
+Se puede cargar con un enchufe doméstico, pero es lento y no está pensado para trabajar horas seguidas a plena carga. Un punto de recarga dedicado (el famoso _wallbox_) tiene un circuito propio, protecciones específicas y se comunica con el coche para cargarlo de forma segura. Es, además, lo que exige la normativa para una instalación fija.
 
 Y aquí una advertencia importante: la instalación de un punto de recarga **no es un trabajo para hacer por tu cuenta**. Toca el cuadro eléctrico y circuitos de mucha potencia durante muchas horas, así que debe hacerla un instalador autorizado, que además te entrega el certificado de la instalación.
 
@@ -32,8 +32,8 @@ Y aquí una advertencia importante: la instalación de un punto de recarga **no 
 
 Es la primera pregunta que te hará cualquier instalador, y la respuesta depende de tu suministro actual.
 
-| | Suministro monofásico | Suministro trifásico |
-|---|---|---|
+|  | Suministro monofásico | Suministro trifásico |
+| --- | --- | --- |
 | Potencia de carga habitual | Hasta unos 7,4 kW | Hasta 11 kW (o más, según instalación) |
 | Dónde es típico | Chalets y viviendas con suministro estándar | Chalets grandes, con piscina, bomba de calor o mucha demanda |
 | Para quién encaja | La mayoría de conductores que cargan por la noche | Quien quiere cargar más rápido o tiene dos coches |
