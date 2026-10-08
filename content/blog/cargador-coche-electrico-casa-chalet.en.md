@@ -102,10 +102,6 @@ It depends on the distance to the panel, whether the installation needs adapting
 
 We are licensed electrical and solar installers based in San Pedro del Pinatar, working across the Region of Murcia and the Vega Baja. Send us a photo of your electrical panel and your location, and we will tell you what is realistic.
 
-[[Message us on WhatsApp]](https://wa.me/34641479490)
+[[Request your free assessment]](#contacto)
 
-- More about [EV chargers](https://cuprico.com/en/ev-chargers/)
-- Prefer a form? [Request your free study](https://cuprico.com/en/#contacto)
-- Phone: **641 47 94 90** · **603 60 66 15** (Mon–Fri, 8:00–18:00)
-- Email: administracion@cuprico.com
-- Worked with us? [Leave a Google review](https://g.page/r/Ceu-g_MFBM04EBM/review)
+To see what other clients think, here are [our Google reviews](/en/#resenas).

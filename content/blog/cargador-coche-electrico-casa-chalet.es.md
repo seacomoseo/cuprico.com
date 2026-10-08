@@ -107,9 +107,6 @@ Depende de la distancia al cuadro, de si hay que adaptar la instalación y del e
 
 En Cúprico somos instaladores eléctricos y solares en San Pedro del Pinatar y trabajamos en toda la Región de Murcia y la Vega Baja. Revisamos tu instalación, te recomendamos la potencia que de verdad necesitas y, si quieres, lo dejamos preparado para sumar placas y batería.
 
-[[Pide tu estudio gratis]](https://cuprico.com/#contacto)
+[[Pide tu estudio gratuito]](#contacto)
 
-- Más sobre [cargadores de coche eléctrico](https://cuprico.com/cargadores-ev/)
-- Teléfonos: **641 47 94 90** · **603 60 66 15** (L–V, 8:00–18:00)
-- Email: administracion@cuprico.com
-- ¿Ya trabajaste con nosotros? [Déjanos tu reseña en Google](https://g.page/r/Ceu-g_MFBM04EBM/review)
+Y si quieres ver qué opinan otros clientes, aquí tienes [nuestras reseñas de Google](/#resenas).
