@@ -20,7 +20,7 @@ author: j-tornero
 
 Si tienes (o vas a comprar) un coche eléctrico y un garaje o una parcela en tu chalet, esto te interesa. Un cargador en casa es la forma más cómoda y barata de cargar: llegas, enchufas y por la mañana el coche está listo. Pero antes de comprar el primer cargador que veas, hay cuatro decisiones que conviene tener claras. Aquí te las explicamos sin jerga.
 
-![](/u/portfolio/cargadores-vehiculos/2024-04-12-10-24-29.jpg "![Cargador de coche eléctrico instalado en el garaje de un chalet](/u/portfolio/cargadores-ev/cargador-coche-electrico-garaje-chalet.jpg "Instalar cargador de coche eléctrico en casa")")
+![](/u/portfolio/cargadores-vehiculos/2024-04-12-10-24-29.jpg)
 
 ## ¿Por qué cargar en casa y no enchufar a un Schuko?
 
@@ -58,7 +58,8 @@ Si ya tienes placas, o estás pensando en ponerlas, aquí está la parte interes
 
 Esto encaja especialmente bien en la zona: muchas horas de sol y chalets con cubiertas y pérgolas aprovechables. Si además tienes batería, puedes guardar parte de la producción del día para cargar por la noche. Si quieres ver cómo se plantea en un chalet real de la zona, lee el [caso de ampliación con batería en Pinar de Campoverde](https://cuprico.com/blog/ampliacion-bateria-pinar-de-campoverde/) y nuestra página de [instalación de placas solares en Pinar de Campoverde](https://cuprico.com/instaladores-placas-solares/pinar-de-campo-verde/).
 
-[IMAGEN: pérgola o cubierta con paneles junto al garaje donde está el cargador. Alt sugerido: "Placas solares en un chalet de Murcia junto al cargador del coche eléctrico". Archivo: placas-solares-chalet-cargador-coche-electrico.jpg]
+<!-- gallery-simple -->
+![](/u/portfolio/placas-solares/ampliacion-bateria-pinar-de-campoverde-2-814x1085.webp "Placas solares en un chalet de Murcia")
 
 ## El papeleo: lo que hace el instalador por ti
 

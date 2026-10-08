@@ -20,7 +20,7 @@ author: j-tornero
 
 If you own a villa in Murcia or on the Costa Blanca and you drive (or are about to buy) an electric car, this is for you. A home charger is the easiest and usually the cheapest way to charge. But if you are not familiar with how things work in Spain, a few questions come up fast: what does my supply allow, what paperwork is involved, and who is responsible if something goes wrong? Here are the answers, in plain English.
 
-![](/u/portfolio/cargadores-vehiculos/2024-04-12-10-24-29.jpg "![Electric car charger installed in the garage of a villa on the Costa Blanca](/u/portfolio/cargadores-ev/cargador-coche-electrico-garaje-chalet.jpg "Home EV charger installation in Spain")")
+![](/u/portfolio/cargadores-vehiculos/2024-04-12-10-24-29.jpg)
 
 ## Why a dedicated charger beats a normal socket
 
@@ -50,7 +50,8 @@ Many suppliers also offer a cheaper night-time period, so ask yours what suits y
 
 If you already have solar panels, or are considering them, many chargers can be set to use your surplus production. Depending on your consumption and when you use the car, you can cover a meaningful share of your charging with your own energy. With a battery, part of the day's production can be stored for overnight charging. For a real example of how we approach a villa upgrade, read our case study on [adding a battery in Pinar de Campoverde](https://cuprico.com/en/blog/ampliacion-bateria-pinar-de-campoverde/), or see our [solar panel installers in Pinar de Campoverde](https://cuprico.com/en/solar-panel-installers/pinar-de-campo-verde/).
 
-[IMAGE: pergola or roof with solar panels next to the garage with the charger. Suggested alt: "Solar panels at a Murcia villa next to the EV charger". File: placas-solares-chalet-cargador-coche-electrico.jpg]
+<!-- gallery-simple -->
+![](/u/portfolio/placas-solares/ampliacion-bateria-pinar-de-campoverde-2-814x1085.webp)
 
 ## Paperwork: what your installer handles
 
