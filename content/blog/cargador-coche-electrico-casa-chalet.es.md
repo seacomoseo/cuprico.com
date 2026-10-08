@@ -59,7 +59,7 @@ Si ya tienes placas, o estás pensando en ponerlas, aquí está la parte interes
 Esto encaja especialmente bien en la zona: muchas horas de sol y chalets con cubiertas y pérgolas aprovechables. Si además tienes batería, puedes guardar parte de la producción del día para cargar por la noche. Si quieres ver cómo se plantea en un chalet real de la zona, lee el [caso de ampliación con batería en Pinar de Campoverde](https://cuprico.com/blog/ampliacion-bateria-pinar-de-campoverde/) y nuestra página de [instalación de placas solares en Pinar de Campoverde](https://cuprico.com/instaladores-placas-solares/pinar-de-campo-verde/).
 
 <!-- gallery-simple -->
-![](/u/portfolio/placas-solares/ampliacion-bateria-pinar-de-campoverde-2-814x1085.webp "Placas solares en un chalet de Murcia")
+![](/u/portfolio/placas-solares/ampliacion-bateria-pinar-de-campoverde-2-814x1085.webp)
 
 ## El papeleo: lo que hace el instalador por ti
 
