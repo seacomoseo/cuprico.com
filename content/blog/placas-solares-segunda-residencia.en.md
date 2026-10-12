@@ -3,7 +3,7 @@ slug: placas-solares-segunda-residencia
 title: "Solar Panels on a Holiday Home in Spain: How to Make Them Pay When You're Not There"
 img: /u/portadas-blog/placas-solares-segunda-residencia-chalet-costa-calida-webp.webp
 toc: true
-draft: false
+draft: true
 hide: false
 sum: Own a holiday home in Murcia or on the Costa Blanca? What happens to your solar power while you're away, how to monitor it from abroad, and when a battery actually makes sense.
 seo:

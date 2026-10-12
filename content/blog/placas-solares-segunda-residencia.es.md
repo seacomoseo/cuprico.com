@@ -3,7 +3,7 @@ slug: placas-solares-segunda-residencia
 title: ¿Segunda residencia en la costa? Cómo sacar partido a tus placas solares cuando no estás
 img: /u/portadas-blog/placas-solares-segunda-residencia-chalet-costa-calida-webp.webp
 toc: true
-draft: false
+draft: true
 hide: false
 sum: 'Placas solares en una segunda residencia de Murcia o la Costa Blanca: qué pasa con lo que produces cuando no estás, cómo vigilarlo desde fuera y cuándo tiene sentido una batería.'
 seo:
