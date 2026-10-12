@@ -151,6 +151,6 @@ Cada segunda residencia es un mundo: cuándo vienes, qué se queda funcionando, 
 ::check:: Te dejamos la app configurada para seguirlo desde donde estés.
 ::check:: Te atendemos en español, inglés y por WhatsApp.
 
-[[Pide tu estudio gratis, sin compromiso]](https://cuprico.com/#contacto)
+[[Pide tu estudio gratis, sin compromiso]](#contacto)
 
-Llámanos al **641 47 94 90** (lunes a viernes, de 8:00 a 18:00), escríbenos a **administracion@cuprico.com** o usa el [formulario de contacto](https://cuprico.com/#contacto). Trabajamos en toda la Región de Murcia y la Vega Baja; mira nuestras zonas en el [hub de instaladores de placas solares](https://cuprico.com/instaladores-placas-solares/).
+[[Reseñas de clientes en Google]](/#resenas)
