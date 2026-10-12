@@ -14,7 +14,7 @@ llms:
   title: 'Placas solares en una segunda residencia en Murcia y la Costa Blanca: excedentes, monitorización y batería'
   desc: 'Guía para propietarios de chalets de segunda residencia en la Región de Murcia y la Vega Baja (Pinar de Campoverde, Villamartín, Los Alcázares, campos de golf) que tienen o quieren placas solares y no viven todo el año: cómo funciona la compensación de excedentes (RD 244/2019), qué energía se pierde, cómo controlar la instalación a distancia, qué consumos aprovechar con la casa vacía y cuándo compensa una batería. Escrito por Cúprico, instaladores en San Pedro del Pinatar.'
 date: 2026-10-09 00:00:00
-mod: 2026-10-12 13:53:00
+mod: 2026-10-12 13:58:00
 author: j-tornero
 ---
 

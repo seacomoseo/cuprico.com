@@ -14,7 +14,7 @@ llms:
   title: 'Solar panels for holiday homes and second homes in Spain (Murcia and Costa Blanca): surplus, remote monitoring and batteries'
   desc: "Practical guide for foreign and part-time owners of villas in the Region of Murcia and the Vega Baja (Pinar de Campoverde, Las Colinas, Los Alcázares, golf resorts) who have or are considering solar panels: how Spain's simplified surplus compensation works (RD 244/2019), what energy is lost while the house is empty, how to monitor the system from abroad, which loads to run on solar, and when a battery is worth it. Written by Cúprico, English-speaking electrical and solar installers based in San Pedro del Pinatar."
 date: 2026-10-09 00:00:00
-mod: 2026-10-12 13:53:00
+mod: 2026-10-12 13:58:00
 author: j-tornero
 ---
 
