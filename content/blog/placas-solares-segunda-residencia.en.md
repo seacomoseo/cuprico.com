@@ -163,4 +163,4 @@ Every holiday home is different: when you're here, what keeps running while you'
 
 [[Message us on WhatsApp]](https://wa.me/34641479490)
 
-Prefer to call? Ring **+34 641 47 94 90** or **+34 603 60 66 15** (Monday to Friday, 8:00 to 18:00 Spanish time), email **administracion@cuprico.com**, or use our [contact form](https://cuprico.com/en/#contacto). We cover the whole Region of Murcia and the Vega Baja; see all our areas on the [solar panel installers page](https://cuprico.com/en/solar-panel-installers/).
+Prefer to call? Ring **+34 641 47 94 90** (Monday to Friday, 8:00 to 18:00 Spanish time), email **administracion@cuprico.com**, or use our [contact form](https://cuprico.com/en/#contacto). We cover the whole Region of Murcia and the Vega Baja; see all our areas on the [solar panel installers page](https://cuprico.com/en/solar-panel-installers/).
