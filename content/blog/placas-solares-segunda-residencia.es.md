@@ -22,9 +22,6 @@ Si tienes una segunda residencia en la costa, un chalet al que vienes unos meses
 
 La respuesta corta: **una segunda residencia con placas solares puede salir rentable**, pero no se diseña igual que una vivienda habitual. Lo que cambia es cómo aprovechas la energía cuando no estás. Vamos por partes.
 
-<!-- gallery-simple -->
-![](/u/fotovoltaica-blog/placas-solares-segunda-residencia-chalet-costa-calida.webm "Placas solares en el tejado de un chalet de segunda residencia en la costa de Murcia")
-
 ## ¿Merecen la pena las placas solares en una segunda residencia?
 
 Depende menos de cuántos meses vives en ella y más de **cuánto consume la casa cuando no estás** y de cómo esté montada la instalación.
@@ -151,6 +148,6 @@ Cada segunda residencia es un mundo: cuándo vienes, qué se queda funcionando, 
 ::check:: Te dejamos la app configurada para seguirlo desde donde estés.
 ::check:: Te atendemos en español, inglés y por WhatsApp.
 
-[[Pide tu estudio gratis, sin compromiso]](#contacto)
+[[Pide tu estudio gratis, sin compromiso]](https://cuprico.com/#contacto)
 
-[[Reseñas de clientes en Google]](/#resenas)
+Llámanos al **641 47 94 90** (lunes a viernes, de 8:00 a 18:00), escríbenos a **administracion@cuprico.com** o usa el [formulario de contacto](https://cuprico.com/#contacto). Trabajamos en toda la Región de Murcia y la Vega Baja; mira nuestras zonas en el [hub de instaladores de placas solares](https://cuprico.com/instaladores-placas-solares/).
