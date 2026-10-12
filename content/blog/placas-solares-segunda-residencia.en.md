@@ -1,26 +1,28 @@
 ---
 slug: placas-solares-segunda-residencia
 title: "Solar Panels on a Holiday Home in Spain: How to Make Them Pay When You're Not There"
-img: /u/portfolio/placas-solares/placas-solares-segunda-residencia-chalet-costa-calida.webp
+img: /u/portadas-blog/placas-solares-segunda-residencia-chalet-costa-calida-webp.webp
 toc: true
-draft: true
+draft: false
 hide: false
-sum: "Own a holiday home in Murcia or on the Costa Blanca? What happens to your solar power while you're away, how to monitor it from abroad, and when a battery actually makes sense."
+sum: Own a holiday home in Murcia or on the Costa Blanca? What happens to your solar power while you're away, how to monitor it from abroad, and when a battery actually makes sense.
 seo:
-  title: "Solar Panels on a Holiday Home in Spain: Worth It?"
-  desc: "Part-time villa owner in Murcia or the Costa Blanca? What happens to your solar surplus when you're away, remote monitoring, and if a battery pays off."
+  title: 'Solar Panels on a Holiday Home in Spain: Worth It?'
+  desc: Part-time villa owner in Murcia or the Costa Blanca? What happens to your solar surplus when you're away, remote monitoring, and if a battery pays off.
   noindex: false
 llms:
-  title: "Solar panels for holiday homes and second homes in Spain (Murcia and Costa Blanca): surplus, remote monitoring and batteries"
+  title: 'Solar panels for holiday homes and second homes in Spain (Murcia and Costa Blanca): surplus, remote monitoring and batteries'
   desc: "Practical guide for foreign and part-time owners of villas in the Region of Murcia and the Vega Baja (Pinar de Campoverde, Las Colinas, Los Alcázares, golf resorts) who have or are considering solar panels: how Spain's simplified surplus compensation works (RD 244/2019), what energy is lost while the house is empty, how to monitor the system from abroad, which loads to run on solar, and when a battery is worth it. Written by Cúprico, English-speaking electrical and solar installers based in San Pedro del Pinatar."
 date: 2026-10-09 00:00:00
+mod: 2026-10-12 13:53:00
 author: j-tornero
 ---
+
 If you own a holiday home in Spain, a villa you only use part of the year (the summer, the winter months, or a few weeks here and there), and you're wondering whether solar panels make sense when the house sits empty for months, this is for you.
 
 The short answer: **solar panels on a holiday home in Spain can pay their way**, but the system needs to be designed around how you actually use the property, not around a full-time household. Here's what matters, and what you should ask any installer before you sign.
 
-![Solar panels on the roof of a holiday villa on the Costa Cálida, Spain](/u/portfolio/placas-solares/placas-solares-segunda-residencia-chalet-costa-calida.webp "Solar installation on a villa in the area — Cúprico")
+![](/u/fotovoltaica-blog/placas-solares-segunda-residencia-chalet-costa-calida-1.webm "Solar panels on the roof of a holiday villa on the Costa Cálida, Spain")
 
 ## Do solar panels make sense on a holiday home in Spain?
 
@@ -73,7 +75,7 @@ Modern inverters come with a **monitoring app**. From your phone, whether you're
 
 We set the app up in your name at commissioning and, if you wish, keep installer access so we can check things remotely. If something looks off, send us a WhatsApp and we'll look into it. No flights required.
 
-![Solar inverter and protection panel on a villa, monitored remotely via app](/u/portfolio/placas-solares/inversor-solar-monitorizacion-segunda-residencia.webp "Inverter and protection panel on a self-consumption system — Cúprico")
+![](/u/fotovoltaica-blog/inversor-solar-monitorizacion-segunda-residencia.webm "Solar inverter and protection panel on a villa, monitored remotely via app")
 
 **Is it safe to leave it running in an empty house?** A properly installed system has DC and AC protection, and the inverter disconnects automatically if the grid goes down. What we do recommend is a **periodic inspection** by a qualified installer, especially near the coast where salt air is hard on connections. Please don't open the consumer unit or touch the wiring yourself: that's our job.
 
@@ -103,16 +105,17 @@ We set these schedules up at commissioning (timers, inverter settings or the equ
 With the house empty, a battery charges by day and barely discharges at night, so **its financial return drops**. That doesn't mean it never makes sense:
 
 | Your situation | Without battery | With battery |
-|---|---|---|
+| --- | --- | --- |
 | A few weeks a year | ::check:: Usually enough | ::close:: Hard to pay back |
 | Several months at a stretch | ::check:: Solid starting point | ::check:: Solar power after dark too |
 | Backup during power cuts (fridge, alarm, router) | ::close:: No grid, no solar | ::check:: With a hybrid inverter and backup set up |
 | Planning to move here full-time | ::check:: Easy to add later | ::check:: You use almost everything you produce |
+
 {.compare}
 
 Our usual advice for holiday homes: **start without a battery, but with a hybrid-ready inverter**. If your plans change, adding one is straightforward.
 
-![Hybrid inverter with battery storage installed in a villa garage](/u/portfolio/placas-solares/inversor-hibrido-bateria-chalet-segunda-residencia.webp "Hybrid inverter with battery — Cúprico")
+![](/u/fotovoltaica-blog/inversor-hibrido-bateria-chalet-segunda-residencia.webm "Hybrid inverter with battery storage installed in a villa garage")
 
 ## What if you end up living here full-time?
 
@@ -122,7 +125,7 @@ That's exactly what we did for an owner in Pinar de Campoverde who went from a f
 
 One more thing: becoming a Spanish tax resident also changes which incentives you can claim. For instance, the Spanish income-tax (IRPF) deduction for home self-consumption systems has been extended for another year by [Royal Decree-law 7/2026](https://www.boe.es/eli/es/rdl/2026/03/20/7), but it requires you to be taxed in Spain and to meet specific conditions. We'll cover grants and deductions in detail in an upcoming article; in the meantime, check with your tax adviser.
 
-![Solar pergola on a villa terrace in Pinar de Campoverde](/u/portfolio/placas-solares/pergola-solar-terraza-pinar-de-campoverde.webp "Solar pergola in Pinar de Campoverde — Cúprico")
+![](/u/fotovoltaica-blog/pergola-solar-terraza-pinar-de-campoverde.webm "Solar pergola on a villa terrace in Pinar de Campoverde")
 
 ## Frequently asked questions
 

@@ -1,26 +1,29 @@
 ---
 slug: placas-solares-segunda-residencia
-title: "¿Segunda residencia en la costa? Cómo sacar partido a tus placas solares cuando no estás"
-img: /u/portfolio/placas-solares/placas-solares-segunda-residencia-chalet-costa-calida.webp
+title: ¿Segunda residencia en la costa? Cómo sacar partido a tus placas solares cuando no estás
+img: /u/portadas-blog/placas-solares-segunda-residencia-chalet-costa-calida-webp.webp
 toc: true
-draft: true
+draft: false
 hide: false
-sum: "Placas solares en una segunda residencia de Murcia o la Costa Blanca: qué pasa con lo que produces cuando no estás, cómo vigilarlo desde fuera y cuándo tiene sentido una batería."
+sum: 'Placas solares en una segunda residencia de Murcia o la Costa Blanca: qué pasa con lo que produces cuando no estás, cómo vigilarlo desde fuera y cuándo tiene sentido una batería.'
 seo:
-  title: "Placas solares en segunda residencia: sácales partido"
-  desc: "¿Placas solares en tu segunda residencia y solo vienes parte del año? Qué pasa con los excedentes, cómo vigilarlas desde fuera y si te compensa batería."
+  title: 'Placas solares en segunda residencia: sácales partido'
+  desc: ¿Placas solares en tu segunda residencia y solo vienes parte del año? Qué pasa con los excedentes, cómo vigilarlas desde fuera y si te compensa batería.
   noindex: false
 llms:
-  title: "Placas solares en una segunda residencia en Murcia y la Costa Blanca: excedentes, monitorización y batería"
-  desc: "Guía para propietarios de chalets de segunda residencia en la Región de Murcia y la Vega Baja (Pinar de Campoverde, Villamartín, Los Alcázares, campos de golf) que tienen o quieren placas solares y no viven todo el año: cómo funciona la compensación de excedentes (RD 244/2019), qué energía se pierde, cómo controlar la instalación a distancia, qué consumos aprovechar con la casa vacía y cuándo compensa una batería. Escrito por Cúprico, instaladores en San Pedro del Pinatar."
+  title: 'Placas solares en una segunda residencia en Murcia y la Costa Blanca: excedentes, monitorización y batería'
+  desc: 'Guía para propietarios de chalets de segunda residencia en la Región de Murcia y la Vega Baja (Pinar de Campoverde, Villamartín, Los Alcázares, campos de golf) que tienen o quieren placas solares y no viven todo el año: cómo funciona la compensación de excedentes (RD 244/2019), qué energía se pierde, cómo controlar la instalación a distancia, qué consumos aprovechar con la casa vacía y cuándo compensa una batería. Escrito por Cúprico, instaladores en San Pedro del Pinatar.'
 date: 2026-10-09 00:00:00
+mod: 2026-10-12 13:53:00
 author: j-tornero
 ---
+
 Si tienes una segunda residencia en la costa, un chalet al que vienes unos meses al año (en verano, en invierno o a ratos) y te preguntas qué pasa con lo que producen tus placas solares cuando la casa está cerrada, esto te interesa. Y si todavía no las tienes porque piensas "para lo que estoy aquí, no me compensa", también.
 
 La respuesta corta: **una segunda residencia con placas solares puede salir rentable**, pero no se diseña igual que una vivienda habitual. Lo que cambia es cómo aprovechas la energía cuando no estás. Vamos por partes.
 
-![Placas solares en el tejado de un chalet de segunda residencia en la costa de Murcia](/u/portfolio/placas-solares/placas-solares-segunda-residencia-chalet-costa-calida.webp "Instalación de placas solares en un chalet de la zona — Cúprico")
+![](/u/fotovoltaica-blog/placas-solares-segunda-residencia-chalet-costa-calida-1.webm "Placas solares en el tejado de un chalet de segunda residencia en la costa de Murcia / Solar panels on the roof of a holiday villa on the Costa Cálida, Spain")
+
 
 ## ¿Merecen la pena las placas solares en una segunda residencia?
 
@@ -73,7 +76,7 @@ Una de las ventajas de los inversores actuales es que traen **app de monitorizac
 
 Nosotros dejamos la app configurada y a tu nombre el día de la puesta en marcha, y podemos tener acceso de instalador para revisar a distancia si nos lo pides. Si algo no cuadra, nos escribes por WhatsApp y lo miramos sin que tengas que coger un avión.
 
-![Inversor solar con cuadro de protecciones en un chalet, monitorizado a distancia por app](/u/portfolio/placas-solares/inversor-solar-monitorizacion-segunda-residencia.webp "Inversor y protecciones de una instalación de autoconsumo — Cúprico")
+![](/u/fotovoltaica-blog/inversor-solar-monitorizacion-segunda-residencia.webm "Inversor solar con cuadro de protecciones en un chalet, monitorizado a distancia por app")
 
 ¿Y es seguro dejarlo funcionando con la casa cerrada? Una instalación bien hecha lleva sus protecciones en corriente continua y alterna, y el inversor se desconecta solo si se va la luz de la red. Lo que sí recomendamos es una **revisión periódica** por un profesional, sobre todo en casas cerca del mar, donde la salinidad castiga las conexiones. Nada de abrir cuadros ni tocar cableado por tu cuenta: para eso estamos.
 
@@ -93,16 +96,17 @@ Estos ajustes los dejamos hechos en la puesta en marcha (temporizadores, program
 Con la casa vacía, una batería se llena de día y apenas se gasta de noche, así que **su rendimiento económico baja**. Eso no significa que nunca compense. Tabla rápida:
 
 | Situación | Sin batería | Con batería |
-|---|---|---|
+| --- | --- | --- |
 | Vienes solo unas semanas al año | ::check:: Suele bastar | ::close:: Difícil de amortizar |
 | Pasas aquí varios meses seguidos | ::check:: Buen punto de partida | ::check:: Aprovechas el sol también por la noche |
 | Quieres respaldo si se va la luz (nevera, alarma, router) | ::close:: Sin luz, sin solar | ::check:: Con equipo híbrido y respaldo configurado |
 | Piensas venir a vivir todo el año | ::check:: Puedes ampliar más adelante | ::check:: Aprovechas casi todo lo que produces |
+
 {.compare}
 
 Nuestro consejo habitual para segunda residencia: **empieza sin batería pero con un inversor preparado para añadirla**. Si tu uso cambia, la ampliación es sencilla. Lo explicamos con calma en [¿merece la pena la batería si ya tienes placas?](https://cuprico.com/blog/merece-la-pena-bateria-solar-si-ya-tienes-placas/).
 
-![Inversor híbrido con batería instalado en el garaje de un chalet](/u/portfolio/placas-solares/inversor-hibrido-bateria-chalet-segunda-residencia.webp "Inversor híbrido con batería — Cúprico")
+![](/u/fotovoltaica-blog/inversor-hibrido-bateria-chalet-segunda-residencia.webm "Inversor híbrido con batería instalado en el garaje de un chalet")
 
 ## ¿Y si pasas a vivir aquí todo el año?
 
@@ -112,7 +116,7 @@ Es exactamente lo que hicimos con un propietario de Pinar de Campoverde que pas�
 
 Un detalle más: si pasas a ser residente fiscal en España, cambian también las ayudas a las que puedes optar. Por ejemplo, la deducción del IRPF por instalaciones de autoconsumo en vivienda se ha ampliado un año más con el [Real Decreto-ley 7/2026](https://www.boe.es/eli/es/rdl/2026/03/20/7), pero exige tributar en España y cumplir requisitos concretos. Lo veremos en detalle en un próximo artículo sobre ayudas; mientras tanto, consulta tu caso con tu asesor fiscal.
 
-![Pérgola solar en la terraza de un chalet en Pinar de Campoverde](/u/portfolio/placas-solares/pergola-solar-terraza-pinar-de-campoverde.webp "Pérgola solar en Pinar de Campoverde — Cúprico")
+![](/u/fotovoltaica-blog/pergola-solar-terraza-pinar-de-campoverde.webm "Pérgola solar en la terraza de un chalet en Pinar de Campoverde")
 
 ## Preguntas frecuentes
 
