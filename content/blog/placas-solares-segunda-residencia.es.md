@@ -22,8 +22,8 @@ Si tienes una segunda residencia en la costa, un chalet al que vienes unos meses
 
 La respuesta corta: **una segunda residencia con placas solares puede salir rentable**, pero no se diseña igual que una vivienda habitual. Lo que cambia es cómo aprovechas la energía cuando no estás. Vamos por partes.
 
-![](/u/fotovoltaica-blog/placas-solares-segunda-residencia-chalet-costa-calida-1.webm "Placas solares en el tejado de un chalet de segunda residencia en la costa de Murcia / Solar panels on the roof of a holiday villa on the Costa Cálida, Spain")
-
+<!-- gallery-simple -->
+![](/u/fotovoltaica-blog/placas-solares-segunda-residencia-chalet-costa-calida.webm "Placas solares en el tejado de un chalet de segunda residencia en la costa de Murcia")
 
 ## ¿Merecen la pena las placas solares en una segunda residencia?
 
@@ -76,7 +76,8 @@ Una de las ventajas de los inversores actuales es que traen **app de monitorizac
 
 Nosotros dejamos la app configurada y a tu nombre el día de la puesta en marcha, y podemos tener acceso de instalador para revisar a distancia si nos lo pides. Si algo no cuadra, nos escribes por WhatsApp y lo miramos sin que tengas que coger un avión.
 
-![](/u/fotovoltaica-blog/inversor-solar-monitorizacion-segunda-residencia.webm "Inversor solar con cuadro de protecciones en un chalet, monitorizado a distancia por app")
+<!-- gallery-simple -->
+![Inversor solar con cuadro de protecciones en un chalet, monitorizado a distancia por app](/u/fotovoltaica-blog/inversor-solar-monitorizacion-segunda-residencia.webm)
 
 ¿Y es seguro dejarlo funcionando con la casa cerrada? Una instalación bien hecha lleva sus protecciones en corriente continua y alterna, y el inversor se desconecta solo si se va la luz de la red. Lo que sí recomendamos es una **revisión periódica** por un profesional, sobre todo en casas cerca del mar, donde la salinidad castiga las conexiones. Nada de abrir cuadros ni tocar cableado por tu cuenta: para eso estamos.
 
@@ -106,7 +107,8 @@ Con la casa vacía, una batería se llena de día y apenas se gasta de noche, as
 
 Nuestro consejo habitual para segunda residencia: **empieza sin batería pero con un inversor preparado para añadirla**. Si tu uso cambia, la ampliación es sencilla. Lo explicamos con calma en [¿merece la pena la batería si ya tienes placas?](https://cuprico.com/blog/merece-la-pena-bateria-solar-si-ya-tienes-placas/).
 
-![](/u/fotovoltaica-blog/inversor-hibrido-bateria-chalet-segunda-residencia.webm "Inversor híbrido con batería instalado en el garaje de un chalet")
+<!-- gallery-simple -->
+![](/u/fotovoltaica-blog/inversor-hibrido-bateria-chalet-segunda-residencia.webm "	Inversor híbrido con batería instalado en el garaje de un chalet ")
 
 ## ¿Y si pasas a vivir aquí todo el año?
 
@@ -116,6 +118,7 @@ Es exactamente lo que hicimos con un propietario de Pinar de Campoverde que pas�
 
 Un detalle más: si pasas a ser residente fiscal en España, cambian también las ayudas a las que puedes optar. Por ejemplo, la deducción del IRPF por instalaciones de autoconsumo en vivienda se ha ampliado un año más con el [Real Decreto-ley 7/2026](https://www.boe.es/eli/es/rdl/2026/03/20/7), pero exige tributar en España y cumplir requisitos concretos. Lo veremos en detalle en un próximo artículo sobre ayudas; mientras tanto, consulta tu caso con tu asesor fiscal.
 
+<!-- gallery-simple -->
 ![](/u/fotovoltaica-blog/pergola-solar-terraza-pinar-de-campoverde.webm "Pérgola solar en la terraza de un chalet en Pinar de Campoverde")
 
 ## Preguntas frecuentes
