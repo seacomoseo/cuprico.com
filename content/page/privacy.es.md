@@ -24,10 +24,10 @@ Muchas gracias por su colaboración.
 
 ## ¿Quiénes somos?
 
-- Nuestra denominación: INSTALACIONES ELÉCTRICAS TORNERO Y LORENTE S.L.
+- Nuestra denominación: CÚPRICO INSTALACIONES ELÉCTRICAS S.L.U.
 - Nuestro CIF / NIF: B21972351
 - Nuestra actividad principal: Electricidad
-- Nuestra dirección: C/Jara Carrillo, 11, 30740 - San Pedro del Pinatar (Murcia)
+- Nuestra dirección: Calle Río Guadalquivir, 18, 30740 San Pedro del Pinatar, Murcia
 - Nuestro teléfono de contacto: 641 479 490
 - Nuestra dirección de correo electrónico de contacto: administracion@cuprico.com
 - Nuestra página web: https://cuprico.com/

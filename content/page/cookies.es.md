@@ -8,7 +8,7 @@ type: system
 weight: 3
 ---
 
-Bienvenida/o a la **POLÍTICA DE COOKIES** de la página web de la entidad INSTALACIONES ELÉCTRICAS TORNERO Y LORENTE S.L., provista de NIF B21972351, donde te explicaremos en un lenguaje claro y sencillo todas las cuestiones necesarias para que puedas tener el control sobre ellas en base a tus decisiones personales.
+Bienvenida/o a la **POLÍTICA DE COOKIES** de la página web de la entidad CÚPRICO INSTALACIONES ELÉCTRICAS S.L.U., provista de NIF B21972351, donde te explicaremos en un lenguaje claro y sencillo todas las cuestiones necesarias para que puedas tener el control sobre ellas en base a tus decisiones personales.
 
 ## ¿Qué son las cookies y para qué las usamos?
 

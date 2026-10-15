@@ -8,7 +8,7 @@ type: system
 weight: 3
 ---
 
-Welcome to the **COOKIE POLICY** of the website of the entity INSTALACIONES ELÉCTRICAS TORNERO Y LORENTE S.L., holder of NIF B21972351, where we will explain in clear and simple language all the necessary details so that you can have control over them based on your personal decisions.
+Welcome to the **COOKIE POLICY** of the website of the entity CÚPRICO INSTALACIONES ELÉCTRICAS S.L.U., holder of NIF B21972351, where we will explain in clear and simple language all the necessary details so that you can have control over them based on your personal decisions.
 
 ## What are cookies and what do we use them for?
 

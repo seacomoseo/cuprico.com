@@ -24,10 +24,10 @@ Thank you very much for your cooperation.
 
 ## Who are we?
 
-- Our name: INSTALACIONES ELÉCTRICAS TORNERO Y LORENTE S.L.
+- Our name: CÚPRICO INSTALACIONES ELÉCTRICAS S.L.U.
 - Our CIF / NIF: B21972351
 - Our main activity: Electricity
-- Our address: C/Jara Carrillo, 11, 30740 - San Pedro del Pinatar (Murcia)
+- Our address: Calle Río Guadalquivir, 18, 30740 San Pedro del Pinatar, Murcia
 - Our contact phone number: 641 479 490
 - Our contact email address: administracion@cuprico.com
 - Our website: https://cuprico.com/

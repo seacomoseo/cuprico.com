@@ -11,9 +11,9 @@ weight: 7
 Informed People and Protected Data
 {.h2}
 
-The Management / Governing Body of **INSTALACIONES ELÉCTRICAS TORNERO Y LORENTE S.L.** (hereinafter, the data controller) assumes the highest responsibility and commitment to the establishment, implementation, and maintenance of this Data Protection Policy, ensuring the continuous improvement of the data controller with the aim of achieving excellence in compliance with Regulation (EU) 2016/679 of the European Parliament and of the Council of 27 April 2016 on the protection of natural persons with regard to the processing of personal data and on the free movement of such data, repealing Directive 95/46/EC (General Data Protection Regulation) (OJ L 119/1, 04-05-2016), and the Spanish regulations on personal data protection (Organic Law, specific sectoral legislation, and its implementing regulations).
+The Management / Governing Body of **CÚPRICO INSTALACIONES ELÉCTRICAS S.L.U.** (hereinafter, the data controller) assumes the highest responsibility and commitment to the establishment, implementation, and maintenance of this Data Protection Policy, ensuring the continuous improvement of the data controller with the aim of achieving excellence in compliance with Regulation (EU) 2016/679 of the European Parliament and of the Council of 27 April 2016 on the protection of natural persons with regard to the processing of personal data and on the free movement of such data, repealing Directive 95/46/EC (General Data Protection Regulation) (OJ L 119/1, 04-05-2016), and the Spanish regulations on personal data protection (Organic Law, specific sectoral legislation, and its implementing regulations).
 
-The Data Protection Policy of **INSTALACIONES ELÉCTRICAS TORNERO Y LORENTE S.L.** is based on the principle of proactive responsibility, whereby the data controller is responsible for compliance with the regulatory and jurisprudential framework governing this Policy and is able to demonstrate it to the competent supervisory authorities.
+The Data Protection Policy of **CÚPRICO INSTALACIONES ELÉCTRICAS S.L.U.** is based on the principle of proactive responsibility, whereby the data controller is responsible for compliance with the regulatory and jurisprudential framework governing this Policy and is able to demonstrate it to the competent supervisory authorities.
 
 In this regard, the data controller will be governed by the following principles, which must serve as a guide and reference framework for all its staff in the processing of personal data:
 
@@ -28,8 +28,8 @@ In this regard, the data controller will be governed by the following principles
 - **Integrity and confidentiality**: personal data will be processed in a manner that ensures appropriate security of the personal data, including protection against unauthorized or unlawful processing and against accidental loss, destruction, or damage, by using appropriate technical or organizational measures.
 - **Information and training**: one of the keys to ensuring the protection of personal data is the training and information provided to the staff involved in their processing. Throughout the information lifecycle, all staff with access to the data will be properly trained and informed about their obligations regarding compliance with data protection regulations.
 
-The Data Protection Policy of **INSTALACIONES ELÉCTRICAS TORNERO Y LORENTE S.L.** is communicated to all staff of the data controller and made available to all interested parties.
+The Data Protection Policy of **CÚPRICO INSTALACIONES ELÉCTRICAS S.L.U.** is communicated to all staff of the data controller and made available to all interested parties.
 
 As a result, this Data Protection Policy involves all staff of the data controller, who must be aware of it and take ownership of it, considering it as their own, with each member being responsible for applying it and verifying the data protection rules applicable to their activity, as well as identifying and contributing improvement opportunities they consider appropriate in order to achieve excellence in compliance.
 
-This Policy will be reviewed by the Management / Governing Body of **INSTALACIONES ELÉCTRICAS TORNERO Y LORENTE S.L.** as often as deemed necessary to adapt it, at all times, to the provisions in force regarding personal data protection.
+This Policy will be reviewed by the Management / Governing Body of **CÚPRICO INSTALACIONES ELÉCTRICAS S.L.U.** as often as deemed necessary to adapt it, at all times, to the provisions in force regarding personal data protection.

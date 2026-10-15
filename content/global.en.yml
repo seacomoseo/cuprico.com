@@ -33,6 +33,9 @@ menu:
     label: Contact
     icon: send
     btn: cta
+  - url: /en/blog/
+    label: Blog
+    icon: rss
 
 
 callnows:
@@ -466,8 +469,8 @@ contact:
   consent: |
     I consent to the use of my data for the purposes indicated in the [privacy policy](/en/privacy/ "[nofollow blank]") and to receive advertising from your entity.
 
-    - **Data controller:** INSTALACIONES ELÉCTRICAS TORNERO Y LORENTE S.L.
-    - **Address of the data controller:** C/Jara Carrillo, 11, 30740 - San Pedro del Pinatar (Murcia)
+    - **Data controller:** CÚPRICO INSTALACIONES ELÉCTRICAS S.L.U.
+    - **Address of the data controller:** Calle Río Guadalquivir, 18, 30740 San Pedro del Pinatar, Murcia
     - **Purpose:** Your data will be used to respond to your requests and provide you with our services.
     - **Information of interest:** We will only send you communications of interest to you with your prior authorization, which you can provide us by checking the corresponding box provided for this purpose.
     - **Legitimacy:** We will only process your data with your prior consent, which you can provide us by checking the corresponding box provided for this purpose.
