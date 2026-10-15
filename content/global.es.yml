@@ -127,7 +127,7 @@ services:
     img: /u/servicios/boletin-electrico-certificaciones.jpg
     icon: task
     md: |
-      Emitimos su CIE en {{ get location }}.
+      Emitimos su CIE en {{% get location %}}.
 
       Entrega en 24 h - 14 d (según inspección).
 
@@ -190,13 +190,13 @@ services:
       - Cableado de Red
       - Puntos de Acceso
       - Fibra Óptica
-      - En {{ get location }}
+      - En {{% get location %}}
 
   solar_plates:
     title: Servicios
     sub: Paneles Solares
     md: |
-      Pásese al **autoconsumo solar en {{ get location }}** con nuestros instaladores de placas solares fotovoltaicas certificados.
+      Pásese al **autoconsumo solar en {{% get location %}}** con nuestros instaladores de placas solares fotovoltaicas certificados.
 
       - Estudio de producción, orientación y sombras con software PV-Sol.
       - Gestión de subvenciones y compensación de excedentes (RD 244/2019).
@@ -213,7 +213,7 @@ services:
     title: Servicios
     sub: Venta e Instalación
     md: |
-      Especialistas en **instalación de puntos de recarga para vehículos eléctricos** en viviendas unifamiliares, garajes comunitarios y negocios de {{ get location }}.
+      Especialistas en **instalación de puntos de recarga para vehículos eléctricos** en viviendas unifamiliares, garajes comunitarios y negocios.
 
       - Wallbox, Circutor, V2C y Tesla Wall Connector certificados IRVE.
       - Balanceo de carga dinámico y protecciones contra sobretensión.

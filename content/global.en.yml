@@ -116,7 +116,7 @@ services:
     img: /u/servicios/boletin-electrico-certificaciones.jpg
     icon: task
     md: |
-      We issue your CIE in {{ get location }}.
+      We issue your CIE in {{% get location %}}.
 
       Delivery in 24 h - 14 d (depending on inspection).
 
@@ -174,12 +174,12 @@ services:
       - Network Cabling
       - Access Points
       - Optical Fiber
-      - In {{ get location }}
+      - In {{% get location %}}
   solar_plates:
     title: Services
     sub: Solar Panels
     md: |
-      Switch to **solar self-consumption in {{ get location }}** with our certified photovoltaic solar panel installers.
+      Switch to **solar self-consumption in {{% get location %}}** with our certified photovoltaic solar panel installers.
 
       - Production, orientation and shadow study with PV-Sol software.
       - Subsidy management and surplus compensation (RD 244/2019).
@@ -195,7 +195,7 @@ services:
     title: Services
     sub: Sale and Installation
     md: |
-      Specialists in **installation of charging points for electric vehicles** in single-family homes, community garages and businesses in {{ get location }}.
+      Specialists in **installation of charging points for electric vehicles** in single-family homes, community garages and businesses.
 
       - Wallbox, Circutor, V2C and Tesla Wall Connector certified IRVE.
       - Dynamic load balancing and overvoltage protections.
