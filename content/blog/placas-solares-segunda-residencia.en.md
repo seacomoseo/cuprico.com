@@ -23,7 +23,6 @@ If you own a holiday home in Spain, a villa you only use part of the year (the s
 The short answer: **solar panels on a holiday home in Spain can pay their way**, but the system needs to be designed around how you actually use the property, not around a full-time household. Here's what matters, and what you should ask any installer before you sign.
 
 <!-- gallery-simple -->
-![](/u/fotovoltaica-blog/placas-solares-segunda-residencia-chalet-costa-calida.webm "Solar panels on the roof of a holiday villa on the Costa Cálida, Spain")
 
 ## Do solar panels make sense on a holiday home in Spain?
 
@@ -77,7 +76,6 @@ Modern inverters come with a **monitoring app**. From your phone, whether you're
 We set the app up in your name at commissioning and, if you wish, keep installer access so we can check things remotely. If something looks off, send us a WhatsApp and we'll look into it. No flights required.
 
 <!-- gallery-simple -->
-![](/u/fotovoltaica-blog/inversor-solar-monitorizacion-segunda-residencia.webm "Solar inverter and protection panel on a villa, monitored remotely via app")
 
 **Is it safe to leave it running in an empty house?** A properly installed system has DC and AC protection, and the inverter disconnects automatically if the grid goes down. What we do recommend is a **periodic inspection** by a qualified installer, especially near the coast where salt air is hard on connections. Please don't open the consumer unit or touch the wiring yourself: that's our job.
 
@@ -118,7 +116,6 @@ With the house empty, a battery charges by day and barely discharges at night, s
 Our usual advice for holiday homes: **start without a battery, but with a hybrid-ready inverter**. If your plans change, adding one is straightforward.
 
 <!-- gallery-simple -->
-![](/u/fotovoltaica-blog/inversor-solar-monitorizacion-segunda-residencia.webm "Hybrid inverter with battery storage installed in a villa garage")
 
 ## What if you end up living here full-time?
 
@@ -129,7 +126,6 @@ That's exactly what we did for an owner in Pinar de Campoverde who went from a f
 One more thing: becoming a Spanish tax resident also changes which incentives you can claim. For instance, the Spanish income-tax (IRPF) deduction for home self-consumption systems has been extended for another year by [Royal Decree-law 7/2026](https://www.boe.es/eli/es/rdl/2026/03/20/7), but it requires you to be taxed in Spain and to meet specific conditions. We'll cover grants and deductions in detail in an upcoming article; in the meantime, check with your tax adviser.
 
 <!-- gallery-simple -->
-![](/u/fotovoltaica-blog/pergola-solar-terraza-pinar-de-campoverde.webm "Solar pergola on a villa terrace in Pinar de Campoverde")
 
 ## Frequently asked questions
 
