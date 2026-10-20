@@ -1,7 +1,7 @@
 ---
 slug: ayudas-deducciones-placas-solares-2026
 title: 'Solar Grants and Tax Breaks in Spain 2026: What Villa Owners in Murcia and the Costa Blanca Can Still Claim'
-img: /u/portadas-blog/ayudas-deducciones-placas-solares-2026.svg
+img: /u/portadas-blog/ultimo-plazo-para-deduccion-solar.webp
 toc: true
 draft: false
 hide: false

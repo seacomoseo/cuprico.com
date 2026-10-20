@@ -1,7 +1,7 @@
 ---
 slug: ayudas-deducciones-placas-solares-2026
 title: 'Placas solares antes de fin de año: ayudas y deducciones de 2026 que aún puedes aprovechar en Murcia y la Vega Baja'
-img: /u/portadas-blog/ayudas-deducciones-placas-solares-2026.svg
+img: /u/portadas-blog/se-acaba-el-plazo_-villa-solar-junto-al-mar.webp
 toc: true
 draft: false
 hide: false
