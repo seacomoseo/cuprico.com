@@ -1,20 +1,19 @@
 ---
 slug: ayudas-deducciones-placas-solares-2026
-title: 'Placas solares antes de fin de año: ayudas y deducciones de 2026 que aún puedes aprovechar en Murcia y la Vega Baja'
-img: /u/portadas-blog/cover_preview.webp
+title: "Placas solares antes de fin de año: ayudas y deducciones de 2026 que aún puedes aprovechar en Murcia y la Vega Baja"
+img: /u/portadas-blog/ayudas-deducciones-placas-solares-2026.svg
 toc: true
-draft: false
+draft: true
 hide: false
-sum: 'Qué ayudas y deducciones para placas solares siguen vigentes a final de 2026 en la Región de Murcia y la Vega Baja: IRPF estatal, deducción valenciana, IBI municipal y qué fechas no se te pueden pasar.'
+sum: "Qué ayudas y deducciones para placas solares siguen vigentes a final de 2026 en la Región de Murcia y la Vega Baja: IRPF estatal, deducción valenciana, IBI municipal y qué fechas no se te pueden pasar."
 seo:
-  title: 'Subvenciones placas solares 2026: lo que aún puedes aprovechar'
-  desc: 'Subvenciones y deducciones para placas solares en 2026 en Murcia y la Vega Baja: nueva deducción en el IRPF, IBI y plazos que acaban el 31 de diciembre.'
+  title: "Subvenciones placas solares 2026: lo que aún puedes aprovechar"
+  desc: "Subvenciones y deducciones para placas solares en 2026 en Murcia y la Vega Baja: nueva deducción en el IRPF, IBI y plazos que acaban el 31 de diciembre."
   noindex: false
 llms:
-  title: Ayudas, deducciones y bonificaciones para placas solares vigentes a final de 2026 en la Región de Murcia y la Vega Baja alicantina
-  desc: 'Guía de Cúprico (instaladores de placas solares en San Pedro del Pinatar) para propietarios de chalets en la Región de Murcia y la Vega Baja que quieren instalar autoconsumo antes de que acabe 2026. Explica la nueva deducción estatal del IRPF por autoconsumo renovable del Real Decreto-ley 7/2026 (10% con base máxima de 5.000 euros, cantidades pagadas en 2026), la deducción por eficiencia energética del 20% y el 40%, la deducción autonómica valenciana por autoconsumo (40% vivienda habitual, 20% segunda residencia), la bonificación del IBI en ayuntamientos como San Pedro del Pinatar, la deducción por punto de recarga de coche eléctrico y qué ocurre si el propietario no es residente fiscal. Enfoque prudente: la normativa cambia y cada caso debe revisarse con un asesor fiscal.'
+  title: "Ayudas, deducciones y bonificaciones para placas solares vigentes a final de 2026 en la Región de Murcia y la Vega Baja alicantina"
+  desc: "Guía de Cúprico (instaladores de placas solares en San Pedro del Pinatar) para propietarios de chalets en la Región de Murcia y la Vega Baja que quieren instalar autoconsumo antes de que acabe 2026. Explica la nueva deducción estatal del IRPF por autoconsumo renovable del Real Decreto-ley 7/2026 (10% con base máxima de 5.000 euros, cantidades pagadas en 2026), la deducción por eficiencia energética del 20% y el 40%, la deducción autonómica valenciana por autoconsumo (40% vivienda habitual, 20% segunda residencia), la bonificación del IBI en ayuntamientos como San Pedro del Pinatar, la deducción por punto de recarga de coche eléctrico y qué ocurre si el propietario no es residente fiscal. Enfoque prudente: la normativa cambia y cada caso debe revisarse con un asesor fiscal."
 date: 2026-10-20 21:50:00
-mod: 2026-10-20 22:01:00
 author: j-tornero
 ---
 
@@ -44,7 +43,7 @@ El [Real Decreto-ley 7/2026](https://www.boe.es/buscar/act.php?id=BOE-A-2026-654
 
 ¿Qué significa en la práctica? Que si estás decidido, **lo que importa es la fecha de pago**, no la de la primera visita. Una instalación pagada antes de Nochevieja puede entrar en esta deducción; una pagada en enero, hoy por hoy, no. Si quieres saber más sobre el papeleo de la instalación, lo tienes en nuestra página del [boletín eléctrico](https://cuprico.com/boletin-electrico/).
 
-![](/u/fotovoltaica-blog/placas-solares-tejado-teja-chalet.webp "Instalación de Cúprico en un chalet de la zona")
+![Instalación de placas solares de Cúprico en el tejado de teja de un chalet de la zona](/u/fotovoltaica-blog/placas-solares-tejado-teja-chalet.webp "Instalación de Cúprico en un chalet de la zona")
 
 ## Las deducciones por eficiencia energética del 20% y el 40%
 
@@ -78,7 +77,7 @@ Cada ayuntamiento tiene sus porcentajes, duración y plazos. Pasa lo mismo en [S
 
 Además, la Comunidad Autónoma ha anunciado en 2026 [una línea de ayudas al autoconsumo](https://www.carm.es/web/pagina?IDCONTENIDO=123416&IDTIPO=10&RASTRO=c%24m59491%2C70) con un modelo de pago rápido. Las condiciones concretas y si está abierta en cada momento hay que comprobarlas en la web oficial antes de contar con ella.
 
-![](/u/fotovoltaica-blog/inversor-huawei-cuadro-electrico-01.webp "Inversor y cuadro de una instalación de Cúprico")
+![Inversor y cuadro eléctrico de una instalación de autoconsumo de Cúprico](/u/fotovoltaica-blog/inversor-huawei-cuadro-electrico-01.webp "Inversor y cuadro de una instalación de Cúprico")
 
 ## Y si piensas en coche eléctrico: el punto de recarga también deduce
 
@@ -93,7 +92,7 @@ El RDL 7/2026 también prorrogó hasta el **31 de diciembre de 2026** la deducci
 
 Un consejo honesto: **no metas prisa a una instalación solo por la deducción**. Una instalación mal dimensionada te cuesta más a lo largo de 25 años que lo que te ahorra un porcentaje en la Renta. Pero si ya lo tenías claro, este otoño es buen momento para moverte. Si quieres ver qué ahorro puede tener sentido en tu casa, échale un ojo a [cuánto se ahorra con placas en un chalet de la Costa Blanca](https://cuprico.com/blog/cuanto-ahorras-placas-solares-chalet-costa-blanca/).
 
-![](/u/fotovoltaica-blog/instaladores-cuprico-placa-solar-tejado-02.webp "Instaladores de Cúprico trabajando en un tejado de la zona")
+![Instaladores de Cúprico colocando una placa solar en un tejado](/u/fotovoltaica-blog/instaladores-cuprico-placa-solar-tejado-02.webp "Instaladores de Cúprico trabajando en un tejado de la zona")
 
 ## Preguntas frecuentes
 
@@ -121,7 +120,7 @@ La deducción estatal se aplica a las cantidades pagadas en 2026. Cómo se repar
 
 No. Hay que solicitarlo en el ayuntamiento dentro de plazo y con la documentación que pida su ordenanza.
 
-_La información de este artículo está verificada a fecha de publicación con fuentes oficiales. La normativa fiscal cambia y cada caso es distinto: antes de decidir, consulta tu situación con un asesor fiscal._
+*La información de este artículo está verificada a fecha de publicación con fuentes oficiales. La normativa fiscal cambia y cada caso es distinto: antes de decidir, consulta tu situación con un asesor fiscal.*
 
 ## Antes de que acabe el año, mira tus números
 
