@@ -57,7 +57,7 @@ Tax residence is a matter for your tax adviser, not for us, and it depends on mo
 
 In practice, **the payment date is what matters**. A system paid for before New Year's Eve may qualify; one paid in January, under current rules, would not. Our [electrical certificates page](https://cuprico.com/en/certificates-electrical-installation/) explains the paperwork we handle for you.
 
-![Cúprico solar installation on the tiled roof of a villa in the area](/u/fotovoltaica-blog/placas-solares-tejado-teja-chalet.webp "A Cúprico installation on a villa in the area")
+![](/u/fotovoltaica-blog/placas-solares-tejado-teja-chalet.webp "Cúprico solar panel installation on the tiled roof of a villa in the area")
 
 ## Energy efficiency deductions (20% and 40%)
 
@@ -83,7 +83,7 @@ Each town sets its own percentage, duration and deadline, so check the current b
 
 The Region of Murcia has also announced [a regional self-consumption aid scheme](https://www.carm.es/web/pagina?IDCONTENIDO=123416&IDTIPO=10&RASTRO=c%24m59491%2C70) for 2026. Its exact conditions, and whether it is open at any given time, should be checked on the official website.
 
-![Inverter and electrical panel of a Cúprico self-consumption installation](/u/fotovoltaica-blog/inversor-huawei-cuadro-electrico-01.webp "Inverter and panel of a Cúprico installation")
+![](/u/fotovoltaica-blog/inversor-huawei-cuadro-electrico-01.webp "Inverter and electrical panel of a Cúprico self-consumption installation")
 
 ## Thinking about an electric car?
 
@@ -98,7 +98,7 @@ The decree also extended to **31 December 2026** the **15%** deduction for insta
 
 One honest word of advice: **do not rush an installation just for a tax break**. A poorly sized system costs you more over 25 years than any deduction saves. But if you had already decided, this autumn is a sensible time to move. For what a well-designed system can realistically save, read [how much a villa on the Costa Blanca can save with solar](https://cuprico.com/en/blog/cuanto-ahorras-placas-solares-chalet-costa-blanca/).
 
-![Cúprico installers fitting a solar panel on a roof](/u/fotovoltaica-blog/instaladores-cuprico-placa-solar-tejado-02.webp "Cúprico installers at work on a roof in the area")
+![](/u/fotovoltaica-blog/instaladores-cuprico-placa-solar-tejado-02.webp "Cúprico installers fitting a solar panel on a roof in the area")
 
 ## Frequently asked questions
 

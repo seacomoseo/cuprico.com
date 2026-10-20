@@ -43,7 +43,7 @@ El [Real Decreto-ley 7/2026](https://www.boe.es/buscar/act.php?id=BOE-A-2026-654
 
 ¿Qué significa en la práctica? Que si estás decidido, **lo que importa es la fecha de pago**, no la de la primera visita. Una instalación pagada antes de Nochevieja puede entrar en esta deducción; una pagada en enero, hoy por hoy, no. Si quieres saber más sobre el papeleo de la instalación, lo tienes en nuestra página del [boletín eléctrico](https://cuprico.com/boletin-electrico/).
 
-![Instalación de placas solares de Cúprico en el tejado de teja de un chalet de la zona](/u/fotovoltaica-blog/placas-solares-tejado-teja-chalet.webp "Instalación de Cúprico en un chalet de la zona")
+![](/u/fotovoltaica-blog/placas-solares-tejado-teja-chalet.webp "Instalación de placas solares de Cúprico en el tejado de teja de un chalet de la zona")
 
 ## Las deducciones por eficiencia energética del 20% y el 40%
 
@@ -77,7 +77,7 @@ Cada ayuntamiento tiene sus porcentajes, duración y plazos. Pasa lo mismo en [S
 
 Además, la Comunidad Autónoma ha anunciado en 2026 [una línea de ayudas al autoconsumo](https://www.carm.es/web/pagina?IDCONTENIDO=123416&IDTIPO=10&RASTRO=c%24m59491%2C70) con un modelo de pago rápido. Las condiciones concretas y si está abierta en cada momento hay que comprobarlas en la web oficial antes de contar con ella.
 
-![Inversor y cuadro eléctrico de una instalación de autoconsumo de Cúprico](/u/fotovoltaica-blog/inversor-huawei-cuadro-electrico-01.webp "Inversor y cuadro de una instalación de Cúprico")
+![](/u/fotovoltaica-blog/inversor-huawei-cuadro-electrico-01.webp "Inversor y cuadro eléctrico de una instalación de autoconsumo de Cúprico")
 
 ## Y si piensas en coche eléctrico: el punto de recarga también deduce
 
@@ -92,7 +92,7 @@ El RDL 7/2026 también prorrogó hasta el **31 de diciembre de 2026** la deducci
 
 Un consejo honesto: **no metas prisa a una instalación solo por la deducción**. Una instalación mal dimensionada te cuesta más a lo largo de 25 años que lo que te ahorra un porcentaje en la Renta. Pero si ya lo tenías claro, este otoño es buen momento para moverte. Si quieres ver qué ahorro puede tener sentido en tu casa, échale un ojo a [cuánto se ahorra con placas en un chalet de la Costa Blanca](https://cuprico.com/blog/cuanto-ahorras-placas-solares-chalet-costa-blanca/).
 
-![Instaladores de Cúprico colocando una placa solar en un tejado](/u/fotovoltaica-blog/instaladores-cuprico-placa-solar-tejado-02.webp "Instaladores de Cúprico trabajando en un tejado de la zona")
+![](/u/fotovoltaica-blog/instaladores-cuprico-placa-solar-tejado-02.webp "Instaladores de Cúprico colocando una placa solar en un tejado de la zona")
 
 ## Preguntas frecuentes
 
