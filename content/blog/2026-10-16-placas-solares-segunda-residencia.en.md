@@ -3,17 +3,18 @@ slug: placas-solares-segunda-residencia
 title: "Solar Panels on a Holiday Home in Spain: What Happens While You're Away?"
 img: /u/fotovoltaica-blog/placas-solares-tejado-teja-buganvilla.webp
 toc: true
-draft: true
+draft: false
 hide: false
-sum: "Own a villa in Murcia or the southern Costa Blanca that sits empty for months? What happens to the solar energy you don't use, how to keep an eye on it from home, and when a battery makes sense."
+sum: Own a villa in Murcia or the southern Costa Blanca that sits empty for months? What happens to the solar energy you don't use, how to keep an eye on it from home, and when a battery makes sense.
 seo:
-  title: "Solar Panels on a Holiday Home in Spain: A Guide for Owners"
-  desc: "Solar panels on your holiday home in Spain while you live abroad: what happens to unused energy, remote monitoring, safety, and whether a battery pays off."
+  title: 'Solar Panels on a Holiday Home in Spain: A Guide for Owners'
+  desc: 'Solar panels on your holiday home in Spain while you live abroad: what happens to unused energy, remote monitoring, safety, and whether a battery pays off.'
   noindex: false
 llms:
-  title: "Solar panels on a holiday home in Spain for owners who live abroad (Murcia and southern Costa Blanca)"
-  desc: "Guide by Cúprico, solar installers based in San Pedro del Pinatar, for foreign and Spanish owners of second homes and holiday villas in the Region of Murcia and the Vega Baja (southern Costa Blanca) who only spend part of the year in Spain. Covers what an empty house still consumes, how surplus energy is credited under Spain's simplified net-billing scheme (Royal Decree 244/2019), how to size a system to the owner's calendar, remote monitoring from abroad, safety and maintenance near the coast, which loads to schedule during sunshine hours, when a battery is worth it, and what changes if the owner moves to Spain full time. Cautious tone, no fixed savings figures."
+  title: Solar panels on a holiday home in Spain for owners who live abroad (Murcia and southern Costa Blanca)
+  desc: Guide by Cúprico, solar installers based in San Pedro del Pinatar, for foreign and Spanish owners of second homes and holiday villas in the Region of Murcia and the Vega Baja (southern Costa Blanca) who only spend part of the year in Spain. Covers what an empty house still consumes, how surplus energy is credited under Spain's simplified net-billing scheme (Royal Decree 244/2019), how to size a system to the owner's calendar, remote monitoring from abroad, safety and maintenance near the coast, which loads to schedule during sunshine hours, when a battery is worth it, and what changes if the owner moves to Spain full time. Cautious tone, no fixed savings figures.
 date: 2026-10-16 18:00:00
+mod: 2026-10-20 21:40:00
 author: j-tornero
 ---
 
@@ -34,11 +35,11 @@ Much of that consumption happens during the day, exactly when the panels are pro
 
 What we won't give you is a fixed savings figure before seeing your bills. Depending on your consumption, your tariff and your calendar, savings can range from modest to very worthwhile.
 
-![Solar panels on the tiled roof of a coastal villa with bougainvillea](/u/fotovoltaica-blog/placas-solares-tejado-teja-buganvilla.webp "A Cúprico installation on a villa in the area")
+![](/u/fotovoltaica-blog/placas-solares-tejado-teja-buganvilla.webp "A Cúprico installation on a villa in the area")
 
 ## "What happens to the energy I produce when I'm not there?"
 
-This is the key question for any holiday-home owner. Whatever the house doesn't use at that moment is exported to the grid. Most homes in Spain use what is called **simplified surplus compensation** (*compensación simplificada*), set out in article 14 of [Royal Decree 244/2019](https://www.boe.es/buscar/act.php?id=BOE-A-2019-5089). In plain terms:
+This is the key question for any holiday-home owner. Whatever the house doesn't use at that moment is exported to the grid. Most homes in Spain use what is called **simplified surplus compensation** (_compensación simplificada_), set out in article 14 of [Royal Decree 244/2019](https://www.boe.es/buscar/act.php?id=BOE-A-2019-5089). In plain terms:
 
 - Your electricity supplier credits the energy you export against your bill, usually at a lower price than you pay for the energy you buy.
 - The balance is calculated per billing period, which **cannot be longer than one month**.
@@ -77,7 +78,7 @@ Yes. Modern inverters come with a **monitoring app**, so from your phone, wherev
 
 At commissioning we set the app up in your name and, if you wish, keep installer access so we can check the system remotely. If something doesn't look right, you let us know and we look into it. You don't need to book a flight for it.
 
-![Solar inverter and protection panel on the wall of a villa, monitored remotely](/u/fotovoltaica-blog/inversor-huawei-cuadro-protecciones-pared-01.webp "Inverter and protection devices on a Cúprico installation")
+![](/u/fotovoltaica-blog/inversor-huawei-cuadro-protecciones-pared-01.webp "Inverter and protection devices on a Cúprico installation")
 
 ## "Is it safe to leave it running in an empty house?"
 
@@ -110,7 +111,7 @@ With the house empty, a battery fills up during the day and is barely used at ni
 
 Our usual advice for holiday homes: **start with a battery-ready inverter**, even if you don't fit a battery on day one. If the way you use the house changes, adding one is straightforward. We cover this in more detail in [is a home battery worth it if you already have solar panels?](https://cuprico.com/en/blog/merece-la-pena-bateria-solar-si-ya-tienes-placas/)
 
-![Hybrid inverter with battery installed in a villa](/u/fotovoltaica-blog/inversor-deye-bateria-pylontech-us5000.webp "Hybrid inverter and battery on a Cúprico installation")
+![](/u/fotovoltaica-blog/inversor-deye-bateria-pylontech-us5000.webp "Hybrid inverter and battery on a Cúprico installation")
 
 ## What if you end up moving to Spain full time?
 

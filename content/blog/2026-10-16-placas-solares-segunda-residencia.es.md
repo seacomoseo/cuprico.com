@@ -1,19 +1,20 @@
 ---
 slug: placas-solares-segunda-residencia
-title: "¿Tu chalet de la costa pasa meses cerrado? Así rinden las placas solares en una segunda residencia"
+title: ¿Tu chalet de la costa pasa meses cerrado? Así rinden las placas solares en una segunda residencia
 img: /u/fotovoltaica-blog/placas-solares-tejado-teja-buganvilla.webp
 toc: true
-draft: true
+draft: false
 hide: false
-sum: "Placas solares en una segunda residencia de Murcia o la Vega Baja: qué pasa con lo que producen cuando no estás, cómo vigilarlas desde tu país y cuándo tiene sentido la batería."
+sum: 'Placas solares en una segunda residencia de Murcia o la Vega Baja: qué pasa con lo que producen cuando no estás, cómo vigilarlas desde tu país y cuándo tiene sentido la batería.'
 seo:
-  title: "Placas solares en segunda residencia: cómo sacarles partido"
-  desc: "¿Placas solares en tu segunda residencia y solo vienes parte del año? Qué pasa con los excedentes, cómo vigilarlas a distancia y cuándo compensa la batería."
+  title: 'Placas solares en segunda residencia: cómo sacarles partido'
+  desc: ¿Placas solares en tu segunda residencia y solo vienes parte del año? Qué pasa con los excedentes, cómo vigilarlas a distancia y cuándo compensa la batería.
   noindex: false
 llms:
-  title: "Placas solares en una segunda residencia en la Región de Murcia y la Vega Baja: excedentes, monitorización y batería"
-  desc: "Guía de Cúprico (instaladores de placas solares en San Pedro del Pinatar) para propietarios de chalets de segunda residencia en la Región de Murcia y la Vega Baja alicantina que no viven todo el año en la casa. Explica qué consume una casa cerrada, qué pasa con los excedentes según la compensación simplificada del RD 244/2019, cómo dimensionar la instalación según el calendario de uso, cómo monitorizarla desde otro país, qué consumos conviene programar en horas de sol, cuándo compensa una batería y qué cambia si el propietario pasa a vivir todo el año. Enfoque prudente, sin cifras de ahorro cerradas."
+  title: 'Placas solares en una segunda residencia en la Región de Murcia y la Vega Baja: excedentes, monitorización y batería'
+  desc: Guía de Cúprico (instaladores de placas solares en San Pedro del Pinatar) para propietarios de chalets de segunda residencia en la Región de Murcia y la Vega Baja alicantina que no viven todo el año en la casa. Explica qué consume una casa cerrada, qué pasa con los excedentes según la compensación simplificada del RD 244/2019, cómo dimensionar la instalación según el calendario de uso, cómo monitorizarla desde otro país, qué consumos conviene programar en horas de sol, cuándo compensa una batería y qué cambia si el propietario pasa a vivir todo el año. Enfoque prudente, sin cifras de ahorro cerradas.
 date: 2026-10-16 18:00:00
+mod: 2026-10-20 21:40:00
 author: j-tornero
 ---
 
@@ -34,7 +35,7 @@ Buena parte de ese consumo ocurre de día, justo cuando las placas producen. Ese
 
 Lo que no te vamos a dar es una cifra cerrada sin ver tus facturas. Según tu consumo, tu tarifa y tu calendario, el ahorro puede ir de discreto a muy interesante.
 
-![Placas solares en el tejado de teja de un chalet de la costa con buganvilla](/u/fotovoltaica-blog/placas-solares-tejado-teja-buganvilla.webp "Instalación de Cúprico en un chalet de la zona")
+![](/u/fotovoltaica-blog/placas-solares-tejado-teja-buganvilla.webp "Instalación de Cúprico en un chalet de la zona")
 
 ## Duda 2: "¿Qué pasa con la energía que produzco cuando no estoy?"
 
@@ -77,7 +78,7 @@ Sí. Los inversores actuales traen **aplicación de monitorización**, y desde e
 
 En la puesta en marcha dejamos la aplicación configurada y a tu nombre, y si quieres, mantenemos acceso de instalador para revisarla a distancia. Si ves algo que no cuadra, nos avisas y lo miramos sin que tengas que coger un avión.
 
-![Inversor solar y cuadro de protecciones en la pared de un chalet, monitorizado a distancia](/u/fotovoltaica-blog/inversor-huawei-cuadro-protecciones-pared-01.webp "Inversor y protecciones de una instalación de Cúprico")
+![](/u/fotovoltaica-blog/inversor-huawei-cuadro-protecciones-pared-01.webp "Inversor y protecciones de una instalación de Cúprico")
 
 ## Duda 5: "¿Es seguro dejarlo funcionando con la casa vacía?"
 
@@ -106,7 +107,7 @@ Con la casa vacía, la batería se llena de día y apenas se gasta de noche, as�
 
 Nuestro consejo habitual para segunda residencia: **empieza con un inversor preparado para añadir batería**, aunque no la pongas el primer día. Si tu uso cambia, ampliar es sencillo. Lo explicamos con detalle en [¿merece la pena la batería si ya tienes placas?](https://cuprico.com/blog/merece-la-pena-bateria-solar-si-ya-tienes-placas/).
 
-![Inversor híbrido con batería instalado en un chalet](/u/fotovoltaica-blog/inversor-deye-bateria-pylontech-us5000.webp "Inversor híbrido y batería de una instalación de Cúprico")
+![](/u/fotovoltaica-blog/inversor-deye-bateria-pylontech-us5000.webp "Inversor híbrido y batería de una instalación de Cúprico")
 
 ## ¿Y si un día te vienes a vivir todo el año?
 
