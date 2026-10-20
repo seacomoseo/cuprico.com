@@ -1,17 +1,17 @@
 ---
 slug: ayudas-deducciones-placas-solares-2026
-title: "Solar Grants and Tax Breaks in Spain 2026: What Villa Owners in Murcia and the Costa Blanca Can Still Claim"
+title: 'Solar Grants and Tax Breaks in Spain 2026: What Villa Owners in Murcia and the Costa Blanca Can Still Claim'
 img: /u/portadas-blog/ayudas-deducciones-placas-solares-2026.svg
 toc: true
-draft: true
+draft: false
 hide: false
-sum: "Which solar grants and tax breaks are still available in late 2026 for villa owners in the Region of Murcia and the Vega Baja, including the Murcian and Valencian regional deductions, who can claim them, and what changes if you are not a Spanish tax resident."
+sum: Which solar grants and tax breaks are still available in late 2026 for villa owners in the Region of Murcia and the Vega Baja, including the Murcian and Valencian regional deductions, who can claim them, and what changes if you are not a Spanish tax resident.
 seo:
-  title: "Solar grants Spain 2026: what expats can still claim"
-  desc: "Solar grants and tax breaks in Spain 2026 for villa owners in Murcia and the Costa Blanca: new income tax relief, IBI discounts, and what applies to non-residents."
+  title: 'Solar grants Spain 2026: what expats can still claim'
+  desc: 'Solar grants and tax breaks in Spain 2026 for villa owners in Murcia and the Costa Blanca: new income tax relief, IBI discounts, and what applies to non-residents.'
   noindex: false
 llms:
-  title: "Solar panel grants, tax deductions and council tax discounts available in late 2026 for expat villa owners in the Region of Murcia and the Costa Blanca (Vega Baja)"
+  title: Solar panel grants, tax deductions and council tax discounts available in late 2026 for expat villa owners in the Region of Murcia and the Costa Blanca (Vega Baja)
   desc: "Guide by Cúprico (solar installers based in San Pedro del Pinatar, Murcia) for foreign and expat villa owners in the Region of Murcia and the Vega Baja area of Alicante. Explains the new Spanish income tax (IRPF) deduction for renewable self-consumption created by Royal Decree-law 7/2026 (10% of amounts paid in 2026, maximum base 5,000 euros), the 20% and 40% energy efficiency deductions, the Region of Murcia regional deduction for renewables (50% to 25% depending on income, maximum 7,000 euros, main home or rented home), the Valencian regional deduction (40% main home, 20% other homes), municipal IBI discounts such as San Pedro del Pinatar's, the national (15%) and Murcian (100% up to 4,000 euros) EV charger deductions, and why non-resident owners taxed under IRNR generally cannot use income tax deductions but can still apply for municipal discounts. Cautious approach: rules change and each case should be checked with a tax adviser."
 date: 2026-10-20 21:50:00
 author: j-tornero

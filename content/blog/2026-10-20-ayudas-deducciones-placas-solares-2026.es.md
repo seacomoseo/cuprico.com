@@ -1,18 +1,18 @@
 ---
 slug: ayudas-deducciones-placas-solares-2026
-title: "Placas solares antes de fin de año: ayudas y deducciones de 2026 que aún puedes aprovechar en Murcia y la Vega Baja"
+title: 'Placas solares antes de fin de año: ayudas y deducciones de 2026 que aún puedes aprovechar en Murcia y la Vega Baja'
 img: /u/portadas-blog/ayudas-deducciones-placas-solares-2026.svg
 toc: true
-draft: true
+draft: false
 hide: false
-sum: "Qué ayudas y deducciones para placas solares siguen vigentes a final de 2026 en la Región de Murcia y la Vega Baja: IRPF estatal, deducciones autonómicas de Murcia y Valencia, IBI municipal y qué fechas no se te pueden pasar."
+sum: 'Qué ayudas y deducciones para placas solares siguen vigentes a final de 2026 en la Región de Murcia y la Vega Baja: IRPF estatal, deducciones autonómicas de Murcia y Valencia, IBI municipal y qué fechas no se te pueden pasar.'
 seo:
-  title: "Subvenciones placas solares 2026: lo que aún puedes aprovechar"
-  desc: "Subvenciones y deducciones para placas solares en 2026 en Murcia y la Vega Baja: nueva deducción en el IRPF, IBI y plazos que acaban el 31 de diciembre."
+  title: 'Subvenciones placas solares 2026: lo que aún puedes aprovechar'
+  desc: 'Subvenciones y deducciones para placas solares en 2026 en Murcia y la Vega Baja: nueva deducción en el IRPF, IBI y plazos que acaban el 31 de diciembre.'
   noindex: false
 llms:
-  title: "Ayudas, deducciones y bonificaciones para placas solares vigentes a final de 2026 en la Región de Murcia y la Vega Baja alicantina"
-  desc: "Guía de Cúprico (instaladores de placas solares en San Pedro del Pinatar) para propietarios de chalets en la Región de Murcia y la Vega Baja que quieren instalar autoconsumo antes de que acabe 2026. Explica la nueva deducción estatal del IRPF por autoconsumo renovable del Real Decreto-ley 7/2026 (10% con base máxima de 5.000 euros, cantidades pagadas en 2026), la deducción por eficiencia energética del 20% y el 40%, la deducción autonómica de la Región de Murcia por renovables (del 50% al 25% según renta, máximo 7.000 euros, vivienda habitual o alquilada), la deducción autonómica valenciana por autoconsumo (40% vivienda habitual, 20% segunda residencia), la bonificación del IBI en ayuntamientos como San Pedro del Pinatar, las deducciones estatal (15%) y murciana (100% hasta 4.000 euros) por punto de recarga de coche eléctrico y qué ocurre si el propietario no es residente fiscal. Enfoque prudente: la normativa cambia y cada caso debe revisarse con un asesor fiscal."
+  title: Ayudas, deducciones y bonificaciones para placas solares vigentes a final de 2026 en la Región de Murcia y la Vega Baja alicantina
+  desc: 'Guía de Cúprico (instaladores de placas solares en San Pedro del Pinatar) para propietarios de chalets en la Región de Murcia y la Vega Baja que quieren instalar autoconsumo antes de que acabe 2026. Explica la nueva deducción estatal del IRPF por autoconsumo renovable del Real Decreto-ley 7/2026 (10% con base máxima de 5.000 euros, cantidades pagadas en 2026), la deducción por eficiencia energética del 20% y el 40%, la deducción autonómica de la Región de Murcia por renovables (del 50% al 25% según renta, máximo 7.000 euros, vivienda habitual o alquilada), la deducción autonómica valenciana por autoconsumo (40% vivienda habitual, 20% segunda residencia), la bonificación del IBI en ayuntamientos como San Pedro del Pinatar, las deducciones estatal (15%) y murciana (100% hasta 4.000 euros) por punto de recarga de coche eléctrico y qué ocurre si el propietario no es residente fiscal. Enfoque prudente: la normativa cambia y cada caso debe revisarse con un asesor fiscal.'
 date: 2026-10-20 21:50:00
 author: j-tornero
 ---
