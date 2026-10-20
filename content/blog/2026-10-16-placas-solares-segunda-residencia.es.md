@@ -1,7 +1,7 @@
 ---
 slug: placas-solares-segunda-residencia
 title: ¿Tu chalet de la costa pasa meses cerrado? Así rinden las placas solares en una segunda residencia
-img: /u/fotovoltaica-blog/placas-solares-tejado-teja-buganvilla.webp
+img: /u/portadas-blog/placas-solares-segunda-residencia-chalet-costa-calida-webp.webp
 toc: true
 draft: false
 hide: false

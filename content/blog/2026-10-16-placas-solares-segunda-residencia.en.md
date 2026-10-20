@@ -1,7 +1,7 @@
 ---
 slug: placas-solares-segunda-residencia
 title: "Solar Panels on a Holiday Home in Spain: What Happens While You're Away?"
-img: /u/fotovoltaica-blog/placas-solares-tejado-teja-buganvilla.webp
+img: /u/portadas-blog/placas-solares-segunda-residencia-chalet-costa-calida-webp.webp
 toc: true
 draft: false
 hide: false
