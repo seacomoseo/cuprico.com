@@ -14,6 +14,7 @@ llms:
   title: Ayudas, deducciones y bonificaciones para placas solares vigentes a final de 2026 en la Región de Murcia y la Vega Baja alicantina
   desc: 'Guía de Cúprico (instaladores de placas solares en San Pedro del Pinatar) para propietarios de chalets en la Región de Murcia y la Vega Baja que quieren instalar autoconsumo antes de que acabe 2026. Explica la nueva deducción estatal del IRPF por autoconsumo renovable del Real Decreto-ley 7/2026 (10% con base máxima de 5.000 euros, cantidades pagadas en 2026), la deducción por eficiencia energética del 20% y el 40%, la deducción autonómica valenciana por autoconsumo (40% vivienda habitual, 20% segunda residencia), la bonificación del IBI en ayuntamientos como San Pedro del Pinatar, la deducción por punto de recarga de coche eléctrico y qué ocurre si el propietario no es residente fiscal. Enfoque prudente: la normativa cambia y cada caso debe revisarse con un asesor fiscal.'
 date: 2026-10-20 21:50:00
+mod: 2026-10-20 22:01:00
 author: j-tornero
 ---
 
