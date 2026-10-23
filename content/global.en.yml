@@ -279,7 +279,7 @@ faq:
   - title: What certifications do your technicians have?
     md: All our installers are qualified in Low Voltage (specialist category) and issue the Electrical Installation Certificate (CIE) according to the current REBT.
   - title: Do you work outside business hours?
-    md: The hours are from 8:00 to 18:00 from Monday to Thursday and from 8:00 to 14:00 on Fridays, with exceptions for certain clients with businesses that need to be attended on a Saturday or Sunday due to a real emergency.
+    md: The hours are from 8:00 to 20:00 from Monday to Friday, with exceptions for certain clients with businesses that need to be attended on a Saturday or Sunday due to a real emergency.
   - title: How long does the work warranty last?
     md: For labor between 2 and 4 years. For materials according to manufacturers.
   - title: What documentation will I receive after the work?
@@ -515,8 +515,7 @@ team:
 contact:
   title: Contact
   sub: We respond quickly
-  days: Monday - Thursday
-  days_fri: Friday
+  days: Monday - Friday
   name: Name
   phone: Phone
   message: Message
