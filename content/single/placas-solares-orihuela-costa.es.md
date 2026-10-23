@@ -50,7 +50,7 @@ landing:
       Instalamos placas solares en chalets y villas de Orihuela Costa (La Zenia, Cabo Roig, Playa Flamenca, Campoamor, Villamartín y las urbanizaciones de golf), Torrevieja, Pilar de la Horadada y San Miguel de Salinas.
 
       - La obra se hace en **1 a 3 días**.
-      - Somos **instaladores verificados de Huawei FusionSolar**. Trabajamos con Huawei, Deye, GoodWe y JA Solar.
+      - Somos **instaladores verificados de Huawei FusionSolar**. Trabajamos con Huawei, Deye, GoodWe, JA Solar y Canadian Solar.
       - **Baterías**, sobre todo Huawei LUNA, también para ampliar una instalación que ya tengas.
       - Ves la producción desde el móvil, también cuando estás fuera de España.
       - Nos encargamos de la legalización y del certificado de instalación (CIE).

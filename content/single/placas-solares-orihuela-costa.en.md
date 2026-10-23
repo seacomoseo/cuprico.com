@@ -50,7 +50,7 @@ landing:
       We install solar panels on villas and houses in Orihuela Costa (La Zenia, Cabo Roig, Playa Flamenca, Campoamor, Villamartín and the golf resorts), Torrevieja, Pilar de la Horadada and San Miguel de Salinas.
 
       - The installation takes **1 to 3 days**.
-      - We're **verified Huawei FusionSolar installers**. We work with Huawei, Deye, GoodWe and JA Solar.
+      - We're **verified Huawei FusionSolar installers**. We work with Huawei, Deye, GoodWe, JA Solar and Canadian Solar.
       - **Batteries**, mainly Huawei LUNA, including adding one to the system you already have.
       - You can see what you're producing on your phone, even when you're away from Spain.
       - We handle the legal registration and the installation certificate (CIE).
