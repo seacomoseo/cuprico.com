@@ -1,0 +1,60 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900">
+  <defs>
+    <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#fde7d3"/><stop offset="1" stop-color="#fbd2b0"/>
+    </linearGradient>
+    <linearGradient id="panel" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#23365c"/><stop offset="1" stop-color="#16243f"/>
+    </linearGradient>
+  </defs>
+  <rect width="1600" height="900" fill="url(#sky)"/>
+  <!-- sun -->
+  <circle cx="1370" cy="170" r="150" fill="#ffd25a" opacity="0.25"/>
+  <circle cx="1370" cy="170" r="95" fill="#ffc93c"/>
+  <!-- distant hills -->
+  <path d="M0 640 Q300 560 620 620 T1200 600 T1600 590 V900 H0Z" fill="#f2b48a"/>
+  <path d="M700 680 Q1000 600 1300 650 T1600 640 V900 H700Z" fill="#e89a6b"/>
+  <!-- ground -->
+  <rect y="720" width="1600" height="180" fill="#d9844f"/>
+  <!-- palm -->
+  <rect x="1505" y="470" width="16" height="260" rx="8" fill="#9c5a32"/>
+  <g fill="#3f7d5a"><path d="M1513 470 q-90 -10 -130 50 q60 -30 130 -50z"/><path d="M1513 470 q90 -10 130 50 q-60 -30 -130 -50z"/><path d="M1513 470 q-50 -70 -120 -60 q70 15 120 60z"/><path d="M1513 470 q50 -70 120 -60 q-70 15 -120 60z"/></g>
+  <!-- villa body -->
+  <rect x="860" y="470" width="560" height="260" fill="#fbf3ea"/>
+  <rect x="860" y="470" width="560" height="18" fill="#efe0cf"/>
+  <!-- roof (tile) -->
+  <path d="M830 480 L1140 330 L1450 480 Z" fill="#c4632f"/>
+  <path d="M830 480 L1140 330 L1450 480" fill="none" stroke="#a24f22" stroke-width="10" stroke-linejoin="round"/>
+  <!-- panels on roof -->
+  <g transform="translate(1150,340) skewY(25.8)">
+    <g fill="url(#panel)" stroke="#8fb3e0" stroke-width="2">
+      <rect x="10" y="12" width="44" height="24"/><rect x="58" y="12" width="44" height="24"/><rect x="106" y="12" width="44" height="24"/>
+      <rect x="10" y="40" width="44" height="24"/><rect x="58" y="40" width="44" height="24"/><rect x="106" y="40" width="44" height="24"/>
+    </g>
+  </g>
+  <!-- windows & door -->
+  <g fill="#23365c"><rect x="910" y="540" width="90" height="90" rx="6"/><rect x="1270" y="540" width="100" height="90" rx="6"/></g>
+  <g stroke="#fbf3ea" stroke-width="5"><line x1="955" y1="540" x2="955" y2="630"/><line x1="1320" y1="540" x2="1320" y2="630"/></g>
+  <rect x="1100" y="560" width="80" height="170" rx="6" fill="#b86a3c"/>
+  <circle cx="1165" cy="650" r="6" fill="#ffc93c"/>
+  <!-- inverter / battery on wall -->
+  <rect x="1030" y="560" width="46" height="66" rx="6" fill="#ffffff" stroke="#c97a4a" stroke-width="3"/>
+  <rect x="1040" y="574" width="26" height="10" rx="2" fill="#5cc28a"/>
+  <rect x="1030" y="636" width="46" height="70" rx="6" fill="#e9ecf2" stroke="#9aa6bd" stroke-width="3"/>
+  <!-- path with steps (visit -> encendido) -->
+  <path d="M640 860 C760 820 820 800 900 790 S1080 770 1140 740" fill="none" stroke="#f47440" stroke-width="8" stroke-dasharray="4 22" stroke-linecap="round"/>
+  <g>
+    <circle cx="660" cy="853" r="22" fill="#f47440"/><circle cx="845" cy="800" r="22" fill="#f47440"/><circle cx="1010" cy="778" r="22" fill="#f47440"/>
+    <g fill="#fff"><circle cx="660" cy="853" r="8"/><circle cx="845" cy="800" r="8"/><circle cx="1010" cy="778" r="8"/></g>
+  </g>
+  <!-- key -->
+  <g transform="translate(1180,735) rotate(-20)">
+    <circle cx="0" cy="0" r="38" fill="none" stroke="#b87333" stroke-width="16"/>
+    <rect x="34" y="-8" width="120" height="16" rx="6" fill="#b87333"/>
+    <rect x="118" y="6" width="14" height="26" rx="3" fill="#b87333"/><rect x="142" y="6" width="12" height="18" rx="3" fill="#b87333"/>
+  </g>
+  <!-- sun rays to panels -->
+  <g stroke="#ffc93c" stroke-width="6" stroke-linecap="round" opacity="0.8">
+    <line x1="1290" y1="240" x2="1260" y2="300"/><line x1="1320" y1="265" x2="1300" y2="320"/>
+  </g>
+</svg>
