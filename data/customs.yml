@@ -178,3 +178,30 @@
   - var: hanchor
   - var: sub
   - var: md
+- types:
+  - single
+  pages:
+  - placas-solares-orihuela-costa
+  name: landing
+  label: Landing anuncio
+  widget: dict
+  sub:
+  - name: deduction
+    label: Deducciones
+    widget: dict
+    sub:
+    - var: hanchor
+    - var: title
+    - var: sub
+    - var: md
+  - name: services
+    label: Servicios
+    widget: dict
+    sub:
+    - var: hanchor
+    - var: title
+    - var: sub
+    - var: md
+  - var: faq
+    name: faqs
+    label: Preguntas frecuentes

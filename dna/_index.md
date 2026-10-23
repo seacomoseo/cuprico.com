@@ -12,6 +12,7 @@ Electricistas e instalación de placas solares en San Pedro del Pinatar, Murcia.
 - Cargadores de coche eléctrico: solo se instala V2C (Cúprico es instalador oficial V2C). Precio orientativo desde 1.600 € IVA incluido. Instalación en el día; certificado lo antes posible. No se ofrecen contratos de mantenimiento ni soporte 24 h. El MOVES III terminó el 31/12/2025: no mencionarlo.
 - `/cargador-coche-electrico-murcia/` es la página de destino de Google Ads para cargadores. Gira en torno a la deducción autonómica de Murcia (100 % en IRPF, máx. 4.000 €), que solo pueden aplicar residentes fiscales en la Región de Murcia; no usarla como argumento para Alicante. `/cargadores-ev/` es la página general (también Alicante).
 - Horario: lunes a viernes de 8:00 a 20:00 (igual que en Google Business y Bing Places).
+- `/placas-solares-orihuela-costa/` (EN `/en/solar-panels-orihuela-costa/`) es la página de destino de Google Ads de placas solares para Orihuela Costa, Torrevieja, Pilar y San Miguel. Sus textos están en el front matter (`landing`), no en `global.*.yml`. Gancho: deducción estatal del 10 % (pagado en 2026) y valenciana del 40 %/20 % (solo residentes fiscales en la Comunitat). No mostrar precios de placas. Obra en 1 a 3 días; garantía de mano de obra 4 años, materiales según fabricante; marcas Huawei, Deye, GoodWe y JA Solar.
 
 ## Documentos disponibles
 
