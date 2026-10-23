@@ -2,13 +2,13 @@
 slug: ev-chargers
 title: Electric Vehicle Chargers
 seo:
-  title: ᐅ Electric Vehicle Chargers - Installation and Sales
-  desc: llll➤ With the best brands and installations in homes and community garages. ✅ Contact us for personalized advice and budgets.
+  title: ᐅ EV Charger Installation - Official V2C Installers
+  desc: Official V2C installers. We fit your charging point at home or in your community garage, in one day, from €1,600 VAT included. ✅ Get a quote.
 img: /u/servicios/cargadores-ev.jpg
 
 base: service
 service_types:
-- Installation and Sales of Electric Vehicle Chargers
+- Installation of Electric Vehicle Chargers
 service_areas:
 - San Pedro del Pinatar
 - Torrevieja
@@ -20,10 +20,11 @@ service_areas:
 - Cabo Roig
 - Campoamor
 - Torre de la Horadada
+- Orihuela Costa
 header:
   bi: /u/servicios/cargadores-ev.jpg
-  hanchor: Sales and Installation of Electric Vehicle Chargers
-  md: Sales and Installation of Electric Vehicle Chargers
+  hanchor: EV Charger Installation
+  md: EV Charger Installation
 
 tpl:
   sections:

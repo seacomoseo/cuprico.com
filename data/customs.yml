@@ -51,6 +51,22 @@
     - var: title
     - var: sub
     - var: md
+  - name: chargers_ev_murcia
+    label: Cargadores EV Murcia
+    widget: dict
+    sub:
+    - var: hanchor
+    - var: title
+    - var: sub
+    - var: md
+  - name: chargers_ev_murcia_deduction
+    label: Cargadores EV Murcia - Deducción
+    widget: dict
+    sub:
+    - var: hanchor
+    - var: title
+    - var: sub
+    - var: md
   - name: bulletin
     label: Boletín
     widget: dict
@@ -80,6 +96,9 @@
   - var: faq
     name: chargers_ev
     label: Cargadores EV
+  - var: faq
+    name: chargers_ev_murcia
+    label: Cargadores EV Murcia
   - var: faq
     name: bulletin
     label: Boletín
@@ -119,6 +138,8 @@
   - var: sub
   - name: days
     label: Días
+  - name: days_fri
+    label: Días (viernes)
   - name: name
     label: Nombre
   - name: phone

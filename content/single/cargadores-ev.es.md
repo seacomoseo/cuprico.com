@@ -2,13 +2,13 @@
 slug: cargadores-ev
 title: Cargadores EV
 seo:
-  title: ᐅ Cargadores de Vehículos Eléctricos - Instalación y Venta
-  desc: llll➤ Con las mejores marcas e instalaciones en viviendas y garajes comunitarios. ✅ Contáctanos para asesoramiento personalizado y presupuestos.
+  title: ᐅ Instalación de Cargadores para Coche Eléctrico - Instaladores V2C
+  desc: Instaladores oficiales V2C. Ponemos tu punto de recarga en casa o en el garaje comunitario, en el día y desde 1.600 € IVA incluido. ✅ Pide presupuesto.
 img: /u/servicios/cargadores-ev.jpg
 
 base: service
 service_types:
-- Instalación y Venta de Cargadores de Vehículos Eléctricos
+- Instalación de Cargadores de Vehículos Eléctricos
 service_areas:
 - San Pedro del Pinatar
 - Torrevieja
@@ -20,10 +20,11 @@ service_areas:
 - Cabo Roig
 - Campoamor
 - Torre de la Horadada
+- Orihuela Costa
 header:
   bi: /u/servicios/cargadores-ev.jpg
-  hanchor: Venta e Instalación de Cargadores para Vehículos Eléctricos
-  md: Venta e Instalación de Cargadores para Vehículos Eléctricos
+  hanchor: Instalación de Cargadores para Coche Eléctrico
+  md: Instalación de Cargadores para Coche Eléctrico
 
 tpl:
   sections:

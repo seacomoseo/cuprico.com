@@ -1,0 +1,15 @@
+name: Servicios ➡️ Cargadores Murcia
+id: servicios
+size: sm
+color: white
+boxes:
+- md_align: left
+  get:
+  - from: services.chargers_ev_murcia.hanchor
+    to: hanchor
+  - from: services.chargers_ev_murcia.title
+    to: title
+  - from: services.chargers_ev_murcia.sub
+    to: sub
+  - from: services.chargers_ev_murcia.md
+    to: md
