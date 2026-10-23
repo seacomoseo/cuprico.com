@@ -67,8 +67,8 @@ features:
 
   - icon: star
     title: Calidad garantizada
-    sub: 2-4 años de respaldo
-    md: Solo materiales de primera y mano de obra especializada; garantía escrita de dos años
+    sub: 4 años de respaldo
+    md: Solo materiales de primera y mano de obra especializada; garantía escrita de cuatro años
 
   boxes:
   # - icon: timer
@@ -81,7 +81,7 @@ features:
     title: '99 %'
     sub: de entregas en 1ª visita
   - icon: verified
-    title: 2-4 años
+    title: 4 años
     sub: de garantía
 
 
@@ -204,7 +204,7 @@ services:
 
       Reduzca hasta un **70 % su factura eléctrica** y gane independencia energética.
 
-      Más de 100 clientes ya disfrutan de nuestra garantía de 12 años en componentes y 4 años en mano de obra.
+      Te damos 4 años de garantía en la mano de obra. Los materiales, según la garantía de cada fabricante.
 
       [[Contáctanos]](#contacto)
 
@@ -290,7 +290,7 @@ process:
   - title: Ejecución experta
     md: Técnico certificado, obra limpia y sin interrupciones
   - title: Entrega
-    md: Garantía de 2 a 4 años
+    md: Garantía de 4 años
 
 
 faq:
@@ -306,7 +306,7 @@ faq:
   - title: ¿Realizan trabajos fuera del horario laboral?
     md: No. Trabajamos de lunes a viernes de 8:00 a 20:00. Sábados y domingos, cerrado.
   - title: ¿Cuánto dura la garantía de los trabajos?
-    md: Para mano de obra entre 2 y 4 años. Para materiales según fabricantes.
+    md: 4 años en la mano de obra. Los materiales, según la garantía de cada fabricante.
   - title: ¿Qué documentación recibiré tras la obra?
     md: Presupuesto firmado, parte de trabajo detallado, CIE o boletín si procede y factura electrónica compatible con TicketBAI.
   - title: ¿Ofrecen mantenimiento preventivo?
@@ -326,7 +326,7 @@ faq:
   - title: ¿En cuánto tiempo se completa la instalación y alta de autoconsumo?
     md: Entre 3 y 7 días laborables para la obra; el alta en autoconsumo con compensación de excedentes se valida en un máximo de 30 días tras la entrega de la documentación.
   - title: ¿Qué garantías ofrecen los paneles y el inversor?
-    md: Paneles Tier-1 con 12 años de garantía de producto y 25 años de rendimiento; inversores con 10 años ampliables. Nuestra mano de obra está cubierta durante 24 meses.
+    md: Los paneles, el inversor y la batería tienen la garantía de cada fabricante. Nuestra mano de obra está cubierta durante 4 años.
   # - title: ¿Puedo solicitar subvenciones o deducciones fiscales?
   #   md: Gestionamos las ayudas Next Generation y bonificaciones del IBI/ICIO municipales; además, la inversión es deducible en el IRPF hasta un 40 % en rehabilitación energética.
   - title: ¿Cuál es el periodo medio de amortización en Murcia-Alicante?
@@ -561,7 +561,7 @@ us:
   md: |
     - ::place:: Trabajamos exclusivamente en San Pedro del Pinatar y alrededores para llegar rápidos y resolver a la primera.
     - ::star:: Más de 100 reseñas top avalan nuestra seriedad con particulares, comunidades y empresas.
-    - ::verified:: Técnicos certificados, precios cerrados y 2-4 años de garantía: su tranquilidad está cubierta.
+    - ::verified:: Técnicos certificados, precios cerrados y 4 años de garantía: su tranquilidad está cubierta.
 
 
 team:
