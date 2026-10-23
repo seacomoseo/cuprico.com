@@ -103,11 +103,9 @@ services:
     img: /u/servicios/cargadores-ev.jpg
     icon: ev_charger
     md: |
-      Assembly and legalization of Wall Connector in < 24 h.
+      We install V2C chargers in one day, from €1,600 VAT included.
 
-      We carry out the processing of subsidies, if any.
-
-      [[::add:: More information]](/en/ev-chargers/ "Sales and Installation of Electric Vehicle Chargers")
+      [[::add:: More information]](/en/ev-chargers/ "EV Charger Installation")
   - id: certificates-electrical-installation
     url: '#certificates-electrical-installation'
     hanchor: Electrical Certificate in {{ get location }}
@@ -193,17 +191,51 @@ services:
   chargers_ev:
     hanchor: Installation of Chargers for Electric Cars
     title: Services
-    sub: Sale and Installation
+    sub: Official V2C installers
     md: |
-      Specialists in **installation of charging points for electric vehicles** in single-family homes, community garages and businesses.
+      We install **EV charging points** in villas, houses, community garages and businesses.
 
-      - Wallbox, Circutor, V2C and Tesla Wall Connector certified IRVE.
-      - Dynamic load balancing and overvoltage protections.
-      - Comprehensive processing of **MOVES III** subsidy and registration with Distributor.
+      - We install V2C Trydan chargers and we're official V2C installers.
+      - If you have solar panels, it charges your car with your surplus.
+      - It shares the power with the rest of the house, so your electricity doesn't trip.
+      - We install it in one day and handle the certificate.
 
-      Receive a closed quote in 24 h and charge your car with total safety and at the best price.
+      From **€1,600 VAT included**, with a fixed quote within 24 h.
 
       [[Contact us]](#contacto)
+
+  chargers_ev_murcia:
+    hanchor: EV Charger Installation around the Mar Menor
+    title: Services
+    sub: Official V2C installers
+    md: |
+      We install EV charging points in villas, houses and community garages in San Pedro del Pinatar, Lo Pagán, San Javier, Santiago de la Ribera, La Manga, Los Alcázares and Torre-Pacheco.
+
+      - We install V2C Trydan chargers and we're official V2C installers.
+      - If you have solar panels, it charges your car with your surplus.
+      - It shares the power with the rest of the house, so your electricity doesn't trip.
+      - We install it in one day and handle the certificate.
+      - From **€1,600 VAT included**, with a fixed quote within 24 h.
+
+      [[Get a quote]](#contacto)
+
+  chargers_ev_murcia_deduction:
+    hanchor: 100% income tax deduction for installing an EV charging point in the Region of Murcia
+    title: Up to 100% back on your tax return
+    sub: Region of Murcia deduction
+    md: |
+      If you live in the Region of Murcia, you can deduct **100% of what you pay to install the charging point** from your income tax (IRPF), up to €4,000. A charger installed by us costs from €1,600 VAT included, so in many cases you get it all back.
+
+      Requirements:
+
+      - Tax resident in the Region of Murcia.
+      - You must own the house or the garage space. Tenants can't claim it.
+      - The car must be for private use.
+      - Keep the invoice and keep the charger working for at least 2 years.
+
+      It comes off the regional part of your income tax. If one year you don't owe enough to use it all, you can carry the rest over to the next 3 years. We give you the invoice and the certificate; your tax advisor does the rest.
+
+      [[Get a quote]](#contacto)
   bulletin:
     title: Services
     sub: Electrical Installation Certificates and Bulletins
@@ -245,7 +277,7 @@ faq:
   - title: What certifications do your technicians have?
     md: All our installers are qualified in Low Voltage (specialist category) and issue the Electrical Installation Certificate (CIE) according to the current REBT.
   - title: Do you work outside business hours?
-    md: The hours are from 8:00 to 18:00 from Monday to Friday, with exceptions for certain clients with businesses that need to be attended on a Saturday or Sunday due to a real emergency.
+    md: The hours are from 8:00 to 18:00 from Monday to Thursday and from 8:00 to 14:00 on Fridays, with exceptions for certain clients with businesses that need to be attended on a Saturday or Sunday due to a real emergency.
   - title: How long does the work warranty last?
     md: For labor between 2 and 4 years. For materials according to manufacturers.
   - title: What documentation will I receive after the work?
@@ -269,15 +301,32 @@ faq:
     md: With typical residential consumption, the investment is recovered in 4 - 6 years thanks to bill savings and surplus compensation.
   chargers_ev:
   - title: What charger is compatible with my electric car?
-    md: We install Type 2 (European standard) single-phase or three-phase equipment up to 22 kW, compatible with all brands - Tesla, Renault, Hyundai, BMW, etc.
+    md: We install the V2C Trydan, single-phase or three-phase, with a Type 2 connector (the European standard). It works with almost every brand - Tesla, BMW, Hyundai, Renault, MG, etc.
+  - title: How much does it cost?
+    md: From €1,600 VAT included for a typical home. The price depends mainly on the distance between your electrical panel and the charger. You get a fixed price before we start.
   - title: Do I need to increase the contracted power?
-    md: Not always. We study your load curve and, if appropriate, install dynamic balancing to avoid exceeding current power and eliminate unnecessary fixed costs.
-  - title: How long does the installation and IRVE legalization take?
-    md: Physical installation is completed in 3-5 hours; legalization before the distributor and the autonomous community of Murcia is delivered in 24-72 hours.
-  - title: Can I share line with other domestic consumptions?
-    md: Yes. We add exclusive protections and a MID meter that prioritizes critical consumptions and automatically adapts the charging current.
-  - title: Do you offer maintenance or remote support?
-    md: We include app monitoring and 24-hour telephone assistance during the first year; optional maintenance contracts from 3 €/month.
+    md: Usually not, because the V2C adjusts the charging to what the house is using. If you'd rather have a separate supply just for the charger, we also handle the registration with the distributor.
+  - title: How long does it take?
+    md: We install it in one day. We process the certificate afterwards, as soon as possible.
+  - title: Do I need permission from the community to install it in the garage?
+    md: You don't need their approval. You only have to let the president or the property manager know beforehand.
+
+  chargers_ev_murcia:
+  - title: How much does it cost?
+    md: From €1,600 VAT included for a typical home. The price depends mainly on the distance between your electrical panel and the charger. You get a fixed price before we start.
+  - title: I live in Torrevieja or Orihuela Costa. Can I claim the deduction?
+    md: No. It's a Region of Murcia deduction and only people who live there can claim it.
+  - title: What if I don't file a tax return in Spain?
+    md: Then you can't claim it either. You need to be tax resident in the Region of Murcia.
+  - title: Do I need permission from the community to install it in the garage?
+    md: You don't need their approval. You only have to let the president or the property manager know beforehand.
+  - title: Do I need to increase the contracted power?
+    md: Usually not, because the V2C adjusts the charging to what the house is using. If you'd rather have a separate supply just for the charger, we also handle the registration with the distributor.
+  - title: Will it work with my car?
+    md: Yes. It has a Type 2 connector, the European standard used by Tesla, BMW, Hyundai, Renault, MG and almost every brand.
+  - title: How long does it take?
+    md: We install it in one day. We process the certificate afterwards, as soon as possible.
+
   bulletin:
   - title: When is an electrical certificate mandatory in Murcia?
     md: In new construction, homes over 20 years old, power increase > 50%, change of holder or commercial activity and when reactivating a disconnected supply.
@@ -462,7 +511,8 @@ team:
 contact:
   title: Contact
   sub: We respond quickly
-  days: Monday - Friday
+  days: Monday - Thursday
+  days_fri: Friday
   name: Name
   phone: Phone
   message: Message
@@ -546,7 +596,7 @@ footer:
     ::task:: Other Services
     {.h6}
 
-    - [Electric Vehicle Chargers](/en/ev-chargers/             "Sales and Installation of Electric Vehicle Chargers")
+    - [Electric Vehicle Chargers](/en/ev-chargers/             "EV Charger Installation")
     - [Certificates](/en/certificates-electrical-installation/ "Certificates of Electrical Installation in Murcia, Spain")
     {.list-inline}
 

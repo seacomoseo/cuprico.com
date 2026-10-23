@@ -1,0 +1,13 @@
+name: FAQ ➡️ Cargadores Murcia
+size: md
+boxes:
+- faq:
+    headers: true
+    hs: 6
+  get:
+  - from: faq.title
+    to: title
+  - from: faq.sub
+    to: sub
+  - from: faq.chargers_ev_murcia
+    to: faqs

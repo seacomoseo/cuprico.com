@@ -1,0 +1,14 @@
+name: Deducción ➡️ Cargadores Murcia
+id: deduccion
+size: sm
+boxes:
+- md_align: left
+  get:
+  - from: services.chargers_ev_murcia_deduction.hanchor
+    to: hanchor
+  - from: services.chargers_ev_murcia_deduction.title
+    to: title
+  - from: services.chargers_ev_murcia_deduction.sub
+    to: sub
+  - from: services.chargers_ev_murcia_deduction.md
+    to: md
