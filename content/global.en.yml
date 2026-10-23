@@ -64,8 +64,8 @@ features:
     md: Qualified technicians and REBT protections so your home is protected
   - icon: star
     title: Guaranteed Quality
-    sub: 2-4 years of support
-    md: Only first-class materials and specialized labor; written guarantee of two years
+    sub: 4 years of support
+    md: Only first-class materials and specialized labor; written guarantee of four years
   boxes:
   - icon: star
     title: \> 100
@@ -74,7 +74,7 @@ features:
     title: 99 %
     sub: deliveries on 1st visit
   - icon: verified
-    title: 2-4 years
+    title: 4 years
     sub: warranty
 
 
@@ -185,7 +185,7 @@ services:
 
       Reduce up to **70% your electricity bill** and gain energy independence.
 
-      More than 100 customers already enjoy our 12-year warranty on components and 4 years on labor.
+      We give you a 4-year warranty on labour. Materials come with each manufacturer's warranty.
 
       [[Contact us]](#contacto)
   chargers_ev:
@@ -269,7 +269,7 @@ process:
   - title: Expert execution
     md: Certified technician, clean work and no interruptions
   - title: Delivery
-    md: Warranty from 2 to 4 years
+    md: 4-year warranty
 
 
 faq:
@@ -281,7 +281,7 @@ faq:
   - title: Do you work outside business hours?
     md: No. We work Monday to Friday from 8:00 to 20:00. Closed on Saturdays and Sundays.
   - title: How long does the work warranty last?
-    md: For labor between 2 and 4 years. For materials according to manufacturers.
+    md: 4 years on labour. Materials come with each manufacturer's warranty.
   - title: What documentation will I receive after the work?
     md: Signed quote, detailed work report, CIE or certificate if applicable and electronic invoice compatible with TicketBAI.
   - title: Do you offer preventive maintenance?
@@ -298,7 +298,7 @@ faq:
   - title: How long does the installation and self-consumption registration take?
     md: Between 3 and 7 working days for the work; the self-consumption registration with surplus compensation is validated within a maximum of 30 days after delivery of documentation.
   - title: What warranties do you offer on panels and inverter?
-    md: Tier-1 panels with 12 years product warranty and 25 years performance; inverters with 10 years extendable. Our labor is covered for 24 months.
+    md: Panels, inverter and battery come with each manufacturer's warranty. Our labour is covered for 4 years.
   - title: What is the average amortization period in Murcia-Alicante?
     md: With typical residential consumption, the investment is recovered in 4 - 6 years thanks to bill savings and surplus compensation.
   chargers_ev:
@@ -504,7 +504,7 @@ us:
   md: |
     - ::place:: We work exclusively in San Pedro del Pinatar and surroundings to arrive quickly and solve the first time.
     - ::star:: More than 100 top reviews endorse our seriousness with individuals, communities and companies.
-    - ::verified:: Certified technicians, closed prices and 2-4 years warranty: your peace of mind is covered.
+    - ::verified:: Certified technicians, closed prices and 4-year warranty: your peace of mind is covered.
 
 
 team:
