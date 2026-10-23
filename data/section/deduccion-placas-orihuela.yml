@@ -1,0 +1,14 @@
+name: Deducciones ➡️ Placas Orihuela Costa
+id: deducciones
+size: sm
+boxes:
+- md_align: left
+  get:
+  - from: landing.deduction.hanchor
+    to: hanchor
+  - from: landing.deduction.title
+    to: title
+  - from: landing.deduction.sub
+    to: sub
+  - from: landing.deduction.md
+    to: md
