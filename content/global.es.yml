@@ -113,11 +113,11 @@ services:
     img: /u/servicios/cargadores-ev.jpg
     icon: ev_charger
     md: |
-      Montaje y legalización de Wall Connector en < 24 h.
+      Instalamos cargadores V2C en el día, desde 1.600 € IVA incluido.
 
-      Realizamos tramitación de subvenciones si las hay.
+      En la Región de Murcia te deduces hasta el 100 % en la renta.
 
-      [[::add:: Más información]](/cargadores-ev/ "Venta e Instalación de Cargadores para Vehículos Eléctricos")
+      [[::add:: Más información]](/cargadores-ev/ "Instalación de Cargadores para Coche Eléctrico")
 
   - id: boletin-electrico-certificaciones
     url: '#boletin-electrico-certificaciones'
@@ -211,17 +211,53 @@ services:
   chargers_ev:
     hanchor: Instalación de Cargadores para Coches Eléctricos
     title: Servicios
-    sub: Venta e Instalación
+    sub: Instaladores oficiales V2C
     md: |
-      Especialistas en **instalación de puntos de recarga para vehículos eléctricos** en viviendas unifamiliares, garajes comunitarios y negocios.
+      Instalamos **puntos de recarga para coche eléctrico** en chalets, casas, garajes comunitarios y negocios.
 
-      - Wallbox, Circutor, V2C y Tesla Wall Connector certificados IRVE.
-      - Balanceo de carga dinámico y protecciones contra sobretensión.
-      - Tramitación integral de la subvención **MOVES III** y alta en Distribuidora.
+      - Trabajamos con cargadores V2C Trydan y somos instaladores oficiales de la marca.
+      - Si tienes placas solares, carga el coche con lo que te sobra.
+      - Reparte la potencia con el resto de la casa para que no te salte la luz.
+      - Lo instalamos en el día y te tramitamos el certificado.
 
-      Reciba un presupuesto cerrado en 24 h y cargue su coche con total seguridad y al mejor precio.
+      Desde **1.600 € IVA incluido**, con presupuesto cerrado en 24 h.
+
+      **¿Vives en la Región de Murcia?** Mira cómo funciona la [deducción del 100 % en la renta](/cargador-coche-electrico-murcia/).
 
       [[Contáctanos]](#contacto)
+
+  chargers_ev_murcia:
+    hanchor: Instalación de Cargadores para Coche Eléctrico en el Mar Menor
+    title: Servicios
+    sub: Instaladores oficiales V2C
+    md: |
+      Instalamos el punto de recarga en chalets, casas y garajes comunitarios de San Pedro del Pinatar, Lo Pagán, San Javier, Santiago de la Ribera, La Manga, Los Alcázares y Torre-Pacheco.
+
+      - Instalamos cargadores V2C Trydan y somos instaladores oficiales de la marca.
+      - Si tienes placas solares, carga el coche con lo que te sobra.
+      - Reparte la potencia con el resto de la casa para que no te salte la luz.
+      - Lo instalamos en el día y te tramitamos el certificado.
+      - Desde **1.600 € IVA incluido**, con presupuesto cerrado en 24 h.
+
+      [[Pide presupuesto]](#contacto)
+
+  chargers_ev_murcia_deduction:
+    hanchor: Deducción del 100 % en el IRPF por instalar un punto de recarga en la Región de Murcia
+    title: Hasta el 100 % en la renta
+    sub: Deducción de la Región de Murcia
+    md: |
+      Si vives en la Región de Murcia, puedes deducirte en el IRPF el **100 % de lo que pagas por instalar el punto de recarga**, con un máximo de 4.000 €. Un cargador instalado con nosotros cuesta desde 1.600 € IVA incluido, así que en muchos casos lo recuperas entero.
+
+      Requisitos:
+
+      - Residencia fiscal en la Región de Murcia.
+      - La casa o la plaza de garaje tienen que ser tuyas. Si vives de alquiler, no vale.
+      - El coche, de uso particular.
+      - Guardar la factura y mantener el cargador funcionando al menos 2 años.
+
+      Se descuenta de la parte autonómica de tu IRPF. Si un año no te da para aplicarla entera, lo que sobra lo usas en los 3 años siguientes. Nosotros te damos la factura y el certificado. Lo demás lo ve tu gestoría.
+
+      [[Pide presupuesto]](#contacto)
 
   bulletin:
     title: Servicios
@@ -268,7 +304,7 @@ faq:
   # - title: ¿Puedo financiar la instalación de un cargador para vehículo eléctrico?
   #   md: Sí. Gestionamos la subvención MOVES III y ofrecemos financiación a 12 o 24 meses sin comisión de apertura.
   - title: ¿Realizan trabajos fuera del horario laboral?
-    md: El horario es de 8:00 a 18:00 de lunes a viernes, con excepciones a ciertos clientes con negocios que en un momento dado hay que atenderlos un sabado o domingo por una urgencia real.
+    md: El horario es de 8:00 a 18:00 de lunes a jueves y de 8:00 a 14:00 los viernes, con excepciones a ciertos clientes con negocios que en un momento dado hay que atenderlos un sabado o domingo por una urgencia real.
   - title: ¿Cuánto dura la garantía de los trabajos?
     md: Para mano de obra entre 2 y 4 años. Para materiales según fabricantes.
   - title: ¿Qué documentación recibiré tras la obra?
@@ -298,17 +334,33 @@ faq:
 
   chargers_ev:
   - title: ¿Qué cargador es compatible con mi coche eléctrico?
-    md: Instalamos equipos Tipo 2 (estándar europeo) monofásicos o trifásicos hasta 22 kW, compatibles con todas las marcas - Tesla, Renault, Hyundai, BMW, etc.
+    md: Instalamos el V2C Trydan, monofásico o trifásico, con conector Tipo 2 (el estándar europeo). Vale para casi todas las marcas - Tesla, BMW, Hyundai, Renault, MG, etc.
+  - title: ¿Cuánto cuesta?
+    md: Desde 1.600 € IVA incluido en una vivienda normal. Depende sobre todo de la distancia entre el cuadro y el cargador. Te damos un precio cerrado antes de empezar.
   - title: ¿Necesito aumentar la potencia contratada?
-    md: No siempre. Estudiamos su curva de carga y, si procede, instalamos balanceo dinámico para evitar sobrepasar la potencia actual y eliminar costes fijos innecesarios.
-  - title: ¿Cuánto tarda la instalación y la legalización IRVE?
-    md: La instalación física se completa en 3-5 horas; la legalización ante la distribuidora y la comunidad autónoma de Murcia se entrega en 24-72 horas.
-  - title: ¿Puedo compartir línea con otros consumos domésticos?
-    md: Sí. Añadimos protecciones exclusivas y un contador MID que prioriza los consumos críticos y adapta la corriente de carga automáticamente.
-  # - title: ¿Qué ayudas existen para instalar un cargador en {{ get location }}?
-  #   md: Tramitamos gratis la subvención MOVES III (hasta 80 % del coste) y bonificaciones municipales de hasta un 50 % en el IBI.
-  - title: ¿Ofrecen mantenimiento o soporte remoto?
-    md: Incluimos monitorización vía app y asistencia telefónica 24 h durante el primer año; contratos de mantenimiento opcionales a partir de 3 €/mes.
+    md: Normalmente no, porque el V2C ajusta la carga a lo que estés gastando en casa. Si prefieres un contrato aparte solo para el cargador, también tramitamos el alta con la distribuidora.
+  - title: ¿Cuánto se tarda?
+    md: La instalación se hace en el día. El certificado lo tramitamos después, lo antes posible.
+  - title: ¿Necesito permiso de la comunidad para ponerlo en el garaje?
+    md: No hace falta que lo aprueben. Basta con avisar antes al presidente o al administrador.
+  - title: ¿Hay alguna ayuda para instalarlo?
+    md: Si vives en la Región de Murcia, puedes deducirte hasta el 100 % en la renta (máximo 4.000 €). Lo explicamos en [cargador de coche eléctrico con deducción en Murcia](/cargador-coche-electrico-murcia/). En la provincia de Alicante esa deducción no se aplica.
+
+  chargers_ev_murcia:
+  - title: ¿Cuánto cuesta?
+    md: Desde 1.600 € IVA incluido en una vivienda normal. Depende sobre todo de la distancia entre el cuadro y el cargador. Te damos un precio cerrado antes de empezar.
+  - title: Vivo en Torrevieja u Orihuela Costa, ¿me vale la deducción?
+    md: No. Es una deducción de la Región de Murcia y solo la pueden aplicar quienes viven allí.
+  - title: ¿Y si no hago la renta en España?
+    md: Tampoco. Hace falta ser residente fiscal en la Región de Murcia.
+  - title: ¿Necesito permiso de la comunidad para ponerlo en el garaje?
+    md: No hace falta que lo aprueben. Basta con avisar antes al presidente o al administrador.
+  - title: ¿Tengo que subir la potencia contratada?
+    md: Normalmente no, porque el V2C ajusta la carga a lo que estés gastando en casa. Si prefieres un contrato aparte solo para el cargador, también tramitamos el alta con la distribuidora.
+  - title: ¿Vale para mi coche?
+    md: Sí. Lleva conector Tipo 2, el estándar europeo, que usan Tesla, BMW, Hyundai, Renault, MG y casi todas las marcas.
+  - title: ¿Cuánto se tarda?
+    md: La instalación se hace en el día. El certificado lo tramitamos después, lo antes posible.
 
   bulletin:
   - title: ¿Cuándo es obligatorio un boletín eléctrico en Murcia?
@@ -520,7 +572,8 @@ team:
 contact:
   title: Contacto
   sub: Respondemos rápidamente
-  days: Lunes - Viernes
+  days: Lunes - Jueves
+  days_fri: Viernes
   name: Nombre
   phone: Teléfono
   message: Mensaje
@@ -604,7 +657,7 @@ footer:
     ::task:: Otros Servicios
     {.h6}
 
-    - [Cargadores Vehículos Eléctricos](/cargadores-ev/ "Venta e Instalación de Cargadores para Vehículos Eléctricos")
+    - [Cargadores Vehículos Eléctricos](/cargadores-ev/ "Instalación de Cargadores para Coche Eléctrico")
     - [Boletín Eléctrico](/boletin-electrico/                             "Boletín Eléctrico y Certificados de Instalación Eléctrica (CIE)")
     {.list-inline}
 
