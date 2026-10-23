@@ -5,9 +5,7 @@ menu_btn: cta
 boxes:
 - when:
   - days: '{{ get contact.days }}'
-    hours: 8:00 - 18:00
-  - days: '{{ get contact.days_fri }}'
-    hours: 8:00 - 14:00
+    hours: 8:00 - 20:00
   links:
   - type: phone
     label: 641 47 94 90

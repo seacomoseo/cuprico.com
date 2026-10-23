@@ -138,8 +138,6 @@
   - var: sub
   - name: days
     label: Días
-  - name: days_fri
-    label: Días (viernes)
   - name: name
     label: Nombre
   - name: phone
