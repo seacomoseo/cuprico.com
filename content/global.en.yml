@@ -202,6 +202,8 @@ services:
 
       From **€1,600 VAT included**, with a fixed quote within 24 h.
 
+      **Live in the Region of Murcia?** See how the [100% income tax deduction](/en/ev-charger-murcia/) works.
+
       [[Contact us]](#contacto)
 
   chargers_ev_murcia:
@@ -310,6 +312,8 @@ faq:
     md: We install it in one day. We process the certificate afterwards, as soon as possible.
   - title: Do I need permission from the community to install it in the garage?
     md: You don't need their approval. You only have to let the president or the property manager know beforehand.
+  - title: Is there any financial help?
+    md: If you're tax resident in the Region of Murcia, you can deduct up to 100% on your income tax (max €4,000). We explain it on our [EV charger with tax deduction in Murcia](/en/ev-charger-murcia/) page. This deduction doesn't apply in the province of Alicante.
 
   chargers_ev_murcia:
   - title: How much does it cost?
