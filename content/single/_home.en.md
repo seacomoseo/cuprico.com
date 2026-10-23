@@ -96,14 +96,10 @@ org:
       tue: true
       wed: true
       thu: true
-    hours:
-    - open: 8:00
-      close: 18:00
-  - days:
       fri: true
     hours:
     - open: 8:00
-      close: 14:00
+      close: 20:00
   prices: €€
   services:
   - title: Electrical Installations
