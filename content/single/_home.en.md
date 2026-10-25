@@ -95,9 +95,9 @@ org:
       close: 20:00
   prices: €€
   services:
-  - title: Electrical Installations
+  - title: Installation of Solar Panels
   - title: Electric Vehicle Chargers
   - title: Electrical Bulletin
-  - title: Installation of Solar Panels
+  - title: Electrical Installations
   - title: Electrical Repairs
 ---

@@ -82,19 +82,19 @@ services:
   title: Services
   sub: What do we do?
   modals:
-  - id: electrical-installations
-    url: '#electrical-installations'
-    hanchor: Electrical Installations in {{ get location }}
-    title: Electrical Installations
-    sub: Residential and Commercial
-    img: /u/servicios/instalaciones-electricas.jpg
-    icon: power
+  - id: solar-panel-installation
+    url: '#solar-panel-installation'
+    hanchor: Solar Panel Installation in {{ get location }}
+    title: Solar Panel Installation
+    sub: Photovoltaic
+    img: /u/servicios/instalacion-placas-solares.jpg
+    icon: solar_power
     md: |
-      We design and execute panels, circuits and lighting according to REBT.
+      Free study, engineering, installation and subsidies.
 
-      Closed cost, clean work and CIE delivery upon completion.
+      Premium panels and online monitoring.
 
-      Request a free quote!
+      [[::add:: More info]](/en/solar-panel-installers/ "Installers of Photovoltaic Solar Panels in San Pedro del Pinatar")
   - id: ev-chargers
     url: '#ev-chargers'
     hanchor: EV Chargers in {{ get location }}
@@ -119,19 +119,19 @@ services:
       Delivery in 24 h - 14 d (depending on inspection).
 
       [[::add:: More info]](/en/certificates-electrical-installation/ "Electrical Installation Certificates in Murcia, Spain")
-  - id: solar-panel-installation
-    url: '#solar-panel-installation'
-    hanchor: Solar Panel Installation in {{ get location }}
-    title: Solar Panel Installation
-    sub: Photovoltaic
-    img: /u/servicios/instalacion-placas-solares.jpg
-    icon: solar_power
+  - id: electrical-installations
+    url: '#electrical-installations'
+    hanchor: Electrical Installations in {{ get location }}
+    title: Electrical Installations
+    sub: Residential and Commercial
+    img: /u/servicios/instalaciones-electricas.jpg
+    icon: power
     md: |
-      Free study, engineering, installation and subsidies.
+      We design and execute panels, circuits and lighting according to REBT.
 
-      Premium panels and online monitoring.
+      Closed cost, clean work and CIE delivery upon completion.
 
-      [[::add:: More info]](/en/solar-panel-installers/ "Installers of Photovoltaic Solar Panels in San Pedro del Pinatar")
+      Request a free quote!
   - id: electrical-repairs
     url: '#electrical-repairs'
     hanchor: Electrical Repairs in {{ get location }}
@@ -528,31 +528,6 @@ footer:
 
     <br>
 
-    ::power:: Electricians in...
-    {.h6}
-
-    - [San Pedro del Pinatar](/en/                                                          "Electricians in San Pedro del Pinatar")
-    - [Lo Pagan](/en/electricians/lo-pagan/                                                 "Electricians in Lo Pagan")
-    - [Los Alcázares](/en/electricians/los-alcazares/                                       "Electricians in Los Alcázares")
-    - [Los Narejos](/en/electricians/los-narejos/                                           "Electricians in Los Narejos")
-    - [San Javier](/en/electricians/san-javier/                                             "Electricians in San Javier")
-    - [Santiago de la Ribera](/en/electricians/santiago-de-la-ribera/                       "Electricians in Santiago de la Ribera")
-    - [Cabo Roig](/en/electricians/cabo-roig/                                               "Electricians in Cabo Roig")
-    - [Campoamor](/en/electricians/campoamor/                                               "Electricians in Campoamor")
-    - [El Mojón](/en/electricians/el-mojon/                                                 "Electricians in El Mojón")
-    - [La Regia](/en/electricians/la-regia/                                                 "Electricians in La Regia")
-    - [La Torre Golf](/en/electricians/la-torre-golf/                                       "Electricians in La Torre Golf")
-    - [La Zenia](/en/electricians/la-zenia/                                                 "Electricians in La Zenia")
-    - [Las Colinas Golf & Country Club](/en/electricians/las-colinas-golf-and-country-club/ "Electricians in Las Colinas Golf & Country Club")
-    - [Las Ramblas Golf](/en/electricians/las-ramblas-golf/                                 "Electricians in Las Ramblas Golf")
-    - [Lo Romero Golf](/en/electricians/lo-romero-golf/                                     "Electricians in Lo Romero Golf")
-    - [Mil Palmeras](/en/electricians/mil-palmeras/                                         "Electricians in Mil Palmeras")
-    - [Pilar de la Horadada](/en/electricians/pilar-de-la-horadada/                         "Electricians in Pilar de la Horadada")
-    - [Pinar de Campoverde](/en/electricians/pinar-de-campo-verde/                          "Electricians in Pinar de Campoverde")
-    - [Torre de la Horadada](/en/electricians/torre-de-la-horadada/                         "Electricians in Torre de la Horadada")
-    - [Torrevieja](/en/electricians/torrevieja/                                             "Electricians in Torrevieja")
-    {.list-inline}
-
     ::solar_power:: Installers of Solar Panels in...
     {.h6}
 
@@ -576,6 +551,31 @@ footer:
     - [Pinar de Campoverde](/en/solar-panel-installers/pinar-de-campo-verde/                          "Solar Panel Installers in Pinar de Campoverde")
     - [Torre de la Horadada](/en/solar-panel-installers/torre-de-la-horadada/                         "Solar Panel Installers in Torre de la Horadada")
     - [Torrevieja](/en/solar-panel-installers/torrevieja/                                             "Solar Panel Installers in Torrevieja")
+    {.list-inline}
+
+    ::power:: Electricians in...
+    {.h6}
+
+    - [San Pedro del Pinatar](/en/                                                          "Electricians in San Pedro del Pinatar")
+    - [Lo Pagan](/en/electricians/lo-pagan/                                                 "Electricians in Lo Pagan")
+    - [Los Alcázares](/en/electricians/los-alcazares/                                       "Electricians in Los Alcázares")
+    - [Los Narejos](/en/electricians/los-narejos/                                           "Electricians in Los Narejos")
+    - [San Javier](/en/electricians/san-javier/                                             "Electricians in San Javier")
+    - [Santiago de la Ribera](/en/electricians/santiago-de-la-ribera/                       "Electricians in Santiago de la Ribera")
+    - [Cabo Roig](/en/electricians/cabo-roig/                                               "Electricians in Cabo Roig")
+    - [Campoamor](/en/electricians/campoamor/                                               "Electricians in Campoamor")
+    - [El Mojón](/en/electricians/el-mojon/                                                 "Electricians in El Mojón")
+    - [La Regia](/en/electricians/la-regia/                                                 "Electricians in La Regia")
+    - [La Torre Golf](/en/electricians/la-torre-golf/                                       "Electricians in La Torre Golf")
+    - [La Zenia](/en/electricians/la-zenia/                                                 "Electricians in La Zenia")
+    - [Las Colinas Golf & Country Club](/en/electricians/las-colinas-golf-and-country-club/ "Electricians in Las Colinas Golf & Country Club")
+    - [Las Ramblas Golf](/en/electricians/las-ramblas-golf/                                 "Electricians in Las Ramblas Golf")
+    - [Lo Romero Golf](/en/electricians/lo-romero-golf/                                     "Electricians in Lo Romero Golf")
+    - [Mil Palmeras](/en/electricians/mil-palmeras/                                         "Electricians in Mil Palmeras")
+    - [Pilar de la Horadada](/en/electricians/pilar-de-la-horadada/                         "Electricians in Pilar de la Horadada")
+    - [Pinar de Campoverde](/en/electricians/pinar-de-campo-verde/                          "Electricians in Pinar de Campoverde")
+    - [Torre de la Horadada](/en/electricians/torre-de-la-horadada/                         "Electricians in Torre de la Horadada")
+    - [Torrevieja](/en/electricians/torrevieja/                                             "Electricians in Torrevieja")
     {.list-inline}
 
     ::task:: Other Services

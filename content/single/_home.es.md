@@ -95,9 +95,9 @@ org:
       close: 20:00
   prices: €€
   services:
-  - title: Instalaciones Eléctricas
+  - title: Instalación de Placas Solares
   - title: Cargadores de Vehículos Eléctricos
   - title: Boletín Eléctrico
-  - title: Instalación de Placas Solares
+  - title: Instalaciones Eléctricas
   - title: Reparaciones Eléctricas
 ---

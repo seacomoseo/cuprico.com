@@ -91,19 +91,19 @@ services:
 
   modals:
 
-  - id: instalaciones-electricas
-    url: '#instalaciones-electricas'
-    hanchor: Instalaciones Eléctricas en {{ get location }}
-    title: Instalaciones Eléctricas
-    sub: Residenciales y Comerciales
-    img: /u/servicios/instalaciones-electricas.jpg
-    icon: power
+  - id: instalacion-placas-solares
+    url: '#instalacion-placas-solares'
+    hanchor: Instalación de Placas Solares en {{ get location }}
+    title: Instalación de Placas Solares
+    sub: Fotovoltaicas
+    img: /u/servicios/instalacion-placas-solares.jpg
+    icon: solar_power
     md: |
-      Diseñamos y ejecutamos cuadros, circuitos y alumbrado conforme al REBT.
+      Estudio gratuito, ingeniería, instalación y subvenciones.
 
-      Coste cerrado, obra limpia y entrega de CIE al finalizar.
+      Paneles premium y monitorización online.
 
-      ¡Solicite presupuesto sin coste!
+      [[::add:: Más información]](/instaladores-placas-solares/ "Instaladores de Placas Solares Fotovoltaicas en San Pedro del Pinatar")
 
   - id: cargadores-ev
     url: '#cargadores-ev'
@@ -133,19 +133,19 @@ services:
 
       [[::add:: Más información]](/boletin-electrico/ "Boletín Eléctrico y Certificados de Instalación Eléctrica (CIE)")
 
-  - id: instalacion-placas-solares
-    url: '#instalacion-placas-solares'
-    hanchor: Instalación de Placas Solares en {{ get location }}
-    title: Instalación de Placas Solares
-    sub: Fotovoltaicas
-    img: /u/servicios/instalacion-placas-solares.jpg
-    icon: solar_power
+  - id: instalaciones-electricas
+    url: '#instalaciones-electricas'
+    hanchor: Instalaciones Eléctricas en {{ get location }}
+    title: Instalaciones Eléctricas
+    sub: Residenciales y Comerciales
+    img: /u/servicios/instalaciones-electricas.jpg
+    icon: power
     md: |
-      Estudio gratuito, ingeniería, instalación y subvenciones.
+      Diseñamos y ejecutamos cuadros, circuitos y alumbrado conforme al REBT.
 
-      Paneles premium y monitorización online.
+      Coste cerrado, obra limpia y entrega de CIE al finalizar.
 
-      [[::add:: Más información]](/instaladores-placas-solares/ "Instaladores de Placas Solares Fotovoltaicas en San Pedro del Pinatar")
+      ¡Solicite presupuesto sin coste!
 
   - id: reparaciones-electricas
     url: '#reparaciones-electricas'
@@ -552,31 +552,6 @@ footer:
 
     <br>
 
-    ::power:: Electricistas en...
-    {.h6}
-
-    - [San Pedro del Pinatar](/                                                           "Electricistas en San Pedro del Pinatar")
-    - [Lo Pagan](/electricistas/lo-pagan/                                                 "Electricistas en Lo Pagan")
-    - [Los Alcázares](/electricistas/los-alcazares/                                       "Electricistas en Los Alcázares")
-    - [Los Narejos](/electricistas/los-narejos/                                           "Electricistas en Los Narejos")
-    - [San Javier](/electricistas/san-javier/                                             "Electricistas en San Javier")
-    - [Santiago de la Ribera](/electricistas/santiago-de-la-ribera/                       "Electricistas en Santiago de la Ribera")
-    - [Cabo Roig](/electricistas/cabo-roig/                                               "Electricistas en Cabo Roig")
-    - [Campoamor](/electricistas/campoamor/                                               "Electricistas en Campoamor")
-    - [El Mojón](/electricistas/el-mojon/                                                 "Electricistas en El Mojón")
-    - [La Regia](/electricistas/la-regia/                                                 "Electricistas en La Regia")
-    - [La Torre Golf](/electricistas/la-torre-golf/                                       "Electricistas en La Torre Golf")
-    - [La Zenia](/electricistas/la-zenia/                                                 "Electricistas en La Zenia")
-    - [Las Colinas Golf & Country Club](/electricistas/las-colinas-golf-and-country-club/ "Electricistas en Las Colinas Golf & Country Club")
-    - [Las Ramblas Golf](/electricistas/las-ramblas-golf/                                 "Electricistas en Las Ramblas Golf")
-    - [Lo Romero Golf](/electricistas/lo-romero-golf/                                     "Electricistas en Lo Romero Golf")
-    - [Mil Palmeras](/electricistas/mil-palmeras/                                         "Electricistas en Mil Palmeras")
-    - [Pilar de la Horadada](/electricistas/pilar-de-la-horadada/                         "Electricistas en Pilar de la Horadada")
-    - [Pinar de Campoverde](/electricistas/pinar-de-campo-verde/                          "Electricistas en Pinar de Campoverde")
-    - [Torre de la Horadada](/electricistas/torre-de-la-horadada/                         "Electricistas en Torre de la Horadada")
-    - [Torrevieja](/electricistas/torrevieja/                                             "Electricistas en Torrevieja")
-    {.list-inline}
-
     ::solar_power:: Instaladores de Placas Solares en...
     {.h6}
 
@@ -600,6 +575,31 @@ footer:
     - [Pinar de Campoverde](/instaladores-placas-solares/pinar-de-campo-verde/                          "Instaladores de Placas Solares en Pinar de Campoverde")
     - [Torre de la Horadada](/instaladores-placas-solares/torre-de-la-horadada/                         "Instaladores de Placas Solares en Torre de la Horadada")
     - [Torrevieja](/instaladores-placas-solares/torrevieja/                                             "Instaladores de Placas Solares en Torrevieja")
+    {.list-inline}
+
+    ::power:: Electricistas en...
+    {.h6}
+
+    - [San Pedro del Pinatar](/                                                           "Electricistas en San Pedro del Pinatar")
+    - [Lo Pagan](/electricistas/lo-pagan/                                                 "Electricistas en Lo Pagan")
+    - [Los Alcázares](/electricistas/los-alcazares/                                       "Electricistas en Los Alcázares")
+    - [Los Narejos](/electricistas/los-narejos/                                           "Electricistas en Los Narejos")
+    - [San Javier](/electricistas/san-javier/                                             "Electricistas en San Javier")
+    - [Santiago de la Ribera](/electricistas/santiago-de-la-ribera/                       "Electricistas en Santiago de la Ribera")
+    - [Cabo Roig](/electricistas/cabo-roig/                                               "Electricistas en Cabo Roig")
+    - [Campoamor](/electricistas/campoamor/                                               "Electricistas en Campoamor")
+    - [El Mojón](/electricistas/el-mojon/                                                 "Electricistas en El Mojón")
+    - [La Regia](/electricistas/la-regia/                                                 "Electricistas en La Regia")
+    - [La Torre Golf](/electricistas/la-torre-golf/                                       "Electricistas en La Torre Golf")
+    - [La Zenia](/electricistas/la-zenia/                                                 "Electricistas en La Zenia")
+    - [Las Colinas Golf & Country Club](/electricistas/las-colinas-golf-and-country-club/ "Electricistas en Las Colinas Golf & Country Club")
+    - [Las Ramblas Golf](/electricistas/las-ramblas-golf/                                 "Electricistas en Las Ramblas Golf")
+    - [Lo Romero Golf](/electricistas/lo-romero-golf/                                     "Electricistas en Lo Romero Golf")
+    - [Mil Palmeras](/electricistas/mil-palmeras/                                         "Electricistas en Mil Palmeras")
+    - [Pilar de la Horadada](/electricistas/pilar-de-la-horadada/                         "Electricistas en Pilar de la Horadada")
+    - [Pinar de Campoverde](/electricistas/pinar-de-campo-verde/                          "Electricistas en Pinar de Campoverde")
+    - [Torre de la Horadada](/electricistas/torre-de-la-horadada/                         "Electricistas en Torre de la Horadada")
+    - [Torrevieja](/electricistas/torrevieja/                                             "Electricistas en Torrevieja")
     {.list-inline}
 
     ::task:: Otros Servicios
