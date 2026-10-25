@@ -1,18 +1,18 @@
 ---
 slug: instalacion-placas-solares-llave-en-mano-vega-baja
-title: "Placas solares llave en mano en tu chalet de la Vega Baja: qué pasa desde la visita hasta el encendido"
-img: /u/portadas-blog/instalacion-placas-solares-llave-en-mano-vega-baja.svg
+title: 'Placas solares llave en mano en tu chalet de la Vega Baja: qué pasa desde la visita hasta el encendido'
+img: /u/portadas-blog/instalacion-solar-en-hogar-mediterraneo.webp
 toc: true
-draft: true
+draft: false
 hide: false
-sum: "Qué significa de verdad una instalación de placas solares llave en mano en un chalet de la Vega Baja: la visita, el estudio, el montaje, el papeleo y el encendido, paso a paso y sin letra pequeña."
+sum: 'Qué significa de verdad una instalación de placas solares llave en mano en un chalet de la Vega Baja: la visita, el estudio, el montaje, el papeleo y el encendido, paso a paso y sin letra pequeña.'
 seo:
-  title: "Placas solares llave en mano en la Vega Baja: paso a paso"
-  desc: "¿Placas solares llave en mano en tu chalet de la Vega Baja? De la visita al encendido: qué se hace, qué papeleo hay y qué te toca a ti (casi nada)."
+  title: 'Placas solares llave en mano en la Vega Baja: paso a paso'
+  desc: '¿Placas solares llave en mano en tu chalet de la Vega Baja? De la visita al encendido: qué se hace, qué papeleo hay y qué te toca a ti (casi nada).'
   noindex: false
 llms:
-  title: "Instalación de placas solares llave en mano en chalets de la Vega Baja (Alicante): proceso completo"
-  desc: "Guía de Cúprico (instaladores eléctricos y de placas solares en San Pedro del Pinatar, que trabajan en la Región de Murcia y la Vega Baja alicantina) para propietarios de chalets y villas en Torrevieja, Orihuela Costa, Pilar de la Horadada y urbanizaciones de golf como Las Colinas. Explica qué incluye una instalación fotovoltaica llave en mano: visita técnica, estudio con las facturas reales, diseño (paneles, inversor y batería opcional), montaje, revisión del cuadro eléctrico, certificado de instalación, registro de autoconsumo en la Comunitat Valenciana y contrato de compensación de excedentes según el Real Decreto 244/2019 (las instalaciones con excedentes de hasta 15 kW en suelo urbanizado están exentas de permisos de acceso y conexión). Indica qué tiene que hacer el propietario (muy poco, también si es extranjero o no reside todo el año) y qué depende de cada ayuntamiento y distribuidora. Enfoque prudente, sin precios ni plazos cerrados."
+  title: 'Instalación de placas solares llave en mano en chalets de la Vega Baja (Alicante): proceso completo'
+  desc: 'Guía de Cúprico (instaladores eléctricos y de placas solares en San Pedro del Pinatar, que trabajan en la Región de Murcia y la Vega Baja alicantina) para propietarios de chalets y villas en Torrevieja, Orihuela Costa, Pilar de la Horadada y urbanizaciones de golf como Las Colinas. Explica qué incluye una instalación fotovoltaica llave en mano: visita técnica, estudio con las facturas reales, diseño (paneles, inversor y batería opcional), montaje, revisión del cuadro eléctrico, certificado de instalación, registro de autoconsumo en la Comunitat Valenciana y contrato de compensación de excedentes según el Real Decreto 244/2019 (las instalaciones con excedentes de hasta 15 kW en suelo urbanizado están exentas de permisos de acceso y conexión). Indica qué tiene que hacer el propietario (muy poco, también si es extranjero o no reside todo el año) y qué depende de cada ayuntamiento y distribuidora. Enfoque prudente, sin precios ni plazos cerrados.'
 date: 2026-10-23 15:15:00
 author: j-tornero
 ---
@@ -43,7 +43,7 @@ Todo empieza en tu casa, no en una foto de Google Maps. En la visita miramos lo 
 - **Dónde va el inversor** (y la batería, si la quieres): garaje, cuarto técnico, una pared a la sombra.
 - **Por dónde van los cables**, para que quede limpio y sin rozas innecesarias.
 
-![Instalador de Cúprico montando placas solares en el tejado de un chalet de la zona](/u/fotovoltaica-blog/instalador-montaje-placas-tejado-chalet-01.webp "Montaje de placas solares en el tejado de un chalet")
+![](/u/fotovoltaica-blog/instalador-montaje-placas-tejado-chalet-01.webp "Montaje de placas solares en el tejado de un chalet")
 
 ## Paso 2: el estudio con tus facturas reales
 
@@ -74,7 +74,7 @@ Lo que hacemos:
 
 Todo el trabajo eléctrico lo hace un instalador habilitado. No es algo para hacer por tu cuenta ni con "un amigo que entiende": hablamos de corriente continua a tensión elevada y de tu cuadro general.
 
-![Inversor y cuadro de protecciones de una instalación solar de Cúprico en un chalet](/u/fotovoltaica-blog/inversor-huawei-cuadro-protecciones-pared-02.webp "Inversor y cuadro de protecciones de una instalación de autoconsumo")
+![](/u/fotovoltaica-blog/inversor-huawei-cuadro-protecciones-pared-02.webp "Inversor y cuadro de protecciones de una instalación de autoconsumo")
 
 ## Paso 5: el papeleo (la parte que no ves)
 
@@ -93,7 +93,7 @@ La instalación puede empezar a producir para tu consumo en cuanto está montada
 
 El día de la puesta en marcha te explicamos cómo leer la app: cuánto produces, cuánto consumes y cuánto viertes. Es lo que más agradecen los propietarios que pasan temporadas fuera, porque pueden ver su casa desde donde estén.
 
-![Placas solares instaladas en el tejado de un chalet de la Vega Baja](/u/fotovoltaica-blog/placas-solares-tejado-chalet-calle-01.webp "Placas solares en el tejado de un chalet")
+![](/u/fotovoltaica-blog/placas-solares-tejado-chalet-calle-01.webp "Placas solares en el tejado de un chalet")
 
 ## Qué te toca hacer a ti
 
@@ -128,7 +128,7 @@ No necesariamente. Muchos propietarios dejan las llaves a un vecino o al adminis
 
 Sí, si se tiene en cuenta desde el principio. Por eso elegimos el inversor pensando en lo que puedas querer después. Si te lo estás planteando, mira [si merece la pena poner batería si ya tienes placas](https://cuprico.com/blog/merece-la-pena-bateria-solar-si-ya-tienes-placas/).
 
-*La información sobre trámites se ha revisado en fuentes oficiales en el momento de publicar. La normativa y los procedimientos municipales cambian: verifica siempre tu caso concreto.*
+_La información sobre trámites se ha revisado en fuentes oficiales en el momento de publicar. La normativa y los procedimientos municipales cambian: verifica siempre tu caso concreto._
 
 ## Empieza por la visita: es gratis
 

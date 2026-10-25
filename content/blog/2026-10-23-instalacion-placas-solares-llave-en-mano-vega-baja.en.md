@@ -1,18 +1,18 @@
 ---
 slug: instalacion-placas-solares-llave-en-mano-vega-baja
-title: "Turnkey solar for your villa on the Costa Blanca: what happens from the site visit to switch-on"
-img: /u/portadas-blog/instalacion-placas-solares-llave-en-mano-vega-baja.svg
+title: 'Turnkey solar for your villa on the Costa Blanca: what happens from the site visit to switch-on'
+img: /u/portadas-blog/instalacion-solar-en-hogar-mediterraneo.webp
 toc: true
-draft: true
+draft: false
 hide: false
-sum: "What a genuinely turnkey solar installation looks like for a villa in the Vega Baja (southern Costa Blanca): survey, design, installation, Spanish paperwork and switch-on, step by step, and what you actually need to do as a foreign owner."
+sum: 'What a genuinely turnkey solar installation looks like for a villa in the Vega Baja (southern Costa Blanca): survey, design, installation, Spanish paperwork and switch-on, step by step, and what you actually need to do as a foreign owner.'
 seo:
-  title: "Turnkey solar installation in Costa Blanca villas: step by step"
-  desc: "Want solar on your Costa Blanca villa without Spanish paperwork? What a turnkey installation covers, from survey to switch-on, even if you live abroad."
+  title: 'Turnkey solar installation in Costa Blanca villas: step by step'
+  desc: Want solar on your Costa Blanca villa without Spanish paperwork? What a turnkey installation covers, from survey to switch-on, even if you live abroad.
   noindex: false
 llms:
-  title: "Turnkey solar installation for expat villa owners in the Vega Baja (southern Costa Blanca, Alicante): the full process"
-  desc: "Guide by Cúprico (English-speaking electrical and solar installers based in San Pedro del Pinatar, covering the Region of Murcia and the Vega Baja in Alicante) for foreign and expat owners of villas in Torrevieja, Orihuela Costa, Pilar de la Horadada and golf resorts such as Las Colinas. Explains what a turnkey solar PV installation includes: site survey (possible without the owner present), design based on real electricity bills, written quote with brands and models, installation by a licensed installer, the electrical installation certificate, registration in the Valencian Community self-consumption registry and the surplus compensation contract under Royal Decree 244/2019 (systems with surplus up to 15 kW on urban land are exempt from grid access and connection permits). Covers what the owner needs to provide (bills, holder details, signed authorisations), remote monitoring for part-time residents, and what depends on each town hall and distribution company. Cautious approach: no fixed prices, savings or timelines."
+  title: 'Turnkey solar installation for expat villa owners in the Vega Baja (southern Costa Blanca, Alicante): the full process'
+  desc: 'Guide by Cúprico (English-speaking electrical and solar installers based in San Pedro del Pinatar, covering the Region of Murcia and the Vega Baja in Alicante) for foreign and expat owners of villas in Torrevieja, Orihuela Costa, Pilar de la Horadada and golf resorts such as Las Colinas. Explains what a turnkey solar PV installation includes: site survey (possible without the owner present), design based on real electricity bills, written quote with brands and models, installation by a licensed installer, the electrical installation certificate, registration in the Valencian Community self-consumption registry and the surplus compensation contract under Royal Decree 244/2019 (systems with surplus up to 15 kW on urban land are exempt from grid access and connection permits). Covers what the owner needs to provide (bills, holder details, signed authorisations), remote monitoring for part-time residents, and what depends on each town hall and distribution company. Cautious approach: no fixed prices, savings or timelines.'
 date: 2026-10-23 15:15:00
 author: j-tornero
 ---
@@ -39,7 +39,7 @@ Everything starts with a visit to the property. A photo is fine for a first idea
 
 Many owners are abroad when we visit. That is not a problem: a neighbour, a key holder or your property manager can let us in, and we send you photos and a summary afterwards.
 
-![Cúprico installer fitting solar panels on a villa roof in the area](/u/fotovoltaica-blog/instalador-montaje-placas-tejado-chalet-01.webp "Solar panels being fitted on a villa roof")
+![](/u/fotovoltaica-blog/instalador-montaje-placas-tejado-chalet-01.webp "Solar panels being fitted on a villa roof")
 
 ## Step 2: a design based on your real bills
 
@@ -60,9 +60,9 @@ The physical work is usually the shortest part. On a typical villa it takes a fe
 ::check:: Cabling, protections and connection to your consumer unit.
 ::check:: Monitoring app set up on your phone.
 
-All electrical work is carried out by a licensed installer (*instalador habilitado*). This is not a job for a handyman: it involves high-voltage direct current and your main consumer unit.
+All electrical work is carried out by a licensed installer (_instalador habilitado_). This is not a job for a handyman: it involves high-voltage direct current and your main consumer unit.
 
-![Inverter and protection panel in a Cúprico solar installation at a villa](/u/fotovoltaica-blog/inversor-huawei-cuadro-protecciones-pared-02.webp "Inverter and protection panel of a home solar system")
+![](/u/fotovoltaica-blog/inversor-huawei-cuadro-protecciones-pared-02.webp "Inverter and protection panel of a home solar system")
 
 ## Step 5: the Spanish paperwork (handled for you)
 
@@ -83,7 +83,7 @@ Once the system is installed and checked, it can start covering your own consump
 
 At handover we show you how to read the app: what you produce, what you use and what you export. For owners who spend months abroad, this is often the most valued part, because you can check your villa from home. And if something looks wrong, you have a named contact who answers in English.
 
-![Solar panels installed on the roof of a villa in the Vega Baja](/u/fotovoltaica-blog/placas-solares-tejado-chalet-calle-01.webp "Solar panels on a villa roof")
+![](/u/fotovoltaica-blog/placas-solares-tejado-chalet-calle-01.webp "Solar panels on a villa roof")
 
 ## What you will actually need to do
 
@@ -116,7 +116,7 @@ The installation itself usually takes a few days. The paperwork varies most, sin
 
 Yes, if it is planned from the start. That is why we choose the inverter with future additions in mind. If you are considering it, see [is a solar battery worth it if you already have panels?](https://cuprico.com/en/blog/merece-la-pena-bateria-solar-si-ya-tienes-placas/)
 
-*Information on procedures was checked against official sources at the time of publication. Regulations and local procedures change: always check your specific case.*
+_Information on procedures was checked against official sources at the time of publication. Regulations and local procedures change: always check your specific case._
 
 ## Start with a free survey
 
