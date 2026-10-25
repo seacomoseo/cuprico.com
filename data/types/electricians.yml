@@ -25,7 +25,7 @@ tpl:
   - file: servicios
   - file: nosotros
   - file: portfolio
-  - file: resenas
+  - file: resenas-electricidad
   - file: contacto
   list:
     color: none

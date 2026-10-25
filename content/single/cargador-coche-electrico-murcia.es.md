@@ -30,7 +30,7 @@ tpl:
   - file: servicios-cargadores-ev-murcia
   - file: proceso
   - file: faq-cargadores-ev-murcia
-  - file: resenas
+  - file: resenas-cargadores
   - file: portfolio
   - file: nosotros
   - file: contacto

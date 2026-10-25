@@ -34,7 +34,7 @@ tpl:
   - file: servicios-cargadores-ev
   - file: proceso
   - file: faq-cargadores-ev
-  - file: resenas
+  - file: resenas-cargadores
   - file: portfolio
   - file: nosotros
   - file: contacto

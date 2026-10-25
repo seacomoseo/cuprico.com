@@ -34,7 +34,7 @@ tpl:
   - file: servicios-boletin
   - file: proceso
   - file: faq-boletin
-  - file: resenas
+  - file: resenas-electricidad
   - file: portfolio
   - file: nosotros
   - file: contacto
