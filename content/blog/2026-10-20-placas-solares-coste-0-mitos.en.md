@@ -38,7 +38,7 @@ If any of these is vague in the contract, it is vague in real life too.
 
 ## 2. "Your electricity bill will drop to zero"
 
-Spanish law is quite specific here. Under the most common arrangement for homes, **simplified surplus compensation** (*compensación simplificada*), the energy you export is credited against your bill, but with a cap. [Article 14 of Royal Decree 244/2019](https://www.boe.es/buscar/act.php?id=BOE-A-2019-5089) states that the value of your exported energy can never exceed the value of the energy you take from the grid in the billing period, which cannot be longer than one month.
+Spanish law is quite specific here. Under the most common arrangement for homes, **simplified surplus compensation** (_compensación simplificada_), the energy you export is credited against your bill, but with a cap. [Article 14 of Royal Decree 244/2019](https://www.boe.es/buscar/act.php?id=BOE-A-2019-5089) states that the value of your exported energy can never exceed the value of the energy you take from the grid in the billing period, which cannot be longer than one month.
 
 What that means for you: exports reduce the **energy** part of your bill, but not the **standing charge** for your contracted power, the meter rental or taxes. So with simplified compensation your bill can fall a long way, but it does not disappear. And, as a rule, unused credit from one month does not roll over to the next.
 
@@ -58,7 +58,7 @@ A serious offer gives you **ranges based on your consumption** and explains the 
 
 More panels means more production, yes. But anything you do not use at home goes to the grid, usually valued lower and, as above, capped. Spain's main consumer association, OCU, recommends in its [solar panel analysis](https://www.ocu.org/fincas-y-casas/gestion/urbanismo-y-construccion/analisis/2022/05/poner-placas-solares-con-ocu) that you base the study on your actual consumption pattern and avoid oversizing.
 
-The right system is the one that **fits how you use the house**, with room to grow if you plan an EV, a heat pump or spending more months in Spain. Not the one that squeezes the most panels onto the roof.
+The right system is the one that **fits how you use the house**, with room to grow if you plan an EV, a heat pump or spending more months in Spain.  Not the one that squeezes the most panels onto the roof.
 
 ## 5. "We handle the grant, so it's almost free"
 
@@ -70,7 +70,7 @@ What a good installer can do is give you **complete paperwork** (invoices, the i
 
 Pressure is a poor sign in a purchase this size, and even more so if the contract is in a language you do not read comfortably. Take the time to compare, ask questions and, if needed, have the contract translated.
 
-It also helps to know that, in general, Spanish consumer law gives you a **cooling-off period** (*derecho de desistimiento*) for contracts signed **away from the seller's premises**, for example at your home. According to the public service [Consumo Responde](https://www.consumoresponde.es/art%C3%ADculos/derecho_de_desistimiento_en_contratos_distancia_y_contratos_fuera_de_establecimiento), it is **14 calendar days**, or **30 days** if the sale took place during a home visit you did not request, and you do not have to give a reason. There are nuances depending on the case, so if in doubt, check with a consumer office.
+It also helps to know that, in general, Spanish consumer law gives you a **cooling-off period** (_derecho de desistimiento_) for contracts signed **away from the seller's premises**, for example at your home. According to the public service [Consumo Responde](https://www.consumoresponde.es/artículos/derecho_de_desistimiento_en_contratos_distancia_y_contratos_fuera_de_establecimiento), it is **14 calendar days**, or **30 days** if the sale took place during a home visit you did not request, and you do not have to give a reason. There are nuances depending on the case, so if in doubt, check with a consumer office.
 
 ## Bonus: "No need for a visit, a photo of the roof is enough"
 
@@ -91,6 +91,7 @@ It is also where you find out whether anything in the existing wiring needs upda
 | Legalisation and certificate included | ::close:: | ::check:: |
 | Written warranties and a named contact if something fails | ::close:: | ::check:: |
 | Time to think it over without pressure | ::close:: | ::check:: |
+
 {.compare}
 
 ## Before you sign, ask for this
@@ -100,7 +101,7 @@ It is also where you find out whether anything in the existing wiring needs upda
 - The **brand and model** of every component, so you can compare like for like.
 - What is included: mounting, cabling, protections, legalisation and remote monitoring (essential if you spend months abroad).
 - **Written warranties** for the equipment and the workmanship, and who handles after-sales.
-- An installation carried out and certified by a **licensed installer** (*instalador habilitado*).
+- An installation carried out and certified by a **licensed installer** (_instalador habilitado_).
 - A contract and explanations you **fully understand**, in English if you need it.
 
 With this in hand, comparing quotes becomes much easier. And if a company will not give you something on this list, that is already an answer.
@@ -129,7 +130,7 @@ In general, contracts signed away from the seller's premises carry a 14-day cool
 
 It helps, but it is not always essential. Many owners arrange access through a neighbour or property manager. What matters is that someone actually inspects the roof and the electrics before you receive a firm quote.
 
-*The information in this article was checked against official sources at the time of publication. Regulations change and every case is different: always review the specific terms of your contract.*
+_The information in this article was checked against official sources at the time of publication. Regulations change and every case is different: always review the specific terms of your contract._
 
 ## Get a second opinion before you commit
 
