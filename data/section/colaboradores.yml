@@ -19,8 +19,8 @@ boxes:
   boxes:
   - img: /u/colaboradores/domoelectra.svg
     url: https://www.domoelectra.com/
-  - img: /u/colaboradores/extintorestarvi.svg
-    url: https://extintorestarvi.es/
+  # - img: /u/colaboradores/extintorestarvi.svg
+  #   url: https://extintorestarvi.es/
   # - img: /u/colaboradores/clubnauticovillasanpedro.svg
   #   url: https://clubnauticovillasanpedro.com/
   #   ratio: 1.75
