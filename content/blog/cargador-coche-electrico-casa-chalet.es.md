@@ -73,7 +73,6 @@ Las ayudas a la movilidad eléctrica cambian con frecuencia, así que te contamo
 
 - **Deducción en el IRPF por instalar un punto de recarga.** Tras el Real Decreto-ley 7/2026, convalidado por el Congreso el 26 de marzo de 2026, hay una deducción del 15 % por instalar un sistema de recarga en un inmueble de tu propiedad, con vigencia para 2026. Algunas fuentes indican una base máxima de 4.000 € (hasta 600 € de deducción). Hay condiciones: la instalación debe estar terminada y pagada en 2026, el pago no puede ser en efectivo, y la vivienda no puede usarse en una actividad económica. Consulta los detalles en la [Agencia Tributaria](https://sede.agenciatributaria.gob.es/) o con tu asesor.
 - **Si eres no residente**, esta deducción corresponde al IRPF, así que pregunta a tu asesor fiscal si te aplica en tu caso.
-- **Ayudas directas autonómicas o estatales** (tipo MOVES): dependen de que haya convocatoria abierta, y a veces se agotan o cambian de condiciones. Verifica siempre la convocatoria vigente en el organismo oficial antes de decidir.
 
 Esta información puede cambiar y cada caso es distinto: confírmalo siempre con fuentes oficiales o con tu gestor.
 

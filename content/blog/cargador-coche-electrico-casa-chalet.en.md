@@ -64,7 +64,6 @@ If your installation is old, the panel may need to be reviewed or updated first.
 EV incentives change often, so check the current position before deciding:
 
 - **Income tax (IRPF) deduction for a home charging point.** Under Royal Decree-Law 7/2026, validated by Congress on 26 March 2026, there is a 15% deduction for installing a charging system in a property you own, valid for 2026. Some sources mention a maximum base of €4,000 (up to €600 of deduction). Conditions apply: the installation must be completed and paid for in 2026, payment cannot be in cash, and the property cannot be used for business activity. This is an IRPF measure, so **if you are a non-resident taxpayer, ask your tax adviser whether it applies to you**. See the [Spanish Tax Agency](https://sede.agenciatributaria.gob.es/).
-- **Direct grants** (the MOVES type) depend on an open call, and conditions or funds can change. Always check the current call with the official body.
 
 This information may change and every case is different: please confirm with official sources or your adviser.
 
