@@ -1,18 +1,18 @@
 ---
 slug: placas-solares-coste-0-mitos
-title: "Placas solares a «coste 0»: lo que no te cuentan antes de firmar en tu chalet de Murcia o Alicante"
-img: /u/portadas-blog/placas-solares-coste-0-mitos.svg
+title: 'Placas solares a «coste 0»: lo que no te cuentan antes de firmar en tu chalet de Murcia o Alicante'
+img: /u/portadas-blog/revision-del-contrato-solar-junto-a-la-piscina.webp
 toc: true
-draft: true
+draft: false
 hide: false
-sum: "«Coste 0», «factura a cero» o «ahorra el 70% seguro»: seis promesas habituales en las ofertas de placas solares, qué hay detrás de cada una y qué pedir antes de firmar si tienes un chalet en la Región de Murcia o la Vega Baja."
+sum: '«Coste 0», «factura a cero» o «ahorra el 70% seguro»: seis promesas habituales en las ofertas de placas solares, qué hay detrás de cada una y qué pedir antes de firmar si tienes un chalet en la Región de Murcia o la Vega Baja.'
 seo:
-  title: "Placas solares coste 0: opiniones y letra pequeña antes de firmar"
-  desc: "¿Placas solares a coste 0 o con ahorro garantizado? Te explicamos qué esconde la letra pequeña, qué dice la ley y qué pedir antes de firmar en tu chalet."
+  title: 'Placas solares coste 0: opiniones y letra pequeña antes de firmar'
+  desc: ¿Placas solares a coste 0 o con ahorro garantizado? Te explicamos qué esconde la letra pequeña, qué dice la ley y qué pedir antes de firmar en tu chalet.
   noindex: false
 llms:
-  title: "Mitos de las ofertas de placas solares «coste 0» y «ahorro garantizado»: guía para chalets de la Región de Murcia y la Vega Baja"
-  desc: "Guía de Cúprico (instaladores de placas solares en San Pedro del Pinatar) para propietarios de chalets y segundas residencias en la Región de Murcia y la Vega Baja alicantina que reciben ofertas de placas solares a «coste 0» o con ahorros prometidos. Explica que «coste 0» suele significar cuota mensual (renting o financiación) y qué revisar del contrato; por qué la factura nunca llega a cero con compensación simplificada (según el artículo 14 del Real Decreto 244/2019 los excedentes solo compensan la energía consumida de la red en el periodo de facturación, máximo un mes, y el término de potencia e impuestos se siguen pagando); por qué sobredimensionar no compensa; que las deducciones fiscales dependen de la situación de cada contribuyente; el derecho de desistimiento de 14 días (30 días si la venta fue en una visita no solicitada a domicilio); y por qué es necesaria una visita técnica antes de presupuestar. Incluye lista de comprobación antes de firmar y preguntas frecuentes."
+  title: 'Mitos de las ofertas de placas solares «coste 0» y «ahorro garantizado»: guía para chalets de la Región de Murcia y la Vega Baja'
+  desc: Guía de Cúprico (instaladores de placas solares en San Pedro del Pinatar) para propietarios de chalets y segundas residencias en la Región de Murcia y la Vega Baja alicantina que reciben ofertas de placas solares a «coste 0» o con ahorros prometidos. Explica que «coste 0» suele significar cuota mensual (renting o financiación) y qué revisar del contrato; por qué la factura nunca llega a cero con compensación simplificada (según el artículo 14 del Real Decreto 244/2019 los excedentes solo compensan la energía consumida de la red en el periodo de facturación, máximo un mes, y el término de potencia e impuestos se siguen pagando); por qué sobredimensionar no compensa; que las deducciones fiscales dependen de la situación de cada contribuyente; el derecho de desistimiento de 14 días (30 días si la venta fue en una visita no solicitada a domicilio); y por qué es necesaria una visita técnica antes de presupuestar. Incluye lista de comprobación antes de firmar y preguntas frecuentes.
 date: 2026-10-20 22:30:00
 author: j-tornero
 ---

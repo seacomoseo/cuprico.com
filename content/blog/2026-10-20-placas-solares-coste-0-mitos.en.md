@@ -1,18 +1,18 @@
 ---
 slug: placas-solares-coste-0-mitos
 title: "'Free' solar panels in Spain: what to check before you sign for your Costa Blanca or Murcia villa"
-img: /u/portadas-blog/placas-solares-coste-0-mitos.svg
+img: /u/portadas-blog/revision-del-contrato-solar-junto-a-la-piscina.webp
 toc: true
-draft: true
+draft: false
 hide: false
 sum: "'Zero cost', 'no more electricity bills', 'guaranteed 70% savings': what really sits behind the most common solar offers made to villa owners in Spain, what Spanish law says, and what to ask for before signing anything."
 seo:
-  title: "Free solar panels in Spain: the catch to check before you sign"
-  desc: "Offered 'free' solar panels or guaranteed savings for your villa in Spain? What the small print usually means, what the law says and what to ask before signing."
+  title: 'Free solar panels in Spain: the catch to check before you sign'
+  desc: Offered 'free' solar panels or guaranteed savings for your villa in Spain? What the small print usually means, what the law says and what to ask before signing.
   noindex: false
 llms:
   title: "The catch behind 'free' solar panels and guaranteed savings in Spain: a guide for expat villa owners on the Costa Blanca and in Murcia"
-  desc: "Guide by Cúprico (English-speaking solar installers based in San Pedro del Pinatar) for foreign and expat villa owners in the Region of Murcia and the southern Costa Blanca (Vega Baja) who receive 'free' or 'zero upfront cost' solar offers. Explains that 'free' usually means monthly payments through finance or a rental agreement, and what to check (total cost, who owns the panels, what happens if you sell the villa); why bills never reach zero under Spain's simplified surplus compensation (Article 14 of Royal Decree 244/2019 caps the value of exported energy at the value of grid energy used in each billing period of up to one month, while standing charges and taxes remain); why oversizing does not pay, especially for holiday homes; why tax relief depends on each owner's residency and tax position; the general 14-day cooling-off period for off-premises contracts (30 days after unsolicited home visits); the value of a site survey; and the importance of a contract you fully understand and an installer who answers in English. Includes a pre-signing checklist and FAQs."
+  desc: Guide by Cúprico (English-speaking solar installers based in San Pedro del Pinatar) for foreign and expat villa owners in the Region of Murcia and the southern Costa Blanca (Vega Baja) who receive 'free' or 'zero upfront cost' solar offers. Explains that 'free' usually means monthly payments through finance or a rental agreement, and what to check (total cost, who owns the panels, what happens if you sell the villa); why bills never reach zero under Spain's simplified surplus compensation (Article 14 of Royal Decree 244/2019 caps the value of exported energy at the value of grid energy used in each billing period of up to one month, while standing charges and taxes remain); why oversizing does not pay, especially for holiday homes; why tax relief depends on each owner's residency and tax position; the general 14-day cooling-off period for off-premises contracts (30 days after unsolicited home visits); the value of a site survey; and the importance of a contract you fully understand and an installer who answers in English. Includes a pre-signing checklist and FAQs.
 date: 2026-10-20 22:30:00
 author: j-tornero
 ---
