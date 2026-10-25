@@ -103,6 +103,8 @@ services:
 
       Paneles premium y monitorización online.
 
+      Instaladores verificados de Huawei FusionSolar.
+
       [[::add:: Más información]](/instaladores-placas-solares/ "Instaladores de Placas Solares Fotovoltaicas en San Pedro del Pinatar")
 
   - id: cargadores-ev
@@ -113,9 +115,11 @@ services:
     img: /u/servicios/cargadores-ev.jpg
     icon: ev_charger
     md: |
-      Instalamos cargadores V2C en el día, desde 1.600 € IVA incluido.
+      Instaladores oficiales V2C.
 
-      En la Región de Murcia te deduces hasta el 100 % en la renta.
+      Instalamos cargadores V2C Trydan en el día, desde 1.600 € IVA incluido.
+
+      Si reside en la Región de Murcia, puede deducirse en la renta el 100 % de la instalación, hasta 4.000 €.
 
       [[::add:: Más información]](/cargadores-ev/ "Instalación de Cargadores para Coche Eléctrico")
 
@@ -166,12 +170,14 @@ services:
       - Estudio de producción, orientación y sombras con SolarEdge Designer.
       - Gestión de subvenciones y compensación de excedentes (RD 244/2019).
       - Paneles premium Tier-1, inversores híbridos y monitorización en la nube.
+      - Instaladores verificados de Huawei FusionSolar.
+      - Trabajamos con Huawei, Deye, GoodWe, JA Solar y Canadian Solar.
 
       Reduzca hasta un **70 % su factura eléctrica** y gane independencia energética.
 
-      Te damos 4 años de garantía en la mano de obra. Los materiales, según la garantía de cada fabricante.
+      Le damos 4 años de garantía en la mano de obra. Los materiales, según la garantía de cada fabricante.
 
-      [[Contáctanos]](#contacto)
+      [[Contáctenos]](#contacto)
 
   chargers_ev:
     hanchor: Instalación de Cargadores para Coches Eléctricos
@@ -511,6 +517,7 @@ us:
     - ::place:: Trabajamos en San Pedro del Pinatar, el Mar Menor y la Vega Baja para llegar rápidos y resolver a la primera.
     - ::star:: Más de 100 reseñas top avalan nuestra seriedad con particulares, comunidades y empresas.
     - ::verified:: Técnicos certificados, precios cerrados y 4 años de garantía: su tranquilidad está cubierta.
+    - ::solar_power:: Instaladores verificados de Huawei FusionSolar e instaladores oficiales V2C.
 
 
 team:
