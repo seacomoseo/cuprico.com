@@ -62,20 +62,15 @@ org:
   - /u/portfolio/acabados/2023-10-09-20-38-14.jpg
   as:
   - https://g.page/r/Ceu-g_MFBM04EAI
-  - https://g.page/r/CcPQveZNbvAnEBE
-  - https://g.page/r/CY5DclnvGgplEBM
-  - https://www.instagram.com/cupricoelectricalservices/
   - https://www.domoelectra.com/murcia/
   phones:
   - 641 47 94 90
   address:
-  - name: Cúprico Electrical Services ⚡
-    street: C. Agustín Escribano, 49
+  - name: Cúprico electrical & solar services
     pc: '30740'
     locality: San Pedro del Pinatar
     region: Murcia
     country: ES
-    geo: '{"type":"Point","coordinates":[-0.7821083,37.8215487]}'
     url: https://g.page/r/Ceu-g_MFBM04EAI
   areas:
   - San Pedro del Pinatar

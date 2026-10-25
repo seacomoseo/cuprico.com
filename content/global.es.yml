@@ -262,8 +262,6 @@ faq:
   title: FAQ
   sub: Preguntas Frecuentes
   faqs:
-  # - title: ¿En cuánto tiempo acude Technimur a una avería urgente?
-  #   md: Habitualmente en menos de 2 horas dentro de San Pedro del Pinatar y municipios limítrofes. En zonas periurbanas, el plazo máximo es de 4 horas.
   - title: ¿Qué certificaciones poseen sus técnicos?
     md: Todos nuestros instaladores están habilitados en Baja Tensión (categoría especialista) y emiten el Certificado de Instalación Eléctrica (CIE) conforme al REBT vigente.
   - title: ¿Realizan trabajos fuera del horario laboral?

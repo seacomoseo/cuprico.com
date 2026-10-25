@@ -6,7 +6,6 @@ boxes:
   align: center
 - dots:
   - url: https://g.page/r/Ceu-g_MFBM04EAI
-  - url: https://www.instagram.com/cupricoelectricalservices/
 - get:
   - from: footer.md
     to: md
