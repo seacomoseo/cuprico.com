@@ -348,149 +348,163 @@ reviews:
   title: Reviews
   sub: \+ 100 ratings of 5 ★
   more: More on Google
+  # Reseñas de placas solares y baterías (home y páginas solares)
   reviews:
+
+  - title: Bogdan P.
+    md: |
+      Cuprico installed a 7.5 kW solar system on the roof of my house in Torre de la Horadada, in August 2026.
+
+      They provided clear info and an offer, following the configuration I requested. Once terms and conditions were agreed, the work took two days, and the roof and terrace were left clean of debris and materials.
+
+      The Certificate of Installation came within one week, and the mobile app was working from day one. High level of professionalism.
+    rating: 5
+
+  - title: Mariano B.
+    md: |
+      Excellent service and unbeatable speed! 100% recommended.
+
+      Of the several companies I contacted, Cúprico was the fastest to send me a quote for a Luna 2000 battery. Best of all, just two days after signing the contract they had it installed at home.
+
+      The work was flawless, very professional and clean. The installers were also super polite and attentive. It's a pleasure to hire such efficient and careful companies. A 10 out of 10!
+    rating: 5
+
+  - title: Ludo V.
+    md: |
+      Very satisfied with Cúprico. We expanded our solar installation (extra panels plus batteries) and the result exceeded our expectations: we are now almost completely self-sufficient.
+
+      The team is very professional, attentive and always available to explain how the system works and answer any question. The after-installation follow-up is also excellent. Highly recommended!
+    rating: 5
+
+  - title: Peter C.
+    md: |
+      Fantastic experience of having solar panels installed at our property in Campoverde.
+
+      Great service and communication and very professional job. Highly recommend 👍
+    rating: 5
+
+  - title: Graeme W.
+    md: |
+      We've had solar installed by Jose and his work was perfect. All installed in 1 day.
+
+      Very professional and reasonably priced. Speaks perfect English too 😃
+    rating: 5
+
+  - title: Ronald B.
+    md: |
+      Very punctual, perfect result. They have done all electrics in and around our house in Pinar de Campoverde, including solar panels.
+
+      They have also been very helpful with installing apps and any questions afterwards as well!
+    rating: 5
+
+  # Reseñas de electricidad (electricistas por zona y boletín)
+  electric:
+
+  - title: Enrique T.
+    md: |
+      A very professional and trustworthy team. We called them because we had a problem with an old earthing installation, something that could be quite dangerous.
+
+      They came within a few hours, checked everything thoroughly, found the fault and clearly explained our options to fix it. In the end they fixed it quickly and we were very reassured knowing it was done properly.
+
+      It's a pleasure to find people like this: serious, efficient and giving straight advice. Highly recommended.
+    rating: 5
+
   - title: JuanaN.
     md: |
-      When one looks for a professional, they want them to be effective.
+      When you look for a professional, you want them to be effective. I was looked after by José María, and you can tell when someone knows their job.
 
-      I was attended by José María, and you can tell when someone knows their job, as has been the case with José María.
+      He answered every question I raised and went beyond the job I'd asked for.
 
-      He has attended and answered each of the doubts I have raised and has gone beyond the assignment made.
+      Fast from the contact form to the visit. Effective and quick repair.
 
-      Speed from contact through the form to the visit.
-
-      Efficiency and speed in the repair.
-
-      Price according to the work performed, but it's one of those times when you're also happy with everything in general.
-
-      I keep it as a reference, for whoever asks me.
+      Price in line with the work done, but it's one of those times when you're happy with everything overall. I'm keeping them as a reference for anyone who asks.
     rating: 5
-  - title: Roman L.
+
+  - title: David
     md: |
-      José and Juan Manuel did a wonderful job.
+      He has done two jobs for me in less than a year and both times he more than delivered.
 
-      They installed a Tesla Wall Connector with the balancing kit, which was top 👌 I chose them after comparing them with other electricians for inspiring confidence and high professionalism from the first moment, and they exceeded all my expectations until the end.
+      Always punctual, quick to respond and, most importantly, he does what he promises: if he says he's coming on a certain day, he turns up that day. No delays, no excuses, no tricks.
 
-      Both the installation itself and the communication from start to finish (even the quote is very detailed) and the efficiency, always available and reactive, taking sensible initiatives prioritizing my interest at all times.
-
-      For example, exhaustively advising on the appropriate balancing kit, and working on the discretion of the tubes in common areas.
-
-      They demonstrated extraordinary attention to detail these days, with humility in moments of doubt and actively informing themselves.
-
-      They kept their word without the slightest fault, the truth is I couldn't be more satisfied.
-
-      It's a pleasure to deal with people like this, I wish them the brilliant future they deserve and are earning with vivacity 💪
+      It's great to find professionals like this, serious, efficient and trustworthy. I'll definitely call him again when I need to.
     rating: 5
-  - title: Macu C.
-    md: |
-      Professional, attentive and at a good price.
 
-      Who gives more?
-      He knows what he's doing, quickly solves setbacks, is punctual and committed.
-
-      For me it has been a great discovery and I already have an electrician for everything I need, without a doubt he is a great professional! I recommend him 200%
-    rating: 5
-  - title: A V.
-    md: |
-      They have carried out the cable installation throughout the house and have installed and configured WiFi system throughout the home.
-
-      Very satisfied with the treatment and service provided.
-
-      José Maria works with great professionalism.
-
-      They resolve incidents that may arise in a masterful way.
-
-      Quality-price ratio totally balanced.
-
-      Very happy.
-
-      I will call them again for sure.
-    rating: 5
-  - title: Jaime M.
-    md: |
-      200% recommendable! I called him for an electrical problem and the same day he made room to come, go get the parts and fix the problem, and process the papers.
-
-      Also very kind, professional and efficient.
-
-      Thank you
-    rating: 5
-  - title: Gonzalo R.
-    md: |
-      Excellent service.
-
-      I called them and in very little time they came.
-
-      The repair they had to perform was of an excellent level, super fast and the price was optimal.
-
-      Highly recommendable!!!
-    rating: 5
   - title: Jackie B.
     md: |
-      I am very happy to have called this company. He came out 20 minutes after contact, as it was an emergency.
+      So happy I rang this company. Came out within 20 minutes of contact, as it was an emergency.
 
-      Efficient and courteous professional, solved the problem and restored my electrical supply.
-
-      I would highly recommend this company.
-
-      Very fair price
+      Efficient, courteous, professional, resolved the issue and returned my electric supply. I would highly recommend this company. Priced very fairly.
     rating: 5
-  - title: Joachim H.
+
+  - title: Jaime M.
     md: |
-      I was and still am excited about technimur's performance, while renovating the entire electrical installation of my newly bought house in San Pedro del Pinatar.
+      200% recommended! I called him about an electrical problem and he made time to come that same day, get the parts, fix the problem and handle the paperwork.
 
-      They are highly qualified people, very customer-oriented, friendly and with good knowledge of English.
-
-      They gave me a quote in time and money before placing the order and met the deadlines and costs 100%.
-
-      Really very impressive.
-
-      I will be happy to hire them again.
+      Also very friendly, professional and efficient. Thank you.
     rating: 5
-  - title: Nataliya S.
+
+  - title: Fco. Javier L.
     md: |
-      I found this company by chance, particularly José María.
+      Friendly, punctual and highly qualified staff.
 
-      I have not met Spaniards like this in 13 years of living in Spain.
+      They listen to your needs, assess the situation and deliver what you need. 100% recommended.
 
-      He is a person of new formation, such service, attention, professionalism, immediate solution to the problem.
-
-      I wish everyone in Spain were so professional!!! My surprise has no limits.
-
-      I will recommend this company to everyone, particularly José María, among my friends and strangers.
-
-      I would like to wish this company much luck and prosperity.
-
-      I am sure this will happen in the near future!!!
+      My family, friends and acquaintances now have electricians for life!
     rating: 5
-  - title: Roger H.
+
+  - title: Ajos
     md: |
-      Hello! Our electrical system in our apartment at Hacienda Riquelme went out yesterday Sunday.
+      Spectacular work. Attention to detail at its highest level.
 
-      There was a major problem in the basement, so we couldn't do anything.
-
-      We called José from Electricistas Technimur and he came even though it was Sunday and solved the problem.
-
-      We are very grateful and he did a very good job! Thank you very much!
+      They installed LEDs around the pool and the result is unbeatable. Friendliness and professionalism hand in hand. Perfect.
     rating: 5
+
+  - title: Macu C.
+    md: |
+      Professional, attentive and well priced. Who offers more?
+
+      He knows what he's doing, solves setbacks quickly, is punctual and committed.
+
+      For me he's been a great discovery and I now have an electrician for anything I need. Without a doubt a great professional! I recommend him 200%.
+    rating: 5
+
+  # Reseñas de cargadores de coche eléctrico
+  chargers_ev:
+
+  - title: Andrés A.
+    md: |
+      I contacted them to install a V2C Trydan charger for my electric car in my garage in San Cayetano, and it went really well.
+
+      From the first contact (super professional treatment) everything was super fast: within a week the charger was ready and working, and the installation was really, really well done.
+
+      I recommend them 100%, I'd give more stars if I could.
+    rating: 5
+
+  - title: Víctor B.
+    md: |
+      Great experience! I asked for a quote for an electric car charger and they came straight away to see the installation. I had the quote that same day.
+
+      We set a date and they were super reliable, everything went perfectly. 100% recommended, very neat and professional.
+    rating: 5
+
+  - title: Roman L.
+    md: |
+      José and Juan Manuel did a great job.
+
+      They installed a Tesla Wall Connector with the load balancing kit, and it turned out top 👌 I chose them after comparing them with other electricians because they inspired trust and high professionalism from the start, and they exceeded all my expectations right to the end.
+
+      Both the installation itself and the communication from start to finish (even the quote is very detailed) and their efficiency, always available and responsive, taking sensible initiatives with my interest first.
+
+      For example, giving thorough advice on the right balancing kit and taking real care to keep the conduits discreet in the shared areas.
+
+      They kept their word without the slightest failure, I honestly couldn't be more satisfied.
+    rating: 5
+
   - title: Neil S.
     md: |
-      Highly recommended!
-
-      Very efficient, friendly and professional service to remove and reinstall an electric vehicle charging unit after a move.
+      Highly recommended! Very efficient, friendly and professional service to remove and then reinstall an EV charging unit following a house move.
     rating: 5
-  - title: Jose J.
-    md: |
-      Unique and exquisite professionalism.
 
-      You can tell they like their work, plus they offer you:
-      Options to solutions to problems that may arise.
-
-      More professionals like this are needed.
-
-      Thank you and without hesitation I will call you again.
-
-      PS: Thanks José María and Pedro.
-    rating: 5
 
 
 portfolio:

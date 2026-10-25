@@ -381,25 +381,144 @@ reviews:
   title: Reseñas
   sub: \+ de 100 valoraciones de 5 ★
   more: Más en Google
+  # Reseñas de placas solares y baterías (home y páginas solares)
   reviews:
+
+  - title: Bogdan P.
+    md: |
+      Cúprico me instaló un sistema solar de 7,5 kW en el tejado de mi casa en Torre de la Horadada, en agosto de 2026.
+
+      Me dieron información clara y una oferta según la configuración que pedí. Una vez acordadas las condiciones, la obra duró dos días y dejaron el tejado y la terraza limpios de escombros y materiales.
+
+      El certificado de instalación llegó en una semana y la app del móvil funcionó desde el primer día. Un nivel de profesionalidad muy alto.
+    rating: 5
+
+  - title: Mariano B.
+    md: |
+      ¡Excelente servicio y rapidez insuperable! 100 % recomendables.
+
+      De varias empresas que consulté, Cúprico fue la más rápida en enviarme el presupuesto para una batería Luna 2000. Lo mejor de todo es que solo dos días después de firmar el contrato ya la tenían instalada en casa.
+
+      El trabajo fue impecable, muy profesional y limpio. Además, los operarios fueron súper educados y atentos. Da gusto contratar empresas tan eficientes y cuidadosas. ¡Un 10 de 10!
+    rating: 5
+
+  - title: Ludo V.
+    md: |
+      Muy satisfecho con Cúprico. Hemos ampliado nuestra instalación fotovoltaica (paneles adicionales más baterías) y el resultado ha superado nuestras expectativas: ahora somos casi totalmente autónomos.
+
+      El equipo es muy profesional, atento y siempre disponible para explicar el funcionamiento de la instalación y resolver cualquier duda. El seguimiento post-instalación también es excelente. ¡Totalmente recomendable!
+    rating: 5
+
+  - title: Peter C.
+    md: |
+      Una experiencia fantástica con la instalación de placas solares en nuestra casa de Campoverde.
+
+      Muy buen servicio y comunicación, y un trabajo muy profesional. Muy recomendable 👍
+    rating: 5
+
+  - title: Graeme W.
+    md: |
+      Jose nos instaló las placas solares y su trabajo fue perfecto. Todo instalado en 1 día.
+
+      Muy profesional y a un precio razonable. Además habla un inglés perfecto 😃
+    rating: 5
+
+  - title: Ronald B.
+    md: |
+      Muy puntuales, resultado perfecto. Nos han hecho toda la electricidad dentro y fuera de nuestra casa en Pinar de Campoverde, incluidas las placas solares.
+
+      ¡También nos ayudaron mucho a instalar las apps y con cualquier duda después!
+    rating: 5
+
+  # Reseñas de electricidad (electricistas por zona y boletín)
+  electric:
+
+  - title: Enrique T.
+    md: |
+      Un equipo muy profesional y de confianza. Les llamamos porque teníamos un problema con una instalación antigua de la toma de tierra, algo que podía ser bastante peligroso.
+
+      Vinieron en pocas horas, revisaron todo a fondo, encontraron la avería y nos explicaron con claridad qué opciones teníamos para solucionarlo. Al final lo arreglaron rápido y quedamos muy tranquilos sabiendo que estaba bien hecho.
+
+      Da gusto encontrar gente así: serios, eficaces y que además te asesoran sin rodeos. Totalmente recomendables.
+    rating: 5
 
   - title: JuanaN.
     md: |
-      Cuando uno busca un profesional, quiere que sea eficaz.
+      Cuando uno busca un profesional, quiere que sea eficaz. A mí me ha atendido José María, y se nota cuándo uno sabe de su trabajo.
 
-      A mí me ha atendido José María , y se nota cuándo uno sabe de su trabajo, como ha sido el caso de José María.
+      Ha atendido y respondido cada una de las dudas que le he planteado y ha ido más allá del encargo realizado.
 
-      Ha atendido y respondido cada una de las dudas que  le he planteado y ha ido más allá del encargo realizado.
+      Rapidez desde el contacto a través del formulario hasta la visita. Eficacia y rapidez en la reparación.
 
-      Rapidez desde el contacto a través del formulario hasta la visita.
-
-      Eficacia y rapidez en la reparación.
-
-      Precio acorde al trabajo realizado, pero es de esas veces que además estás contento con todo en general.
-
-      Lo guardo como referencia, para quien me pregunte.
+      Precio acorde al trabajo realizado, pero es de esas veces que además estás contento con todo en general. Lo guardo como referencia, para quien me pregunte.
     rating: 5
-    # img: https://lh3.googleusercontent.com/a/ACg8ocLJwzoCWfoz4xZgVLUp2WWwdFw29nhFJNlNFFWw1kJivAMpPw=s136
+
+  - title: David
+    md: |
+      Ha realizado dos trabajos para mí en menos de un año y en ambas ocasiones ha cumplido con creces.
+
+      Siempre ha sido puntual, rápido en atenderme y, lo más importante, cumple lo que promete: si dice que viene un día, ese día aparece. Nada de largas, ni excusas, ni engaños.
+
+      Da gusto encontrar profesionales así, serios, eficaces y de confianza. Sin duda volveré a contar con él cuando lo necesite.
+    rating: 5
+
+  - title: Jackie B.
+    md: |
+      Estoy muy contenta de haber llamado a esta empresa. Vinieron a los 20 minutos de contactar, ya que era una emergencia.
+
+      Eficientes, amables y profesionales: resolvieron el problema y me devolvieron la luz. Recomiendo mucho esta empresa. Precio muy justo.
+    rating: 5
+
+  - title: Jaime M.
+    md: |
+      ¡200 % recomendable! Le llamé por un problema eléctrico y en el día hizo hueco para venir, ir a por las piezas, arreglar el problema y tramitar los papeles.
+
+      Además muy amable, profesional y eficaz. Gracias.
+    rating: 5
+
+  - title: Fco. Javier L.
+    md: |
+      Personal amable, puntual y muy cualificado.
+
+      Escuchan tus necesidades, evalúan la situación y dan respuesta a la necesidad. Recomendable al 100 %.
+
+      ¡Mi familia, amigos y conocidos ya tienen electricistas de por vida!
+    rating: 5
+
+  - title: Ajos
+    md: |
+      Espectacular el trabajo realizado. El detalle y la minuciosidad en su máximo nivel.
+
+      Me han instalado leds alrededor de la piscina y el resultado es inmejorable. Amabilidad y profesionalidad de la mano. Perfecto.
+    rating: 5
+
+  - title: Macu C.
+    md: |
+      Profesional, atento y a buen precio. ¿Quién da más?
+
+      Sabe lo que hace, resuelve rápido los contratiempos, es puntual y comprometido.
+
+      Para mí ha sido un gran descubrimiento y ya tengo electricista para todo lo que necesite. ¡Sin duda es un gran profesional! Lo recomiendo 200 %.
+    rating: 5
+
+  # Reseñas de cargadores de coche eléctrico
+  chargers_ev:
+
+  - title: Andrés A.
+    md: |
+      Contacté con ellos para montar un cargador V2C Trydan para mi coche eléctrico en mi garaje de San Cayetano y la verdad que muy bien.
+
+      Desde que contacté (el trato súper profesional) todo fue súper rápido: en una semana tenía el cargador listo y funcionando y la instalación muy pero que muy bien hecha.
+
+      Lo recomiendo al 100 %, no le doy más estrellas porque no puedo.
+    rating: 5
+
+  - title: Víctor B.
+    md: |
+      ¡Experiencia genial! Pedí un presupuesto para un cargador de coche eléctrico y vinieron enseguida a ver la instalación. Ese mismo día tenía el presupuesto.
+
+      Quedamos un día y súper formales, todo salió a la perfección. Recomendables 100 %, muy finos y profesionales.
+    rating: 5
 
   - title: Roman L.
     md: |
@@ -411,143 +530,14 @@ reviews:
 
       Por ejemplo aconsejando exhaustivamente sobre el kit de balanceo adecuado, y currándose la discreción de los tubos en zonas comunes.
 
-      Demostraron una atención a los detalles extraordinaria en estos días, con humildad en momento de dudas e informándose activamente.
-
       Cumplieron sus palabras sin el más mínimo fallo, la verdad que no podría estar más satisfecho.
-
-      Da gusto tratar con personas así, les deseo el brillante futuro que merecen y se están ganando con vivacidad 💪
     rating: 5
-    # img: https://lh3.googleusercontent.com/a/ACg8ocKVBmNppFoVl0OjPfrPa3qelxl2h2OKqvmUQYq5B7ValzZwZQ=s136
-
-  - title: Macu C.
-    md: |
-      Profesional, atento y a buen precio .
-
-      Quien da más?
-      Sabe lo que hace, resuelve rápido los contratiempos, es puntual y comprometido.
-
-      Para mi ha sido un gran descubrimiento y ya tengo electricista para todo lo que necesite, sin duda es un gran profesional! Lo te recomiendo 200%
-    rating: 5
-    # img: https://lh3.googleusercontent.com/a/ACg8ocJer1HgR6grT2ers_qor0jBD9gVHHZ5VgkAd_DFG-5K-zjWJA=s136
-
-  - title: A V.
-    md: |
-      Me han realizado la instalación de cable por toda la casa y me han instalado y configurado sistema WiFi por toda la vivienda.
-
-      Muy satisfechos con el trato y el servicio prestados.
-
-      José Maria trabaja con una gran profesionalidad.
-
-      Resuelven de forma magistral las incidencias que puedan surgir.
-
-      Relación calidad precio totalmente equilibrada.
-
-      Muy contento.
-
-      Volveré a llamarlos con toda seguridad.
-    rating: 5
-    # img: https://lh3.googleusercontent.com/a/ACg8ocKaAwD9LZBoMqhdq-VXt_xS_5EsICpGRPZUR8e9ipSYkvqyGA=s136
-
-  - title: Jaime M.
-    md: |
-      200% recomendable! Le llamé por un problema eléctrico y en el día hizo hueco para venir, ir a por las piezas y arreglar el problema, y tramitar los papeles.
-
-      Además muy amable profesional y eficaz.
-
-      Gracias
-    rating: 5
-    # img: https://lh3.googleusercontent.com/a/ACg8ocIbw8pKU7c6B5JP8oDJw89z4GrpM5O_vPgUa37R5ihdsMuxFq0=s136
-
-  - title: Gonzalo R.
-    md: |
-      Excelente servicio.
-
-      Los he llamado y en muy poco tiempo han venido.
-
-      La reparación que tuvieron que realizar fue de un excelente nivel, super rápidos y el precio fue optimo.
-
-      Altamente recomendables!!!
-    rating: 5
-    # img: https://lh3.googleusercontent.com/a-/ALV-UjUzAT1v5_CI5ujnQanzZjj9zCtp_DvoABvXCE71nHxgHSZcZRqUBQ=s136
-
-  - title: Jackie B.
-    md: |
-      Estoy muy feliz de haber llamado a esta empresa.  Salió a los 20 minutos del contacto, ya que era una emergencia.
-
-      Profesional eficiente y cortés, resolvió el problema y me devolvió el suministro eléctrico.
-
-      Recomendaría ampliamente esta empresa.
-
-      Precio muy justo
-    rating: 5
-    # img: https://lh3.googleusercontent.com/a/ACg8ocLEdobH49dTs3c-NqLGKcbwUdXLyYkfksp5PSmpuU6SqEqUaA=s136
-
-  - title: Joachim H.
-    md: |
-      Estaba y todavía estoy emocionado con la realización de technimur, mientras renovaba toda la instalación eléctrica de mi casa recién comprada en San Pedro del Pinatar.
-
-      Son personas muy cualificadas, muy orientadas al cliente, amigables y con buenos conocimientos de inglés.
-
-      Me dieron un presupuesto en tiempo y dinero antes de realizar el pedido y cumplieron con los plazos y costes al 100%.
-
-      Realmente muy impresionante.
-
-      Estaré feliz de contratarlos nuevamente.
-    rating: 5
-    # img: https://lh3.googleusercontent.com/a/ACg8ocIxcBcz3ic9fZThzcSeGKni-YF4zPb0jTXTUNoEcL0Zq--0NQ=s136
-
-  - title: Nataliya S.
-    md: |
-      Encontré esta empresa por casualidad, en particular a José María.
-
-      No he conocido a españoles así en 13 años de vivir en España.
-
-      Es una persona de nueva formación, tal servicio, atención, profesionalismo, solución inmediata al problema.
-
-      ¡¡¡Ojalá todos en España fueran tan profesionales!!! Mi sorpresa no tiene límites.
-
-      Recomendaré esta empresa a todos, en particular a José María, entre mis amigos y extraños.
-
-      Me gustaría desearle mucha suerte y prosperidad a esta empresa.
-
-      ¡¡¡Estoy seguro de que esto sucederá en un futuro próximo!!!
-    rating: 5
-    # img: https://lh3.googleusercontent.com/a-/ALV-UjVS07iKKDRXiSQs5_MqCMwNQeGyv9e4LU_LYONsqwXg1sDOsM8w9w=s136
-
-  - title: Roger H.
-    md: |
-      ¡Hola! Nuestro sistema eléctrico en nuestro departamento en Hacienda Riquelme se cortó ayer domingo.
-
-      Hubo un problema importante en el sótano, así que no pudimos hacer nada.
-
-      Llamamos a José de Electricistas Technimur y él vino aunque era domingo y solucionó el problema.
-
-      ¡Estamos muy agradecidos y hizo un muy buen trabajo! ¡Muchas gracias!
-    rating: 5
-    # img: https://lh3.googleusercontent.com/a/ACg8ocKdZVGJhtt98tLRxAIl8zMNZNH7xhSohrmR4WaRPfROLyPUfA=s136
 
   - title: Neil S.
     md: |
-      ¡Muy recomendable!
-
-      Servicio muy eficiente, amable y profesional para retirar y reinstalar una unidad de carga para vehículos eléctricos tras una mudanza.
+      ¡Muy recomendable! Un servicio muy eficiente, amable y profesional para desmontar y volver a instalar un cargador de coche eléctrico tras una mudanza.
     rating: 5
-    # img: https://lh3.googleusercontent.com/a/ACg8ocIc0FqWl3LHPdRcSWAeT-dJbMEMEmCbc9JFOddIten52F2K8w=s136
 
-  - title: Jose J.
-    md: |
-      Profesionalidad única y exquisita.
-
-      Se nota que les gusta su trabajo, además te ofrecen:
-      Opciones a soluciones a los problemas que puedan surgir.
-
-      Más profesionales así hacen falta.
-
-      Gracias y sin dudarlo os volveré a avisar.
-
-      PD: Gracias Jose María y a Pedro.
-    rating: 5
-    # img: https://lh3.googleusercontent.com/a/ACg8ocLbhUB-wjm8GX3s7tWDErKjKTuzf9jVMXXkhbtv-jItEGdTtw=s136
 
 
 portfolio:
