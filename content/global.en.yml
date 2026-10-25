@@ -70,9 +70,9 @@ features:
   - icon: star
     title: \> 100
     sub: 5 ★ reviews
-  - icon: percent_discount
-    title: 99 %
-    sub: deliveries on 1st visit
+  - icon: star
+    title: 4.9★
+    sub: on Google
   - icon: verified
     title: 4 years
     sub: warranty
@@ -179,7 +179,7 @@ services:
     md: |
       Switch to **solar self-consumption in {{% get location %}}** with our certified photovoltaic solar panel installers.
 
-      - Production, orientation and shadow study with PV-Sol software.
+      - Production, orientation and shadow study with SolarEdge Designer.
       - Subsidy management and surplus compensation (RD 244/2019).
       - Tier-1 premium panels, hybrid inverters and cloud monitoring.
 
@@ -283,24 +283,24 @@ faq:
   - title: How long does the work warranty last?
     md: 4 years on labour. Materials come with each manufacturer's warranty.
   - title: What documentation will I receive after the work?
-    md: Signed quote, detailed work report, CIE or certificate if applicable and electronic invoice compatible with TicketBAI.
+    md: Signed quote, detailed work report, CIE or certificate if applicable and electronic invoice.
   - title: Do you offer preventive maintenance?
     md: Yes, we provide certificates of recognition and annual maintenance contracts to any company that needs them. Also in photovoltaic installations.
   - title: What brands do you use for panels and protections?
     md: Mainly Schneider Electric, ABB and Hager, all with IEC 60898-1 certification.
   - title: How to request a quote?
-    md: Complete the form or send a WhatsApp message. You will receive a call in less than 15 min to arrange technical visit date.
+    md: Complete the form or send a WhatsApp message. We call you the same day to arrange technical visit date.
   solar_plates:
   - title: How much photovoltaic power do I need for my home in Murcia-Alicante?
     md: We perform a free study of historical consumption and roof orientation to dimension the exact solar field, avoiding oversizing the installation and optimizing amortization.
   - title: Do solar panels generate energy on cloudy days or in winter?
     md: Yes. High-efficiency panels produce electricity with diffuse radiation; generation drops in winter but continues to cover part of the demand, reducing your bill all year round.
   - title: How long does the installation and self-consumption registration take?
-    md: Between 3 and 7 working days for the work; the self-consumption registration with surplus compensation is validated within a maximum of 30 days after delivery of documentation.
+    md: From 1 to 3 working days for the work; the self-consumption registration with surplus compensation is validated within a maximum of 30 days after delivery of documentation.
   - title: What warranties do you offer on panels and inverter?
     md: Panels, inverter and battery come with each manufacturer's warranty. Our labour is covered for 4 years.
   - title: What is the average amortization period in Murcia-Alicante?
-    md: With typical residential consumption, the investment is recovered in 4 - 6 years thanks to bill savings and surplus compensation.
+    md: It depends on your consumption and the installation. We calculate it for you in the free study.
   chargers_ev:
   - title: What charger is compatible with my electric car?
     md: We install the V2C Trydan, single-phase or three-phase, with a Type 2 connector (the European standard). It works with almost every brand - Tesla, BMW, Hyundai, Renault, MG, etc.
@@ -339,7 +339,7 @@ faq:
   - title: How long do they take to issue the certificate?
     md: From 1 day (without inspection) to 14 days if the OCA must verify the installation. Urgent requests available upon request.
   - title: What happens if the installation does not comply with REBT?
-    md: We deliver a correction report; if you perform the renovation with us, we discount half the cost of the second inspection.
+    md: We deliver a correction report.
   - title: Does the certificate expire?
     md: It has no expiration date, but a new one may be required after renovations that alter the power or after 20 years of installation age.
 
@@ -516,7 +516,7 @@ us:
   title: About Us
   sub: Authorized electricians at your service
   md: |
-    - ::place:: We work exclusively in San Pedro del Pinatar and surroundings to arrive quickly and solve the first time.
+    - ::place:: We work in San Pedro del Pinatar, the Mar Menor and the Vega Baja to arrive quickly and solve the first time.
     - ::star:: More than 100 top reviews endorse our seriousness with individuals, communities and companies.
     - ::verified:: Certified technicians, closed prices and 4-year warranty: your peace of mind is covered.
 

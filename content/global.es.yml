@@ -77,9 +77,9 @@ features:
   - icon: star
     title: '\> 100'
     sub: reseñas de 5 ★
-  - icon: percent_discount
-    title: '99 %'
-    sub: de entregas en 1ª visita
+  - icon: star
+    title: '4,9★'
+    sub: en Google
   - icon: verified
     title: 4 años
     sub: de garantía
@@ -198,7 +198,7 @@ services:
     md: |
       Pásese al **autoconsumo solar en {{% get location %}}** con nuestros instaladores de placas solares fotovoltaicas certificados.
 
-      - Estudio de producción, orientación y sombras con software PV-Sol.
+      - Estudio de producción, orientación y sombras con SolarEdge Designer.
       - Gestión de subvenciones y compensación de excedentes (RD 244/2019).
       - Paneles premium Tier-1, inversores híbridos y monitorización en la nube.
 
@@ -273,7 +273,7 @@ services:
       - Cambio de actividad en local comercial.
       - Modificación > 50 % de la potencia contratada.
 
-      Visitamos tu vivienda o negocio y realizamos las pruebas reglamentarias en la instalación para la posterior emisión del certificado seyado por industria de la comunidad autónoma.
+      Visitamos tu vivienda o negocio y realizamos las pruebas reglamentarias en la instalación para la posterior emisión del certificado sellado por industria de la comunidad autónoma.
 
       [[Contáctanos]](#contacto)
 
@@ -301,14 +301,12 @@ faq:
   #   md: Habitualmente en menos de 2 horas dentro de San Pedro del Pinatar y municipios limítrofes. En zonas periurbanas, el plazo máximo es de 4 horas.
   - title: ¿Qué certificaciones poseen sus técnicos?
     md: Todos nuestros instaladores están habilitados en Baja Tensión (categoría especialista) y emiten el Certificado de Instalación Eléctrica (CIE) conforme al REBT vigente.
-  # - title: ¿Puedo financiar la instalación de un cargador para vehículo eléctrico?
-  #   md: Sí. Gestionamos la subvención MOVES III y ofrecemos financiación a 12 o 24 meses sin comisión de apertura.
   - title: ¿Realizan trabajos fuera del horario laboral?
     md: No. Trabajamos de lunes a viernes de 8:00 a 20:00. Sábados y domingos, cerrado.
   - title: ¿Cuánto dura la garantía de los trabajos?
     md: 4 años en la mano de obra. Los materiales, según la garantía de cada fabricante.
   - title: ¿Qué documentación recibiré tras la obra?
-    md: Presupuesto firmado, parte de trabajo detallado, CIE o boletín si procede y factura electrónica compatible con TicketBAI.
+    md: Presupuesto firmado, parte de trabajo detallado, CIE o boletín si procede y factura electrónica.
   - title: ¿Ofrecen mantenimiento preventivo?
     md: Sí. Realizamos certificados de reconocimiento y contratos de mantenimiento anuales a cualquier empresa que así lo necesite. También en instalaciones fotovoltaicas.
   # - title: ¿Pueden integrar domótica con sistemas existentes?
@@ -316,7 +314,7 @@ faq:
   - title: ¿Qué marcas utilizan para cuadros y protecciones?
     md: Principalmente Schneider Electric, ABB y Hager, todas con certificación IEC 60898-1.
   - title: ¿Cómo solicitar un presupuesto?
-    md: Complete el formulario o envíe un mensaje de WhatsApp. Recibirá una llamada en menos de 15 min para concretar fecha de visita técnica.
+    md: Complete el formulario o envíe un mensaje de WhatsApp. Le llamamos el mismo día para concretar fecha de visita técnica.
 
   solar_plates:
   - title: ¿Cuánta potencia fotovoltaica necesito para mi vivienda en Murcia-Alicante?
@@ -324,13 +322,13 @@ faq:
   - title: ¿Las placas solares generan energía en días nublados o en invierno?
     md: Sí. Los paneles de alta eficiencia producen electricidad con radiación difusa; la generación baja en invierno pero sigue cubriendo parte de la demanda, reduciendo su factura todo el año.
   - title: ¿En cuánto tiempo se completa la instalación y alta de autoconsumo?
-    md: Entre 3 y 7 días laborables para la obra; el alta en autoconsumo con compensación de excedentes se valida en un máximo de 30 días tras la entrega de la documentación.
+    md: De 1 a 3 días laborables para la obra; el alta en autoconsumo con compensación de excedentes se valida en un máximo de 30 días tras la entrega de la documentación.
   - title: ¿Qué garantías ofrecen los paneles y el inversor?
     md: Los paneles, el inversor y la batería tienen la garantía de cada fabricante. Nuestra mano de obra está cubierta durante 4 años.
   # - title: ¿Puedo solicitar subvenciones o deducciones fiscales?
   #   md: Gestionamos las ayudas Next Generation y bonificaciones del IBI/ICIO municipales; además, la inversión es deducible en el IRPF hasta un 40 % en rehabilitación energética.
   - title: ¿Cuál es el periodo medio de amortización en Murcia-Alicante?
-    md: Con consumo residencial tipo, la inversión se recupera en 4 - 6 años gracias al ahorro en la factura y la compensación de excedentes.
+    md: Depende del consumo y de la instalación. Se lo calculamos en el estudio gratuito.
 
   chargers_ev:
   - title: ¿Qué cargador es compatible con mi coche eléctrico?
@@ -372,7 +370,7 @@ faq:
   - title: ¿Cuánto tardan en emitir el boletín?
     md: De 1 día (sin inspección) a 14 días si la OCA debe verificar la instalación. Urgencias disponibles bajo petición.
   - title: ¿Qué ocurre si la instalación no cumple el REBT?
-    md: Entregamos un informe de correcciones; si realiza la reforma con nosotros, descontamos la mitad del coste de la segunda inspección.
+    md: Entregamos un informe de correcciones.
   - title: ¿El boletín caduca?
     md: No tiene fecha de caducidad, pero puede requerirse uno nuevo tras reformas que alteren la potencia o tras 20 años de antigüedad de la instalación.
 
@@ -549,7 +547,7 @@ us:
   title: Nosotros
   sub: Electricistas autorizados a su servicio
   md: |
-    - ::place:: Trabajamos exclusivamente en San Pedro del Pinatar y alrededores para llegar rápidos y resolver a la primera.
+    - ::place:: Trabajamos en San Pedro del Pinatar, el Mar Menor y la Vega Baja para llegar rápidos y resolver a la primera.
     - ::star:: Más de 100 reseñas top avalan nuestra seriedad con particulares, comunidades y empresas.
     - ::verified:: Técnicos certificados, precios cerrados y 4 años de garantía: su tranquilidad está cubierta.
 
