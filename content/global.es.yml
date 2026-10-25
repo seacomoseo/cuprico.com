@@ -147,18 +147,6 @@ services:
 
       [[::add:: Más información]](/instaladores-placas-solares/ "Instaladores de Placas Solares Fotovoltaicas en San Pedro del Pinatar")
 
-  - id: alarmas-incendios
-    url: '#alarmas-incendios'
-    hanchor: Alarmas contra Incendios en {{ get location }}
-    title: Alarmas contra Incendios
-    sub: Detección temprana certificada
-    img: /u/servicios/alarmas-incendios.jpg
-    icon: e911_emergency
-    md: |
-      Sistemas interconectados y mantenimiento anual.
-
-      Proteja su vivienda o negocio desde hoy mismo.
-
   - id: reparaciones-electricas
     url: '#reparaciones-electricas'
     hanchor: Reparaciones Eléctricas en {{ get location }}
@@ -168,29 +156,6 @@ services:
     md: |
       - Técnico puntual y repuesto a bordo
       - Luz restablecida en una sola visita
-
-  - id: domotica
-    url: '#domotica'
-    title: Domótica
-    img: /u/servicios/domotica.jpg
-    icon: settings_remote
-    md: |
-      Controle iluminación, clima y seguridad desde su móvil.
-
-      Integración Wi-Fi y Zigbee sin obras.
-
-  - id: telecomunicaciones
-    url: '#telecomunicaciones'
-    title: Telecomunicaciones
-    img: /u/servicios/telecomunicaciones.jpg
-    icon: cell_tower
-    md: |
-      - Antenas Terrestres (TDT)
-      - Antenas Parabólicas
-      - Cableado de Red
-      - Puntos de Acceso
-      - Fibra Óptica
-      - En {{% get location %}}
 
   solar_plates:
     title: Servicios
@@ -308,9 +273,7 @@ faq:
   - title: ¿Qué documentación recibiré tras la obra?
     md: Presupuesto firmado, parte de trabajo detallado, CIE o boletín si procede y factura electrónica.
   - title: ¿Ofrecen mantenimiento preventivo?
-    md: Sí. Realizamos certificados de reconocimiento y contratos de mantenimiento anuales a cualquier empresa que así lo necesite. También en instalaciones fotovoltaicas.
-  # - title: ¿Pueden integrar domótica con sistemas existentes?
-  #   md: Trabajamos con Wi-Fi y Zigbee. Evaluamos la instalación actual y proponemos la pasarela adecuada para conservar dispositivos previos.
+    md: Sí. Realizamos certificados de reconocimiento y contratos de mantenimiento anuales a cualquier empresa que así lo necesite.
   - title: ¿Qué marcas utilizan para cuadros y protecciones?
     md: Principalmente Schneider Electric, ABB y Hager, todas con certificación IEC 60898-1.
   - title: ¿Cómo solicitar un presupuesto?

@@ -132,17 +132,6 @@ services:
       Premium panels and online monitoring.
 
       [[::add:: More info]](/en/solar-panel-installers/ "Installers of Photovoltaic Solar Panels in San Pedro del Pinatar")
-  - id: fire-alarms
-    url: '#fire-alarms'
-    hanchor: Fire Alarms in {{ get location }}
-    title: Fire Alarms
-    sub: Certified early detection
-    img: /u/servicios/alarmas-incendios.jpg
-    icon: e911_emergency
-    md: |
-      Interconnected systems and annual maintenance.
-
-      Protect your home or business from today.
   - id: electrical-repairs
     url: '#electrical-repairs'
     hanchor: Electrical Repairs in {{ get location }}
@@ -152,27 +141,6 @@ services:
     md: |
       - Technician on time and spare parts on board
       - Power restored in a single visit
-  - id: home-automation
-    url: '#home-automation'
-    title: Home Automation
-    img: /u/servicios/domotica.jpg
-    icon: settings_remote
-    md: |
-      Control lighting, climate and security from your mobile.
-
-      Wi-Fi and Zigbee integration without construction work.
-  - id: telecommunications
-    url: '#telecommunications'
-    title: Telecommunications
-    img: /u/servicios/telecomunicaciones.jpg
-    icon: cell_tower
-    md: |
-      - Terrestrial Antennas (DTT)
-      - Satellite Antennas
-      - Network Cabling
-      - Access Points
-      - Optical Fiber
-      - In {{% get location %}}
   solar_plates:
     title: Services
     sub: Solar Panels
@@ -285,7 +253,7 @@ faq:
   - title: What documentation will I receive after the work?
     md: Signed quote, detailed work report, CIE or certificate if applicable and electronic invoice.
   - title: Do you offer preventive maintenance?
-    md: Yes, we provide certificates of recognition and annual maintenance contracts to any company that needs them. Also in photovoltaic installations.
+    md: Yes, we provide certificates of recognition and annual maintenance contracts to any company that needs them.
   - title: What brands do you use for panels and protections?
     md: Mainly Schneider Electric, ABB and Hager, all with IEC 60898-1 certification.
   - title: How to request a quote?

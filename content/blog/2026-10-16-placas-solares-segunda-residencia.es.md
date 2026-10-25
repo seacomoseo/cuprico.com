@@ -84,7 +84,7 @@ En la puesta en marcha dejamos la aplicación configurada y a tu nombre, y si qu
 
 Una instalación bien hecha lleva sus protecciones en corriente continua y en alterna, y el inversor está obligado a desconectarse si se va la luz de la red, precisamente por seguridad. Con la casa cerrada no tienes que hacer nada especial.
 
-Lo que sí recomendamos en segunda residencia es una **revisión periódica por un profesional**, sobre todo en casas cerca del mar, donde la salinidad castiga conexiones y estructuras. Y una norma que no admite excepciones: nada de abrir cuadros, desconectar el inversor o tocar cableado por tu cuenta. Para eso estamos.
+Lo que sí recomendamos en segunda residencia es una **revisión periódica por un profesional**, sobre todo en casas cerca del mar, donde la salinidad castiga conexiones y estructuras. Y una norma que no admite excepciones: nada de abrir cuadros, desconectar el inversor o tocar cableado por tu cuenta.
 
 ## Duda 6: "¿Cómo aprovecho más lo que producen mientras no estoy?"
 

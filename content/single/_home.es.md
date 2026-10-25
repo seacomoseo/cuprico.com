@@ -49,8 +49,6 @@ org:
   - /u/portfolio/cuadros/2021-03-02-11-46-55.jpg
   - /u/portfolio/otros/2024-07-31-20-06-48.jpg
   - /u/portfolio/otros/2023-11-18-12-56-03.jpg
-  - /u/portfolio/alarmas-incendios/2023-11-14-12-45-39.jpg
-  - /u/portfolio/alarmas-incendios/2023-12-05-10-28-18.jpg
   - /u/portfolio/cargadores-vehiculos/2024-08-23-20-17-36.jpg
   - /u/portfolio/cargadores-vehiculos/2024-04-12-10-24-29.jpg
   - /u/portfolio/placas-solares/2024-12-15-13-55-49.jpg
@@ -103,11 +101,8 @@ org:
   prices: €€
   services:
   - title: Instalaciones Eléctricas
-  - title: Cargadoresde Vehículos Eléctricos
+  - title: Cargadores de Vehículos Eléctricos
   - title: Boletín Eléctrico
   - title: Instalación de Placas Solares
-  - title: Alarmas contra Incendios
   - title: Reparaciones Eléctricas
-  - title: Domótica
-  - title: Telecomunicaciones
 ---

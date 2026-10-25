@@ -12,7 +12,7 @@ seo:
   noindex: false
 llms:
   title: Solar panels on a holiday home in Spain for owners who live abroad (Murcia and southern Costa Blanca)
-  desc: Guide by Cúprico, solar installers based in San Pedro del Pinatar, for foreign and Spanish owners of second homes and holiday villas in the Region of Murcia and the Vega Baja (southern Costa Blanca) who only spend part of the year in Spain. Covers what an empty house still consumes, how surplus energy is credited under Spain's simplified net-billing scheme (Royal Decree 244/2019), how to size a system to the owner's calendar, remote monitoring from abroad, safety and maintenance near the coast, which loads to schedule during sunshine hours, when a battery is worth it, and what changes if the owner moves to Spain full time. Cautious tone, no fixed savings figures.
+  desc: Guide by Cúprico, solar installers based in San Pedro del Pinatar, for foreign and Spanish owners of second homes and holiday villas in the Region of Murcia and the Vega Baja (southern Costa Blanca) who only spend part of the year in Spain. Covers what an empty house still consumes, how surplus energy is credited under Spain's simplified net-billing scheme (Royal Decree 244/2019), how to size a system to the owner's calendar, remote monitoring from abroad, safety near the coast, which loads to schedule during sunshine hours, when a battery is worth it, and what changes if the owner moves to Spain full time. Cautious tone, no fixed savings figures.
 date: 2026-10-16 18:00:00
 mod: 2026-10-20 21:40:00
 author: j-tornero
@@ -84,7 +84,7 @@ At commissioning we set the app up in your name and, if you wish, keep installer
 
 A properly installed system has protection on both the DC and AC sides, and the inverter is required to disconnect automatically if the grid goes down, precisely for safety reasons. You don't need to do anything special when you close the house.
 
-What we do recommend for holiday homes is a **periodic inspection by a qualified installer**, especially near the sea, where salt air is hard on connections and mounting structures. And one rule with no exceptions: never open the consumer unit, switch off the inverter or touch any wiring yourself, and don't ask a neighbour to either. That is our job.
+What we do recommend for holiday homes is a **periodic inspection by a qualified installer**, especially near the sea, where salt air is hard on connections and mounting structures. And one rule with no exceptions: never open the consumer unit, switch off the inverter or touch any wiring yourself, and don't ask a neighbour to either.
 
 ## "Who answers if something goes wrong while I'm abroad?"
 
