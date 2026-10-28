@@ -81,7 +81,7 @@ landing:
       | Certifications | CE, IEC 61851-1 |
       | Manufacturer warranty | 4 years for homes |
 
-      Licensed installers, Tesla Energy certified and official V2C installers. Installed in one day, fixed quote within 24 hours and a **4-year labour warranty**. English-speaking team.
+      Licensed installers, Tesla Energy certified. Installed in one day, fixed quote within 24 hours and a **4-year labour warranty**. English-speaking team.
 
       [[Get a free quote]](#contacto)
 
@@ -92,8 +92,6 @@ landing:
     md: Usually not. With dynamic power management, the charger slows down when your home is using more, so your main switch doesn't trip. We check this when we look at your fuse box.
   - title: Can it go in a community garage?
     md: Yes. The community doesn't need to approve it; you just need to let the president or the administrator know beforehand. Note that Tesla gives a 4-year warranty for homes and 1 year for uses it considers commercial, such as community garages.
-  - title: Wall Connector or V2C?
-    md: We install both. We'll explain the differences for your situation and you choose the one that suits you best.
   - title: How long does it take?
     md: It's installed in one day. We then process the certificate as soon as possible.
   - title: Is there any financial help?

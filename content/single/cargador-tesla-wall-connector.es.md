@@ -81,7 +81,7 @@ landing:
       | Certificaciones | CE, IEC 61851-1 |
       | Garantía del fabricante | 4 años en vivienda |
 
-      Instaladores autorizados, certificados de Tesla Energy y oficiales de V2C. Instalación en el día, presupuesto cerrado en 24 horas y **4 años de garantía en la mano de obra**. Te atendemos en español e inglés.
+      Instaladores autorizados y certificados de Tesla Energy. Instalación en el día, presupuesto cerrado en 24 horas y **4 años de garantía en la mano de obra**. Te atendemos en español e inglés.
 
       [[Pide presupuesto]](#contacto)
 
@@ -92,8 +92,6 @@ landing:
     md: Normalmente no. Con la gestión dinámica de potencia, el cargador baja la carga cuando tu casa está gastando más, para que no salte el automático. Lo vemos al revisar tu cuadro.
   - title: ¿Se puede instalar en un garaje comunitario?
     md: Sí. No hace falta que la comunidad lo apruebe, basta con avisar antes al presidente o al administrador. Ten en cuenta que Tesla da 4 años de garantía en viviendas y 1 año en usos que considera comerciales, como los garajes comunitarios.
-  - title: ¿Wall Connector o V2C?
-    md: Instalamos los dos. Te explicamos las diferencias con tu caso concreto y eliges el que más te encaje.
   - title: ¿Cuánto se tarda?
     md: Se instala en el día. El certificado lo tramitamos después, lo antes posible.
   - title: ¿Hay alguna ayuda?

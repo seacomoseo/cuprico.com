@@ -87,7 +87,7 @@ landing:
       | Spanish regulations | RD 1699/2011, RD 647/2020, RD 413/2014, NTS SEPE, UNE 217002 |
       | Manufacturer warranty | 10 years |
 
-      Licensed installers, Tesla Energy certified and Huawei verified. We call you back the same day, handle all the paperwork and give a **4-year labour warranty**. English-speaking team.
+      Licensed installers, Tesla Energy certified. We call you back the same day, handle all the paperwork and give a **4-year labour warranty**. English-speaking team.
 
       [[Get a free quote]](#contacto)
 

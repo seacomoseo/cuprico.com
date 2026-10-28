@@ -87,7 +87,7 @@ landing:
       | Normativa española | RD 1699/2011, RD 647/2020, RD 413/2014, NTS SEPE, UNE 217002 |
       | Garantía del fabricante | 10 años |
 
-      Instaladores autorizados, certificados de Tesla Energy y verificados de Huawei. Te llamamos el mismo día, nos encargamos de la legalización y damos **4 años de garantía en la mano de obra**. Te atendemos en español e inglés.
+      Instaladores autorizados y certificados de Tesla Energy. Te llamamos el mismo día, nos encargamos de la legalización y damos **4 años de garantía en la mano de obra**. Te atendemos en español e inglés.
 
       [[Pide presupuesto]](#contacto)
 

@@ -2,6 +2,7 @@ name: Tesla ➡️ Certificado
 id: certificado
 size: sm
 color: white
+hide_shadow: true
 boxes:
 - md_align: left
   get:
