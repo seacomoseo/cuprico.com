@@ -1,0 +1,15 @@
+name: Tesla ➡️ Certificado
+id: certificado
+size: sm
+color: white
+boxes:
+- md_align: left
+  get:
+  - from: landing.intro.hanchor
+    to: hanchor
+  - from: landing.intro.title
+    to: title
+  - from: landing.intro.sub
+    to: sub
+  - from: landing.intro.md
+    to: md

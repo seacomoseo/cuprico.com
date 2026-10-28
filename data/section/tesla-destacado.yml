@@ -1,0 +1,15 @@
+name: Tesla ➡️ Destacado
+id: tesla-home
+size: sm
+color: white
+boxes:
+- md_align: left
+  get:
+  - from: landing.highlight.hanchor
+    to: hanchor
+  - from: landing.highlight.title
+    to: title
+  - from: landing.highlight.sub
+    to: sub
+  - from: landing.highlight.md
+    to: md
