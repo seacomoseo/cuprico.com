@@ -1,14 +1,14 @@
 ---
-slug: tesla-wall-connector-charger
-title: Tesla Wall Connector Charger
+slug: wall-connector
+title: Wall Connector
 seo:
-  title: Tesla Wall Connector Charger | Tesla Energy Certified Installers
-  desc: We install the Tesla Wall Connector at homes and garages in Orihuela Costa, Torrevieja and the Mar Menor. Works with any EV. Get a free quote.
-img: /u/tesla/whatsapp-image-2026-10-17-at-10-21-28.webp
+  title: Wall Connector in Orihuela Costa, Torrevieja and the Mar Menor | Tesla Energy Certified Installers
+  desc: We install Wall Connector at homes and garages in Orihuela Costa, Torrevieja and the Mar Menor. Works with any EV with a Type 2 inlet. Get a free quote.
+img: /u/tesla/gen3_hpwc_3-1.webp
 
 base: service
 service_types:
-- Tesla Wall Connector Charger Installation
+- Wall Connector Installation
 service_areas:
 - San Pedro del Pinatar
 - Lo Pagan
@@ -23,9 +23,9 @@ service_areas:
 - Campoamor
 - Torrevieja
 header:
-  bi: /u/tesla/tesla-powerwall-3-carga-coche.webp
-  hanchor: Tesla Wall Connector Charger in Orihuela Costa, Torrevieja and the Mar Menor
-  md: Tesla Wall Connector Charger in Orihuela Costa, Torrevieja and the Mar Menor
+  bi: /u/tesla/gen3_hpwc_3-1.webp
+  hanchor: Wall Connector in Orihuela Costa, Torrevieja and the Mar Menor
+  md: Wall Connector in Orihuela Costa, Torrevieja and the Mar Menor
 
 landing:
   intro:
@@ -33,26 +33,26 @@ landing:
     title: Wall Connector
     sub: Tesla Energy Certified Installers
     md: |
-      We install the Tesla Wall Connector at villas, homes and garages across San Pedro del Pinatar, Pilar de la Horadada, Orihuela Costa and Torrevieja. It's up and running in one day and we handle the certificate.
+      We install Wall Connector at villas, homes and garages across San Pedro del Pinatar, Pilar de la Horadada, Orihuela Costa and Torrevieja. It's up and running in one day and we handle the certificate.
 
-      It charges any electric car, not just Teslas, and with solar panels and a Powerwall you can charge it with your surplus solar.
+      It charges any electric car, not just Teslas. With solar panels and Powerwall, you can charge it with your surplus solar.
 
       ![Tesla Energy Certified Installer](/u/tesla/tesla-energy-certified-installer.svg)
 
   benefits:
-    hanchor: Benefits of the Tesla Wall Connector
+    hanchor: Benefits of Wall Connector
     title: Benefits
-    sub: What the Wall Connector gives you
+    sub: What Wall Connector gives you
     md: |
-      - ::ev_charger:: **Works with any electric car.** Type 2 connector, compatible with Tesla and every other brand.
+      - ::ev_charger:: **Works with any electric car with a Type 2 inlet**, Tesla or other brands.
       - ::bolt:: **Up to 7.4 kW single-phase and 22 kW three-phase**, depending on your supply and your car.
-      - ::power:: **Dynamic power management (optional).** With a meter in your fuse box, the charger adjusts to what your home is using so your main switch doesn't trip.
+      - ::power:: **Dynamic power management (optional).** With a meter in your fuse box, Wall Connector adjusts to what your home is using so your main switch doesn't trip.
       - ::add:: **Several cars, one supply.** Up to 6 Wall Connectors can share power.
       - ::shield:: **Indoor and outdoor**, IP55 and IK08 rated, from –30 °C to 50 °C.
       - ::solar_power:: **With solar and Powerwall**, charge your car with surplus sunshine instead of exporting it.
 
   highlight:
-    hanchor: Tesla Wall Connector installed by Cúprico
+    hanchor: Wall Connector installed by Cúprico
     title: Installed by us
     sub: A Wall Connector at a local home
     md: |
@@ -60,13 +60,15 @@ landing:
 
       In the Tesla app you can schedule charging for the hours when electricity is cheapest.
 
-      ![Tesla Wall Connector installed by Cúprico](/u/tesla/whatsapp-image-2026-10-17-at-10-21-28.webp)
+      ![Wall Connector installed by Cúprico](/u/tesla/whatsapp-image-2026-10-17-at-10-21-28.webp)
 
   specs:
-    hanchor: Tesla Wall Connector technical specifications
+    hanchor: Wall Connector technical specifications
     title: Specifications
     sub: Wall Connector datasheet
     md: |
+      ![Wall Connector](/u/tesla/gen3_hpwc_1-2.webp)
+
       | | Wall Connector |
       |---|---|
       | Supply | Single-phase 230 V or three-phase 400 V |
@@ -87,9 +89,9 @@ landing:
 
   faqs:
   - title: Will it work with my car if it isn't a Tesla?
-    md: Yes. It has a Type 2 connector, the European standard, and by default it charges any electric car.
+    md: Yes, if your car has a Type 2 inlet, the European standard. By default, Wall Connector charges any electric car with that inlet.
   - title: Do I need to increase my contracted power?
-    md: Usually not. With dynamic power management, the charger slows down when your home is using more, so your main switch doesn't trip. We check this when we look at your fuse box.
+    md: Usually not. With dynamic power management, Wall Connector slows down when your home is using more, so your main switch doesn't trip. We check this when we look at your fuse box.
   - title: Can it go in a community garage?
     md: Yes. The community doesn't need to approve it; you just need to let the president or the administrator know beforehand. Note that Tesla gives a 4-year warranty for homes and 1 year for uses it considers commercial, such as community garages.
   - title: How long does it take?
@@ -108,7 +110,5 @@ tpl:
   - file: tesla-specs
   - file: proceso
   - file: tesla-faq
-  - file: resenas-cargadores
-  - file: nosotros
   - file: contacto
 ---

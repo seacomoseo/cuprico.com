@@ -1,14 +1,14 @@
 ---
-slug: tesla-powerwall-3-battery
-title: Tesla Powerwall 3 Battery
+slug: powerwall-3
+title: Powerwall 3
 seo:
-  title: Tesla Powerwall 3 Battery | Tesla Energy Certified Installers
+  title: Powerwall 3 in Orihuela Costa, Torrevieja and the Mar Menor | Tesla Energy Certified Installers
   desc: We install Powerwall 3 in Orihuela Costa, Torrevieja and the Mar Menor. Tesla Energy Certified Installers, paperwork included. Get a free quote.
 img: /u/tesla/tesla-powerwall-3-carga-coche.webp
 
 base: service
 service_types:
-- Tesla Powerwall Battery Installation
+- Powerwall 3 Installation
 service_areas:
 - San Pedro del Pinatar
 - Lo Pagan
@@ -24,8 +24,8 @@ service_areas:
 - Torrevieja
 header:
   bi: /u/tesla/tesla-powerwall-3-carga-coche.webp
-  hanchor: Tesla Powerwall 3 Battery in Orihuela Costa, Torrevieja and the Mar Menor
-  md: Tesla Powerwall 3 Battery in Orihuela Costa, Torrevieja and the Mar Menor
+  hanchor: Powerwall 3 in Orihuela Costa, Torrevieja and the Mar Menor
+  md: Powerwall 3 in Orihuela Costa, Torrevieja and the Mar Menor
 
 landing:
   intro:
@@ -35,19 +35,19 @@ landing:
     md: |
       We install Powerwall 3 in villas and homes across San Pedro del Pinatar, Pilar de la Horadada, Orihuela Costa and Torrevieja, with new solar panels or added to your existing system.
 
-      Powerwall 3 stores energy from your solar panels or the grid so you can use it when the sun isn't shining or electricity is expensive. You pay less, rely less on the grid and, with backup equipment, keep your home powered during an outage.
+      Powerwall 3 stores energy from your solar panels or the grid so you can use it when the sun isn't shining or electricity is expensive. Powerwall 3 can help you lower your energy bills and rely less on the grid. With Backup Gateway 2, you can keep your home powered during an outage.
 
       ![Tesla Energy Certified Installer](/u/tesla/tesla-energy-certified-installer.svg)
 
   benefits:
-    hanchor: Benefits of the Tesla Powerwall 3 battery
+    hanchor: Benefits of Powerwall 3
     title: Benefits
     sub: What Powerwall 3 gives you
     md: |
-      - ::solar_power:: **Battery and solar inverter in one unit.** Your panels connect straight to the Powerwall 3.
+      - ::solar_power:: **Battery and solar inverter in one unit.** Your panels connect straight to Powerwall 3.
       - ::power:: **13.5 kWh of usable energy**, enough for most homes.
       - ::bolt:: **Starts heavy loads** such as pool pumps and air conditioning, with 185 A of starting capacity.
-      - ::add:: **Grows with you:** up to 4 Powerwall 3 units or 3 expansion units, up to 94.5 kWh.
+      - ::add:: **Grows with you:** up to 4 Powerwall 3 and 3 Powerwall 3 Expansion units, up to 94.5 kWh.
       - ::shield:: **Indoor and outdoor**, with IP67-protected batteries and electronics, from –20 °C to 50 °C.
       - ::verified:: **10-year manufacturer warranty**, with an internet connection.
 
@@ -62,16 +62,18 @@ landing:
 
       - **Set a goal.** In the Tesla app you choose whether to prioritise savings or solar self-consumption, and how much energy to keep in reserve for an outage.
       - **Maximise your savings.** Opticaster looks at your usage, your solar production and electricity prices, and decides when to use energy from your panels, your battery or the grid.
-      - **Charge your car with sunshine.** Surplus solar can go to your EV charger instead of the grid. See our [Tesla Wall Connector](/en/tesla-wall-connector-charger/) page.
+      - **Charge your car with sunshine.** Surplus solar can go to your EV charger instead of the grid. See our [Wall Connector](/en/wall-connector/) page.
       - **Everything in the app.** See in real time what your system is doing and how your home uses energy.
 
       ![Tesla Home in the Tesla app](/u/tesla/tesla-home-portada.webp)
 
   specs:
-    hanchor: Tesla Powerwall 3 technical specifications
+    hanchor: Powerwall 3 technical specifications
     title: Specifications
     sub: Powerwall 3 datasheet
     md: |
+      ![Powerwall 3](/u/tesla/tesla_powerwall3_row_34_hero.webp)
+
       | | Powerwall 3 |
       |---|---|
       | Usable energy | 13.5 kWh |
@@ -80,7 +82,7 @@ landing:
       | Maximum solar input | 18 kW, 3 MPPT |
       | Solar-to-home efficiency | 97.5 % |
       | Starting capacity | 185 A |
-      | Expansion | Up to 4 Powerwall 3 or 3 expansion units (94.5 kWh) |
+      | Expansion | Up to 4 Powerwall 3 and 3 Powerwall 3 Expansion units (94.5 kWh) |
       | Operating temperature | –20 °C to 50 °C |
       | Protection | IP67 (batteries and electronics) · IP55 (wiring) |
       | Size and weight | 1105 × 609 × 193 mm · 130 kg |
@@ -101,7 +103,7 @@ landing:
   - title: Can it be installed outdoors?
     md: Yes. It's certified for indoor and outdoor use, with IP67-protected batteries and electronics, and works from –20 °C to 50 °C.
   - title: What warranty does it have?
-    md: A 10-year manufacturer warranty, as long as the Powerwall stays connected to the internet. Our labour is covered for 4 years.
+    md: A 10-year manufacturer warranty, as long as Powerwall 3 stays connected to the internet. Our labour is covered for 4 years.
   - title: How long does installation take?
     md: Usually one day. With new solar panels, the whole job takes 1 to 3 days. We then handle the registration paperwork.
   - title: How much does it cost?
@@ -116,8 +118,5 @@ tpl:
   - file: tesla-specs
   - file: proceso
   - file: tesla-faq
-  - file: resenas
-  - file: portfolio-placas-solares
-  - file: nosotros
   - file: contacto
 ---

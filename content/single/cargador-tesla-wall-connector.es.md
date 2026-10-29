@@ -1,14 +1,14 @@
 ---
-slug: cargador-tesla-wall-connector
-title: Cargador Tesla Wall Connector
+slug: wall-connector
+title: Wall Connector
 seo:
-  title: Cargador Tesla Wall Connector | Instaladores Certificados Tesla Energy
-  desc: Instalamos el Tesla Wall Connector en casas y garajes del Mar Menor, Orihuela Costa y Torrevieja. Para cualquier coche eléctrico. Pide presupuesto.
-img: /u/tesla/whatsapp-image-2026-10-17-at-10-21-28.webp
+  title: Wall Connector en el Mar Menor y la Vega Baja | Instaladores Certificados Tesla Energy
+  desc: Instalamos Wall Connector en casas y garajes del Mar Menor, Orihuela Costa y Torrevieja. Para cualquier coche eléctrico con toma Tipo 2. Pide presupuesto.
+img: /u/tesla/gen3_hpwc_3-1.webp
 
 base: service
 service_types:
-- Instalación de Cargadores Tesla Wall Connector
+- Instalación de Wall Connector
 service_areas:
 - San Pedro del Pinatar
 - Lo Pagan
@@ -23,9 +23,9 @@ service_areas:
 - Campoamor
 - Torrevieja
 header:
-  bi: /u/tesla/tesla-powerwall-3-carga-coche.webp
-  hanchor: Cargador Tesla Wall Connector en el Mar Menor y la Vega Baja
-  md: Cargador Tesla Wall Connector en el Mar Menor y la Vega Baja
+  bi: /u/tesla/gen3_hpwc_3-1.webp
+  hanchor: Wall Connector en el Mar Menor y la Vega Baja
+  md: Wall Connector en el Mar Menor y la Vega Baja
 
 landing:
   intro:
@@ -33,26 +33,26 @@ landing:
     title: Wall Connector
     sub: Instaladores certificados de Tesla Energy
     md: |
-      Instalamos el Wall Connector de Tesla en chalets, villas y garajes de San Pedro del Pinatar, Pilar de la Horadada, Orihuela Costa y Torrevieja. Lo dejamos funcionando en el día y te tramitamos el certificado.
+      Instalamos Wall Connector en chalets, villas y garajes de San Pedro del Pinatar, Pilar de la Horadada, Orihuela Costa y Torrevieja. Lo dejamos funcionando en el día y te tramitamos el certificado.
 
-      Carga cualquier coche eléctrico, no solo los Tesla, y si tienes placas solares y Powerwall, puedes cargarlo con la energía que te sobra.
+      Carga cualquier coche eléctrico, no solo los Tesla. Con placas solares y Powerwall, puedes cargarlo con tu excedente solar.
 
       ![Tesla Energy Certified Installer](/u/tesla/tesla-energy-certified-installer.svg)
 
   benefits:
-    hanchor: Ventajas del cargador Tesla Wall Connector
+    hanchor: Ventajas de Wall Connector
     title: Ventajas
-    sub: Qué te aporta el Wall Connector
+    sub: Qué te aporta Wall Connector
     md: |
-      - ::ev_charger:: **Para cualquier coche eléctrico.** Conector Tipo 2, compatible con Tesla y con el resto de marcas.
+      - ::ev_charger:: **Para cualquier coche eléctrico con toma Tipo 2**, sea Tesla o de otra marca.
       - ::bolt:: **Hasta 7,4 kW en monofásica y hasta 22 kW en trifásica**, según tu instalación y tu coche.
-      - ::power:: **Gestión dinámica de potencia (opcional).** Con un medidor en tu cuadro, el cargador ajusta la potencia a lo que esté gastando tu casa para que no salte el automático.
+      - ::power:: **Gestión dinámica de potencia (opcional).** Con un medidor en tu cuadro, Wall Connector ajusta la potencia a lo que esté gastando tu casa para que no salte el automático.
       - ::add:: **Varios coches, una línea.** Hasta 6 Wall Connector pueden repartirse la potencia.
       - ::shield:: **Interior y exterior**, con protección IP55 e IK08, de –30 °C a 50 °C.
       - ::solar_power:: **Con placas y Powerwall**, carga el coche con el sol que te sobra en vez de verterlo a la red.
 
   highlight:
-    hanchor: Tesla Wall Connector instalado por Cúprico
+    hanchor: Wall Connector instalado por Cúprico
     title: Instalado por nosotros
     sub: Wall Connector en una vivienda de la zona
     md: |
@@ -60,13 +60,15 @@ landing:
 
       Desde la aplicación de Tesla puedes programar la carga para las horas en que la luz es más barata.
 
-      ![Tesla Wall Connector instalado por Cúprico](/u/tesla/whatsapp-image-2026-10-17-at-10-21-28.webp)
+      ![Wall Connector instalado por Cúprico](/u/tesla/whatsapp-image-2026-10-17-at-10-21-28.webp)
 
   specs:
-    hanchor: Especificaciones técnicas del Tesla Wall Connector
+    hanchor: Especificaciones técnicas de Wall Connector
     title: Especificaciones
-    sub: Ficha técnica del Wall Connector
+    sub: Ficha técnica de Wall Connector
     md: |
+      ![Wall Connector](/u/tesla/gen3_hpwc_1-2.webp)
+
       | | Wall Connector |
       |---|---|
       | Red | Monofásica 230 V o trifásica 400 V |
@@ -87,9 +89,9 @@ landing:
 
   faqs:
   - title: ¿Vale para mi coche si no es un Tesla?
-    md: Sí. Lleva conector Tipo 2, el estándar europeo, y por defecto carga cualquier coche eléctrico.
+    md: Sí, si tu coche tiene toma Tipo 2, el estándar europeo. Por defecto, Wall Connector carga cualquier coche eléctrico con esa toma.
   - title: ¿Tengo que subir la potencia contratada?
-    md: Normalmente no. Con la gestión dinámica de potencia, el cargador baja la carga cuando tu casa está gastando más, para que no salte el automático. Lo vemos al revisar tu cuadro.
+    md: Normalmente no. Con la gestión dinámica de potencia, Wall Connector baja la carga cuando tu casa está gastando más, para que no salte el automático. Lo vemos al revisar tu cuadro.
   - title: ¿Se puede instalar en un garaje comunitario?
     md: Sí. No hace falta que la comunidad lo apruebe, basta con avisar antes al presidente o al administrador. Ten en cuenta que Tesla da 4 años de garantía en viviendas y 1 año en usos que considera comerciales, como los garajes comunitarios.
   - title: ¿Cuánto se tarda?
@@ -108,7 +110,5 @@ tpl:
   - file: tesla-specs
   - file: proceso
   - file: tesla-faq
-  - file: resenas-cargadores
-  - file: nosotros
   - file: contacto
 ---
