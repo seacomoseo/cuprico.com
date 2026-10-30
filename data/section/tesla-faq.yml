@@ -1,0 +1,13 @@
+name: FAQ ➡️ Tesla
+size: md
+boxes:
+- faq:
+    headers: true
+    hs: 6
+  get:
+  - from: faq.title
+    to: title
+  - from: faq.sub
+    to: sub
+  - from: landing.faqs
+    to: faqs

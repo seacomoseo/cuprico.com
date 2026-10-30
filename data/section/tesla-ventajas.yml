@@ -1,0 +1,14 @@
+name: Tesla ➡️ Ventajas
+id: ventajas
+size: sm
+boxes:
+- md_align: left
+  get:
+  - from: landing.benefits.hanchor
+    to: hanchor
+  - from: landing.benefits.title
+    to: title
+  - from: landing.benefits.sub
+    to: sub
+  - from: landing.benefits.md
+    to: md

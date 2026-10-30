@@ -1,0 +1,14 @@
+name: Tesla ➡️ Especificaciones
+id: especificaciones
+size: sm
+boxes:
+- md_align: left
+  get:
+  - from: landing.specs.hanchor
+    to: hanchor
+  - from: landing.specs.title
+    to: title
+  - from: landing.specs.sub
+    to: sub
+  - from: landing.specs.md
+    to: md
