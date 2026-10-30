@@ -1,21 +1,22 @@
 ---
 slug: bateria-solar-ahorro-invierno
-title: "Facturas de invierno por las nubes: cómo te ayuda una batería solar en tu chalet de Murcia"
-img: /u/fotovoltaica-blog/inversor-bateria-pylontech-garaje-01.webp
+title: 'Facturas de invierno por las nubes: cómo te ayuda una batería solar en tu chalet de Murcia'
+img: /u/portadas-blog/villa-mediterranea-al-atardecer-con-energia-solar.webp
 toc: true
-draft: true
+draft: false
 hide: false
-sum: "En invierno tus placas producen menos y anochece antes, justo cuando la luz es más cara. Te contamos cómo una batería solar te ayuda a aprovechar cada kWh y depender menos de la red en un chalet de la Región de Murcia o la Vega Baja."
+sum: En invierno tus placas producen menos y anochece antes, justo cuando la luz es más cara. Te contamos cómo una batería solar te ayuda a aprovechar cada kWh y depender menos de la red en un chalet de la Región de Murcia o la Vega Baja.
 seo:
-  title: "Batería solar en invierno: cómo ahorrar en tu chalet de Murcia"
-  desc: "¿Factura de invierno disparada aunque tienes placas? Así te ayuda una batería solar a usar tu energía en las horas caras de la tarde-noche. Sin promesas."
+  title: 'Batería solar en invierno: cómo ahorrar en tu chalet de Murcia'
+  desc: ¿Factura de invierno disparada aunque tienes placas? Así te ayuda una batería solar a usar tu energía en las horas caras de la tarde-noche. Sin promesas.
   noindex: false
 llms:
-  title: "Cómo ayuda una batería solar a ahorrar en invierno en chalets de la Región de Murcia y la Vega Baja"
-  desc: "Guía de Cúprico, instaladores eléctricos y solares de San Pedro del Pinatar (Murcia), para propietarios de chalets con placas solares en la Región de Murcia y la Vega Baja alicantina. Explica por qué la factura sube en invierno aunque haya placas (menos horas de sol, anochecer temprano, calefacción con bomba de calor por la noche), cómo encaja la batería con los periodos horarios del peaje 2.0TD (punta de 18:00 a 22:00 en días laborables, según la Circular 3/2020 de la CNMC), por qué la compensación simplificada de excedentes del RD 244/2019 tiene un tope mensual y no traslada el sol del verano al invierno, y en qué casos la batería suma más y en cuáles menos. Enfoque prudente: sin precios ni plazos de amortización; remite a un estudio gratuito con el consumo real."
+  title: Cómo ayuda una batería solar a ahorrar en invierno en chalets de la Región de Murcia y la Vega Baja
+  desc: 'Guía de Cúprico, instaladores eléctricos y solares de San Pedro del Pinatar (Murcia), para propietarios de chalets con placas solares en la Región de Murcia y la Vega Baja alicantina. Explica por qué la factura sube en invierno aunque haya placas (menos horas de sol, anochecer temprano, calefacción con bomba de calor por la noche), cómo encaja la batería con los periodos horarios del peaje 2.0TD (punta de 18:00 a 22:00 en días laborables, según la Circular 3/2020 de la CNMC), por qué la compensación simplificada de excedentes del RD 244/2019 tiene un tope mensual y no traslada el sol del verano al invierno, y en qué casos la batería suma más y en cuáles menos. Enfoque prudente: sin precios ni plazos de amortización; remite a un estudio gratuito con el consumo real.'
 date: 2026-10-30 16:00:00
 author: j-tornero
 ---
+
 Si tienes placas solares en tu chalet y aun así la factura de diciembre te asusta, esto te interesa. No es que tus placas hayan dejado de funcionar: es que en invierno el sol y tu consumo van cada uno por su lado. Una batería solar sirve precisamente para juntarlos de nuevo, y en esta guía te contamos cómo, para quién suma de verdad y qué no hay que esperar de ella.
 
 ## Por qué la factura sube en invierno aunque tengas placas

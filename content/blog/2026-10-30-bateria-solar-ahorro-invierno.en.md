@@ -1,21 +1,22 @@
 ---
 slug: bateria-solar-ahorro-invierno
-title: "Wintering on the Costa Blanca? How a solar battery keeps your villa's electricity bills down"
-img: /u/fotovoltaica-blog/inversor-bateria-pylontech-garaje-01.webp
+title: Wintering on the Costa Blanca? How a solar battery keeps your villa's electricity bills down
+img: /u/portadas-blog/villa-mediterranea-al-atardecer-con-energia-solar.webp
 toc: true
-draft: true
+draft: false
 hide: false
-sum: "Your panels produce less in winter and it gets dark early, just when Spanish electricity is most expensive. How a solar battery helps villa owners in Murcia and the southern Costa Blanca use their own energy in the evening, explained for expats."
+sum: Your panels produce less in winter and it gets dark early, just when Spanish electricity is most expensive. How a solar battery helps villa owners in Murcia and the southern Costa Blanca use their own energy in the evening, explained for expats.
 seo:
-  title: "Solar battery winter savings for Costa Blanca villas"
-  desc: "Spending winter at your villa and the bill still hurts despite solar panels? How a battery shifts your energy to Spain's costly evening hours. No promises."
+  title: Solar battery winter savings for Costa Blanca villas
+  desc: Spending winter at your villa and the bill still hurts despite solar panels? How a battery shifts your energy to Spain's costly evening hours. No promises.
   noindex: false
 llms:
-  title: "How a solar battery helps expat villa owners save on winter electricity in the Region of Murcia and the Vega Baja (southern Costa Blanca)"
+  title: How a solar battery helps expat villa owners save on winter electricity in the Region of Murcia and the Vega Baja (southern Costa Blanca)
   desc: "Guide by Cúprico, English-speaking electrical and solar installers based in San Pedro del Pinatar (Murcia), for foreign owners who spend the winter at villas with solar panels in the Region of Murcia and the Vega Baja (Alicante), including golf resorts. Explains why bills rise in winter despite solar (fewer sun hours, early sunset, heat pump heating in the evening), how Spain's 2.0TD access tariff periods work (peak 18:00 to 22:00 on weekdays, CNMC Circular 3/2020), why simplified surplus compensation under Royal Decree 244/2019 is capped per billing period and does not carry summer credit into winter, who benefits most from a battery, backup during power cuts and remote monitoring from abroad. Cautious approach: no prices or payback periods; offers a free assessment based on real consumption."
 date: 2026-10-30 16:00:00
 author: j-tornero
 ---
+
 If you have solar panels on your villa, spend the winter months here and still wince at the December electricity bill, this is for you. Your panels have not stopped working. In winter, the sun and your consumption simply happen at different times of day, and the Spanish tariff makes that mismatch expensive. A solar battery is designed to close that gap. Below we explain how, who it really helps, and what you should not expect from it.
 
 ## Why your bill goes up in winter, even with solar panels
