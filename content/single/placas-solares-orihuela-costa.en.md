@@ -2,7 +2,7 @@
 slug: solar-panels-orihuela-costa
 title: Solar Panels in Orihuela Costa
 seo:
-  title: Solar Panels in Orihuela Costa | 2026 Tax Deductions
+  title: Solar Panels in Orihuela Costa and Torrevieja | Installed in 1 to 3 Days
   desc: Solar panel installers in Orihuela Costa and Torrevieja. Installed in 1 to 3 days, verified Huawei installers, English-speaking team. Free study.
 img: /u/servicios/instalacion-placas-solares.jpg
 
@@ -22,7 +22,10 @@ service_areas:
 header:
   bi: /u/servicios/instalacion-placas-solares.jpg
   hanchor: Solar Panels in Orihuela Costa and Torrevieja
-  md: Solar Panels in Orihuela Costa and Torrevieja
+  md: |
+    Solar Panels in Orihuela Costa and Torrevieja
+
+    Installed in 1 to 3 days · 4.9★ on Google · We call you back the same day
 
 landing:
   deduction:
@@ -79,13 +82,13 @@ landing:
 tpl:
   sections:
   - file: _hero
-  - file: deduccion-placas-orihuela
   - file: destacamos
   - file: servicios-placas-orihuela
-  - file: proceso
-  - file: faq-placas-orihuela
   - file: resenas
   - file: portfolio-placas-solares
+  - file: proceso
+  - file: deduccion-placas-orihuela
+  - file: faq-placas-orihuela
   - file: nosotros
   - file: contacto
 ---
