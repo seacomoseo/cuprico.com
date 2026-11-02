@@ -2,7 +2,7 @@
 slug: placas-solares-orihuela-costa
 title: Placas Solares en Orihuela Costa
 seo:
-  title: Placas Solares en Orihuela Costa | Deducción en la Renta 2026
+  title: Placas Solares en Orihuela Costa y Torrevieja | Instalación en 1 a 3 días
   desc: Instaladores de placas solares en Orihuela Costa y Torrevieja. Obra en 1 a 3 días, instaladores verificados Huawei y atención en inglés. Estudio gratis.
 img: /u/servicios/instalacion-placas-solares.jpg
 
@@ -22,7 +22,10 @@ service_areas:
 header:
   bi: /u/servicios/instalacion-placas-solares.jpg
   hanchor: Placas Solares en Orihuela Costa y Torrevieja
-  md: Placas Solares en Orihuela Costa y Torrevieja
+  md: |
+    Placas Solares en Orihuela Costa y Torrevieja
+
+    Instalación en 1 a 3 días · 4,9★ en Google · Te llamamos el mismo día
 
 landing:
   deduction:
@@ -79,13 +82,13 @@ landing:
 tpl:
   sections:
   - file: _hero
-  - file: deduccion-placas-orihuela
   - file: destacamos
   - file: servicios-placas-orihuela
-  - file: proceso
-  - file: faq-placas-orihuela
   - file: resenas
   - file: portfolio-placas-solares
+  - file: proceso
+  - file: deduccion-placas-orihuela
+  - file: faq-placas-orihuela
   - file: nosotros
   - file: contacto
 ---
