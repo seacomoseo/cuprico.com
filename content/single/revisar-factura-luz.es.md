@@ -65,6 +65,7 @@ landing:
       name: Factura
       label: Tu factura de la luz (PDF o foto)
       accept: .pdf,image/*
+      max: 3
       req: true
     - type: select
       name: Tipo

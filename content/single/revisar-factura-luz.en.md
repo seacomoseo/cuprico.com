@@ -65,6 +65,7 @@ landing:
       name: Factura
       label: Your electricity bill (PDF or photo)
       accept: .pdf,image/*
+      max: 3
       req: true
     - type: select
       name: Tipo
