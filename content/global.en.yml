@@ -98,6 +98,8 @@ services:
 
       Tesla Energy Certified Installers: we install [Powerwall 3](/en/powerwall-3/).
 
+      No solar panels yet? Start by [checking your electricity bill](/en/electricity-bill-review/).
+
       [[::add:: More info]](/en/solar-panel-installers/ "Installers of Photovoltaic Solar Panels in San Pedro del Pinatar")
   - id: ev-chargers
     url: '#ev-chargers'
@@ -160,6 +162,7 @@ services:
       - Tier-1 premium panels, hybrid inverters and cloud monitoring.
       - Verified Huawei FusionSolar installers.
       - Tesla Energy Certified Installers: we install [Powerwall 3](/en/powerwall-3/).
+      - No solar panels yet? Start by [checking your electricity bill](/en/electricity-bill-review/).
       - We work with Huawei, Deye, GoodWe, JA Solar and Canadian Solar.
 
       Reduce up to **70% your electricity bill** and gain energy independence.
@@ -598,6 +601,7 @@ footer:
     - [Certificates](/en/certificates-electrical-installation/ "Certificates of Electrical Installation in Murcia, Spain")
     - [Powerwall 3](/en/powerwall-3/ "Powerwall 3, Tesla Energy Certified Installers")
     - [Wall Connector](/en/wall-connector/ "Wall Connector, Tesla Energy Certified Installers")
+    - [Electricity bill review](/en/electricity-bill-review/ "We check your electricity bill for free")
     {.list-inline}
 
 
