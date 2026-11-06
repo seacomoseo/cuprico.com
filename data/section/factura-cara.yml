@@ -1,0 +1,15 @@
+name: Factura ➡️ Por qué es cara
+id: factura-cara
+size: sm
+color: white
+boxes:
+- md_align: left
+  get:
+  - from: landing.why.hanchor
+    to: hanchor
+  - from: landing.why.title
+    to: title
+  - from: landing.why.sub
+    to: sub
+  - from: landing.why.md
+    to: md

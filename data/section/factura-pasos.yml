@@ -1,0 +1,14 @@
+name: Factura ➡️ Cómo funciona
+id: pasos
+size: sm
+boxes:
+- md_align: left
+  get:
+  - from: landing.steps.hanchor
+    to: hanchor
+  - from: landing.steps.title
+    to: title
+  - from: landing.steps.sub
+    to: sub
+  - from: landing.steps.md
+    to: md
