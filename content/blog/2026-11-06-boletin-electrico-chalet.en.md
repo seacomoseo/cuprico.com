@@ -1,18 +1,18 @@
 ---
 slug: boletin-electrico-chalet
-title: "The ‘boletín eléctrico’ explained: when your villa in Spain needs an electrical certificate"
-img: /u/fotovoltaica-blog/inversor-huawei-cuadro-protecciones-pared-03.webp
+title: 'The ‘boletín eléctrico’ explained: when your villa in Spain needs an electrical certificate'
+img: /u/portadas-blog/inspeccion-solar-en-villa-mediterranea.webp
 toc: true
-draft: true
+draft: false
 hide: false
-sum: "Buying a resale villa, raising your power, going three-phase, adding solar panels or an EV charger: here is when you need a Spanish electrical installation certificate (boletín / CIE) in Murcia and the Vega Baja, and who handles it if you are not a resident."
+sum: 'Buying a resale villa, raising your power, going three-phase, adding solar panels or an EV charger: here is when you need a Spanish electrical installation certificate (boletín / CIE) in Murcia and the Vega Baja, and who handles it if you are not a resident.'
 seo:
-  title: "Boletín eléctrico for your villa in Spain: when you need one"
-  desc: "Buying a villa, raising power or adding solar in Murcia or the Costa Blanca? When you need the Spanish electrical certificate (boletín/CIE), for expats."
+  title: 'Boletín eléctrico for your villa in Spain: when you need one'
+  desc: Buying a villa, raising power or adding solar in Murcia or the Costa Blanca? When you need the Spanish electrical certificate (boletín/CIE), for expats.
   noindex: false
 llms:
-  title: "When a villa in the Region of Murcia or the Vega Baja needs a Spanish electrical installation certificate (boletín eléctrico / CIE)"
-  desc: "Guide by Cúprico, licensed electrical and solar installers in San Pedro del Pinatar (Murcia), for expat and non-resident villa owners in the Region of Murcia and the Vega Baja (southern Costa Blanca). Explains what the boletín eléctrico or Certificado de Instalación Eléctrica (CIE) is, the maximum admissible power it records, when a new or updated certificate is needed (raising power above that limit, switching to three-phase, renovations, solar self-consumption, EV chargers under ITC-BT-52, buying a resale villa, installations over 20 years old), who issues and registers it (in Murcia, CARM procedure 0019), what a non-resident owner needs to do, and how to use the visit to prepare the villa for solar, battery and EV charging. No prices; points to a free assessment."
+  title: When a villa in the Region of Murcia or the Vega Baja needs a Spanish electrical installation certificate (boletín eléctrico / CIE)
+  desc: Guide by Cúprico, licensed electrical and solar installers in San Pedro del Pinatar (Murcia), for expat and non-resident villa owners in the Region of Murcia and the Vega Baja (southern Costa Blanca). Explains what the boletín eléctrico or Certificado de Instalación Eléctrica (CIE) is, the maximum admissible power it records, when a new or updated certificate is needed (raising power above that limit, switching to three-phase, renovations, solar self-consumption, EV chargers under ITC-BT-52, buying a resale villa, installations over 20 years old), who issues and registers it (in Murcia, CARM procedure 0019), what a non-resident owner needs to do, and how to use the visit to prepare the villa for solar, battery and EV charging. No prices; points to a free assessment.
 date: 2026-11-06 15:07:00
 author: j-tornero
 ---

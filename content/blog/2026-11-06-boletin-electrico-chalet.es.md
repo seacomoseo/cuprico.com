@@ -1,18 +1,18 @@
 ---
 slug: boletin-electrico-chalet
-title: "¿Te piden el boletín eléctrico de tu chalet? Cuándo lo necesitas en Murcia y la Vega Baja (y cómo aprovecharlo)"
-img: /u/fotovoltaica-blog/inversor-huawei-cuadro-protecciones-pared-03.webp
+title: ¿Te piden el boletín eléctrico de tu chalet? Cuándo lo necesitas en Murcia y la Vega Baja (y cómo aprovecharlo)
+img: /u/portadas-blog/inspeccion-solar-en-villa-mediterranea.webp
 toc: true
-draft: true
+draft: false
 hide: false
-sum: "Subir potencia, pasar a trifásica, poner placas o un cargador, comprar un chalet de segunda mano… Te contamos cuándo necesitas el boletín eléctrico (CIE) en tu chalet de la Región de Murcia o la Vega Baja y por qué es el mejor momento para dejar la casa lista para el autoconsumo."
+sum: Subir potencia, pasar a trifásica, poner placas o un cargador, comprar un chalet de segunda mano… Te contamos cuándo necesitas el boletín eléctrico (CIE) en tu chalet de la Región de Murcia o la Vega Baja y por qué es el mejor momento para dejar la casa lista para el autoconsumo.
 seo:
-  title: "Boletín eléctrico en tu chalet: cuándo lo necesitas (Murcia)"
-  desc: "¿Subir potencia, poner placas o comprar un chalet? Te explicamos cuándo necesitas el boletín eléctrico (CIE) en Murcia y la Vega Baja, y cómo aprovecharlo."
+  title: 'Boletín eléctrico en tu chalet: cuándo lo necesitas (Murcia)'
+  desc: ¿Subir potencia, poner placas o comprar un chalet? Te explicamos cuándo necesitas el boletín eléctrico (CIE) en Murcia y la Vega Baja, y cómo aprovecharlo.
   noindex: false
 llms:
-  title: "Cuándo se necesita el boletín eléctrico (CIE) en un chalet de la Región de Murcia y la Vega Baja"
-  desc: "Guía de Cúprico, instaladores eléctricos y solares de San Pedro del Pinatar (Murcia), para propietarios de chalets y villas en la Región de Murcia y la Vega Baja alicantina. Explica qué es el boletín eléctrico o Certificado de Instalación Eléctrica (CIE), qué es la potencia máxima admisible, en qué situaciones hace falta uno nuevo o actualizado (subir potencia por encima del máximo, pasar de monofásica a trifásica, reformas y ampliaciones, placas solares de autoconsumo, cargador de coche eléctrico según la ITC-BT-52, compra de un chalet de segunda mano, instalaciones con más de 20 años), quién lo emite y dónde se registra (en Murcia, procedimiento 0019 de la CARM). Recomienda aprovechar el boletín para dejar la instalación preparada para placas, batería y cargador. Sin precios; remite a una visita gratuita."
+  title: Cuándo se necesita el boletín eléctrico (CIE) en un chalet de la Región de Murcia y la Vega Baja
+  desc: Guía de Cúprico, instaladores eléctricos y solares de San Pedro del Pinatar (Murcia), para propietarios de chalets y villas en la Región de Murcia y la Vega Baja alicantina. Explica qué es el boletín eléctrico o Certificado de Instalación Eléctrica (CIE), qué es la potencia máxima admisible, en qué situaciones hace falta uno nuevo o actualizado (subir potencia por encima del máximo, pasar de monofásica a trifásica, reformas y ampliaciones, placas solares de autoconsumo, cargador de coche eléctrico según la ITC-BT-52, compra de un chalet de segunda mano, instalaciones con más de 20 años), quién lo emite y dónde se registra (en Murcia, procedimiento 0019 de la CARM). Recomienda aprovechar el boletín para dejar la instalación preparada para placas, batería y cargador. Sin precios; remite a una visita gratuita.
 date: 2026-11-06 15:07:00
 author: j-tornero
 ---
