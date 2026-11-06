@@ -2,8 +2,9 @@
 slug: revisar-factura-luz
 title: Revisamos tu factura de la luz gratis
 seo:
-  title: Revisamos tu Factura de la Luz Gratis | Murcia y Alicante
-  desc: Sube tu factura de la luz y te decimos en menos de 24 h si puedes pagar menos. Asesoramiento gratuito, claro y sin permanencias en Murcia y Alicante.
+  title: Revisamos tu factura de la luz gratis en Murcia y Alicante | Cúprico
+  desc: Sube tu factura y en menos de 24 h te decimos si puedes pagar menos. Estudio gratis y sin compromiso en la Región de Murcia y la provincia de Alicante.
+img: /u/servicios/instalacion-placas-solares.jpg
 
 base: service
 service_types:
@@ -19,11 +20,16 @@ service_areas:
 - Región de Murcia
 - Provincia de Alicante
 header:
-  hanchor: Revisamos tu factura de la luz gratis
+  bi: /u/servicios/instalacion-placas-solares.jpg
+  hanchor: Revisamos tu factura de la luz gratis en Murcia y Alicante
   md: |
-    Revisamos tu factura de la luz gratis
+    Revisamos tu factura de la luz gratis en Murcia y Alicante
 
-    Te respondemos en menos de 24 h · Sin permanencias · Sin letra pequeña
+    Mándanos una foto de tu factura y en menos de 24 h te decimos si puedes pagar menos.
+
+others:
+  sub: Sin permanencias · Sin letra pequeña · Gratis
+  request_quote: Sube tu factura
 
 landing:
   intro:
@@ -38,7 +44,7 @@ landing:
       - ::shield:: **Sin engaños ni permanencias.** Te explicamos cada cosa con claridad antes de que decidas.
       - ::star:: **Es gratis.** No te cobramos nada por el estudio ni por el cambio.
 
-      [[Sube tu factura]](#revisar-factura)
+      [[Sube tu factura]](#contacto)
 
   form:
     title: Sube tu factura
@@ -82,6 +88,31 @@ landing:
     consent: |
       Consiento que CÚPRICO INSTALACIONES ELÉCTRICAS S.L.U. use mis datos y mi factura para estudiar mi caso y contactarme y, solo si acepto una oferta, que los comunique a la comercializadora elegida para tramitar el contrato. Más información en la [política de privacidad](/privacidad/ "[nofollow blank]").
 
+  who:
+    hanchor: Quién revisa tu factura de la luz
+    title: Quién revisa tu factura
+    sub: Un instalador eléctrico, no un comercial
+    md: |
+      Tu factura la revisa [José María Tornero](/autor/j-tornero/), instalador autorizado en baja tensión e instalador de energía solar. Conocemos las facturas por dentro porque trabajamos cada día con instalaciones eléctricas y placas solares en Murcia y Alicante.
+
+  check:
+    hanchor: Qué miramos en tu factura de la luz
+    title: Qué miramos en tu factura
+    sub: Punto por punto
+    md: |
+      Miramos la potencia que tienes contratada y si la usas, el precio que pagas por cada kWh en cada franja horaria, si estás en tarifa regulada o en mercado libre y si te cobran servicios que no necesitas. Con eso comparamos tu caso con las comercializadoras con las que trabajamos y te decimos qué opción te sale mejor.
+
+  where:
+    hanchor: Revisión de facturas de la luz en la Región de Murcia y la provincia de Alicante
+    title: Dónde atendemos
+    sub: Región de Murcia y provincia de Alicante
+    md: |
+      El estudio lo hacemos a distancia, así que da igual dónde vivas en la Región de Murcia o en la provincia de Alicante: Cartagena, Lorca, Molina de Segura, el Mar Menor, Alicante, Elche, Torrevieja, Orihuela, Benidorm o cualquier otro municipio. Solo necesitamos una foto de tu factura.
+
+  direct:
+    title: ¿Prefieres hablar con nosotros?
+    sub: Llámanos o escríbenos por WhatsApp
+
   steps:
     hanchor: Cómo funciona la revisión de tu factura
     title: Cómo funciona
@@ -122,8 +153,10 @@ tpl:
   - file: factura-intro
   - file: factura-formulario
   - file: factura-pasos
+  - file: factura-que-miramos
+  - file: factura-quien
   - file: factura-cara
+  - file: factura-donde
   - file: factura-faq
-  - file: resenas
-  - file: contacto
+  - file: factura-contacto
 ---

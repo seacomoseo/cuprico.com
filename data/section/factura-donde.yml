@@ -1,0 +1,14 @@
+name: Factura ➡️ Dónde atendemos
+id: donde-atendemos
+size: sm
+boxes:
+- md_align: left
+  get:
+  - from: landing.where.hanchor
+    to: hanchor
+  - from: landing.where.title
+    to: title
+  - from: landing.where.sub
+    to: sub
+  - from: landing.where.md
+    to: md
