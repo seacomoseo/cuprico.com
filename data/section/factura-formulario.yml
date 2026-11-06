@@ -1,0 +1,18 @@
+name: Factura ➡️ Formulario
+id: revisar-factura
+size: sm
+boxes:
+- form:
+    mail: administracion@cuprico.com
+    action: https://script.google.com/macros/s/AKfycbzolzdzBEp-2s9c_HmwgoU9AuQiAQ03SerBWyoLs289Ae1KTEGQ88s4UKjacnaJBc8/exec
+  get:
+  - from: landing.form.title
+    to: title
+  - from: landing.form.sub
+    to: sub
+  - from: landing.form.inputs
+    to: inputs
+  - from: landing.form.label
+    to: form.label
+  - from: landing.form.consent
+    to: form.consent
