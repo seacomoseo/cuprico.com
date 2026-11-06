@@ -2,8 +2,9 @@
 slug: electricity-bill-review
 title: Free electricity bill review
 seo:
-  title: Free Electricity Bill Review in Spain | Murcia and Alicante
-  desc: Upload your Spanish electricity bill and we'll tell you within 24 hours if you can pay less. Free, clear advice with no tie-in contracts. English spoken.
+  title: Free electricity bill check in Murcia & Alicante | Cúprico
+  desc: Send us your Spanish electricity bill and within 24 h we'll tell you if you can pay less. Free, no obligation, and we speak English.
+img: /u/servicios/instalacion-placas-solares.jpg
 
 base: service
 service_types:
@@ -19,11 +20,16 @@ service_areas:
 - Región de Murcia
 - Provincia de Alicante
 header:
-  hanchor: Free electricity bill review
+  bi: /u/servicios/instalacion-placas-solares.jpg
+  hanchor: We check your electricity bill for free
   md: |
-    Free electricity bill review
+    We check your electricity bill for free
 
-    Reply within 24 hours · No tie-in contracts · No small print
+    Send us a photo of your bill and within 24 h we'll tell you if there's a cheaper option.
+
+others:
+  sub: No tie-in contracts · No small print · Free
+  request_quote: Upload your bill
 
 landing:
   intro:
@@ -38,7 +44,7 @@ landing:
       - ::shield:: **No tricks, no tie-in contracts.** We explain everything clearly before you decide.
       - ::star:: **It's free.** We don't charge you for the review or the switch.
 
-      [[Upload your bill]](#revisar-factura)
+      [[Upload your bill]](#contacto)
 
   form:
     title: Upload your bill
@@ -82,6 +88,31 @@ landing:
     consent: |
       I consent to CÚPRICO INSTALACIONES ELÉCTRICAS S.L.U. using my details and my bill to review my case and contact me and, only if I accept an offer, sharing them with the chosen supplier to arrange the contract. More information in the [privacy policy](/en/privacy/ "[nofollow blank]").
 
+  who:
+    hanchor: Who checks your electricity bill
+    title: Who checks your bill
+    sub: An electrician, not a salesperson
+    md: |
+      Your bill is checked by [José María Tornero](/en/author/j-tornero/), an authorised low-voltage electrician and solar installer. We know electricity bills inside out because we work every day on electrical and solar installations in Murcia and Alicante.
+
+  check:
+    hanchor: What we check on your electricity bill
+    title: What we check
+    sub: Point by point
+    md: |
+      We check your contracted power and whether you actually use it, what you pay per kWh in each time slot, whether you're on the regulated tariff or the free market, and whether you're paying for extras you don't need. Then we compare your case with the suppliers we work with and tell you which option suits you best.
+
+  where:
+    hanchor: Electricity bill checks in the Region of Murcia and the province of Alicante
+    title: Where we help
+    sub: Region of Murcia and province of Alicante
+    md: |
+      We do the check remotely, so it doesn't matter where you live in the Region of Murcia or the province of Alicante: Cartagena, Lorca, the Mar Menor, Alicante, Elche, Torrevieja, Orihuela Costa, Benidorm or anywhere else. All we need is a photo of your bill.
+
+  direct:
+    title: Prefer to talk to us?
+    sub: Call us or send us a WhatsApp
+
   steps:
     hanchor: How the electricity bill review works
     title: How it works
@@ -122,8 +153,10 @@ tpl:
   - file: factura-intro
   - file: factura-formulario
   - file: factura-pasos
+  - file: factura-que-miramos
+  - file: factura-quien
   - file: factura-cara
+  - file: factura-donde
   - file: factura-faq
-  - file: resenas
-  - file: contacto
+  - file: factura-contacto
 ---

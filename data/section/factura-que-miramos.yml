@@ -1,0 +1,15 @@
+name: Factura ➡️ Qué miramos
+id: que-miramos
+size: sm
+color: white
+boxes:
+- md_align: left
+  get:
+  - from: landing.check.hanchor
+    to: hanchor
+  - from: landing.check.title
+    to: title
+  - from: landing.check.sub
+    to: sub
+  - from: landing.check.md
+    to: md

@@ -1,0 +1,14 @@
+name: Factura ➡️ Quién revisa tu factura
+id: quien-revisa
+size: sm
+boxes:
+- md_align: left
+  get:
+  - from: landing.who.hanchor
+    to: hanchor
+  - from: landing.who.title
+    to: title
+  - from: landing.who.sub
+    to: sub
+  - from: landing.who.md
+    to: md
