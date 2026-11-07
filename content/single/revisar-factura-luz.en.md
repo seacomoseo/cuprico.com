@@ -146,6 +146,14 @@ landing:
     md: Your bill is enough. Only if you decide to switch will we ask for the details needed for the contract.
   - title: Do you help businesses?
     md: Yes, we review bills for homes and businesses in the Region of Murcia and the province of Alicante.
+  - title: How long does the switch take?
+    md: Between 1 and 3 days from when you sign the contract with the new supplier.
+  - title: Do I need to contact my current supplier?
+    md: No. You just sign the new contract and answer a short survey to confirm your details. We take care of the rest.
+  - title: Do you check business bills on the 3.0TD tariff?
+    md: Yes, we also check business bills on the 3.0TD tariff, such as warehouses, shops or restaurants.
+  - title: I don't understand my Spanish bill. Can you explain it in English?
+    md: Yes. We explain it in English by message, on WhatsApp or by email, step by step.
 
 tpl:
   sections:

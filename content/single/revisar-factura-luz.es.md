@@ -146,6 +146,14 @@ landing:
     md: Con la factura es suficiente. Solo si decides cambiarte te pediremos los datos para el contrato.
   - title: ¿Atendéis a negocios?
     md: Sí, revisamos facturas de viviendas y de negocios en la Región de Murcia y en la provincia de Alicante.
+  - title: ¿Cuánto tarda el cambio de compañía?
+    md: Entre 1 y 3 días desde que firmas el contrato con la nueva comercializadora.
+  - title: ¿Tengo que hablar con mi compañía actual?
+    md: No. Solo tienes que firmar el nuevo contrato y responder a una breve encuesta para validar tus datos. Del resto nos encargamos nosotros.
+  - title: ¿Revisáis facturas de negocios con tarifa 3.0TD?
+    md: Sí, revisamos también facturas de negocios con tarifa 3.0TD, como naves, comercios o restaurantes.
+  - title: Soy extranjero y no entiendo mi factura, ¿me la explicáis en inglés?
+    md: Sí. Te la explicamos en inglés por mensaje, por WhatsApp o por email, con calma y punto por punto.
 
 tpl:
   sections:
