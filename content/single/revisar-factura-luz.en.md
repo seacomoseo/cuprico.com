@@ -4,7 +4,7 @@ title: Free electricity bill review
 seo:
   title: Free electricity bill check in Murcia & Alicante | Cúprico
   desc: Send us your Spanish electricity bill and within 24 h we'll tell you if you can pay less. Free, no obligation, and we speak English.
-img: /u/servicios/revisar-factura-luz.webp
+img: /u/servicios/check-electricity-bill-social.webp
 
 base: service
 service_types:
