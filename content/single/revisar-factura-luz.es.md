@@ -4,7 +4,7 @@ title: Revisamos tu factura de la luz gratis
 seo:
   title: Revisamos tu factura de la luz gratis en Murcia y Alicante | Cúprico
   desc: Sube tu factura y en menos de 24 h te decimos si puedes pagar menos. Estudio gratis y sin compromiso en la Región de Murcia y la provincia de Alicante.
-img: /u/servicios/instalacion-placas-solares.jpg
+img: /u/servicios/revisar-factura-luz.webp
 
 base: service
 service_types:
@@ -20,7 +20,7 @@ service_areas:
 - Región de Murcia
 - Provincia de Alicante
 header:
-  bi: /u/servicios/instalacion-placas-solares.jpg
+  bi: /u/servicios/revisar-factura-luz.webp
   hanchor: Revisamos tu factura de la luz gratis en Murcia y Alicante
   md: |
     Revisamos tu factura de la luz gratis en Murcia y Alicante
