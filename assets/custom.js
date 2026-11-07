@@ -22,3 +22,15 @@ document.addEventListener('submited-form-contacto', function () {
     idioma: idioma
   })
 })
+
+// Cúprico · Cargar GA4 en cada página si el visitante ya aceptó las cookies de análisis.
+// La plantilla lo comprueba con "=== 'true'", pero el aviso de cookies guarda un contador (1, 2…),
+// así que GA4 solo se cargaba en el momento de aceptar. Si se rechazan, la plantilla borra
+// "controlcookieanalytics" y aquí no se carga nada.
+;(function () {
+  try {
+    var aceptadas = !!localStorage.getItem('controlcookieanalytics')
+    var esBot = /googlebot|bingbot|slurp|duckduckbot|baiduspider|yandexbot|lighthouse/i.test(navigator.userAgent)
+    if (aceptadas && !esBot && typeof googleAnalytics === 'function') googleAnalytics()
+  } catch (e) {}
+})()
