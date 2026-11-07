@@ -67,6 +67,7 @@ org:
   - 641 47 94 90
   address:
   - name: Cúprico electrical & solar services
+    street: Calle Río Guadalquivir, 18
     pc: '30740'
     locality: San Pedro del Pinatar
     region: Murcia
