@@ -16,15 +16,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/seacomoseo/sansoul.es.git"
+    "url": "git+https://github.com/seacomoseo/cuprico.com.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/seacomoseo/sansoul.es/issues"
+    "url": "https://github.com/seacomoseo/cuprico.com/issues"
   },
-  "homepage": "https://github.com/seacomoseo/sansoul.es",
+  "homepage": "https://github.com/seacomoseo/cuprico.com",
   "standard": {
     "env": [
       "browser"
