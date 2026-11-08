@@ -3,7 +3,7 @@ menu:
   items:
   - url: /en/
     label: Home
-    icon: home
+    il: home
     anchor: Electricians in San Pedro del Pinatar
   # - url: /#colaboradores
   #   label: Colaboradores
@@ -13,35 +13,35 @@ menu:
   #   icon: verified
   - url: /en/#servicios
     label: Services
-    icon: bolt
+    il: bolt
   - url: /en/#proceso
     label: Process
-    icon: footprint
+    il: footprint
   - url: /en/#faq
     label: FAQ
-    icon: help_outline
+    il: help_outline
   - url: /en/#resenas
     label: Reviews
-    icon: reviews
+    il: reviews
   - url: /en/#portfolio
     label: Portfolio
-    icon: cards_star
+    il: cards_star
   - url: /en/#nosotros
     label: About Us
-    icon: info
+    il: info
   - url: /en/#contacto
     label: Contact
-    icon: send
+    il: send
     btn: cta
   - url: /en/blog/
     label: Blog
-    icon: rss
+    il: rss
 
 
 callnows:
 - type: whatsapp
   label: 641 47 94 90
-  icon: brand:whatsapp-o
+  il: brand:whatsapp-o
   btn: turn
 
 
@@ -518,7 +518,7 @@ contact:
   phone: Phone
   message: Message
   consent: |
-    I consent to the use of my data for the purposes indicated in the [privacy policy](/en/privacy/ "[nofollow blank]") and to receive advertising from your entity.
+    I consent to the use of my data for the purposes indicated in the [privacy policy](/en/privacy/ "{lock blank}") and to receive advertising from your entity.
 
     - **Data controller:** CÚPRICO INSTALACIONES ELÉCTRICAS S.L.U.
     - **Address of the data controller:** Calle Río Guadalquivir, 18, 30740 San Pedro del Pinatar, Murcia
@@ -527,7 +527,7 @@ contact:
     - **Legitimacy:** We will only process your data with your prior consent, which you can provide us by checking the corresponding box provided for this purpose.
     - **Recipients:** In general, only duly authorized personnel of our entity will have access to the information we request from you.
     - **Rights:** You have the right to know what information we have about you, to correct it, and to delete it, as explained in the additional information available on our website.
-    - **Additional information:** More information in our [privacy policy](/en/privacy/ "[nofollow blank]").
+    - **Additional information:** More information in our [privacy policy](/en/privacy/ "{lock blank}").
 
 
 footer:

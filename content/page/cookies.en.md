@@ -90,8 +90,8 @@ Below, we inform you about all types of cookies currently used on our website an
 | --- | --- | --- | --- | --- |
 | HTTP (Statistics) | `_ga` | 2 years. Registers a unique ID that is used to generate statistical data on how the visitor uses the website. Data sent to the USA, a country not adequate under GDPR. | `google.com` | [{{% legal web %}}]({{% legal https %}}) |
 | HTTP (Statistics) | `_ga_#` | 2 years. Collects data on the number of times a user has visited the website, as well as the dates of the first and most recent visits. Used by Google Analytics. Data sent to the USA, a country not adequate under GDPR. | `google.com` | [{{% legal web %}}]({{% legal https %}}) |
-| Pixel. Session. | `_ads/ga-audiences` | Session. Used by Google AdWords to re-engage visitors likely to convert to customers, based on the customer's online behavior across websites. Data sent to the USA, a country not adequate under GDPR. | `google.com` | [policies.google.com/privacy](https://policies.google.com/privacy "[nofollow]") |
-| HTTP (Marketing) | `NID` | 6 months. Registers a unique ID that identifies a returning user's device. The ID is used for targeted ads. Data sent to the USA, a country not adequate under GDPR. | `google.com` | [policies.google.com/privacy](https://policies.google.com/privacy "[nofollow]") |
+| Pixel. Session. | `_ads/ga-audiences` | Session. Used by Google AdWords to re-engage visitors likely to convert to customers, based on the customer's online behavior across websites. Data sent to the USA, a country not adequate under GDPR. | `google.com` | [policies.google.com/privacy](https://policies.google.com/privacy "{lock}") |
+| HTTP (Marketing) | `NID` | 6 months. Registers a unique ID that identifies a returning user's device. The ID is used for targeted ads. Data sent to the USA, a country not adequate under GDPR. | `google.com` | [policies.google.com/privacy](https://policies.google.com/privacy "{lock}") |
 
 ## What can you do with cookies?
 
@@ -109,18 +109,18 @@ Finally, note that if you enable **third-party cookies** (external companies tha
 
 To make it easier for you, below we list links to cookie deactivation guidelines for commonly used browsers:
 
-- ::link:: [Google Chrome](https://support.google.com/accounts/answer/61416?co=GENIE.Platform%3DDesktop&hl=en "[nofollow]")
-- ::link:: [Mozilla Firefox](https://support.mozilla.org/en/kb/delete-cookies "[nofollow]")
-- ::link:: [Internet Explorer](https://support.microsoft.com/en-us/help/278835/how-to-delete-cookie-files-in-internet-explorer "[nofollow]")
-- ::link:: [Safari](https://support.apple.com/en/guide/safari/sfri11471/mac "[nofollow]")
-- ::link:: [Safari for iOS (iPhone and iPad)](https://support.apple.com/en-us/HT201265 "[nofollow]")
-- ::link:: [Google Chrome for Android](https://support.google.com/accounts/answer/61416?co=GENIE.Platform%3DAndroid&hl=en&oco=1 "[nofollow]")
-- ::link:: [Google Chrome for iPhone and iPad](https://support.google.com/accounts/answer/61416?co=GENIE.Platform%3DiOS&hl=en&oco=1 "[nofollow]")
+- ::link:: [Google Chrome](https://support.google.com/accounts/answer/61416?co=GENIE.Platform%3DDesktop&hl=en "{lock}")
+- ::link:: [Mozilla Firefox](https://support.mozilla.org/en/kb/delete-cookies "{lock}")
+- ::link:: [Internet Explorer](https://support.microsoft.com/en-us/help/278835/how-to-delete-cookie-files-in-internet-explorer "{lock}")
+- ::link:: [Safari](https://support.apple.com/en/guide/safari/sfri11471/mac "{lock}")
+- ::link:: [Safari for iOS (iPhone and iPad)](https://support.apple.com/en-us/HT201265 "{lock}")
+- ::link:: [Google Chrome for Android](https://support.google.com/accounts/answer/61416?co=GENIE.Platform%3DAndroid&hl=en&oco=1 "{lock}")
+- ::link:: [Google Chrome for iPhone and iPad](https://support.google.com/accounts/answer/61416?co=GENIE.Platform%3DiOS&hl=en&oco=1 "{lock}")
 
 We also list links to the systems provided by each of the aforementioned external providers for disabling their cookies:
 
-- ::link:: [Use of Google Analytics cookies on websites](https://developers.google.com/analytics/devguides/collection/analyticsjs/cookie-usage?hl=en "[nofollow]")
-- ::link:: [Google Analytics Privacy Terms](https://www.google.com/policies/privacy/ "[nofollow]")
-- ::link:: [Google Cookie Terms](http://www.google.com/policies/technologies/types/ "[nofollow]")
+- ::link:: [Use of Google Analytics cookies on websites](https://developers.google.com/analytics/devguides/collection/analyticsjs/cookie-usage?hl=en "{lock}")
+- ::link:: [Google Analytics Privacy Terms](https://www.google.com/policies/privacy/ "{lock}")
+- ::link:: [Google Cookie Terms](http://www.google.com/policies/technologies/types/ "{lock}")
 
 **Thank you for your cooperation**

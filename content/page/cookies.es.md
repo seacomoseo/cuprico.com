@@ -90,8 +90,8 @@ A continuación, procedemos a informarte sobre todos los tipos de cookies que ac
 | --- | --- | --- | --- | --- |
 | HTTP (Estadística) | `_ga` | 2 años. Registra una identificación única que se utiliza para generar datos estadísticos acerca de cómo utiliza el visitante el sitio web. Datos enviados a EEUU, país no adecuado al RGPD. | `google.com` | [{{% legal web %}}]({{% legal https %}}) |
 | HTTP (Estadística) | `_ga_#` | 2 años. Recopila sobre un número de veces que un usuario ha visitado el sitio web, además de las fechas de la primera visita y de las más recientes. Utilizada por Google Analytics. Datos enviados a EEUU, país no adecuado al RGPD. | `google.com` | [{{% legal web %}}]({{% legal https %}}) |
-| Pixel. Sesión. | `_ads/ga-audiences` | Sesión. Utilizada por Google AdWords para reconectar con visitantes que tienen posibilidades de convertirse en clientes , se basa en el comportamiento on-line del cliente a través de las webs. Datos enviados a EEUU, país no adecuado al RGPD. | `google.com` | [policies.google.com/privacy](https://policies.google.com/privacy "[nofollow]") |
-| HTTP (Marketing) | `NID` | 6 meses. Registra una identificación única que identifica el dispositivo de un usuario que vuelve. La identificación se utiliza para anuncios específicos. Datos enviados a EEUU, país NO adecuado al RGPD. | `google.com` | [policies.google.com/privacy](https://policies.google.com/privacy "[nofollow]") |
+| Pixel. Sesión. | `_ads/ga-audiences` | Sesión. Utilizada por Google AdWords para reconectar con visitantes que tienen posibilidades de convertirse en clientes , se basa en el comportamiento on-line del cliente a través de las webs. Datos enviados a EEUU, país no adecuado al RGPD. | `google.com` | [policies.google.com/privacy](https://policies.google.com/privacy "{lock}") |
+| HTTP (Marketing) | `NID` | 6 meses. Registra una identificación única que identifica el dispositivo de un usuario que vuelve. La identificación se utiliza para anuncios específicos. Datos enviados a EEUU, país NO adecuado al RGPD. | `google.com` | [policies.google.com/privacy](https://policies.google.com/privacy "{lock}") |
 
 ## ¿Qué puedes hacer con las cookies?
 
@@ -109,18 +109,18 @@ Por último, indicarte que, si activas **cookies de terceros** (empresas externa
 
 Para que te sea mucho más fácil, a continuación te relacionamos una serie de enlaces a las pautas de desactivación de cookies de los navegadores de uso común:
 
-- ::link:: [Google Chrome](https://support.google.com/accounts/answer/61416?co=GENIE.Platform%3DDesktop&hl=es "[nofollow]")
-- ::link:: [Mozilla Firefox](https://support.mozilla.org/es/kb/Borrar%20cookies "[nofollow]")
-- ::link:: [Internet Explorer](https://support.microsoft.com/es-es/help/278835/how-to-delete-cookie-files-in-internet-explorer "[nofollow]")
-- ::link:: [Safari](https://support.apple.com/es-es/guide/safari/sfri11471/mac "[nofollow]")
-- ::link:: [Safari para iOS (iPhone y iPad)](https://support.apple.com/es-es/HT201265 "[nofollow]")
-- ::link:: [Google Chrome para Android](https://support.google.com/accounts/answer/61416?co=GENIE.Platform%3DAndroid&hl=es&oco=1 "[nofollow]")
-- ::link:: [Google Chrome para iPhone y iPad](https://support.google.com/accounts/answer/61416?co=GENIE.Platform%3DiOS&hl=es&oco=1 "[nofollow]")
+- ::link:: [Google Chrome](https://support.google.com/accounts/answer/61416?co=GENIE.Platform%3DDesktop&hl=es "{lock}")
+- ::link:: [Mozilla Firefox](https://support.mozilla.org/es/kb/Borrar%20cookies "{lock}")
+- ::link:: [Internet Explorer](https://support.microsoft.com/es-es/help/278835/how-to-delete-cookie-files-in-internet-explorer "{lock}")
+- ::link:: [Safari](https://support.apple.com/es-es/guide/safari/sfri11471/mac "{lock}")
+- ::link:: [Safari para iOS (iPhone y iPad)](https://support.apple.com/es-es/HT201265 "{lock}")
+- ::link:: [Google Chrome para Android](https://support.google.com/accounts/answer/61416?co=GENIE.Platform%3DAndroid&hl=es&oco=1 "{lock}")
+- ::link:: [Google Chrome para iPhone y iPad](https://support.google.com/accounts/answer/61416?co=GENIE.Platform%3DiOS&hl=es&oco=1 "{lock}")
 
 Así mismo, te relacionamos los enlaces a los sistemas propios habilitados por cada uno de los referidos proveedores externos para la desactivación de sus cookies:
 
-- ::link:: [Uso de las cookies de Google Analytics en los sitios web](https://developers.google.com/analytics/devguides/collection/analyticsjs/cookie-usage?hl=es "[nofollow]")
-- ::link:: [Condiciones de privacidad de Google Analytics](https://www.google.com/policies/privacy/ "[nofollow]")
-- ::link:: [Condiciones de las cookies de Google](http://www.google.com/policies/technologies/types/ "[nofollow]")
+- ::link:: [Uso de las cookies de Google Analytics en los sitios web](https://developers.google.com/analytics/devguides/collection/analyticsjs/cookie-usage?hl=es "{lock}")
+- ::link:: [Condiciones de privacidad de Google Analytics](https://www.google.com/policies/privacy/ "{lock}")
+- ::link:: [Condiciones de las cookies de Google](http://www.google.com/policies/technologies/types/ "{lock}")
 
 **Muchas gracias por tu colaboración**

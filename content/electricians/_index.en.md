@@ -1,6 +1,6 @@
 ---
 slug: electricians
-permalinks: electricians
+prefix: electricians
 title: Electricians
 singular: Electricians
 ---

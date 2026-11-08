@@ -3,7 +3,7 @@ menu:
   items:
   - url: /
     label: Inicio
-    icon: home
+    il: home
     anchor: Electricistas en San Pedro del Pinatar
   # - url: /#colaboradores
   #   label: Colaboradores
@@ -13,35 +13,35 @@ menu:
   #   icon: verified
   - url: /#servicios
     label: Servicios
-    icon: bolt
+    il: bolt
   - url: /#proceso
     label: Proceso
-    icon: footprint
+    il: footprint
   - url: /#faq
     label: FAQ
-    icon: help_outline
+    il: help_outline
   - url: /#resenas
     label: Reseñas
-    icon: reviews
+    il: reviews
   - url: /#portfolio
     label: Portfolio
-    icon: cards_star
+    il: cards_star
   - url: /#nosotros
     label: Nosotros
-    icon: info
+    il: info
   - url: /#contacto
     label: Contacto
-    icon: send
+    il: send
     btn: cta
   - url: /blog/
     label: Blog
-    icon: rss
+    il: rss
 
 
 callnows:
 - type: whatsapp
   label: 641 47 94 90
-  icon: brand:whatsapp-o
+  il: brand:whatsapp-o
   btn: turn
 
 
@@ -540,7 +540,7 @@ contact:
   phone: Teléfono
   message: Mensaje
   consent: |
-    Consiento el uso de mis datos para los fines indicados en la [política de privacidad](/privacidad/ "[nofollow blank]") y para recibir publicidad de su entidad.
+    Consiento el uso de mis datos para los fines indicados en la [política de privacidad](/privacidad/ "{lock blank}") y para recibir publicidad de su entidad.
 
     - **Responsable del tratamiento:** CÚPRICO INSTALACIONES ELÉCTRICAS S.L.U.
     - **Dirección del responsable:** Calle Río Guadalquivir, 18, 30740 San Pedro del Pinatar, Murcia
@@ -549,7 +549,7 @@ contact:
     - **Legitimación:** Únicamente trataremos sus datos con su consentimiento previo, que podrá facilitarnos mediante la casilla correspondiente establecida al efecto.
     - **Destinatarios:** Con carácter general, sólo el personal de nuestra entidad que esté debidamente autorizado podrá tener conocimiento de la información que le pedimos.
     - **Derechos:** Tiene derecho a saber qué información tenemos sobre usted, corregirla y eliminarla, tal y como se explica en la información adicional disponible en nuestra página web.
-    - **Información adicional:** Más información en nuestra [política de privacidad](/privacidad/ "[nofollow blank]").
+    - **Información adicional:** Más información en nuestra [política de privacidad](/privacidad/ "{lock blank}").
 
 
 footer:

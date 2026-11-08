@@ -1,19 +1,19 @@
 - name: partners
   label: Colaboradores
   widget: dict
-  sub:
+  fields:
   - var: title
   - var: sub
 - name: features
   label: Destacamos
   widget: dict
-  sub:
+  fields:
   - var: title
   - var: sub
   - name: boxes
     label: Destacado
     widget: slice
-    sub:
+    fields:
     - var: icon
     - var: title
     - var: sub
@@ -21,13 +21,13 @@
 - name: services
   label: Servicios
   widget: dict
-  sub:
+  fields:
   - var: title
   - var: sub
   - name: modals
     label: Elementos
     widget: slice
-    sub:
+    fields:
     - var: id
     - var: url
     - var: hanchor
@@ -38,7 +38,7 @@
   - name: solar_plates
     label: Placas Solares
     widget: dict
-    sub:
+    fields:
     - var: hanchor
     - var: title
     - var: sub
@@ -46,7 +46,7 @@
   - name: chargers_ev
     label: Cargadores EV
     widget: dict
-    sub:
+    fields:
     - var: hanchor
     - var: title
     - var: sub
@@ -54,7 +54,7 @@
   - name: chargers_ev_murcia
     label: Cargadores EV Murcia
     widget: dict
-    sub:
+    fields:
     - var: hanchor
     - var: title
     - var: sub
@@ -62,7 +62,7 @@
   - name: chargers_ev_murcia_deduction
     label: Cargadores EV Murcia - Deducción
     widget: dict
-    sub:
+    fields:
     - var: hanchor
     - var: title
     - var: sub
@@ -70,7 +70,7 @@
   - name: bulletin
     label: Boletín
     widget: dict
-    sub:
+    fields:
     - var: hanchor
     - var: title
     - var: sub
@@ -78,7 +78,7 @@
 - name: process
   label: Proceso
   widget: dict
-  sub:
+  fields:
   - var: title
   - var: sub
   - var: md
@@ -86,7 +86,7 @@
 - name: faq
   label: FAQ
   widget: dict
-  sub:
+  fields:
   - var: title
   - var: sub
   - var: faq
@@ -105,7 +105,7 @@
 - name: reviews
   label: Reseñas
   widget: dict
-  sub:
+  fields:
   - var: title
   - var: sub
   - name: more
@@ -114,26 +114,26 @@
 - name: portfolio
   label: Portfolio
   widget: dict
-  sub:
+  fields:
   - var: title
   - var: sub
 - name: us
   label: Nosotros
   widget: dict
-  sub:
+  fields:
   - var: title
   - var: sub
   - var: md
 - name: team
   label: Equipo
   widget: dict
-  sub:
+  fields:
   - var: title
   - var: sub
 - name: contact
   label: Contacto
   widget: dict
-  sub:
+  fields:
   - var: title
   - var: sub
   - name: days
@@ -150,12 +150,12 @@
 - name: footer
   label: Footer
   widget: dict
-  sub:
+  fields:
   - var: md
 - name: others
   label: Otros
   widget: dict
-  sub:
+  fields:
   - name: see_more
     label: Ver más
 
@@ -173,7 +173,7 @@
   name: header
   label: Cabecera
   widget: dict
-  sub:
+  fields:
   - var: bi
   - var: hanchor
   - var: sub
@@ -185,11 +185,11 @@
   name: landing
   label: Landing anuncio
   widget: dict
-  sub:
+  fields:
   - name: deduction
     label: Deducciones
     widget: dict
-    sub:
+    fields:
     - var: hanchor
     - var: title
     - var: sub
@@ -197,7 +197,7 @@
   - name: services
     label: Servicios
     widget: dict
-    sub:
+    fields:
     - var: hanchor
     - var: title
     - var: sub

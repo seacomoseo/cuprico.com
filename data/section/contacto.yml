@@ -3,7 +3,7 @@ id: contacto
 size: sm
 menu_btn: cta
 boxes:
-- when:
+- whens:
   - days: '{{ get contact.days }}'
     hours: 8:00 - 20:00
   links:
@@ -11,12 +11,12 @@ boxes:
     label: 641 47 94 90
   - type: whatsapp
     label: 641 47 94 90
-    icon: brand:whatsapp-o
+    il: brand:whatsapp-o
     btn: turn
   - type: mail
     label: administracion@cuprico.com
     btn: such
-    full: true
+    fit: 1
   form:
     mail: administracion@cuprico.com
   inputs:
