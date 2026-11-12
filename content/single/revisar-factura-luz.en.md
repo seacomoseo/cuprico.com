@@ -86,7 +86,7 @@ landing:
       name: Comentarios
       label: Comments (optional)
     consent: |
-      I consent to CÚPRICO INSTALACIONES ELÉCTRICAS S.L.U. using my details and my bill to review my case and contact me and, only if I accept an offer, sharing them with the chosen supplier to arrange the contract. More information in the [privacy policy](/en/privacy/ "{lock blank}").
+      I agree that CÚPRICO INSTALACIONES ELÉCTRICAS S.L.U. may process my details and my bill to review my case and contact me, and I consent to them being shared, if I accept an offer, with the energy consultancy they work with and the chosen supplier to arrange the contract. More information in the [privacy policy](/en/privacy/ "{lock blank}").
 
   who:
     hanchor: Who checks your electricity bill

@@ -86,7 +86,7 @@ landing:
       name: Comentarios
       label: Comentarios (opcional)
     consent: |
-      Consiento que CÚPRICO INSTALACIONES ELÉCTRICAS S.L.U. use mis datos y mi factura para estudiar mi caso y contactarme y, solo si acepto una oferta, que los comunique a la comercializadora elegida para tramitar el contrato. Más información en la [política de privacidad](/privacidad/ "{lock blank}").
+      Acepto que CÚPRICO INSTALACIONES ELÉCTRICAS S.L.U. trate mis datos y mi factura para estudiar mi caso y contactarme, y consiento que, si acepto una oferta, los comunique a la asesoría energética con la que colabora y a la comercializadora elegida para tramitar el contrato. Más información en la [política de privacidad](/privacidad/ "{lock blank}").
 
   who:
     hanchor: Quién revisa tu factura de la luz
